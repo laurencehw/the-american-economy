@@ -1009,3 +1009,81 @@ Applied fact-checks from Gemini review:
 2. **Chapter 29**: Conclusion
 3. **Create figures** for completed parts
 4. **Review and refine** earlier chapters
+
+---
+
+## Session 10: January 12, 2026 (continued)
+
+### Focus: Part VI Institutions and Governance (Ch26-28)
+
+### Accomplishments
+
+**1. Part VI Chapters Drafted**
+
+All three institutions chapters completed with Gemini research:
+
+**Ch26: Federal Economic Governance (roughly 2,200 words)**
+- Policy-making core: Treasury, OMB, CEA, NEC
+- The independent Fed
+- Data agencies: BEA, Census, BLS
+- Regulatory agencies (table with budgets/staffing)
+- Budget process: mandatory vs discretionary
+- Scorekeepers: CBO, JCT, GAO
+- Recent developments: industrial policy, IRS transformation
+- Profiles: CBO, Federal Reserve Board, SEC
+
+**Ch27: Trade Associations (roughly 2,200 words)**
+- Big Four: Chamber, NAM, Business Roundtable, NFIB
+- Industry associations (table with lobbying spending)
+- How associations function: lobbying, standards, research, litigation
+- Political spending: PACs, Super PACs, dark money
+- Think tanks: Heritage, Brookings, Cato, AEI
+- K Street geography
+- Profiles: Chamber of Commerce, NAR, PhRMA
+
+**Ch28: Labor Organizations (roughly 2,300 words)**
+- Union membership statistics (2024 data)
+- Major unions by sector: teachers, service, industrial, building trades
+- AFL-CIO and Change to Win history
+- How unions function: bargaining, strikes, NLRB
+- Right-to-work laws
+- Recent actions: UAW 2023, UPS 2023, Starbucks/Amazon organizing
+- Alt-labor and worker centers
+- Profiles: UAW, SEIU, Teamsters
+
+**2. Gemini Review and Corrections**
+
+- Ch27: Fixed Business Roundtable date (2025 → 2024)
+- Ch28: Added clarification about Teamsters remaining independent
+
+### Session 10 Statistics
+
+- **New chapters drafted**: 3 (Ch26-28 Institutions)
+- **Total chapters drafted**: 28 (Parts I-VI complete)
+- **Total estimated word count**: roughly 160,400 words
+- **Part VI Status**: COMPLETE (3 chapters, roughly 6,700 words)
+
+### Milestone: Part VI Complete
+
+**Part VI: Institutions and Governance**
+- Ch26: Federal Economic Governance (roughly 2,200 words)
+- Ch27: Trade Associations and Business Organization (roughly 2,200 words)
+- Ch28: Labor Organizations (roughly 2,300 words)
+
+### Progress Summary
+
+| Part | Chapters | Status | Words |
+|------|----------|--------|-------|
+| I: Shape of Economy | 3 | Complete | 17,000 |
+| II: The Sectors | 12 | Complete | 85,500 |
+| III: Financial Architecture | 3 | Complete | 23,500 |
+| IV: Trade | 2 | Complete | 14,500 |
+| V: Regional Economies | 5 | Complete | 13,200 |
+| VI: Institutions | 3 | Complete | 6,700 |
+| **Total** | **28** | — | **160,400** |
+
+### Next Session Priorities
+
+1. **Chapter 29**: Conclusion - The American Economy in Perspective
+2. **Create figures** for completed parts
+3. **Review and refine** earlier chapters

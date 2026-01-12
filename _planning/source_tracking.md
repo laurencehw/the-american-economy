@@ -35,7 +35,9 @@ This document tracks sources used, sources needed, and cross-project connections
 | **Ch23: Midwest** | **Draft complete** | Yes | Yes | Yes |
 | **Ch24: The West** | **Draft complete** | Yes | Yes | Yes |
 | **Ch25: Rural America** | **Draft complete** | Yes | Yes | Yes |
-| Ch26-28: Institutions | Not started | No | Partial | - |
+| **Ch26: Federal Governance** | **Draft complete** | Yes | Yes | Yes |
+| **Ch27: Trade Associations** | **Draft complete** | Yes | Yes | Yes |
+| **Ch28: Labor Organizations** | **Draft complete** | Yes | Yes | Yes |
 
 ---
 
