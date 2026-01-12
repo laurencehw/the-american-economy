@@ -42,10 +42,17 @@ COLORS = {
 
 
 def save_figure(fig, chapter, filename):
-    """Save figure to chapter directory."""
-    output_path = FIGURES_DIR / chapter / filename
-    fig.savefig(output_path, dpi=DPI, bbox_inches='tight', facecolor='white')
-    print(f"Saved: {output_path}")
+    """Save figure to chapter directory in both PDF and PNG formats."""
+    # Save PDF (for print)
+    pdf_path = FIGURES_DIR / chapter / filename
+    fig.savefig(pdf_path, dpi=DPI, bbox_inches='tight', facecolor='white')
+    print(f"Saved: {pdf_path}")
+
+    # Save PNG (for web/GitBook)
+    png_path = FIGURES_DIR / chapter / filename.replace('.pdf', '.png')
+    fig.savefig(png_path, dpi=DPI, bbox_inches='tight', facecolor='white')
+    print(f"Saved: {png_path}")
+
     plt.close(fig)
 
 
@@ -127,32 +134,45 @@ def ch05_top_reits():
 
 
 def ch05_house_price_trends():
-    """House price index trends over time."""
+    """Real (inflation-adjusted) house price index trends over time."""
     years = list(range(2000, 2025))
 
-    # Approximate Case-Shiller national index (2000=100)
-    hpi = [100, 107, 115, 126, 140, 158, 165, 155, 130, 125,
-           128, 130, 135, 142, 150, 158, 168, 178, 188, 200,
-           220, 260, 290, 300, 310]
+    # Approximate Case-Shiller national index (nominal, 2000=100)
+    hpi_nominal = [100, 107, 115, 126, 140, 158, 165, 155, 130, 125,
+                   128, 130, 135, 142, 150, 158, 168, 178, 188, 200,
+                   220, 260, 290, 300, 310]
+
+    # CPI index (2000=100), approximate
+    cpi = [100, 103, 105, 107, 110, 114, 117, 121, 121, 121,
+           123, 127, 130, 132, 134, 134, 136, 139, 142, 145,
+           147, 154, 166, 173, 178]
+
+    # Real house prices (deflated by CPI)
+    hpi_real = [n / c * 100 for n, c in zip(hpi_nominal, cpi)]
 
     fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4))
-    ax.plot(years, hpi, color=COLORS['primary'], linewidth=2)
-    ax.fill_between(years, hpi, alpha=0.2, color=COLORS['primary'])
+
+    # Plot both nominal and real
+    ax.plot(years, hpi_nominal, color=COLORS['light_gray'], linewidth=1.5,
+            linestyle='--', label='Nominal', alpha=0.7)
+    ax.plot(years, hpi_real, color=COLORS['primary'], linewidth=2, label='Real (2000$)')
+    ax.fill_between(years, hpi_real, alpha=0.2, color=COLORS['primary'])
 
     # Mark key events
-    ax.axvline(2008, color=COLORS['quaternary'], linestyle='--', alpha=0.5)
-    ax.text(2008.5, 170, '2008\nCrisis', fontsize=7, color=COLORS['quaternary'])
-    ax.axvline(2020, color=COLORS['tertiary'], linestyle='--', alpha=0.5)
-    ax.text(2020.5, 200, 'COVID\nSurge', fontsize=7, color=COLORS['tertiary'])
+    ax.axvline(2008, color=COLORS['quaternary'], linestyle=':', alpha=0.5)
+    ax.text(2008.5, 160, '2008\nCrisis', fontsize=7, color=COLORS['quaternary'])
+    ax.axvline(2020, color=COLORS['tertiary'], linestyle=':', alpha=0.5)
+    ax.text(2020.5, 145, 'COVID\nSurge', fontsize=7, color=COLORS['tertiary'])
 
     ax.set_xlabel('Year', fontsize=9)
     ax.set_ylabel('House Price Index (2000=100)', fontsize=9)
-    ax.set_title('U.S. House Prices, 2000-2024', fontsize=10, fontweight='bold')
+    ax.set_title('U.S. Real House Prices, 2000-2024', fontsize=10, fontweight='bold')
+    ax.legend(loc='upper left', fontsize=8)
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
     ax.set_ylim(80, 350)
 
-    ax.text(0, -0.15, 'Source: S&P/Case-Shiller National Home Price Index',
+    ax.text(0, -0.15, 'Source: S&P/Case-Shiller, deflated by CPI-U',
             transform=ax.transAxes, fontsize=7, style='italic', color='gray')
 
     plt.tight_layout()
