@@ -13,7 +13,7 @@ from matplotlib import cm
 from pathlib import Path
 
 # Configuration
-PROJECT_DIR = Path(r"G:\My Drive\book drafts\the american economy")
+PROJECT_DIR = Path(r"G:\\My Drive\\book drafts\\the american economy")
 FIGURES_DIR = PROJECT_DIR / "_figures"
 FIGURES_DIR.mkdir(exist_ok=True)
 
@@ -21,6 +21,9 @@ FIGURES_DIR.mkdir(exist_ok=True)
 FIGURE_WIDTH = 6  # inches
 DPI = 300
 
+def ensure_dir(chapter):
+    """Ensure chapter directory exists within _figures."""
+    (FIGURES_DIR / chapter).mkdir(parents=True, exist_ok=True)
 
 def get_us_states():
     """
@@ -49,26 +52,32 @@ def load_census_states():
 
     Choose: cb_2022_us_state_20m.zip (20m resolution is good for most purposes)
     """
-    # Common paths where the shapefile might be
+    # Specific path where the user placed the file
     possible_paths = [
+        PROJECT_DIR / "_data" / "shapefiles" / "cb_2022_us_state_20m" / "cb_2022_us_state_20m.shp",
         PROJECT_DIR / "_data" / "shapefiles" / "cb_2022_us_state_20m.shp",
-        PROJECT_DIR / "_data" / "cb_2022_us_state_20m" / "cb_2022_us_state_20m.shp",
     ]
 
     for path in possible_paths:
         if path.exists():
-            return gpd.read_file(path)
+            gdf = gpd.read_file(path)
+            # Filter for mainland US + AK/HI for cleaner maps (exclude territories if needed)
+            # or keep all. Typically for 'The American Economy', keeping 50 states + DC is standard.
+            # Filtering out territories often makes the map projection (Albers USA) cleaner.
+            # STATEFP codes: 01-56 are states (with gaps), 60+ are territories usually.
+            # But let's just return raw first.
+            return gdf
 
     # If not found, print instructions
-    print("""
-    State shapefile not found. Download from Census Bureau:
-
+    print(f"""
+    State shapefile not found at expected paths:
+    {possible_paths[0]}
+    
+    Download from Census Bureau:
     1. Go to: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
     2. Select: States (cb_2022_us_state_20m.zip)
-    3. Extract to: {data_dir}/shapefiles/
-
-    Alternative: Use geopandas built-in datasets for simplified maps.
-    """.format(data_dir=PROJECT_DIR / "_data"))
+    3. Extract to: {PROJECT_DIR / "_data" / "shapefiles" / "cb_2022_us_state_20m" }
+    """)
 
     return None
 
