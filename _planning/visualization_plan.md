@@ -616,4 +616,15 @@ _figures/
 | Tables | ~30 |
 | Firm profile boxes | ~75 (3 per sector chapter) |
 | Explainer boxes | ~15 |
-| **Total visual elements** | **~265** |
+
+---
+
+## Proposed Additional Visualizations (Phase 5)
+
+| Visual | Type | Chapter | Description | Data Strategy |
+|--------|------|---------|-------------|---------------|
+| **Major Tech Hubs** | Point Map | Ch 11 | Top 15 metros by tech employment/VC funding | Hardcoded lat/lon for major hubs (SF, Austin, NYC, etc.) |
+| **Logistics Corridors** | Schematic Map | Ch 12/19 | Key ports and major interstate/rail corridors | Key ports (points) + simplified LineStrings for I-5, I-80, I-95 |
+| **Regional Dominance** | Categorical Map | Ch 3/21 | Top industry sector by state GDP share | State-level categorical data (e.g., 'Mfg', 'Energy', 'Finance') |
+| **Metro Job Density** | Bubble Map | Ch 3 | Employment size for top 50 MSAs | Lat/lon centroids for top 50 MSAs sized by employment |
+| **Energy Basins** | Point/Zone Map | Ch 14 | Locations of Permian, Marcellus, Bakken | Approximate centroids for major basins |
