@@ -420,6 +420,487 @@ def ch13_manufacturing_supercycle():
 
 
 # =============================================================================
+# CHAPTER 9: MANUFACTURING
+# =============================================================================
+
+def ch09_manufacturing_employment():
+    """Manufacturing employment decline over time."""
+    years = list(range(1950, 2025, 5))
+
+    # Manufacturing employment in millions (approximate)
+    employment = [15.2, 16.8, 17.2, 18.5, 19.4, 19.5, 18.4, 17.7, 17.3, 16.8,
+                  15.3, 11.5, 12.1, 12.3, 12.8]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4))
+
+    ax.plot(years, employment, color=COLORS['primary'], linewidth=2, marker='o', markersize=4)
+    ax.fill_between(years, employment, alpha=0.2, color=COLORS['primary'])
+
+    # Mark key events
+    ax.axvline(2000, color=COLORS['quaternary'], linestyle=':', alpha=0.5)
+    ax.text(2001, 18.5, 'China WTO\n(2001)', fontsize=7, color=COLORS['quaternary'])
+    ax.axvline(2008, color=COLORS['tertiary'], linestyle=':', alpha=0.5)
+    ax.text(2009, 14, '2008\nCrisis', fontsize=7, color=COLORS['tertiary'])
+
+    ax.set_xlabel('Year', fontsize=9)
+    ax.set_ylabel('Employment (Millions)', fontsize=9)
+    ax.set_title('U.S. Manufacturing Employment, 1950-2024', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.set_ylim(10, 21)
+
+    ax.text(0, -0.15, 'Source: BLS Current Employment Statistics',
+            transform=ax.transAxes, fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch09', 'ch09_manufacturing_employment.pdf')
+
+
+def ch09_subsector_value_added():
+    """Manufacturing value added by subsector."""
+    data = pd.DataFrame({
+        'subsector': ['Chemicals', 'Computer/Electronics', 'Food/Beverage',
+                     'Transportation Equip.', 'Machinery', 'Petroleum/Coal',
+                     'Fabricated Metals', 'Plastics/Rubber', 'Primary Metals', 'Other'],
+        'value_added': [420, 360, 310, 280, 200, 180, 175, 130, 95, 350]
+    })
+
+    data = data.sort_values('value_added', ascending=True)
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4.5))
+    bars = ax.barh(data['subsector'], data['value_added'], color=COLORS['primary'])
+
+    # Highlight top 3
+    for i, (sub, val) in enumerate(zip(data['subsector'], data['value_added'])):
+        if sub in ['Chemicals', 'Computer/Electronics', 'Food/Beverage']:
+            bars[i].set_color(COLORS['secondary'])
+
+    ax.set_xlabel('Value Added ($ Billion)', fontsize=9)
+    ax.set_title('U.S. Manufacturing Value Added by Subsector, 2023', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+
+    ax.text(0, -0.12, 'Source: BEA GDP by Industry', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch09', 'ch09_subsector_value_added.pdf')
+
+
+def ch09_top_manufacturers():
+    """Top manufacturers by revenue."""
+    data = pd.DataFrame({
+        'company': ['Apple', 'Ford', 'GM', 'Tesla', 'Johnson & Johnson',
+                   'Boeing', 'RTX (Raytheon)', 'Caterpillar', 'Lockheed Martin', 'Deere'],
+        'revenue': [394, 176, 171, 96, 85, 77, 68, 67, 67, 61],
+        'sector': ['Electronics', 'Auto', 'Auto', 'Auto', 'Pharma',
+                  'Aerospace', 'Defense', 'Machinery', 'Defense', 'Machinery']
+    })
+
+    data = data.sort_values('revenue', ascending=True)
+
+    # Color by sector
+    sector_colors = {
+        'Electronics': COLORS['tertiary'],
+        'Auto': COLORS['primary'],
+        'Pharma': COLORS['secondary'],
+        'Aerospace': COLORS['quaternary'],
+        'Defense': COLORS['gray'],
+        'Machinery': '#5C946E'
+    }
+    colors = [sector_colors.get(s, COLORS['gray']) for s in data['sector']]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4.5))
+    bars = ax.barh(data['company'], data['revenue'], color=colors)
+
+    ax.set_xlabel('Revenue ($ Billion)', fontsize=9)
+    ax.set_title('Top 10 U.S. Manufacturers by Revenue, 2023', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+
+    # Legend
+    from matplotlib.patches import Patch
+    legend_elements = [Patch(facecolor=COLORS['tertiary'], label='Electronics'),
+                       Patch(facecolor=COLORS['primary'], label='Auto'),
+                       Patch(facecolor=COLORS['secondary'], label='Pharma'),
+                       Patch(facecolor=COLORS['quaternary'], label='Aerospace'),
+                       Patch(facecolor='#5C946E', label='Machinery')]
+    ax.legend(handles=legend_elements, loc='lower right', fontsize=6, ncol=2)
+
+    ax.text(0, -0.12, 'Source: Company reports, Fortune 500', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch09', 'ch09_top_manufacturers.pdf')
+
+
+def ch09_robot_density():
+    """Robot density by country - US vs competitors."""
+    data = pd.DataFrame({
+        'country': ['China', 'Germany', 'Japan', 'South Korea', 'USA'],
+        'robots_per_10k': [470, 429, 419, 1012, 295]
+    })
+
+    data = data.sort_values('robots_per_10k', ascending=True)
+
+    # Highlight USA
+    colors = [COLORS['gray']] * len(data)
+    colors[list(data['country']).index('USA')] = COLORS['quaternary']
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 3.5))
+    bars = ax.barh(data['country'], data['robots_per_10k'], color=colors)
+
+    ax.set_xlabel('Industrial Robots per 10,000 Manufacturing Workers', fontsize=9)
+    ax.set_title('Robot Density in Manufacturing, 2023', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+
+    # Add value labels
+    for bar, val in zip(bars, data['robots_per_10k']):
+        ax.text(bar.get_width() + 20, bar.get_y() + bar.get_height()/2,
+                f'{val:.0f}', va='center', fontsize=8)
+
+    ax.text(0, -0.18, 'Source: International Federation of Robotics', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch09', 'ch09_robot_density.pdf')
+
+
+# =============================================================================
+# CHAPTER 11: INFORMATION, TECHNOLOGY, AND MEDIA
+# =============================================================================
+
+def ch11_big_tech_revenue():
+    """Big Tech revenue comparison."""
+    data = pd.DataFrame({
+        'company': ['Amazon', 'Apple', 'Alphabet', 'Microsoft', 'Meta'],
+        'revenue': [575, 383, 307, 228, 135]
+    })
+
+    data = data.sort_values('revenue', ascending=True)
+
+    # Distinct colors for each company
+    company_colors = {
+        'Amazon': '#FF9900',
+        'Apple': '#555555',
+        'Alphabet': '#4285F4',
+        'Microsoft': '#00A4EF',
+        'Meta': '#0866FF'
+    }
+    colors = [company_colors[c] for c in data['company']]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 3.5))
+    bars = ax.barh(data['company'], data['revenue'], color=colors)
+
+    # Add value labels
+    for bar, val in zip(bars, data['revenue']):
+        ax.text(bar.get_width() + 10, bar.get_y() + bar.get_height()/2,
+                f'${val}B', va='center', fontsize=8)
+
+    ax.set_xlabel('Revenue ($ Billion)', fontsize=9)
+    ax.set_title('"Big Five" Tech Company Revenue, 2023', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.set_xlim(0, 650)
+
+    ax.text(0, -0.18, 'Source: Company annual reports', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch11', 'ch11_big_tech_revenue.pdf')
+
+
+def ch11_digital_ad_market():
+    """Digital advertising market share."""
+    data = pd.DataFrame({
+        'company': ['Google', 'Meta', 'Amazon', 'Microsoft', 'Others'],
+        'share': [27, 22, 14, 5, 32]
+    })
+
+    colors = ['#4285F4', '#0866FF', '#FF9900', '#00A4EF', COLORS['light_gray']]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4))
+
+    # Horizontal bar for shares
+    data_sorted = data.sort_values('share', ascending=True)
+    colors_sorted = [colors[list(data['company']).index(c)] for c in data_sorted['company']]
+
+    bars = ax.barh(data_sorted['company'], data_sorted['share'], color=colors_sorted)
+
+    # Add percentage labels
+    for bar, val in zip(bars, data_sorted['share']):
+        ax.text(bar.get_width() + 1, bar.get_y() + bar.get_height()/2,
+                f'{val}%', va='center', fontsize=8)
+
+    ax.set_xlabel('Market Share (%)', fontsize=9)
+    ax.set_title('U.S. Digital Advertising Market Share, 2024', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.set_xlim(0, 40)
+
+    ax.text(0, -0.15, 'Source: eMarketer', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch11', 'ch11_digital_ad_market.pdf')
+
+
+def ch11_streaming_subscribers():
+    """Major streaming services by subscribers."""
+    data = pd.DataFrame({
+        'service': ['Netflix', 'Amazon Prime', 'Disney+', 'Max', 'Paramount+', 'Peacock', 'Apple TV+'],
+        'subscribers': [302, 200, 150, 98, 71, 34, 25]
+    })
+
+    data = data.sort_values('subscribers', ascending=True)
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4))
+    bars = ax.barh(data['service'], data['subscribers'], color=COLORS['primary'])
+
+    # Color Netflix differently as leader
+    bars[-1].set_color(COLORS['quaternary'])
+
+    # Add value labels
+    for bar, val in zip(bars, data['subscribers']):
+        ax.text(bar.get_width() + 5, bar.get_y() + bar.get_height()/2,
+                f'{val}M', va='center', fontsize=8)
+
+    ax.set_xlabel('Global Subscribers (Millions)', fontsize=9)
+    ax.set_title('Major Streaming Services by Subscribers, 2024', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.set_xlim(0, 350)
+
+    ax.text(0, -0.12, 'Source: Company reports', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch11', 'ch11_streaming_subscribers.pdf')
+
+
+def ch11_telecom_market():
+    """Wireless carrier market share."""
+    data = pd.DataFrame({
+        'carrier': ['Verizon', 'AT&T', 'T-Mobile', 'Others'],
+        'share': [30, 28, 27, 15]
+    })
+
+    colors = ['#CD040B', '#00A8E0', '#E20074', COLORS['light_gray']]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 3.5))
+
+    bars = ax.barh(data['carrier'], data['share'], color=colors)
+
+    # Add percentage labels
+    for bar, val in zip(bars, data['share']):
+        ax.text(bar.get_width() + 1, bar.get_y() + bar.get_height()/2,
+                f'{val}%', va='center', fontsize=8)
+
+    ax.set_xlabel('Market Share (%)', fontsize=9)
+    ax.set_title('U.S. Wireless Carrier Market Share, 2024', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.set_xlim(0, 40)
+
+    ax.text(0, -0.18, 'Source: FCC Communications Marketplace Report', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch11', 'ch11_telecom_market.pdf')
+
+
+# =============================================================================
+# CHAPTER 12: TRANSPORTATION AND LOGISTICS
+# =============================================================================
+
+def ch12_freight_mode_share():
+    """Freight tonnage by mode."""
+    data = pd.DataFrame({
+        'mode': ['Truck', 'Rail', 'Water', 'Pipeline', 'Air'],
+        'ton_miles_pct': [44, 28, 5, 22, 1],
+        'value_pct': [67, 8, 4, 8, 13]
+    })
+
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(FIGURE_WIDTH, 3.5))
+
+    # By ton-miles
+    colors = [COLORS['primary'], COLORS['secondary'], COLORS['tertiary'],
+              COLORS['gray'], COLORS['quaternary']]
+    ax1.barh(data['mode'], data['ton_miles_pct'], color=colors)
+    ax1.set_xlabel('Share of Ton-Miles (%)', fontsize=8)
+    ax1.set_title('By Ton-Miles', fontsize=9, fontweight='bold')
+    ax1.spines['top'].set_visible(False)
+    ax1.spines['right'].set_visible(False)
+
+    # By value
+    ax2.barh(data['mode'], data['value_pct'], color=colors)
+    ax2.set_xlabel('Share of Value (%)', fontsize=8)
+    ax2.set_title('By Value', fontsize=9, fontweight='bold')
+    ax2.spines['top'].set_visible(False)
+    ax2.spines['right'].set_visible(False)
+
+    fig.suptitle('U.S. Freight by Mode, 2023', fontsize=10, fontweight='bold', y=1.02)
+
+    fig.text(0.5, -0.08, 'Source: Bureau of Transportation Statistics',
+             ha='center', fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch12', 'ch12_freight_mode_share.pdf')
+
+
+def ch12_top_ports():
+    """Top container ports by TEUs."""
+    data = pd.DataFrame({
+        'port': ['Los Angeles', 'NY/New Jersey', 'Long Beach', 'Savannah', 'Houston',
+                'Seattle/Tacoma', 'Oakland', 'Charleston', 'Norfolk', 'Miami'],
+        'teus': [10.7, 9.5, 9.1, 5.9, 4.0, 3.3, 2.5, 2.7, 3.3, 1.2]
+    })
+
+    data = data.sort_values('teus', ascending=True)
+
+    # Highlight West Coast ports
+    colors = [COLORS['tertiary'] if p in ['Los Angeles', 'Long Beach', 'Seattle/Tacoma', 'Oakland']
+              else COLORS['primary'] for p in data['port']]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4.5))
+    bars = ax.barh(data['port'], data['teus'], color=colors)
+
+    ax.set_xlabel('Container Volume (Million TEUs)', fontsize=9)
+    ax.set_title('Top 10 U.S. Container Ports by Volume, 2023', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+
+    # Legend
+    from matplotlib.patches import Patch
+    legend_elements = [Patch(facecolor=COLORS['tertiary'], label='West Coast'),
+                       Patch(facecolor=COLORS['primary'], label='East/Gulf Coast')]
+    ax.legend(handles=legend_elements, loc='lower right', fontsize=7)
+
+    ax.text(0, -0.12, 'Source: American Association of Port Authorities', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch12', 'ch12_top_ports.pdf')
+
+
+def ch12_class_i_railroads():
+    """Class I railroad revenue."""
+    data = pd.DataFrame({
+        'railroad': ['Union Pacific', 'BNSF', 'CSX', 'Norfolk Southern', 'CN (US)', 'CPKC (US)'],
+        'revenue': [24.1, 23.4, 14.7, 12.2, 8.5, 6.2],
+        'region': ['West', 'West', 'East', 'East', 'Both', 'Both']
+    })
+
+    data = data.sort_values('revenue', ascending=True)
+
+    # Color by region
+    colors = [COLORS['tertiary'] if r == 'West' else COLORS['primary'] if r == 'East'
+              else COLORS['gray'] for r in data['region']]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 3.5))
+    bars = ax.barh(data['railroad'], data['revenue'], color=colors)
+
+    ax.set_xlabel('Revenue ($ Billion)', fontsize=9)
+    ax.set_title('Class I Railroad Revenue, 2023', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+
+    # Legend
+    from matplotlib.patches import Patch
+    legend_elements = [Patch(facecolor=COLORS['tertiary'], label='Western'),
+                       Patch(facecolor=COLORS['primary'], label='Eastern'),
+                       Patch(facecolor=COLORS['gray'], label='Cross-border')]
+    ax.legend(handles=legend_elements, loc='lower right', fontsize=7)
+
+    ax.text(0, -0.18, 'Source: Association of American Railroads', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch12', 'ch12_class_i_railroads.pdf')
+
+
+def ch12_airline_market_share():
+    """Domestic airline market share."""
+    data = pd.DataFrame({
+        'airline': ['Delta', 'American', 'Southwest', 'United', 'JetBlue', 'Alaska', 'Spirit', 'Others'],
+        'share': [17.8, 17.5, 17.3, 16.0, 5.2, 5.5, 4.8, 15.9]
+    })
+
+    # Airline brand colors
+    colors = ['#E31837', '#0078D2', '#FFBF27', '#005DAA', '#003876', '#01426A', '#FFDC00', COLORS['light_gray']]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4))
+
+    data_sorted = data.sort_values('share', ascending=True)
+    colors_sorted = [colors[list(data['airline']).index(a)] for a in data_sorted['airline']]
+
+    bars = ax.barh(data_sorted['airline'], data_sorted['share'], color=colors_sorted)
+
+    # Add percentage labels
+    for bar, val in zip(bars, data_sorted['share']):
+        ax.text(bar.get_width() + 0.5, bar.get_y() + bar.get_height()/2,
+                f'{val}%', va='center', fontsize=8)
+
+    ax.set_xlabel('Domestic Market Share (%)', fontsize=9)
+    ax.set_title('U.S. Domestic Airline Market Share, 2023', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.set_xlim(0, 22)
+
+    ax.text(0, -0.12, 'Source: DOT T-100 Domestic Segment Data', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch12', 'ch12_airline_market_share.pdf')
+
+
+def ch12_top_trucking():
+    """Top trucking and logistics companies by revenue."""
+    data = pd.DataFrame({
+        'company': ['UPS', 'FedEx', 'J.B. Hunt', 'Old Dominion', 'Knight-Swift',
+                   'XPO', 'Schneider', 'Landstar', 'Werner', 'Saia'],
+        'revenue': [100.3, 92.6, 12.4, 6.3, 6.1, 4.6, 5.5, 6.1, 3.0, 3.0],
+        'type': ['Integrated', 'Integrated', 'Intermodal', 'LTL', 'TL',
+                'LTL', 'TL', 'Brokerage', 'TL', 'LTL']
+    })
+
+    data = data.sort_values('revenue', ascending=True)
+
+    # Color by type
+    type_colors = {
+        'Integrated': COLORS['quaternary'],
+        'LTL': COLORS['primary'],
+        'TL': COLORS['secondary'],
+        'Intermodal': COLORS['tertiary'],
+        'Brokerage': COLORS['gray']
+    }
+    colors = [type_colors.get(t, COLORS['gray']) for t in data['type']]
+
+    fig, ax = plt.subplots(figsize=(FIGURE_WIDTH, 4.5))
+    bars = ax.barh(data['company'], data['revenue'], color=colors)
+
+    ax.set_xlabel('Revenue ($ Billion)', fontsize=9)
+    ax.set_title('Top Trucking & Logistics Companies by Revenue, 2023', fontsize=10, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+
+    # Legend
+    from matplotlib.patches import Patch
+    legend_elements = [Patch(facecolor=COLORS['quaternary'], label='Integrated'),
+                       Patch(facecolor=COLORS['primary'], label='LTL'),
+                       Patch(facecolor=COLORS['secondary'], label='Truckload'),
+                       Patch(facecolor=COLORS['tertiary'], label='Intermodal')]
+    ax.legend(handles=legend_elements, loc='lower right', fontsize=6)
+
+    ax.text(0, -0.12, 'Source: Company reports', transform=ax.transAxes,
+            fontsize=7, style='italic', color='gray')
+
+    plt.tight_layout()
+    save_figure(fig, 'ch12', 'ch12_top_trucking.pdf')
+
+
+# =============================================================================
 # MAIN
 # =============================================================================
 
@@ -427,15 +908,38 @@ if __name__ == '__main__':
     print("Creating figures for The American Economy")
     print("=" * 50)
 
+    # Ensure directories exist
+    for ch in ['ch05', 'ch09', 'ch10', 'ch11', 'ch12', 'ch13']:
+        (FIGURES_DIR / ch).mkdir(parents=True, exist_ok=True)
+
     print("\n--- Chapter 5: Real Estate ---")
     ch05_top_homebuilders()
     ch05_top_reits()
     ch05_house_price_trends()
 
+    print("\n--- Chapter 9: Manufacturing ---")
+    ch09_manufacturing_employment()
+    ch09_subsector_value_added()
+    ch09_top_manufacturers()
+    ch09_robot_density()
+
     print("\n--- Chapter 10: Retail ---")
     ch10_top_retailers()
     ch10_ecommerce_share()
     ch10_retail_format_evolution()
+
+    print("\n--- Chapter 11: Tech/Media ---")
+    ch11_big_tech_revenue()
+    ch11_digital_ad_market()
+    ch11_streaming_subscribers()
+    ch11_telecom_market()
+
+    print("\n--- Chapter 12: Transportation ---")
+    ch12_freight_mode_share()
+    ch12_top_ports()
+    ch12_class_i_railroads()
+    ch12_airline_market_share()
+    ch12_top_trucking()
 
     print("\n--- Chapter 13: Construction ---")
     ch13_construction_spending()
@@ -444,4 +948,4 @@ if __name__ == '__main__':
     ch13_manufacturing_supercycle()
 
     print("\n" + "=" * 50)
-    print("Done! Check _figures/ch05/, ch10/, ch13/ for output.")
+    print("Done! Check _figures/ subdirectories for output.")

@@ -22,7 +22,7 @@ This document tracks sources used, sources needed, and cross-project connections
 | **Ch9: Manufacturing** | **Draft complete** | Yes | Yes | Yes |
 | **Ch10: Retail** | **Draft complete** | Yes | Yes | Yes |
 | **Ch11: Tech/Media** | **Draft complete** | Yes | Yes | Yes |
-| Ch12: Transportation | Not started | No | Partial | - |
+| **Ch12: Transportation** | **Draft complete** | Yes | Yes | Yes |
 | **Ch13: Construction** | **Draft complete** | Yes | Yes | Yes |
 | **Ch14: Energy** | **Draft complete** | Yes | Yes | Yes |
 | Ch15: Education | Not started | No | Yes | - |
@@ -285,6 +285,46 @@ This document tracks sources used, sources needed, and cross-project connections
 
 ---
 
+### Chapter 12: Transportation and Logistics
+
+**Status:** First draft complete (~8,000 words)
+
+**Gemini Research (USED):**
+- `_data/ch12_transportation_data.md` - Comprehensive data on trucking, rail, airlines, ports, logistics
+
+**Sources Used in Draft:**
+- Bureau of Transportation Statistics (freight volumes, modal split)
+- Company filings (UPS, FedEx, railroads, airlines)
+- American Trucking Associations data
+- Association of American Railroads data
+- Port authority statistics
+
+**Content Created:**
+- Industry overview: $935B GDP, 6.58M employment, modal split analysis
+- Trucking: Fragmentation (900K carriers), LTL vs TL, driver shortage (60K), top carriers
+- Freight Rail: Class I duopoly structure, PSR controversy, 2022 labor dispute
+- Airlines: Big Four consolidation (70% share), cargo networks, hub geography
+- Ports: Top 5 ports by TEUs, Jones Act economics, 2021-22 congestion
+- Logistics: 3PL market ($247B), Amazon Logistics disruption, warehouse boom
+- Geographic patterns: Chicago nexus, Inland Empire, freight corridors
+- Regulation: Deregulation history (1978-1980 reforms), current agencies
+- Recent trends: E-commerce transformation, autonomous trucking, resilience
+- Firm profiles: UPS, Union Pacific, Amazon Logistics
+
+**Academic Sources Cited:**
+- Marc Levinson, *The Box* (2006) - containerization
+- Clifford Winston (1998) JEP - deregulation effects
+- Holmes & Singer (2018) - logistics productivity
+- David Hummels (2007) JEP - transportation costs and trade
+
+**Data to Add for Refinement:**
+- [ ] BTS Freight Analysis Framework data
+- [ ] STB rail service metrics
+- [ ] DOT highway freight corridor maps
+- [ ] FAA cargo statistics
+
+---
+
 ## Source Gaps - Priority Research Needed
 
 ### Recently Filled (Session 2 - Gemini Research)
@@ -299,9 +339,9 @@ This document tracks sources used, sources needed, and cross-project connections
 
 ### Still Critical (No Sources)
 
-### Important (Thin Sources)
-3. **Manufacturing (Ch9)** - Need aerospace, chemicals, food processing beyond autos
-4. **Transportation (Ch12)** - Need trucking, ports/maritime, logistics beyond airlines
+### Important (Thin Sources - Now Filled)
+3. **Manufacturing (Ch9)** - COMPLETE: Supply Chain Review + Gemini research
+4. **Transportation (Ch12)** - COMPLETE: Gemini research (trucking, rail, ports, logistics)
 5. **Trade Associations (Ch27)** - Need systematic coverage of major associations
 
 ### Enhancement Needed
