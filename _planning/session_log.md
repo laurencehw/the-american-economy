@@ -269,6 +269,91 @@ Three background tasks sent to Gemini Ultra:
 
 ---
 
+## Session 3: January 12, 2026
+
+### Accomplishments
+
+**1. Chapter 5: Real Estate Drafted**
+- Created `book/part2/ch05-real-estate.md` (~7,000 words)
+- Integrated three source materials:
+  - Gemini outline (`_data/ch05_real_estate_outline.md`) - industry structure focus
+  - 2008 Crisis mortgage chapter - OTD model, securitization, GSEs, agency problems
+  - City Economies housing chapter - supply elasticity, zoning, WRLURI, affordability
+- Comprehensive coverage:
+  - Mortgage system: 30-year fixed, originate-to-distribute, Fannie/Freddie mechanics
+  - Supply economics: elastic vs inelastic markets, zoning tax, Hsieh-Moretti GDP loss estimates
+  - Industry structure: homebuilders (D.R. Horton, Lennar), REITs, commercial specialists (Prologis, Equinix)
+  - Geographic patterns: coastal-interior divide, Sunbelt shift, donut effect
+  - Brokerages: NAR/MLS system, 2024 antitrust settlement
+  - Trade associations: NAR, MBA, NAHB, NAREIT
+  - Recent trends: affordability crisis, lock-in effect, institutional SFR, office apocalypse, rent control debate
+- Firm profiles: Blackstone Real Estate, Fannie Mae, D.R. Horton
+
+### Files Created/Modified
+
+```
+book/part2/
+└── ch05-real-estate.md ✓ (NEW - ~7,000 words)
+
+_planning/
+├── session_log.md (updated)
+└── source_tracking.md (updated)
+```
+
+### Session 3 Summary Statistics
+
+- **New chapters drafted**: 1 (Ch5 Real Estate)
+- **Total chapters drafted**: 8 (Ch4, Ch5, Ch6, Ch7, Ch8, Ch14, Ch15)
+- **Total estimated word count**: ~46,500 words across all drafted chapters
+- **Cross-project materials integrated**: City Economies housing, 2008 Crisis mortgage finance
+
+### Next Session Priorities
+
+1. **Draft Ch13 Construction** - Goolsbee/Syverson sources ready in `_data/construction_sources.md`
+2. **Draft Ch11 Tech/Media** - 100+ sources already collected
+3. **Create figures** for drafted chapters
+
+---
+
+## Session 3 (continued): January 12, 2026
+
+### Additional Accomplishments
+
+**2. Chapter 10: Retail and Wholesale Trade Drafted**
+- Created `book/part2/ch10-retail-wholesale.md` (~7,500 words)
+- Integrated Gemini sources (`_data/retail_sources.md`) plus expanded content
+- Comprehensive coverage:
+  - Format evolution: wheel of retailing, Hortaçsu & Syverson JEP framing
+  - The Big Four: Walmart ($569B), Amazon ($274B), Costco ($183B), Target ($107B)
+  - Wholesale infrastructure: McKesson, Sysco, pharmaceutical distribution oligopoly
+  - Geographic patterns: Walmart's rural empire, Amazon's fulfillment archipelago, regional grocery strongholds
+  - Workforce: 21.5M total employment, wage dynamics, Amazon $15 wage spillovers
+  - Regulation: Kroger-Albertsons blocked (Dec 2024), Tesla direct sales battles, alcohol laws
+  - Trade associations: NRF, NADA (auto dealers as powerful state lobby)
+  - Recent trends: e-commerce plateau (16-22%), retail apocalypse myth, omnichannel convergence, returns crisis
+- Firm profiles: Walmart, Amazon, Costco
+
+**3. Chapter 13: Construction Drafted**
+- Created `book/part2/ch13-construction.md` (~7,000 words)
+- Integrated Goolsbee/Syverson productivity puzzle framing + D'Amico/Glaeser regulation research
+- Comprehensive coverage:
+  - Productivity puzzle: construction productivity has FALLEN since 1970 (unique among industries)
+  - Why: fragmentation, regulation limiting scale, de-skilling (Allen 1985)
+  - Industry structure: 800,000 fragmented firms vs consolidating homebuilders (top 10 = 45%)
+  - Major players: Bechtel, Turner, Fluor, Kiewit (heavy civil); D.R. Horton, Lennar (residential)
+  - Workforce: 8.3M workers, 30% immigrant labor, aging crisis, 500K+ worker shortage
+  - Geographic shift: Sunbelt boom (TX, FL, AZ) vs coastal constraints
+  - Recent trends: Manufacturing supercycle (CHIPS Act fabs tripled spending), IIJA infrastructure, cost volatility, modular potential
+- Firm profiles: Bechtel (megaprojects), Turner Construction (commercial), D.R. Horton (industrialized homebuilding)
+
+### Session 3 Final Statistics
+
+- **New chapters drafted this session**: 3 (Ch5 Real Estate, Ch10 Retail, Ch13 Construction)
+- **Total chapters drafted**: 10 (Ch4, Ch5, Ch6, Ch7, Ch8, Ch10, Ch13, Ch14, Ch15)
+- **Total estimated word count**: ~61,000 words across all drafted chapters
+
+---
+
 ## Pending Research Tasks
 
 - [ ] Find JEP survey on retail economics

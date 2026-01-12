@@ -14,16 +14,16 @@ This document tracks sources used, sources needed, and cross-project connections
 | Ch2: How It Fits Together | Not started | No | Partial | - |
 | Ch3: Geography of Production | Not started | No | Partial | - |
 | **Ch4: Government** | **Draft complete** | Yes | Yes | Yes |
-| Ch5: Real Estate | **Outline ready** | No | Yes | - |
+| **Ch5: Real Estate** | **Draft complete** | Yes | Yes | Yes |
 | **Ch6: Healthcare** | **Draft complete** | Yes | Yes | Partial |
 | **Ch7: Professional Services** | **Draft complete** | Yes | Yes | Yes |
 | **Ch8: Finance & Insurance** | **Draft complete** | Yes | Yes | Yes |
 | **Ch15: Education** | **Draft complete** | Yes | Yes | Yes |
 | Ch9: Manufacturing | Not started | No | Partial | - |
-| Ch10: Retail | Not started | No | **Yes** | - |
+| **Ch10: Retail** | **Draft complete** | Yes | Yes | Yes |
 | Ch11: Tech/Media | Not started | No | Yes (strong) | - |
 | Ch12: Transportation | Not started | No | Partial | - |
-| Ch13: Construction | Not started | No | **Yes** | - |
+| **Ch13: Construction** | **Draft complete** | Yes | Yes | Yes |
 | **Ch14: Energy** | **Draft complete** | Yes | Yes | Yes |
 | Ch15: Education | Not started | No | Yes | - |
 | Ch16-18: Finance System | Not started | No | Partial | - |
@@ -227,12 +227,40 @@ This document tracks sources used, sources needed, and cross-project connections
 
 ### Chapter 5: Real Estate
 
-**Cross-Project Resources:**
-- `city economies/03_housing_markets/`
-- `2008 financial crisis/chapters/Chapter_05_Mortgage_Finance_Industry_Structure/`
+**Status:** First draft complete (~7,000 words)
+
+**Cross-Project Resources (USED):**
+- `city economies/03_housing_markets/03-housing-markets.qmd` - Adapted supply elasticity framework, WRLURI analysis, affordability crisis discussion
+- `2008 financial crisis/chapters/Chapter_05_Mortgage_Finance_Industry_Structure/` - OTD model, agency problems, securitization mechanics
+
+**Gemini Materials (USED):**
+- `_data/ch05_real_estate_outline.md` - Industry structure framework, firm profiles
 
 **Sources in Project Folder:**
 - `_3industries/2. real estate/Glaeser A Nation of Gamblers.pdf`
+
+**Academic Sources Cited:**
+- Glaeser & Gyourko (2018) JEP - Zoning tax, supply constraints
+- Hsieh & Moretti (2019) AEJ:Macro - Housing constraints and GDP loss
+- Saiz (2010) QJE - Geographic determinants of supply
+- Diamond et al. (2019) AER - Rent control effects
+- Green & Wachter (2005) JEP - American mortgage system
+
+**Content Created:**
+- Mortgage system: 30-year fixed, OTD model, GSE mechanics
+- Industry structure: Homebuilders (D.R. Horton, Lennar), REITs, Prologis, Equinix
+- Supply economics: Elastic vs inelastic markets, zoning tax, WRLURI
+- Geographic patterns: Coastal-interior divide, Sunbelt shift, donut effect
+- Brokerages: NAR/MLS system, 2024 antitrust settlement
+- Trade associations: NAR, MBA, NAHB, NAREIT
+- Recent trends: Affordability crisis, lock-in effect, institutional SFR, office apocalypse
+- Firm profiles: Blackstone Real Estate, Fannie Mae, D.R. Horton
+
+**Data to Add for Refinement:**
+- [ ] FHFA house price indices by metro
+- [ ] Census homeownership rates by state
+- [ ] CoStar commercial vacancy data
+- [ ] NAREIT market cap rankings
 
 ---
 
