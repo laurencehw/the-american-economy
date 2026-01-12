@@ -31,11 +31,11 @@ The dominance is no accident. Deep capital markets require legal infrastructure 
 
 American stock trading is dominated by two exchange families, though the landscape is more fragmented than it appears.
 
-**The New York Stock Exchange (NYSE)** remains the world's largest exchange by market capitalization of listed companies (~$28 trillion). Originally a specialist-based floor trading operation dating to 1792, the NYSE has evolved into a hybrid model combining electronic matching with designated market makers (DMMs) who provide liquidity for assigned stocks. The trading floor at 11 Wall Street, while largely ceremonial for routine trading, still handles complex orders and the opening/closing auctions.
+**The New York Stock Exchange (NYSE)** remains the world's largest exchange by market capitalization of listed companies (roughly $28 trillion). Originally a specialist-based floor trading operation dating to 1792, the NYSE has evolved into a hybrid model combining electronic matching with designated market makers (DMMs) who provide liquidity for assigned stocks. The trading floor at 11 Wall Street, while largely ceremonial for routine trading, still handles complex orders and the opening/closing auctions.
 
 The NYSE is owned by Intercontinental Exchange (ICE), an Atlanta-based exchange conglomerate that acquired NYSE Euronext in 2013 for $8.2 billion. ICE also owns ICE Futures (commodities and financial futures), ICE Clear (clearinghouses), and a data services business.
 
-**NASDAQ** began in 1971 as the first electronic stock market—the National Association of Securities Dealers Automated Quotations system. Originally a quotation display system for over-the-counter stocks, it evolved into a full exchange and is now the second-largest globally by market capitalization (~$23 trillion). NASDAQ's all-electronic model and lower listing fees attracted technology companies, creating a self-reinforcing concentration: tech firms list on NASDAQ because other tech firms are there.
+**NASDAQ** began in 1971 as the first electronic stock market—the National Association of Securities Dealers Automated Quotations system. Originally a quotation display system for over-the-counter stocks, it evolved into a full exchange and is now the second-largest globally by market capitalization (roughly $23 trillion). NASDAQ's all-electronic model and lower listing fees attracted technology companies, creating a self-reinforcing concentration: tech firms list on NASDAQ because other tech firms are there.
 
 NASDAQ Inc. also owns NASDAQ Nordic/Baltic exchanges, The NASDAQ Options Market, and several data businesses. The company is headquartered in Times Square.
 
@@ -226,7 +226,7 @@ State and local governments issue municipal bonds to fund infrastructure, school
 
 **General obligation (GO) bonds** are backed by the issuer's taxing power. **Revenue bonds** are backed by specific revenue streams (toll roads, airports, water systems).
 
-The tax exemption means municipal yields are lower than taxable bonds—but the after-tax return can be higher for investors in high tax brackets. A "muni" yielding 3% is equivalent to a taxable bond yielding ~5% for an investor in the 40% combined tax bracket.
+The tax exemption means municipal yields are lower than taxable bonds—but the after-tax return can be higher for investors in high tax brackets. A "muni" yielding 3% is equivalent to a taxable bond yielding roughly 5% for an investor in the 40% combined tax bracket.
 
 Credit quality varies widely. Most states maintain investment-grade ratings, but some municipalities have defaulted—most notably Detroit (2013) and Puerto Rico (2015-2022, the largest municipal bankruptcy).
 
@@ -433,7 +433,7 @@ The SEC ultimately proposed but did not implement PFOF restrictions, instead req
 
 Cryptocurrency markets have developed alongside traditional capital markets, though with more volatility and less regulation.
 
-Bitcoin, the largest cryptocurrency by market cap (~$800 billion), trades on crypto exchanges (Coinbase, Kraken) and, since January 2024, through SEC-approved spot Bitcoin ETFs. Ethereum (~$280 billion) is the second-largest.
+Bitcoin, the largest cryptocurrency by market cap (roughly $800 billion), trades on crypto exchanges (Coinbase, Kraken) and, since January 2024, through SEC-approved spot Bitcoin ETFs. Ethereum (roughly $280 billion) is the second-largest.
 
 The SEC has aggressively pursued crypto platforms for alleged securities law violations, while the industry argues most tokens aren't securities. Resolution remains pending in courts and Congress.
 
@@ -501,11 +501,11 @@ Sequoia's model emphasizes long-term relationships with founders and "company bu
 Unlike most VC firms that return capital to investors after each fund, Sequoia in 2021 restructured to hold investments indefinitely through a permanent structure—a recognition that the best companies may never need to exit.
 
 **Key statistics:**
-- AUM: ~$85 billion
+- AUM: roughly $85 billion
 - Active portfolio companies: 300+
 - IPOs/acquisitions: 400+
 - Locations: Menlo Park, London, India, China, Southeast Asia
-- Partners: ~60
+- Partners: roughly 60
 
 ## Conclusion
 
