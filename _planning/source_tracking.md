@@ -10,9 +10,9 @@ This document tracks sources used, sources needed, and cross-project connections
 
 | Chapter | Status | Draft | Sources Identified | Sources Used |
 |---------|--------|-------|-------------------|--------------|
-| Ch1: Economy in Numbers | Not started | No | Partial | - |
-| Ch2: How It Fits Together | Not started | No | Partial | - |
-| Ch3: Geography of Production | Not started | No | Partial | - |
+| **Ch1: Economy in Numbers** | **Draft complete** | Yes | Yes | Yes |
+| **Ch2: How It Fits Together** | **Draft complete** | Yes | Yes | Yes |
+| **Ch3: Geography of Production** | **Draft complete** | Yes | Yes | Yes |
 | **Ch4: Government** | **Draft complete** | Yes | Yes | Yes |
 | **Ch5: Real Estate** | **Draft complete** | Yes | Yes | Yes |
 | **Ch6: Healthcare** | **Draft complete** | Yes | Yes | Partial |

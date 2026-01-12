@@ -491,6 +491,68 @@ _planning/
 - Used Gemini for comprehensive research (trucking, rail, airlines, ports, logistics)
 - Saved research to `_data/ch12_transportation_data.md`
 
+**2. Figures Created for Ch9, Ch11, Ch12**
+- Ch9: 4 figures (manufacturing employment, subsectors, top manufacturers, robot density)
+- Ch11: 4 figures (Big Tech revenue, digital ads, streaming, telecom)
+- Ch12: 5 figures (freight modes, ports, railroads, airlines, trucking)
+- Total: 13 new figures (PDF + PNG)
+
+**3. Part I Overview Chapters Drafted (All 3)**
+- Created `book/part1/ch01-economy-in-numbers.md` (~5,500 words)
+  - Big picture: $27T GDP, 157M workers, global comparisons
+  - GDP composition by industry, employment by sector
+  - Business structure, data agencies (BEA, BLS, Census)
+
+- Created `book/part1/ch02-how-it-fits.md` (~5,000 words)
+  - Input-output framework (Leontief tables)
+  - Value chains: food, electronics, energy examples
+  - Consumer expenditure, circular flow, supply chain vulnerability
+
+- Created `book/part1/ch03-geography.md` (~5,000 words)
+  - State GDP rankings, metro concentration
+  - Agglomeration economies, superstar cities
+  - Urban vs rural divide, housing constraints, political geography
+
+- Saved research to `_data/part1_overview_data.md`
+
+### Session 5 Final Statistics
+
+- **New chapters drafted**: 4 (Ch12 + Ch1-3)
+- **New figures created**: 13
+- **Total chapters drafted**: 16 (Part I complete + Part II complete)
+- **Total estimated word count**: ~101,000 words
+- **Part I Status**: COMPLETE (3 chapters)
+- **Part II Status**: COMPLETE (12 chapters)
+
+### Milestone: Parts I and II Complete
+
+**Part I: The Shape of the Economy (3 chapters, ~15,500 words)**
+- Ch1: The American Economy in Numbers
+- Ch2: How It All Fits Together
+- Ch3: The Geography of Production
+
+**Part II: The Sectors (12 chapters, ~85,500 words)**
+- All 12 sector chapters drafted
+
+### Next Session Priorities
+
+1. **Begin Part III** (Financial Architecture: Ch16-18)
+   - Ch16: How American Finance Works (can adapt 2008 Crisis materials)
+2. **Create figures** for Part I chapters
+3. **Begin Part IV** (Trade: Ch19-20) or **Part V** (Regional: Ch21-25)
+4. Commit and push all new work
+
+---
+
+## Session 5 (earlier): January 12, 2026
+
+### Earlier Accomplishments (Ch12 + Figures)
+
+**1. Chapter 12: Transportation and Logistics Drafted**
+- Created `book/part2/ch12-transportation.md` (~8,000 words)
+- Used Gemini for comprehensive research (trucking, rail, airlines, ports, logistics)
+- Saved research to `_data/ch12_transportation_data.md`
+
 **Content Coverage:**
 - Industry overview: $935B GDP, 6.58M employment, modal split
 - Trucking: 900K carriers, fragmentation, driver shortage, LTL vs TL segments
