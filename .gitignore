@@ -64,3 +64,6 @@ _0econ_data_statistics/
 __slides/
 *.docx
 *.pptx
+tmpclaude-*
+_data/*.txt
+.claude/

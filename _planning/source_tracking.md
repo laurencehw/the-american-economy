@@ -19,9 +19,9 @@ This document tracks sources used, sources needed, and cross-project connections
 | **Ch7: Professional Services** | **Draft complete** | Yes | Yes | Yes |
 | **Ch8: Finance & Insurance** | **Draft complete** | Yes | Yes | Yes |
 | **Ch15: Education** | **Draft complete** | Yes | Yes | Yes |
-| Ch9: Manufacturing | Not started | No | Partial | - |
+| **Ch9: Manufacturing** | **Draft complete** | Yes | Yes | Yes |
 | **Ch10: Retail** | **Draft complete** | Yes | Yes | Yes |
-| Ch11: Tech/Media | Not started | No | Yes (strong) | - |
+| **Ch11: Tech/Media** | **Draft complete** | Yes | Yes | Yes |
 | Ch12: Transportation | Not started | No | Partial | - |
 | **Ch13: Construction** | **Draft complete** | Yes | Yes | Yes |
 | **Ch14: Energy** | **Draft complete** | Yes | Yes | Yes |
@@ -178,20 +178,41 @@ This document tracks sources used, sources needed, and cross-project connections
 
 ---
 
-### Chapter 11: Information and Technology
+### Chapter 11: Information, Technology, and Media
 
-**Status:** Not started but VERY STRONG source collection
+**Status:** First draft complete (~8,000 words)
+
+**Gemini Research (USED):**
+- `_data/ch11_tech_media_sources.md` - Contemporary data on Big Tech financials, telecom market shares, streaming subscribers, antitrust outcomes, AI investments
+
+**Cross-Project Resources (USED):**
+- `antitrust/chapters/09-digital-markets.qmd` - Platform economics framework, two-sided markets, network effects
 
 **Sources in Project Folder:** 100+ PDFs including:
 - Antitrust cases: Google, Apple, Microsoft
-- Spectrum auctions (Milgrom)
+- Spectrum auctions (Milgrom vickrey lecture)
 - Media economics (newspapers, music, books)
 - Telecommunications regulation
 - AT&T/DirecTV merger documents
 
-**Cross-Project Resources:**
-- `antitrust/chapters/09-digital-markets.qmd`
-- `antitrust/_literature/5.digital markets/`
+**Content Created:**
+- Industry overview: Information sector (NAICS 51), ~$1.8T GDP, market cap dominance
+- Business models: Advertising, subscriptions, hardware ecosystem, cloud, telecommunications
+- Big Tech: Alphabet, Apple, Amazon, Meta, Microsoft (financials, business models, antitrust)
+- Telecom: AT&T, Verizon, T-Mobile (wireless); Comcast, Charter (broadband)
+- Media/streaming: Netflix, Disney+, Max, streaming economics
+- Music: Three majors (Universal, Sony, Warner), Spotify
+- Newspapers: Employment collapse, local news crisis
+- Geographic concentration: Silicon Valley, Seattle, NYC, Austin, Boston
+- Regulation: FCC, Section 230, antitrust enforcement wave
+- AI boom: Microsoft/OpenAI, Amazon/Anthropic, Google/Anthropic
+- Firm profiles: Alphabet/Google, AT&T, Netflix
+
+**Data Sources to Add for Refinement:**
+- [ ] BEA Information sector GDP (NAICS 51) actual figures
+- [ ] BLS employment by tech subsector
+- [ ] eMarketer digital advertising data
+- [ ] FCC Communications Marketplace Report
 
 ---
 
