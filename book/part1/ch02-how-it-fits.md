@@ -75,16 +75,97 @@ The real economy has more moving parts:
 
 **The rest of the world** buys American exports and sells us imports. The U.S. runs a trade deficit---we import more than we export---meaning foreign money flows in to finance American consumption and investment.
 
-### The Flow of Funds
+## The Sectoral Balance Identity
 
-The Federal Reserve's Flow of Funds accounts track these financial flows in detail. At any moment:
+### The Iron Law
 
-- Households hold about $150 trillion in assets (homes, stocks, retirement accounts)
-- Nonfinancial businesses owe about $20 trillion in debt
-- The federal government owes about $35 trillion
-- Financial sector assets exceed $100 trillion
+One of the most powerful tools for understanding how the economy fits together is the **sectoral balance identity**. It derives from the national income identity but reveals something profound: the surpluses and deficits of different sectors must sum to zero.
 
-These stocks matter because they shape flows. Wealthy households can finance consumption from assets; indebted businesses must service their debt before investing. The flow of funds connects the real economy (production, employment) to the financial economy (assets, liabilities, interest rates).
+Start with the familiar GDP equation:
+
+$$
+Y = C + I + G + (X - M)
+$$
+
+Rearranging to group by sector:
+
+$$
+(S - I) + (T - G) + (M - X) = 0
+$$
+
+Where:
+- **(S - I)**: Private sector balance (household and business saving minus investment)
+- **(T - G)**: Government balance (taxes minus spending)
+- **(M - X)**: Foreign sector balance (imports minus exports, or the trade deficit)
+
+**These three balances must sum to zero.** This isn't a theory or assumption---it's an accounting identity that holds by definition. One sector cannot run a surplus unless another runs a deficit.
+
+### What the Balances Tell Us
+
+This identity explains much of American economic history:
+
+**The private sector** (households plus businesses) almost always runs a surplus---Americans save more than they invest domestically, on net.
+
+**The government** almost always runs a deficit---spending exceeds tax revenue, requiring borrowing.
+
+**The foreign sector** has been in surplus since the 1980s---foreigners accumulate claims on the U.S. because we import more than we export.
+
+The policy implication is stark: if the government tries to reduce its deficit (raising T-G), either the private sector must save less (S-I falls) or the trade deficit must shrink (M-X falls). You cannot have government surplus *and* high private saving *and* a trade deficit simultaneously. The arithmetic forbids it.
+
+This constraint explains why fiscal austerity often disappoints. When governments cut spending without a corresponding shift in private behavior or trade, GDP simply falls to make the identity hold.
+
+## The Flow of Funds
+
+### Tracking Who Owes What to Whom
+
+While Kuznets was building GDP accounts to track production, economist Morris Copeland was asking a different question: where is the money going? In 1952, he published *A Study of Moneyflows in the United States*, arguing that to understand a capitalist economy, you must track the flow of funds---who is lending to whom.
+
+The Federal Reserve adopted Copeland's framework, creating what are now called the **Financial Accounts of the United States** (the Z.1 release). These accounts track assets and liabilities for four main sectors:
+
+1. **Households and Nonprofits**: The ultimate owners of wealth. They hold real assets (houses) and financial assets (deposits, stocks, bonds) and owe debt (mortgages, credit cards).
+
+2. **Nonfinancial Business**: Firms that produce goods and services. They borrow to invest in capital.
+
+3. **Government**: Federal, state, and local. The federal government is unique because it issues the currency that others use as safe assets.
+
+4. **Rest of the World**: Foreign entities engaging with the U.S. A trade deficit means foreigners acquire U.S. assets.
+
+### The Balance Sheet Picture
+
+At any moment, the Z.1 accounts show the accumulated stocks:
+
+| Sector | Assets | Liabilities | Net Worth |
+|--------|--------|-------------|-----------|
+| Households | ~$175 trillion | ~$20 trillion | ~$155 trillion |
+| Nonfinancial Business | ~$55 trillion | ~$35 trillion | ~$20 trillion |
+| Federal Government | ~$5 trillion | ~$35 trillion | -$30 trillion |
+| Financial Sector | ~$130 trillion | ~$125 trillion | ~$5 trillion |
+
+Household net worth---about $155 trillion---is the most important number for financial stability. When asset prices rise, households feel wealthier and spend more (the "wealth effect"). When prices crash, as in 2008, consumption collapses.
+
+### Flows vs. Valuations
+
+A crucial distinction: changes in balance sheets come from both transactions (flows) and price changes (valuations).
+
+$$
+\Delta \text{Level} = \text{Flow} + \text{Valuation Change}
+$$
+
+In 2008, household net worth collapsed not primarily because people stopped saving, but because house and stock prices crashed. The flow of saving was actually positive; the valuation losses overwhelmed it. This is why crises often appear suddenly---balance sheets can deteriorate through price movements even when behavior hasn't changed.
+
+### Why This Matters: The 2008 Lesson
+
+For decades, the Flow of Funds accounts were a backwater, ignored by models that treated finance as a "veil" over the real economy. The main action was in GDP.
+
+The 2008 financial crisis changed everything. Models based only on GDP failed to see the crisis coming because the leverage was hidden in balance sheets, not production flows. Household debt had risen from 60% of GDP in 1990 to 100% by 2007. Corporate leverage was elevated. The financial sector had built an elaborate shadow banking system. All of this was visible in the Z.1 accounts---but few were watching.
+
+Economist Wynne Godley, using stock-flow analysis, warned repeatedly in the mid-2000s that the configuration was unsustainable. His 2006 paper at the Levy Economics Institute was remarkably prescient:
+
+> "The growth in lending... has been so rapid in recent years that a host of pathologies have emerged... we remain skeptical that household borrowing can continue to be the main factor driving the U.S. economy."
+
+When the crisis hit, the scenario Godley outlined played out almost exactly: household spending collapsed, government deficits exploded to absorb the private sector's shift to surplus, and the recession was deeper than any since the 1930s.
+
+Today, "macro-finance" is the dominant paradigm, trying to reunite production accounts with financial accounts. The lesson: you cannot understand the economy by looking only at GDP. You must also track who owes what to whom.
 
 ## Value Chains: Three Examples
 
@@ -208,27 +289,30 @@ These disruptions illustrated how concentrated, optimized supply chains are effi
 
 1. **The economy is a network.** Industries buy from each other and sell to each other. Disruption anywhere ripples everywhere.
 
-2. **Input-output tables map the structure.** Leontief's framework shows who supplies whom, enabling analysis of multiplier effects and supply chain vulnerabilities.
+2. **Input-output tables map the production structure.** Leontief's framework shows who supplies whom, enabling analysis of multiplier effects and supply chain vulnerabilities.
 
-3. **Value chains are global.** Most products involve inputs from many countries. "American" products often contain more foreign value than domestic.
+3. **Sectoral balances must sum to zero.** The private sector, government, and foreign sector surpluses/deficits are arithmetically linked. You cannot change one without affecting the others.
 
-4. **Money flows in circles.** Household spending becomes business revenue becomes wages and profits becomes household income. Financial flows connect these circuits.
+4. **Balance sheets reveal financial fragility.** The Flow of Funds accounts track who owes what to whom. The 2008 crisis was visible in rising household debt years before it hit---but few were watching.
 
-5. **Households spend mostly on services.** Housing, transportation, food, and healthcare dominate budgets. The shift toward services has transformed the economy.
+5. **Value chains are global.** Most products involve inputs from many countries. "American" products often contain more foreign value than domestic.
 
-6. **Critical infrastructure creates systemic risk.** Energy, finance, transportation, and telecommunications are nodes whose failure cascades through everything.
+6. **Households spend mostly on services.** Housing, transportation, food, and healthcare dominate budgets. The shift toward services has transformed the economy.
+
+7. **Critical infrastructure creates systemic risk.** Energy, finance, transportation, and telecommunications are nodes whose failure cascades through everything.
 
 ## Data Sources and Further Reading
 
 ### Key Data Sources
 
 - **BEA Input-Output Tables** (bea.gov): Annual and benchmark I-O accounts showing inter-industry flows
+- **Federal Reserve Financial Accounts (Z.1)** (federalreserve.gov/releases/z1): Balance sheets and flows for all sectors
 - **BLS Consumer Expenditure Survey** (bls.gov/cex): How households spend
-- **Federal Reserve Flow of Funds** (federalreserve.gov/releases/z1): Financial stocks and flows
 
 ### Further Reading
 
 - Wassily Leontief, *Input-Output Economics* (1986)---The classic introduction by the field's founder
 - Marc Levinson, *The Box* (2006)---How containerization transformed global supply chains
-- Willy Shih, "Global Supply Chains in a Post-Pandemic World," *Harvard Business Review* (2020)
+- Wynne Godley & Marc Lavoie, *Monetary Economics: An Integrated Approach to Credit, Money, Income, Production and Wealth* (2007)---The stock-flow consistent framework
+- Claudio Borio, "The Financial Cycle and Macroeconomics: What Have We Learnt?" *Journal of Banking and Finance* (2014)---How balance sheet dynamics drive business cycles
 - Christopher Mims, *Arriving Today* (2021)---A journalist traces a product's journey through modern logistics
