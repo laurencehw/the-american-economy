@@ -911,3 +911,101 @@ _planning/
 - User prefers: direct communication, skip pleasantries, push back when needed
 - **Gemini review workflow**: Draft chapter → send to Gemini for review → address feedback
 - **Dingel trade materials**: https://github.com/jdingel/econ35101 and econ6905
+
+---
+
+## Session 9: January 12, 2026
+
+### Focus: Part V Regional Chapters (Ch21-25)
+
+### Accomplishments
+
+**1. Part V Regional Chapters Drafted**
+
+All five regional chapters completed with Gemini research:
+
+**Ch21: The Northeast Corridor (roughly 2,200 words)**
+- Acela corridor as economic mega-region
+- Four pillars: Boston (biotech), NYC (finance), Philadelphia (pharma), DC (government)
+- Labor market integration, knowledge spillovers
+- Housing crisis, infrastructure (Gateway Project)
+- Profiles: Mass General Brigham, JPMorgan Chase, Washington Metro
+
+**Ch22: The Sunbelt (roughly 2,800 words)**
+- Population and GDP growth trends
+- Key metros: Houston (energy), Dallas (HQs), Austin (tech), Miami (finance), Atlanta (logistics), Phoenix (semiconductors), Charlotte (banking)
+- Corporate relocations (Chevron, Tesla, Citadel)
+- Cost advantages eroding, infrastructure challenges (water, grid)
+- Battery Belt manufacturing boom
+- Profiles: Tesla, Citadel, Hyundai Metaplant
+
+**Ch23: The Midwest (roughly 2,500 words)**
+- Industrial heartland productivity paradox
+- Chicago (global city), Detroit (EV transition), Minneapolis (corporate fortress), Columbus (Intel fabs), Cleveland/Pittsburgh (eds and meds), Indianapolis (life sciences)
+- Manufacturing revival via CHIPS Act and IRA
+- Battery Belt corridor
+- Agricultural outlook, brain drain
+- Profiles: CME Group, Cleveland Clinic, Intel Ohio
+
+**Ch24: The West (roughly 3,000 words)**
+- California as world's 5th largest economy
+- Bay Area (AI/tech), LA (manufacturing/ports), Seattle (cloud), Denver (hub), San Diego (biotech), Salt Lake City (Silicon Slopes), Portland (semiconductors)
+- Housing crisis and out-migration
+- Water crisis (Colorado River, Lake Mead)
+- Policy laboratories (California model vs Mountain West)
+- Profiles: Alphabet, Nvidia, Kaiser Permanente
+
+**Ch25: Rural America (roughly 2,700 words)**
+- Definitions (Census vs OMB)
+- Key economies: agriculture, energy, mining, tourism
+- Rural-urban divide (income, education, deaths of despair)
+- Infrastructure gaps (healthcare, broadband)
+- Federal transfers and Farm Bill
+- Rural rebound 2020-2024
+- Profiles: Ogallala Region, Appalachian Coal Country, Wind Belt
+
+**2. Gemini Review and Corrections**
+
+Applied fact-checks from Gemini review:
+
+- **Ch21**: Gateway Project now funded/under construction; Boston life sciences vacancy 25%+ (not 11.5%); Philadelphia home price corrected
+- **Ch23**: Intel Ohio timeline delayed to 2027-2030; Wisconsin brain gain claim softened
+- **Ch24**: Nvidia market cap $4.5T; Alphabet $4T and $350B revenue; Bay Area GDP $1.3T; Lake Mead 28%
+- **Ch25**: Migration 650k (not 1 million); broadband 72% (not 89%); hospital closures 150+ since 2010; income figures updated
+
+### Session 9 Statistics
+
+- **New chapters drafted**: 5 (Ch21-25 Regional)
+- **Total chapters drafted**: 26 (Parts I-V complete)
+- **Total estimated word count**: roughly 153,700 words
+- **Part V Status**: COMPLETE (5 chapters, roughly 13,200 words)
+
+### Milestone: Part V Complete
+
+**Part V: Regional Economies**
+- Ch21: The Northeast Corridor (roughly 2,200 words)
+- Ch22: The Sunbelt (roughly 2,800 words)
+- Ch23: The Midwest (roughly 2,500 words)
+- Ch24: The West (roughly 3,000 words)
+- Ch25: Rural America (roughly 2,700 words)
+
+### Progress Summary
+
+| Part | Chapters | Status | Words |
+|------|----------|--------|-------|
+| I: Shape of Economy | 3 | Complete | 17,000 |
+| II: The Sectors | 12 | Complete | 85,500 |
+| III: Financial Architecture | 3 | Complete | 23,500 |
+| IV: Trade | 2 | Complete | 14,500 |
+| V: Regional Economies | 5 | Complete | 13,200 |
+| **Total** | **25** | — | **153,700** |
+
+### Next Session Priorities
+
+1. **Begin Part VI** (Institutions: Ch26-28)
+   - Ch26: Federal Economic Governance
+   - Ch27: Trade Associations and Business Organization
+   - Ch28: Labor Organizations
+2. **Chapter 29**: Conclusion
+3. **Create figures** for completed parts
+4. **Review and refine** earlier chapters

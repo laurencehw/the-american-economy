@@ -30,7 +30,11 @@ This document tracks sources used, sources needed, and cross-project connections
 | **Ch18: Corporate Finance** | **Draft complete** | Yes | Yes | Yes |
 | **Ch19: Trade Relationships** | **Draft complete** | Yes | Yes | Yes |
 | **Ch20: Supply Chains** | **Draft complete** | Yes | Yes | Yes |
-| Ch21-25: Regional | Not started | No | Partial | - |
+| **Ch21: Northeast Corridor** | **Draft complete** | Yes | Yes | Yes |
+| **Ch22: Sunbelt** | **Draft complete** | Yes | Yes | Yes |
+| **Ch23: Midwest** | **Draft complete** | Yes | Yes | Yes |
+| **Ch24: The West** | **Draft complete** | Yes | Yes | Yes |
+| **Ch25: Rural America** | **Draft complete** | Yes | Yes | Yes |
 | Ch26-28: Institutions | Not started | No | Partial | - |
 
 ---
