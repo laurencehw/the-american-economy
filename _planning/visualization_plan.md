@@ -7,11 +7,12 @@
 ## Visual Style Standards
 
 ### General Principles (per global CLAUDE.md)
-- **Library:** plotnine with hrbrthemes (`theme_ipsum()`)
+- **Library:** plotnine with hrbrthemes (`theme_ipsum()`) or matplotlib fallback
 - **Width:** 6 inches (single column)
-- **Format:** PDF vector graphics
+- **Format:** Both PDF (print) and PNG (web/GitBook) at 300 DPI
 - **Style:** Minimal gridlines, clean axis labels
 - **Source notes:** Required at bottom of every figure
+- **Time series:** Use real (inflation-adjusted) values for long-term comparisons
 
 ### plotnine Setup
 ```python
