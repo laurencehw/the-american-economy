@@ -763,12 +763,72 @@ _planning/
 
 ---
 
+## Session 7 (continued): January 12, 2026
+
+### Additional Accomplishments
+
+**2. Chapter 18: Corporate Finance in Practice Drafted**
+- Created `book/part3/ch18-corporate-finance.md` (roughly 7,500 words)
+- Third and final chapter of Part III (Financial Architecture)
+
+**Source Materials Integrated:**
+- Macro Chapter 7 (Investment) - Tobin's Q, cash flow sensitivity, corporate balance sheets
+- Finance book outline - corporate finance structure
+- Gemini research - M&A market, activism, governance, compensation data
+
+**Content Coverage:**
+- Pecking order in practice (internal funds dominate, negative equity issuance)
+- Capital structure by industry
+- Corporate cash piles (updated Berkshire to $325B)
+- Corporate bond market (AAA club, BBB cliff)
+- M&A market and advisory business (banks, law firms, boutiques)
+- Private equity's role (leverage, governance intensity)
+- Corporate governance (board composition, committees)
+- Executive compensation (285:1 CEO-worker ratio)
+- Activist investors (Elliott, Starboard, Trian)
+- Capital allocation decisions (buybacks vs dividends)
+- Recent trends (private credit with Basel III context, conglomerates, spinoffs, AI)
+- Firm profiles: Berkshire Hathaway, Elliott Management, Johnson & Johnson
+
+**Gemini Review and Revisions:**
+- Updated "rock-bottom rates" to "tightest spreads" (post-ZIRP context)
+- Updated Berkshire cash figure to $325B (reflects 2024 stock sales)
+- Added stock-based compensation note for tech financing
+- Added Basel III context for private credit growth
+
+**3. Research Sources Documented**
+- Created `_data/ch18_corporate_finance_sources.md`
+
+### Session 7 Final Statistics
+
+- **New chapters drafted this session**: 2 (Ch17 Capital Markets, Ch18 Corporate Finance)
+- **Total chapters drafted**: 19 (Parts I-III complete)
+- **Total estimated word count**: roughly 126,000 words
+- **Part III Status**: COMPLETE (3 chapters, roughly 23,500 words)
+
+### Milestone: Part III Complete
+
+**Part III: The Financial Architecture**
+- Ch16: How American Finance Works (roughly 7,500 words)
+- Ch17: Capital Markets (roughly 8,500 words)
+- Ch18: Corporate Finance in Practice (roughly 7,500 words)
+
+### Next Session Priorities
+
+1. **Begin Part IV** (Trade: Ch19-20)
+   - Ch19: America's Trading Relationships
+   - Ch20: Global Supply Chains
+2. **Begin Part V** (Regional: Ch21-25) - may require Fed Beige Book research
+3. **Create figures** for Part III chapters
+4. Continue to Part VI (Institutions) and Conclusion
+
+---
+
 ## Notes for Future Sessions
 
 - User has Gemini Ultra access for intensive research tasks
 - Cross-project materials are extensive - prioritize reading over new research
-- All Part II sector chapters are now COMPLETE
-- City Economies housing materials ready for Ch5 Real Estate adaptation
-- 2008 Crisis mortgage chapters available for Ch5 and Ch16
+- Parts I, II, and III are now COMPLETE
+- International Finance textbook available for Part IV (Trade)
 - User prefers: direct communication, skip pleasantries, push back when needed
 - **Gemini review workflow**: Draft chapter → send to Gemini for review → address feedback
