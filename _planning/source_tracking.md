@@ -25,7 +25,6 @@ This document tracks sources used, sources needed, and cross-project connections
 | **Ch12: Transportation** | **Draft complete** | Yes | Yes | Yes |
 | **Ch13: Construction** | **Draft complete** | Yes | Yes | Yes |
 | **Ch14: Energy** | **Draft complete** | Yes | Yes | Yes |
-| Ch15: Education | Not started | No | Yes | - |
 | Ch16-18: Finance System | Not started | No | Partial | - |
 | Ch19-20: Trade | Not started | No | Partial | - |
 | Ch21-25: Regional | Not started | No | Partial | - |
@@ -34,6 +33,71 @@ This document tracks sources used, sources needed, and cross-project connections
 ---
 
 ## Detailed Source Tracking by Chapter
+
+### Part I: Overview Chapters
+
+**All three Part I chapters drafted January 2026**
+
+#### Chapter 1: The American Economy in Numbers (~5,500 words)
+
+**Sources Used:**
+- BEA GDP data (industry accounts, state/metro)
+- BLS employment data (CES, QCEW)
+- Census Bureau business statistics (SUSB)
+- Gemini research for contemporary data
+
+**Content:**
+- $27.4T GDP, 157M workers, global comparisons
+- GDP composition by industry
+- Employment by sector
+- Business structure (firm size distribution)
+- Data agencies (BEA, BLS, Census)
+
+---
+
+#### Chapter 2: How It All Fits Together (~6,500 words)
+
+**Sources Used:**
+- BEA Input-Output Tables
+- Federal Reserve Z.1 Financial Accounts
+- BLS Consumer Expenditure Survey
+
+**Cross-Project Resources (USED):**
+- `macroeconomics/chapters/part1_measurement/ch03_flowoffunds.md` - Adapted
+  - Used: Sectoral balance identity, Z.1 accounts structure, flows vs. valuations, Godley's prescience
+  - References: Copeland, Godley & Lavoie, Borio
+
+**Content:**
+- Input-output framework (Leontief)
+- Value chains: food, electronics, energy examples
+- Sectoral balance identity ("iron law")
+- Flow of Funds (Z.1) accounts
+- Consumer expenditure patterns
+- Supply chain vulnerability
+
+---
+
+#### Chapter 3: The Geography of Production (~5,000 words)
+
+**Sources Used:**
+- BEA Regional Accounts (state/metro GDP)
+- BLS QCEW (county employment)
+- Census ACS (demographics, housing costs)
+
+**Academic Sources Cited:**
+- Enrico Moretti, *The New Geography of Jobs*
+- Edward Glaeser, *Triumph of the City*
+- Hsieh & Moretti on housing constraints
+
+**Content:**
+- State GDP rankings, top metros
+- Agglomeration economies
+- Superstar cities phenomenon
+- Urban vs rural divide
+- Housing constraints on mobility
+- Political geography of place
+
+---
 
 ### Chapter 6: Healthcare
 

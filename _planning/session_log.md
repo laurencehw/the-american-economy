@@ -515,14 +515,23 @@ _planning/
 
 - Saved research to `_data/part1_overview_data.md`
 
+**4. Chapter 2 Expanded with Flow of Funds Framework**
+- Integrated material from `macroeconomics/chapters/part1_measurement/ch03_flowoffunds.md`
+- Added Sectoral Balance Identity (the "iron law" that balances sum to zero)
+- Added Z.1 accounts structure (Morris Copeland's framework)
+- Added balance sheet data by sector
+- Added flows vs. valuations distinction
+- Added 2008 crisis lesson and Godley's prescient warnings
+- Ch2 now ~6,500 words (up from ~5,000)
+
 ### Session 5 Final Statistics
 
 - **New chapters drafted**: 4 (Ch12 + Ch1-3)
 - **New figures created**: 13
 - **Total chapters drafted**: 16 (Part I complete + Part II complete)
-- **Total estimated word count**: ~101,000 words
-- **Part I Status**: COMPLETE (3 chapters)
-- **Part II Status**: COMPLETE (12 chapters)
+- **Total estimated word count**: ~102,500 words
+- **Part I Status**: COMPLETE (3 chapters, ~17,000 words)
+- **Part II Status**: COMPLETE (12 chapters, ~85,500 words)
 
 ### Milestone: Parts I and II Complete
 
