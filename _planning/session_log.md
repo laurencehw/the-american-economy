@@ -824,11 +824,90 @@ _planning/
 
 ---
 
+## Session 8: January 12, 2026
+
+### Accomplishments
+
+**1. Part IV: Trade and Global Linkages Complete**
+
+**Chapter 19: America's Trading Relationships (roughly 7,000 words)**
+- Created `book/part4/ch19-trade.md`
+- Used Gemini for comprehensive trade data research
+
+**Content Coverage:**
+- Trade statistics (goods/services, deficit, top partners)
+- What America trades (major exports/imports)
+- Trade agreements (USMCA, IPEF, bilateral deals)
+- Tariff structure (Section 301, 232, de minimis)
+- Trade enforcement agencies (USTR, BIS, USITC, CBP)
+- The new trade policy (managed trade, economic statecraft)
+- Political economy (regional interests, lobbying)
+- Firm profiles: Walmart, Boeing, TSMC Arizona
+
+**Chapter 20: Global Supply Chains (roughly 7,500 words)**
+- Created `book/part4/ch20-supply-chains.md`
+- Used Gemini for supply chain data research
+
+**Content Coverage:**
+- Structure of modern trade (intermediate goods, intra-firm trade)
+- Major trade corridors (transpacific, USMCA, transatlantic)
+- Semiconductor supply chains (TSMC, ASML, CHIPS Act)
+- Automotive supply chains (USMCA rules, EV batteries, Battery Belt)
+- Pharmaceutical vulnerabilities (API sourcing, China/India)
+- 2021-22 supply chain crisis (ports, shipping, chips)
+- Reshoring and nearshoring (Mexico boom, manufacturing construction)
+- Firm profiles: Flexport, Maersk, Apple Supply Chain
+
+**2. Source Documentation**
+- Created `_data/part4_trade_sources.md`
+- Noted Jonathan Dingel course materials (econ35101, econ6905)
+
+**3. Gemini Review and Fixes**
+- Clarified tariff rate table (trade-weighted average vs. targeted rates)
+- Added note explaining targeted tariff structure
+
+### Session 8 Statistics
+
+- **New chapters drafted**: 2 (Ch19 Trade, Ch20 Supply Chains)
+- **Total chapters drafted**: 21 (Parts I-IV complete)
+- **Total estimated word count**: roughly 140,500 words
+- **Part IV Status**: COMPLETE (2 chapters, roughly 14,500 words)
+
+### Milestone: Part IV Complete
+
+**Part IV: Trade and Global Linkages**
+- Ch19: America's Trading Relationships (roughly 7,000 words)
+- Ch20: Global Supply Chains (roughly 7,500 words)
+
+### Progress Summary
+
+| Part | Chapters | Status | Words |
+|------|----------|--------|-------|
+| I: Shape of Economy | 3 | Complete | 17,000 |
+| II: The Sectors | 12 | Complete | 85,500 |
+| III: Financial Architecture | 3 | Complete | 23,500 |
+| IV: Trade | 2 | Complete | 14,500 |
+| **Total** | **20** | — | **140,500** |
+
+### Next Session Priorities
+
+1. **Begin Part V** (Regional: Ch21-25)
+   - Ch21: The Northeast Corridor
+   - Ch22: The Sunbelt
+   - Ch23: The Midwest
+   - Ch24: The West
+   - Ch25: Rural America
+   - May need Fed Beige Book research via Gemini
+2. **Begin Part VI** (Institutions: Ch26-28)
+3. **Create figures** for Parts III-IV
+
+---
+
 ## Notes for Future Sessions
 
 - User has Gemini Ultra access for intensive research tasks
 - Cross-project materials are extensive - prioritize reading over new research
-- Parts I, II, and III are now COMPLETE
-- International Finance textbook available for Part IV (Trade)
+- Parts I, II, III, and IV are now COMPLETE
 - User prefers: direct communication, skip pleasantries, push back when needed
 - **Gemini review workflow**: Draft chapter → send to Gemini for review → address feedback
+- **Dingel trade materials**: https://github.com/jdingel/econ35101 and econ6905
