@@ -38,6 +38,7 @@ This document tracks sources used, sources needed, and cross-project connections
 | **Ch26: Federal Governance** | **Draft complete** | Yes | Yes | Yes |
 | **Ch27: Trade Associations** | **Draft complete** | Yes | Yes | Yes |
 | **Ch28: Labor Organizations** | **Draft complete** | Yes | Yes | Yes |
+| **Ch29: Conclusion** | **Draft complete** | Yes | Yes | Yes |
 
 ---
 
