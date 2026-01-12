@@ -1,0 +1,54 @@
+# Large source materials (PDFs) - too large for GitHub
+_3industries/
+_2businesshistory/
+_9 Federal government/
+_1nipa/
+_4economics of institutions/
+_6Macro/
+_5history/
+_8regional economics/
+_7Trade/
+
+# Data files that are large or generated
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.parquet
+
+# But keep markdown and code
+!_data/*.md
+!_scripts/*.py
+!_templates/*.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.env
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.temp
+
+# Google Drive files (shortcuts, not real files)
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
