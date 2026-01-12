@@ -346,10 +346,28 @@ _planning/
   - Recent trends: Manufacturing supercycle (CHIPS Act fabs tripled spending), IIJA infrastructure, cost volatility, modular potential
 - Firm profiles: Bechtel (megaprojects), Turner Construction (commercial), D.R. Horton (industrialized homebuilding)
 
+**4. Figures Created (10 total)**
+- Created `_scripts/create_chapter_figures.py` for reproducible figure generation
+- Ch5 Real Estate (3 figures):
+  - `ch05_top_homebuilders.pdf` - Top 10 homebuilders by homes closed
+  - `ch05_top_reits.pdf` - Top 10 REITs by market cap
+  - `ch05_house_price_trends.pdf` - Case-Shiller index 2000-2024
+- Ch10 Retail (3 figures):
+  - `ch10_top_retailers.pdf` - Top 10 retailers by revenue
+  - `ch10_ecommerce_share.pdf` - E-commerce share trend
+  - `ch10_format_evolution.pdf` - Wheel of retailing timeline
+- Ch13 Construction (4 figures):
+  - `ch13_construction_spending.pdf` - Spending by type
+  - `ch13_productivity_puzzle.pdf` - Construction vs manufacturing productivity
+  - `ch13_top_contractors.pdf` - Top contractors by revenue
+  - `ch13_manufacturing_supercycle.pdf` - CHIPS Act spending surge
+
 ### Session 3 Final Statistics
 
 - **New chapters drafted this session**: 3 (Ch5 Real Estate, Ch10 Retail, Ch13 Construction)
+- **New figures created this session**: 10
 - **Total chapters drafted**: 10 (Ch4, Ch5, Ch6, Ch7, Ch8, Ch10, Ch13, Ch14, Ch15)
+- **Total figures created**: 17 (Ch1: 3, Ch4: 4, Ch5: 3, Ch10: 3, Ch13: 4)
 - **Total estimated word count**: ~61,000 words across all drafted chapters
 
 ---
