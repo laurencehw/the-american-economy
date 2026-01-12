@@ -609,6 +609,160 @@ _planning/
 
 ---
 
+## Session 6: January 12, 2026
+
+### Accomplishments
+
+**1. Chapter 16: How American Finance Works Drafted**
+- Created `book/part3/ch16-how-finance-works.md` (~7,500 words)
+- First chapter of Part III (Financial Architecture)
+
+**Source Materials Integrated:**
+- 2008 Crisis Chapter 6 (Financial Accelerator & Shadow Banking)
+- 2008 Crisis Chapter 7 (Leverage and Securitization)
+- Macro Chapter 10 (Money and Payments System)
+- Macro Chapter 11 (Banking, Credit, Financial Intermediation)
+- Finance Chapter 15 (Institutional Finance)
+
+**Content Coverage:**
+- Hierarchy of money (currency → reserves → deposits → shadow money)
+- How banks create money (loans create deposits, endogenous money)
+- Payments system (Fedwire, CHIPS, ACH, SWIFT distinction)
+- Shadow banking ecosystem (repo, MMFs, securitization)
+- Fed operational framework (floor vs. corridor system, IORB, ON RRP)
+- Credit channel and financial accelerator
+- Regulatory architecture (Basel III, stress tests)
+- March 2023 bank stress (SVB as case study)
+- Recent trends (private credit, fintech, stablecoins)
+- Firm profiles: JPMorgan Chase, Federal Reserve System, BlackRock
+
+**2. Research Sources Documented**
+- Created `_data/ch16_finance_mechanics_sources.md`
+- Cross-project materials mapped
+- Academic references catalogued
+- Data sources identified
+
+### Files Created/Modified
+
+```
+book/part3/
+└── ch16-how-finance-works.md ✓ (NEW - ~7,500 words)
+
+_data/
+└── ch16_finance_mechanics_sources.md ✓ (NEW)
+
+book/
+└── SUMMARY.md (updated path)
+
+_planning/
+├── session_log.md (updated)
+└── source_tracking.md (to update)
+```
+
+### Session 6 Summary Statistics
+
+- **New chapters drafted**: 1 (Ch16 How American Finance Works)
+- **Total chapters drafted**: 17 (Parts I-II complete + Ch16)
+- **Total estimated word count**: ~110,000 words
+- **Part III Status**: 1 of 3 chapters drafted
+
+### Milestone: Part III Begun
+
+**Part III: The Financial Architecture**
+- Ch16: How American Finance Works ✓ (~7,500 words)
+- Ch17: Capital Markets (not started)
+- Ch18: Corporate Finance in Practice (not started)
+
+### Next Session Priorities
+
+1. **Draft Ch17 (Capital Markets)** - Stock markets, bond markets, derivatives, PE/VC
+2. **Draft Ch18 (Corporate Finance)** - How firms finance operations, M&A, capital structure
+3. **Create figures for Ch16** - Hierarchy diagram, payments flow, shadow banking map
+4. **Create figures for chapters missing visualizations** (Ch6-8, Ch14-15)
+5. **Begin Part IV (Trade)** or **Part V (Regional)** after Part III complete
+
+---
+
+## Session 7: January 12, 2026
+
+### Accomplishments
+
+**1. Chapter 17: Capital Markets Drafted**
+- Created `book/part3/ch17-capital-markets.md` (~8,500 words with revisions)
+- Second chapter of Part III (Financial Architecture)
+
+**Source Materials Integrated:**
+- Macro Chapter 12 (Asset Prices) - equity premium puzzle, term structure, credit spreads
+- International Finance Chapter 14 (Global Equity Markets) - ADRs, passive investing
+- International Finance Chapter 12 (International Bond Markets) - bond market structure
+
+**Content Coverage:**
+- Equity markets: NYSE, NASDAQ, market structure, fragmentation, HFT, PFOF
+- Market indices: S&P 500, Dow, Russell 2000, index power
+- IPOs and capital raising: Process, underwriters, SPAC boom/bust, direct listings
+- Stock buybacks: Net equity withdrawal, $800B+ annually, tax advantages (NEW)
+- Bond markets: Treasury securities, corporate bonds, municipal bonds, credit spreads
+- Term structure: Yield curve, inversion as recession indicator
+- Derivatives: Futures (SOFR replaced Eurodollar), options, VIX, OTC swaps
+- Private markets: Private equity, venture capital, power law returns
+- Geography: NYC, Chicago, Boston, Bay Area concentrations
+- Regulation: SEC, CFTC, FINRA fragmentation
+- Infrastructure: Clearinghouses, T+1 settlement (May 2024), depositories, securities lending
+- Recent trends: Passive investing revolution, private market expansion, meme stocks/retail renaissance, crypto, AI
+- Firm profiles: NYSE/ICE, CME Group, Sequoia Capital
+
+**2. Gemini Review and Revisions**
+- Sent draft to Gemini for review
+- Addressed critical feedback:
+  - Replaced Eurodollar references with SOFR (LIBOR discontinued June 2023)
+  - Added Stock Buybacks section (major gap identified)
+  - Added T+1 settlement mention (May 2024 change)
+  - Added Meme Stocks/retail trading trend
+  - Added short selling definition
+  - Clarified Treasury debt as "Debt Held by Public"
+
+**3. Research Sources Documented**
+- Created `_data/ch17_capital_markets_sources.md`
+- Cross-project materials mapped
+- Data sources identified
+
+### Files Created/Modified
+
+```
+book/part3/
+└── ch17-capital-markets.md ✓ (NEW - ~8,500 words)
+
+_data/
+└── ch17_capital_markets_sources.md ✓ (NEW)
+
+_planning/
+├── session_log.md (updated)
+└── source_tracking.md (to update)
+```
+
+### Session 7 Summary Statistics
+
+- **New chapters drafted**: 1 (Ch17 Capital Markets)
+- **Total chapters drafted**: 18 (Parts I-II complete + Ch16-17)
+- **Total estimated word count**: ~118,500 words
+- **Part III Status**: 2 of 3 chapters drafted
+
+### Milestone: Part III Nearly Complete
+
+**Part III: The Financial Architecture**
+- Ch16: How American Finance Works ✓ (~7,500 words)
+- Ch17: Capital Markets ✓ (~8,500 words)
+- Ch18: Corporate Finance in Practice (not started)
+
+### Next Session Priorities
+
+1. **Draft Ch18 (Corporate Finance in Practice)** - How firms finance operations, M&A, capital structure
+2. **Create figures for Ch16-17** - Hierarchy diagram, market structure charts
+3. **Begin Part IV (Trade)** or **Part V (Regional)** after Part III complete
+4. **Create figures for chapters missing visualizations** (Ch6-8, Ch14-15)
+
+---
+
 ## Notes for Future Sessions
 
 - User has Gemini Ultra access for intensive research tasks
@@ -617,3 +771,4 @@ _planning/
 - City Economies housing materials ready for Ch5 Real Estate adaptation
 - 2008 Crisis mortgage chapters available for Ch5 and Ch16
 - User prefers: direct communication, skip pleasantries, push back when needed
+- **Gemini review workflow**: Draft chapter → send to Gemini for review → address feedback

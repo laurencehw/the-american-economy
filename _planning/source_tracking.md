@@ -25,7 +25,9 @@ This document tracks sources used, sources needed, and cross-project connections
 | **Ch12: Transportation** | **Draft complete** | Yes | Yes | Yes |
 | **Ch13: Construction** | **Draft complete** | Yes | Yes | Yes |
 | **Ch14: Energy** | **Draft complete** | Yes | Yes | Yes |
-| Ch16-18: Finance System | Not started | No | Partial | - |
+| **Ch16: How Finance Works** | **Draft complete** | Yes | Yes | Yes |
+| **Ch17: Capital Markets** | **Draft complete** | Yes | Yes | Yes |
+| Ch18: Corporate Finance | Not started | No | Partial | - |
 | Ch19-20: Trade | Not started | No | Partial | - |
 | Ch21-25: Regional | Not started | No | Partial | - |
 | Ch26-28: Institutions | Not started | No | Partial | - |

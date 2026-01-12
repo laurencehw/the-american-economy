@@ -26,7 +26,7 @@
 
 ## Part III: The Financial Architecture
 
-* [16. How American Finance Works](part3/ch16-finance-system.md)
+* [16. How American Finance Works](part3/ch16-how-finance-works.md)
 * [17. Capital Markets](part3/ch17-capital-markets.md)
 * [18. Corporate Finance in Practice](part3/ch18-corporate-finance.md)
 
