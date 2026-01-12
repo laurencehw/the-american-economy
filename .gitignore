@@ -52,3 +52,15 @@ desktop.ini
 *.gsheet
 *.gslides
 *.gdraw
+
+# Project-specific exclusions (sensitive/private)
+CLAUDE.md
+_data/cross_project_resources.md
+_data/materials_inventory.md
+_data/pdf_inventory_raw.txt
+
+# Unrelated materials
+_0econ_data_statistics/
+__slides/
+*.docx
+*.pptx
