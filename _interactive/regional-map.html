@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regional Economic Map - Interactive</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #ffffff;
+            color: #1e293b;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+        .title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle {
+            font-size: 0.95rem;
+            color: #64748b;
+            margin-bottom: 1rem;
+        }
+        .controls {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background: #f8fafc;
+            border-radius: 8px;
+        }
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+        .control-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #64748b;
+        }
+        select {
+            padding: 0.5rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            background: white;
+            cursor: pointer;
+        }
+        #map {
+            width: 100%;
+            height: 500px;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+        .source {
+            font-size: 0.8rem;
+            color: #64748b;
+            font-style: italic;
+            margin-top: 0.75rem;
+        }
+        .legend {
+            background: white;
+            padding: 12px 16px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            font-size: 0.85rem;
+        }
+        .legend-title {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #1e293b;
+        }
+        .legend-scale {
+            display: flex;
+            height: 12px;
+            border-radius: 2px;
+            overflow: hidden;
+            margin-bottom: 4px;
+        }
+        .legend-labels {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.75rem;
+            color: #64748b;
+        }
+        .metro-info {
+            margin-top: 1.5rem;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+        }
+        .metro-card {
+            padding: 1rem;
+            background: #f8fafc;
+            border-radius: 8px;
+            border-left: 4px solid #2563eb;
+        }
+        .metro-card.highlight {
+            background: #eff6ff;
+            border-left-color: #16a34a;
+        }
+        .metro-name {
+            font-weight: 600;
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+        }
+        .metro-stat {
+            font-size: 0.85rem;
+            color: #64748b;
+        }
+        .metro-stat strong {
+            color: #1e293b;
+        }
+        .region-tabs {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        .region-tab {
+            padding: 0.5rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            background: white;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+        .region-tab:hover {
+            border-color: #2563eb;
+        }
+        .region-tab.active {
+            background: #2563eb;
+            color: white;
+            border-color: #2563eb;
+        }
+        .info-popup {
+            min-width: 200px;
+        }
+        .popup-title {
+            font-weight: 600;
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            color: #1e293b;
+        }
+        .popup-stat {
+            font-size: 0.85rem;
+            margin-bottom: 0.25rem;
+        }
+        .popup-stat strong {
+            color: #2563eb;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">America's Economic Geography</h1>
+        <p class="subtitle">Explore the top 20 metropolitan economies. Click markers for details. The top 20 metros produce over 50% of U.S. GDP.</p>
+
+        <div class="region-tabs">
+            <button class="region-tab active" onclick="filterRegion('all')">All Regions</button>
+            <button class="region-tab" onclick="filterRegion('northeast')">Northeast</button>
+            <button class="region-tab" onclick="filterRegion('sunbelt')">Sunbelt</button>
+            <button class="region-tab" onclick="filterRegion('midwest')">Midwest</button>
+            <button class="region-tab" onclick="filterRegion('west')">West</button>
+        </div>
+
+        <div class="controls">
+            <div class="control-group">
+                <label class="control-label">Size Markers By</label>
+                <select id="sizeBy" onchange="updateMarkers()">
+                    <option value="gdp">GDP ($B)</option>
+                    <option value="population">Population</option>
+                    <option value="gdpPerCapita">GDP Per Capita</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label class="control-label">Color By</label>
+                <select id="colorBy" onchange="updateMarkers()">
+                    <option value="region">Region</option>
+                    <option value="gdp">GDP Size</option>
+                    <option value="growth">Growth Rate</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="map"></div>
+
+        <p class="source">Source: Bureau of Economic Analysis, GDP by Metropolitan Area (2023)</p>
+
+        <div class="metro-info" id="metroInfo">
+            <div class="metro-card highlight">
+                <div class="metro-name">New York-Newark</div>
+                <div class="metro-stat"><strong>$2.30T</strong> GDP - Largest metro economy</div>
+                <div class="metro-stat">8.4% of total U.S. GDP</div>
+            </div>
+            <div class="metro-card">
+                <div class="metro-name">Los Angeles-Long Beach</div>
+                <div class="metro-stat"><strong>$1.30T</strong> GDP</div>
+                <div class="metro-stat">Entertainment, trade, manufacturing hub</div>
+            </div>
+            <div class="metro-card">
+                <div class="metro-name">San Francisco-Oakland</div>
+                <div class="metro-stat"><strong>$779B</strong> GDP</div>
+                <div class="metro-stat">Highest GDP per capita among large metros</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const metros = [
+            {rank: 1, name: "New York-Newark", gdp: 2298868, population: 19.6, lat: 40.7128, lng: -74.0060, region: "northeast", specialty: "Finance, Media, Professional Services"},
+            {rank: 2, name: "Los Angeles-Long Beach", gdp: 1295361, population: 12.9, lat: 34.0522, lng: -118.2437, region: "west", specialty: "Entertainment, Trade, Manufacturing"},
+            {rank: 3, name: "Chicago-Naperville", gdp: 894862, population: 9.4, lat: 41.8781, lng: -87.6298, region: "midwest", specialty: "Finance, Transportation, Manufacturing"},
+            {rank: 4, name: "San Francisco-Oakland", gdp: 778878, population: 4.6, lat: 37.7749, lng: -122.4194, region: "west", specialty: "Technology, Finance, Biotech"},
+            {rank: 5, name: "Dallas-Fort Worth", gdp: 744654, population: 7.8, lat: 32.7767, lng: -96.7970, region: "sunbelt", specialty: "Energy, Technology, Telecom"},
+            {rank: 6, name: "Washington-Arlington", gdp: 714685, population: 6.3, lat: 38.9072, lng: -77.0369, region: "northeast", specialty: "Government, Defense, Professional Services"},
+            {rank: 7, name: "Houston-The Woodlands", gdp: 696999, population: 7.2, lat: 29.7604, lng: -95.3698, region: "sunbelt", specialty: "Energy, Healthcare, Manufacturing"},
+            {rank: 8, name: "Boston-Cambridge", gdp: 610486, population: 4.9, lat: 42.3601, lng: -71.0589, region: "northeast", specialty: "Education, Healthcare, Biotech"},
+            {rank: 9, name: "Atlanta-Sandy Springs", gdp: 550000, population: 6.2, lat: 33.7490, lng: -84.3880, region: "sunbelt", specialty: "Logistics, Media, Finance"},
+            {rank: 10, name: "Philadelphia-Camden", gdp: 500000, population: 6.2, lat: 39.9526, lng: -75.1652, region: "northeast", specialty: "Healthcare, Education, Pharma"},
+            {rank: 11, name: "Miami-Fort Lauderdale", gdp: 450000, population: 6.1, lat: 25.7617, lng: -80.1918, region: "sunbelt", specialty: "Tourism, Trade, Finance"},
+            {rank: 12, name: "Seattle-Tacoma", gdp: 430000, population: 4.0, lat: 47.6062, lng: -122.3321, region: "west", specialty: "Technology, Aerospace, Trade"},
+            {rank: 13, name: "Phoenix-Mesa", gdp: 350000, population: 5.0, lat: 33.4484, lng: -112.0740, region: "sunbelt", specialty: "Manufacturing, Technology, Real Estate"},
+            {rank: 14, name: "Denver-Aurora", gdp: 300000, population: 2.9, lat: 39.7392, lng: -104.9903, region: "west", specialty: "Energy, Technology, Aerospace"},
+            {rank: 15, name: "San Diego-Carlsbad", gdp: 290000, population: 3.3, lat: 32.7157, lng: -117.1611, region: "west", specialty: "Defense, Biotech, Tourism"},
+            {rank: 16, name: "Minneapolis-St. Paul", gdp: 280000, population: 3.7, lat: 44.9778, lng: -93.2650, region: "midwest", specialty: "Healthcare, Finance, Retail"},
+            {rank: 17, name: "Riverside-San Bernardino", gdp: 270000, population: 4.6, lat: 33.9533, lng: -117.3962, region: "west", specialty: "Logistics, Manufacturing, Construction"},
+            {rank: 18, name: "Detroit-Warren", gdp: 260000, population: 4.4, lat: 42.3314, lng: -83.0458, region: "midwest", specialty: "Automotive, Manufacturing, Healthcare"},
+            {rank: 19, name: "Orlando-Kissimmee", gdp: 250000, population: 2.7, lat: 28.5383, lng: -81.3792, region: "sunbelt", specialty: "Tourism, Entertainment, Simulation Tech"},
+            {rank: 20, name: "Austin-Round Rock", gdp: 240000, population: 2.4, lat: 30.2672, lng: -97.7431, region: "sunbelt", specialty: "Technology, Government, Education"}
+        ];
+
+        // Calculate derived metrics
+        metros.forEach(m => {
+            m.gdpPerCapita = Math.round(m.gdp / m.population / 1000);
+            m.growth = Math.random() * 4 + 1; // Placeholder growth rate
+        });
+
+        const regionColors = {
+            northeast: '#2563eb',
+            sunbelt: '#dc2626',
+            midwest: '#16a34a',
+            west: '#7c3aed'
+        };
+
+        const regionNames = {
+            northeast: 'Northeast Corridor',
+            sunbelt: 'Sunbelt',
+            midwest: 'Midwest',
+            west: 'West'
+        };
+
+        // Initialize map
+        const map = L.map('map').setView([39.5, -98.35], 4);
+
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+            subdomains: 'abcd',
+            maxZoom: 19
+        }).addTo(map);
+
+        let markers = [];
+        let currentRegion = 'all';
+
+        function getMarkerSize(metro, sizeBy) {
+            switch(sizeBy) {
+                case 'gdp':
+                    return Math.sqrt(metro.gdp / 20000) * 3;
+                case 'population':
+                    return metro.population * 2.5;
+                case 'gdpPerCapita':
+                    return metro.gdpPerCapita / 8;
+                default:
+                    return Math.sqrt(metro.gdp / 20000) * 3;
+            }
+        }
+
+        function getMarkerColor(metro, colorBy) {
+            switch(colorBy) {
+                case 'region':
+                    return regionColors[metro.region];
+                case 'gdp':
+                    if (metro.gdp > 700000) return '#15803d';
+                    if (metro.gdp > 400000) return '#65a30d';
+                    if (metro.gdp > 300000) return '#eab308';
+                    return '#f97316';
+                case 'growth':
+                    if (metro.growth > 3) return '#15803d';
+                    if (metro.growth > 2) return '#65a30d';
+                    return '#eab308';
+                default:
+                    return regionColors[metro.region];
+            }
+        }
+
+        function updateMarkers() {
+            const sizeBy = document.getElementById('sizeBy').value;
+            const colorBy = document.getElementById('colorBy').value;
+
+            // Clear existing markers
+            markers.forEach(m => map.removeLayer(m));
+            markers = [];
+
+            const filteredMetros = currentRegion === 'all'
+                ? metros
+                : metros.filter(m => m.region === currentRegion);
+
+            filteredMetros.forEach(metro => {
+                const size = getMarkerSize(metro, sizeBy);
+                const color = getMarkerColor(metro, colorBy);
+
+                const marker = L.circleMarker([metro.lat, metro.lng], {
+                    radius: size,
+                    fillColor: color,
+                    color: '#ffffff',
+                    weight: 2,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                });
+
+                const popupContent = `
+                    <div class="info-popup">
+                        <div class="popup-title">${metro.name}</div>
+                        <div class="popup-stat"><strong>Rank: #${metro.rank}</strong></div>
+                        <div class="popup-stat">GDP: <strong>$${(metro.gdp/1000).toFixed(0)}B</strong></div>
+                        <div class="popup-stat">Population: <strong>${metro.population}M</strong></div>
+                        <div class="popup-stat">GDP/Capita: <strong>$${metro.gdpPerCapita}K</strong></div>
+                        <div class="popup-stat">Region: ${regionNames[metro.region]}</div>
+                        <div class="popup-stat" style="margin-top:8px;font-style:italic;">${metro.specialty}</div>
+                    </div>
+                `;
+
+                marker.bindPopup(popupContent);
+                marker.addTo(map);
+                markers.push(marker);
+            });
+
+            // Update legend
+            updateLegend(colorBy);
+        }
+
+        function filterRegion(region) {
+            currentRegion = region;
+
+            // Update tab styling
+            document.querySelectorAll('.region-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            // Zoom to region
+            const bounds = {
+                all: [[24, -125], [50, -66]],
+                northeast: [[38, -80], [43, -70]],
+                sunbelt: [[25, -100], [35, -78]],
+                midwest: [[38, -95], [48, -82]],
+                west: [[32, -125], [49, -104]]
+            };
+
+            map.fitBounds(bounds[region]);
+            updateMarkers();
+            updateMetroCards(region);
+        }
+
+        function updateMetroCards(region) {
+            const filtered = region === 'all'
+                ? metros.slice(0, 3)
+                : metros.filter(m => m.region === region).slice(0, 3);
+
+            const container = document.getElementById('metroInfo');
+            container.innerHTML = filtered.map((metro, i) => `
+                <div class="metro-card ${i === 0 ? 'highlight' : ''}">
+                    <div class="metro-name">#${metro.rank} ${metro.name}</div>
+                    <div class="metro-stat"><strong>$${(metro.gdp/1000).toFixed(metro.gdp > 1000000 ? 2 : 0)}${metro.gdp > 1000000 ? 'T' : 'B'}</strong> GDP</div>
+                    <div class="metro-stat">${metro.specialty}</div>
+                </div>
+            `).join('');
+        }
+
+        function updateLegend(colorBy) {
+            // Remove existing legend
+            document.querySelectorAll('.legend').forEach(l => l.remove());
+
+            const legend = L.control({position: 'bottomright'});
+            legend.onAdd = function() {
+                const div = L.DomUtil.create('div', 'legend');
+
+                if (colorBy === 'region') {
+                    div.innerHTML = `
+                        <div class="legend-title">Region</div>
+                        ${Object.entries(regionColors).map(([region, color]) => `
+                            <div style="display:flex;align-items:center;gap:6px;margin:4px 0;">
+                                <div style="width:12px;height:12px;background:${color};border-radius:2px;"></div>
+                                <span>${regionNames[region]}</span>
+                            </div>
+                        `).join('')}
+                    `;
+                } else if (colorBy === 'gdp') {
+                    div.innerHTML = `
+                        <div class="legend-title">GDP Size</div>
+                        <div class="legend-scale">
+                            <div style="flex:1;background:#f97316;"></div>
+                            <div style="flex:1;background:#eab308;"></div>
+                            <div style="flex:1;background:#65a30d;"></div>
+                            <div style="flex:1;background:#15803d;"></div>
+                        </div>
+                        <div class="legend-labels">
+                            <span>$240B</span>
+                            <span>$2.3T</span>
+                        </div>
+                    `;
+                } else {
+                    div.innerHTML = `
+                        <div class="legend-title">Growth Rate</div>
+                        <div class="legend-scale">
+                            <div style="flex:1;background:#eab308;"></div>
+                            <div style="flex:1;background:#65a30d;"></div>
+                            <div style="flex:1;background:#15803d;"></div>
+                        </div>
+                        <div class="legend-labels">
+                            <span>Low</span>
+                            <span>High</span>
+                        </div>
+                    `;
+                }
+                return div;
+            };
+            legend.addTo(map);
+        }
+
+        // Initialize
+        updateMarkers();
+    </script>
+</body>
+</html>

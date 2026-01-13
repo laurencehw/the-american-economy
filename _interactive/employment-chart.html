@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employment by Sector - Interactive Chart</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #ffffff;
+            color: #1e293b;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+        .title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle {
+            font-size: 0.95rem;
+            color: #64748b;
+            margin-bottom: 1rem;
+        }
+        .controls {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background: #f8fafc;
+            border-radius: 8px;
+        }
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+        .control-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #64748b;
+        }
+        select, button {
+            padding: 0.5rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            background: white;
+            cursor: pointer;
+        }
+        button {
+            background: #2563eb;
+            color: white;
+            border: none;
+            font-weight: 500;
+        }
+        button:hover {
+            background: #1d4ed8;
+        }
+        button.active {
+            background: #1e40af;
+        }
+        .btn-group {
+            display: flex;
+            gap: 0.5rem;
+        }
+        .btn-secondary {
+            background: #f1f5f9;
+            color: #1e293b;
+            border: 1px solid #e2e8f0;
+        }
+        .btn-secondary:hover {
+            background: #e2e8f0;
+        }
+        .btn-secondary.active {
+            background: #2563eb;
+            color: white;
+        }
+        #chart {
+            width: 100%;
+            height: 550px;
+        }
+        .source {
+            font-size: 0.8rem;
+            color: #64748b;
+            font-style: italic;
+            margin-top: 0.5rem;
+        }
+        .gap-analysis {
+            margin-top: 1.5rem;
+            padding: 1.5rem;
+            background: #fef3c7;
+            border-radius: 8px;
+            border-left: 4px solid #f59e0b;
+        }
+        .gap-title {
+            font-weight: 700;
+            color: #92400e;
+            margin-bottom: 0.75rem;
+        }
+        .gap-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+        .gap-item {
+            padding: 0.75rem;
+            background: white;
+            border-radius: 6px;
+        }
+        .gap-sector {
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+        .gap-stat {
+            font-size: 0.8rem;
+            color: #64748b;
+            margin-top: 0.25rem;
+        }
+        .gap-indicator {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            margin-top: 0.25rem;
+        }
+        .gap-high {
+            background: #dcfce7;
+            color: #166534;
+        }
+        .gap-low {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Employment by Sector</h1>
+        <p class="subtitle">157 million Americans work across 14 major sectors. Compare employment patterns with GDP contribution.</p>
+
+        <div class="controls">
+            <div class="control-group">
+                <label class="control-label">Chart Type</label>
+                <div class="btn-group">
+                    <button id="btnBar" class="btn-secondary active" onclick="setChartType('bar')">Bar Chart</button>
+                    <button id="btnScatter" class="btn-secondary" onclick="setChartType('scatter')">GDP vs Employment</button>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label">Sort By</label>
+                <select id="sortBy" onchange="updateChart()">
+                    <option value="employment">Employment (High to Low)</option>
+                    <option value="gdp">GDP Share</option>
+                    <option value="productivity">Productivity</option>
+                    <option value="alphabetical">Alphabetical</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label class="control-label">Show</label>
+                <select id="showMetric" onchange="updateChart()">
+                    <option value="employment">Employment (Millions)</option>
+                    <option value="share">Employment Share (%)</option>
+                    <option value="both">Compare GDP & Employment</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="chart"></div>
+
+        <p class="source">Source: Bureau of Labor Statistics, Current Employment Statistics (December 2023)</p>
+
+        <div class="gap-analysis">
+            <div class="gap-title">The GDP-Employment Gap</div>
+            <p style="margin-bottom: 1rem; font-size: 0.9rem;">Some sectors produce far more output per worker than others. This explains wage differences and automation's uneven impact.</p>
+            <div class="gap-grid">
+                <div class="gap-item">
+                    <div class="gap-sector">Information/Tech</div>
+                    <div class="gap-stat">6% of GDP, 2% of jobs</div>
+                    <div class="gap-indicator gap-high">+4% gap (high productivity)</div>
+                </div>
+                <div class="gap-item">
+                    <div class="gap-sector">Manufacturing</div>
+                    <div class="gap-stat">11% of GDP, 8% of jobs</div>
+                    <div class="gap-indicator gap-high">+3% gap (automation)</div>
+                </div>
+                <div class="gap-item">
+                    <div class="gap-sector">Healthcare</div>
+                    <div class="gap-stat">9% of GDP, 17% of jobs</div>
+                    <div class="gap-indicator gap-low">-8% gap (labor-intensive)</div>
+                </div>
+                <div class="gap-item">
+                    <div class="gap-sector">Leisure & Hospitality</div>
+                    <div class="gap-stat">4% of GDP, 11% of jobs</div>
+                    <div class="gap-indicator gap-low">-7% gap (service work)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const sectorData = [
+            {name: "Education & Health Services", employment: 26.4, empShare: 16.8, gdpShare: 9.0, color: "#16a34a"},
+            {name: "Government", employment: 23.1, empShare: 14.7, gdpShare: 11.0, color: "#dc2626"},
+            {name: "Professional & Business Services", employment: 22.9, empShare: 14.6, gdpShare: 13.0, color: "#2563eb"},
+            {name: "Leisure & Hospitality", employment: 16.8, empShare: 10.7, gdpShare: 4.0, color: "#e11d48"},
+            {name: "Retail Trade", employment: 15.6, empShare: 9.9, gdpShare: 6.0, color: "#db2777"},
+            {name: "Manufacturing", employment: 12.6, empShare: 8.0, gdpShare: 11.0, color: "#ea580c"},
+            {name: "Financial Activities", employment: 9.1, empShare: 5.8, gdpShare: 8.0, color: "#0891b2"},
+            {name: "Construction", employment: 8.1, empShare: 5.2, gdpShare: 4.0, color: "#ca8a04"},
+            {name: "Transportation & Warehousing", employment: 6.2, empShare: 3.9, gdpShare: 3.5, color: "#059669"},
+            {name: "Wholesale Trade", employment: 6.1, empShare: 3.9, gdpShare: 6.0, color: "#9333ea"},
+            {name: "Other Services", employment: 5.9, empShare: 3.8, gdpShare: 2.0, color: "#64748b"},
+            {name: "Information", employment: 2.9, empShare: 1.8, gdpShare: 6.0, color: "#4f46e5"},
+            {name: "Mining & Logging", employment: 0.65, empShare: 0.4, gdpShare: 1.4, color: "#78716c"},
+            {name: "Utilities", employment: 0.58, empShare: 0.4, gdpShare: 1.6, color: "#475569"}
+        ];
+
+        // Calculate productivity (GDP per worker proxy)
+        sectorData.forEach(d => {
+            d.productivity = (d.gdpShare / d.empShare).toFixed(2);
+        });
+
+        let chartType = 'bar';
+
+        function setChartType(type) {
+            chartType = type;
+            document.getElementById('btnBar').classList.toggle('active', type === 'bar');
+            document.getElementById('btnScatter').classList.toggle('active', type === 'scatter');
+            updateChart();
+        }
+
+        function updateChart() {
+            if (chartType === 'scatter') {
+                renderScatterPlot();
+            } else {
+                renderBarChart();
+            }
+        }
+
+        function renderBarChart() {
+            const sortBy = document.getElementById('sortBy').value;
+            const showMetric = document.getElementById('showMetric').value;
+
+            let sortedData = [...sectorData];
+            switch(sortBy) {
+                case 'employment':
+                    sortedData.sort((a, b) => b.employment - a.employment);
+                    break;
+                case 'gdp':
+                    sortedData.sort((a, b) => b.gdpShare - a.gdpShare);
+                    break;
+                case 'productivity':
+                    sortedData.sort((a, b) => b.productivity - a.productivity);
+                    break;
+                case 'alphabetical':
+                    sortedData.sort((a, b) => a.name.localeCompare(b.name));
+                    break;
+            }
+
+            const traces = [];
+
+            if (showMetric === 'employment' || showMetric === 'both') {
+                traces.push({
+                    type: 'bar',
+                    name: 'Employment (M)',
+                    y: sortedData.map(d => d.name),
+                    x: sortedData.map(d => d.employment),
+                    orientation: 'h',
+                    marker: {
+                        color: sortedData.map(d => d.color),
+                        line: { width: 0 }
+                    },
+                    text: sortedData.map(d => `${d.employment}M`),
+                    textposition: 'outside',
+                    hovertemplate: '<b>%{y}</b><br>Employment: %{x:.1f}M workers<extra></extra>'
+                });
+            }
+
+            if (showMetric === 'share') {
+                traces.push({
+                    type: 'bar',
+                    name: 'Employment Share (%)',
+                    y: sortedData.map(d => d.name),
+                    x: sortedData.map(d => d.empShare),
+                    orientation: 'h',
+                    marker: {
+                        color: sortedData.map(d => d.color),
+                        line: { width: 0 }
+                    },
+                    text: sortedData.map(d => `${d.empShare}%`),
+                    textposition: 'outside',
+                    hovertemplate: '<b>%{y}</b><br>Employment Share: %{x:.1f}%<extra></extra>'
+                });
+            }
+
+            if (showMetric === 'both') {
+                traces[0].marker.color = '#2563eb';
+                traces[0].name = 'Employment Share (%)';
+                traces[0].x = sortedData.map(d => d.empShare);
+                traces[0].text = sortedData.map(d => `${d.empShare}%`);
+
+                traces.push({
+                    type: 'bar',
+                    name: 'GDP Share (%)',
+                    y: sortedData.map(d => d.name),
+                    x: sortedData.map(d => d.gdpShare),
+                    orientation: 'h',
+                    marker: {
+                        color: '#16a34a',
+                        line: { width: 0 }
+                    },
+                    text: sortedData.map(d => `${d.gdpShare}%`),
+                    textposition: 'outside',
+                    hovertemplate: '<b>%{y}</b><br>GDP Share: %{x:.1f}%<extra></extra>'
+                });
+            }
+
+            const layout = {
+                margin: { l: 200, r: 80, t: 20, b: 50 },
+                xaxis: {
+                    title: showMetric === 'employment' ? 'Employment (Millions)' : 'Share (%)',
+                    gridcolor: '#e2e8f0'
+                },
+                yaxis: {
+                    automargin: true
+                },
+                barmode: showMetric === 'both' ? 'group' : 'relative',
+                showlegend: showMetric === 'both',
+                legend: {
+                    orientation: 'h',
+                    y: 1.02,
+                    x: 0.5,
+                    xanchor: 'center'
+                },
+                font: {
+                    family: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+                },
+                plot_bgcolor: 'white',
+                paper_bgcolor: 'white'
+            };
+
+            Plotly.newPlot('chart', traces, layout, {responsive: true, displaylogo: false});
+        }
+
+        function renderScatterPlot() {
+            const trace = {
+                type: 'scatter',
+                mode: 'markers+text',
+                x: sectorData.map(d => d.empShare),
+                y: sectorData.map(d => d.gdpShare),
+                text: sectorData.map(d => d.name.split(' ')[0]),
+                textposition: 'top center',
+                marker: {
+                    size: sectorData.map(d => Math.sqrt(d.employment) * 8),
+                    color: sectorData.map(d => d.color),
+                    line: { width: 2, color: 'white' }
+                },
+                customdata: sectorData.map(d => [d.name, d.employment, d.productivity]),
+                hovertemplate: '<b>%{customdata[0]}</b><br>Employment Share: %{x:.1f}%<br>GDP Share: %{y:.1f}%<br>Workers: %{customdata[1]}M<br>Productivity Index: %{customdata[2]}<extra></extra>'
+            };
+
+            // Add diagonal line (equal productivity)
+            const diagLine = {
+                type: 'scatter',
+                mode: 'lines',
+                x: [0, 18],
+                y: [0, 18],
+                line: { color: '#94a3b8', dash: 'dash', width: 1 },
+                showlegend: false,
+                hoverinfo: 'skip'
+            };
+
+            const layout = {
+                margin: { l: 60, r: 40, t: 40, b: 60 },
+                xaxis: {
+                    title: 'Employment Share (%)',
+                    range: [0, 18],
+                    gridcolor: '#e2e8f0',
+                    zeroline: false
+                },
+                yaxis: {
+                    title: 'GDP Share (%)',
+                    range: [0, 18],
+                    gridcolor: '#e2e8f0',
+                    zeroline: false
+                },
+                annotations: [
+                    {
+                        x: 15,
+                        y: 3,
+                        text: 'Labor-intensive<br>(below line)',
+                        showarrow: false,
+                        font: { size: 11, color: '#64748b' }
+                    },
+                    {
+                        x: 3,
+                        y: 15,
+                        text: 'High productivity<br>(above line)',
+                        showarrow: false,
+                        font: { size: 11, color: '#64748b' }
+                    }
+                ],
+                font: {
+                    family: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+                },
+                plot_bgcolor: 'white',
+                paper_bgcolor: 'white',
+                showlegend: false
+            };
+
+            Plotly.newPlot('chart', [diagLine, trace], layout, {responsive: true, displaylogo: false});
+        }
+
+        // Initial render
+        updateChart();
+    </script>
+</body>
+</html>

@@ -1,0 +1,152 @@
+{
+  "gdp": {
+    "total": 27360,
+    "year": 2023,
+    "byIndustry": [
+      {"name": "Professional & Business Services", "value": 3557, "share": 13.0, "employment": 22.9, "color": "#2563eb"},
+      {"name": "Real Estate", "value": 3283, "share": 12.0, "employment": 2.3, "color": "#7c3aed"},
+      {"name": "Government", "value": 3010, "share": 11.0, "employment": 23.1, "color": "#dc2626"},
+      {"name": "Manufacturing", "value": 3010, "share": 11.0, "employment": 12.6, "color": "#ea580c"},
+      {"name": "Healthcare & Social Services", "value": 2462, "share": 9.0, "employment": 26.4, "color": "#16a34a"},
+      {"name": "Finance & Insurance", "value": 2189, "share": 8.0, "employment": 9.1, "color": "#0891b2"},
+      {"name": "Information (Tech/Media)", "value": 1642, "share": 6.0, "employment": 2.9, "color": "#4f46e5"},
+      {"name": "Retail Trade", "value": 1642, "share": 6.0, "employment": 15.6, "color": "#db2777"},
+      {"name": "Wholesale Trade", "value": 1642, "share": 6.0, "employment": 6.1, "color": "#9333ea"},
+      {"name": "Construction", "value": 1094, "share": 4.0, "employment": 8.1, "color": "#ca8a04"},
+      {"name": "Arts, Entertainment & Food", "value": 1094, "share": 4.0, "employment": 16.8, "color": "#e11d48"},
+      {"name": "Transportation & Warehousing", "value": 958, "share": 3.5, "employment": 6.2, "color": "#059669"},
+      {"name": "Utilities", "value": 438, "share": 1.6, "employment": 0.58, "color": "#64748b"},
+      {"name": "Mining", "value": 383, "share": 1.4, "employment": 0.65, "color": "#78716c"},
+      {"name": "Agriculture", "value": 274, "share": 1.0, "employment": 2.6, "color": "#65a30d"}
+    ]
+  },
+  "employment": {
+    "total": 157.2,
+    "year": 2023,
+    "bySector": [
+      {"name": "Education & Health Services", "value": 26.4, "share": 16.8},
+      {"name": "Government", "value": 23.1, "share": 14.7},
+      {"name": "Professional & Business Services", "value": 22.9, "share": 14.6},
+      {"name": "Leisure & Hospitality", "value": 16.8, "share": 10.7},
+      {"name": "Retail Trade", "value": 15.6, "share": 9.9},
+      {"name": "Manufacturing", "value": 12.6, "share": 8.0},
+      {"name": "Financial Activities", "value": 9.1, "share": 5.8},
+      {"name": "Construction", "value": 8.1, "share": 5.2},
+      {"name": "Transportation & Warehousing", "value": 6.2, "share": 3.9},
+      {"name": "Wholesale Trade", "value": 6.1, "share": 3.9},
+      {"name": "Other Services", "value": 5.9, "share": 3.8},
+      {"name": "Information", "value": 2.9, "share": 1.8},
+      {"name": "Mining & Logging", "value": 0.65, "share": 0.4},
+      {"name": "Utilities", "value": 0.58, "share": 0.4}
+    ]
+  },
+  "consumerExpenditure": {
+    "total": 18000,
+    "year": 2023,
+    "byCategory": [
+      {"name": "Housing", "value": 5922, "share": 32.9, "color": "#2563eb"},
+      {"name": "Transportation", "value": 3060, "share": 17.0, "color": "#dc2626"},
+      {"name": "Food", "value": 2322, "share": 12.9, "color": "#16a34a"},
+      {"name": "Insurance & Pensions", "value": 2232, "share": 12.4, "color": "#7c3aed"},
+      {"name": "Healthcare", "value": 1440, "share": 8.0, "color": "#0891b2"},
+      {"name": "Entertainment", "value": 846, "share": 4.7, "color": "#ea580c"},
+      {"name": "Other", "value": 2178, "share": 12.1, "color": "#64748b"}
+    ]
+  },
+  "metros": [
+    {"rank": 1, "name": "New York-Newark", "gdp": 2298868, "state": "NY", "lat": 40.7128, "lng": -74.0060},
+    {"rank": 2, "name": "Los Angeles-Long Beach", "gdp": 1295361, "state": "CA", "lat": 34.0522, "lng": -118.2437},
+    {"rank": 3, "name": "Chicago-Naperville", "gdp": 894862, "state": "IL", "lat": 41.8781, "lng": -87.6298},
+    {"rank": 4, "name": "San Francisco-Oakland", "gdp": 778878, "state": "CA", "lat": 37.7749, "lng": -122.4194},
+    {"rank": 5, "name": "Dallas-Fort Worth", "gdp": 744654, "state": "TX", "lat": 32.7767, "lng": -96.7970},
+    {"rank": 6, "name": "Washington-Arlington", "gdp": 714685, "state": "DC", "lat": 38.9072, "lng": -77.0369},
+    {"rank": 7, "name": "Houston-The Woodlands", "gdp": 696999, "state": "TX", "lat": 29.7604, "lng": -95.3698},
+    {"rank": 8, "name": "Boston-Cambridge", "gdp": 610486, "state": "MA", "lat": 42.3601, "lng": -71.0589},
+    {"rank": 9, "name": "Atlanta-Sandy Springs", "gdp": 550000, "state": "GA", "lat": 33.7490, "lng": -84.3880},
+    {"rank": 10, "name": "Philadelphia-Camden", "gdp": 500000, "state": "PA", "lat": 39.9526, "lng": -75.1652},
+    {"rank": 11, "name": "Miami-Fort Lauderdale", "gdp": 450000, "state": "FL", "lat": 25.7617, "lng": -80.1918},
+    {"rank": 12, "name": "Seattle-Tacoma", "gdp": 430000, "state": "WA", "lat": 47.6062, "lng": -122.3321},
+    {"rank": 13, "name": "Phoenix-Mesa", "gdp": 350000, "state": "AZ", "lat": 33.4484, "lng": -112.0740},
+    {"rank": 14, "name": "Denver-Aurora", "gdp": 300000, "state": "CO", "lat": 39.7392, "lng": -104.9903},
+    {"rank": 15, "name": "San Diego-Carlsbad", "gdp": 290000, "state": "CA", "lat": 32.7157, "lng": -117.1611},
+    {"rank": 16, "name": "Minneapolis-St. Paul", "gdp": 280000, "state": "MN", "lat": 44.9778, "lng": -93.2650},
+    {"rank": 17, "name": "Riverside-San Bernardino", "gdp": 270000, "state": "CA", "lat": 33.9533, "lng": -117.3962},
+    {"rank": 18, "name": "Detroit-Warren", "gdp": 260000, "state": "MI", "lat": 42.3314, "lng": -83.0458},
+    {"rank": 19, "name": "Orlando-Kissimmee", "gdp": 250000, "state": "FL", "lat": 28.5383, "lng": -81.3792},
+    {"rank": 20, "name": "Austin-Round Rock", "gdp": 240000, "state": "TX", "lat": 30.2672, "lng": -97.7431}
+  ],
+  "states": [
+    {"name": "California", "abbr": "CA", "gdp": 3250, "population": 39.0},
+    {"name": "Texas", "abbr": "TX", "gdp": 2100, "population": 30.0},
+    {"name": "New York", "abbr": "NY", "gdp": 1790, "population": 19.5},
+    {"name": "Florida", "abbr": "FL", "gdp": 1290, "population": 22.2},
+    {"name": "Illinois", "abbr": "IL", "gdp": 886, "population": 12.6},
+    {"name": "Pennsylvania", "abbr": "PA", "gdp": 799, "population": 12.9},
+    {"name": "Ohio", "abbr": "OH", "gdp": 710, "population": 11.7},
+    {"name": "Georgia", "abbr": "GA", "gdp": 678, "population": 10.9},
+    {"name": "Washington", "abbr": "WA", "gdp": 677, "population": 7.8},
+    {"name": "New Jersey", "abbr": "NJ", "gdp": 664, "population": 9.3}
+  ],
+  "shockData": {
+    "oilPriceCollapse": {
+      "title": "2014-2016 Oil Price Collapse",
+      "timeline": [
+        {"date": "2014-06", "price": 115, "event": "Peak: $115/barrel"},
+        {"date": "2014-09", "price": 97, "event": "OPEC maintains production"},
+        {"date": "2014-12", "price": 62, "event": "Price falls below $70"},
+        {"date": "2015-03", "price": 55, "event": "US rig count halved"},
+        {"date": "2015-06", "price": 63, "event": "Brief recovery"},
+        {"date": "2015-09", "price": 48, "event": "Decline resumes"},
+        {"date": "2015-12", "price": 37, "event": "Bankruptcies accelerate"},
+        {"date": "2016-01", "price": 28, "event": "Bottom: $28/barrel"},
+        {"date": "2016-06", "price": 50, "event": "Recovery begins"},
+        {"date": "2016-12", "price": 55, "event": "OPEC cuts production"}
+      ],
+      "impacts": [
+        {"sector": "Oil & Gas Extraction", "jobLoss": -150000, "region": "Texas, North Dakota, Oklahoma"},
+        {"sector": "Oilfield Services", "jobLoss": -100000, "region": "Houston, Midland"},
+        {"sector": "Steel Pipe Manufacturing", "jobLoss": -15000, "region": "Arkansas, Texas"},
+        {"sector": "Heavy Equipment", "jobLoss": -25000, "region": "Midwest"},
+        {"sector": "Regional Banking", "impact": "NPL increases", "region": "Texas, Oklahoma"}
+      ],
+      "unemploymentRates": {
+        "texas": [
+          {"date": "2014-06", "rate": 4.2},
+          {"date": "2015-06", "rate": 4.5},
+          {"date": "2016-06", "rate": 5.4}
+        ],
+        "northDakota": [
+          {"date": "2014-06", "rate": 2.7},
+          {"date": "2015-06", "rate": 3.2},
+          {"date": "2016-06", "rate": 4.0}
+        ],
+        "national": [
+          {"date": "2014-06", "rate": 6.2},
+          {"date": "2015-06", "rate": 5.3},
+          {"date": "2016-06", "rate": 4.7}
+        ]
+      }
+    }
+  },
+  "circularFlow": {
+    "nodes": [
+      {"id": "households", "name": "Households", "description": "Own labor & capital, consume goods & services"},
+      {"id": "businesses", "name": "Businesses", "description": "Produce goods & services, hire workers"},
+      {"id": "government", "name": "Government", "description": "Collects taxes, provides services"},
+      {"id": "financial", "name": "Financial System", "description": "Intermediates between savers & borrowers"},
+      {"id": "foreign", "name": "Rest of World", "description": "Trade partners, foreign investment"}
+    ],
+    "flows": [
+      {"from": "households", "to": "businesses", "label": "Consumer Spending", "value": "$18T"},
+      {"from": "businesses", "to": "households", "label": "Wages & Salaries", "value": "$12T"},
+      {"from": "businesses", "to": "households", "label": "Dividends & Profits", "value": "$3T"},
+      {"from": "households", "to": "government", "label": "Taxes", "value": "$4.5T"},
+      {"from": "government", "to": "households", "label": "Transfers", "value": "$3.5T"},
+      {"from": "government", "to": "businesses", "label": "Procurement", "value": "$2T"},
+      {"from": "households", "to": "financial", "label": "Savings", "value": "$2T"},
+      {"from": "financial", "to": "businesses", "label": "Loans & Investment", "value": "$1.5T"},
+      {"from": "foreign", "to": "businesses", "label": "Exports", "value": "$2.5T"},
+      {"from": "businesses", "to": "foreign", "label": "Imports", "value": "$3.5T"}
+    ]
+  }
+}

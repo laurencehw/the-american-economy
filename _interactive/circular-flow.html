@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Circular Flow of the Economy - Interactive</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #ffffff;
+            color: #1e293b;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+        .title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle {
+            font-size: 0.95rem;
+            color: #64748b;
+            margin-bottom: 1.5rem;
+        }
+        .diagram-container {
+            position: relative;
+            width: 100%;
+            height: 500px;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .node {
+            position: absolute;
+            padding: 1rem 1.5rem;
+            background: white;
+            border: 3px solid #2563eb;
+            border-radius: 12px;
+            font-weight: 600;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            z-index: 10;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .node:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 20px rgba(37, 99, 235, 0.3);
+        }
+        .node.active {
+            background: #2563eb;
+            color: white;
+            transform: scale(1.08);
+            box-shadow: 0 0 30px rgba(37, 99, 235, 0.5);
+        }
+        .node-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.25rem;
+        }
+        .node-label {
+            font-size: 0.9rem;
+        }
+        .node-value {
+            font-size: 0.75rem;
+            opacity: 0.8;
+            margin-top: 0.25rem;
+        }
+
+        /* Node positions */
+        #households { top: 50%; left: 8%; transform: translateY(-50%); }
+        #businesses { top: 50%; right: 8%; transform: translateY(-50%); }
+        #government { top: 8%; left: 50%; transform: translateX(-50%); }
+        #financial { bottom: 8%; left: 50%; transform: translateX(-50%); }
+        #foreign { bottom: 8%; right: 10%; }
+
+        svg.flows {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
+        .flow-path {
+            fill: none;
+            stroke: #94a3b8;
+            stroke-width: 2;
+            opacity: 0.6;
+            transition: all 0.3s;
+        }
+        .flow-path.active {
+            stroke: #2563eb;
+            stroke-width: 4;
+            opacity: 1;
+        }
+        .flow-path.highlight {
+            stroke: #16a34a;
+            stroke-width: 4;
+            opacity: 1;
+            animation: flowAnimation 1.5s ease-in-out infinite;
+        }
+        @keyframes flowAnimation {
+            0%, 100% { stroke-dashoffset: 0; }
+            50% { stroke-dashoffset: 20; }
+        }
+        .flow-label {
+            position: absolute;
+            font-size: 0.75rem;
+            color: #64748b;
+            background: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            white-space: nowrap;
+            pointer-events: none;
+            transition: all 0.3s;
+        }
+        .flow-label.active {
+            color: #2563eb;
+            font-weight: 600;
+            transform: scale(1.1);
+        }
+
+        .steps-container {
+            margin-top: 1.5rem;
+        }
+        .step-buttons {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+        }
+        .step-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            background: white;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+        .step-btn:hover {
+            border-color: #2563eb;
+        }
+        .step-btn.active {
+            background: #2563eb;
+            color: white;
+            border-color: #2563eb;
+        }
+        .step-content {
+            padding: 1.5rem;
+            background: #f8fafc;
+            border-radius: 8px;
+            border-left: 4px solid #2563eb;
+        }
+        .step-title {
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+            color: #1e40af;
+        }
+        .step-text {
+            font-size: 0.95rem;
+            color: #475569;
+        }
+        .step-value {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background: #dbeafe;
+            color: #1e40af;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+
+        .playback-controls {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            padding: 0.75rem;
+            background: #f1f5f9;
+            border-radius: 8px;
+        }
+        .play-btn {
+            padding: 0.5rem 1rem;
+            background: #16a34a;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .play-btn:hover {
+            background: #15803d;
+        }
+        .play-btn.playing {
+            background: #dc2626;
+        }
+        .progress-bar {
+            flex: 1;
+            height: 6px;
+            background: #e2e8f0;
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background: #2563eb;
+            transition: width 0.3s;
+        }
+        .source {
+            font-size: 0.8rem;
+            color: #64748b;
+            font-style: italic;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">The Circular Flow of the Economy</h1>
+        <p class="subtitle">Money flows in a continuous loop between households, businesses, government, and financial institutions. Click nodes or use the steps below to explore each flow.</p>
+
+        <div class="diagram-container" id="diagram">
+            <svg class="flows" id="flowsSvg">
+                <!-- Flow paths will be drawn by JS -->
+            </svg>
+
+            <div class="node" id="households" onclick="selectNode('households')">
+                <div class="node-icon">&#127968;</div>
+                <div class="node-label">Households</div>
+                <div class="node-value">$155T net worth</div>
+            </div>
+
+            <div class="node" id="businesses" onclick="selectNode('businesses')">
+                <div class="node-icon">&#127970;</div>
+                <div class="node-label">Businesses</div>
+                <div class="node-value">8M establishments</div>
+            </div>
+
+            <div class="node" id="government" onclick="selectNode('government')">
+                <div class="node-icon">&#127963;</div>
+                <div class="node-label">Government</div>
+                <div class="node-value">$10T spending</div>
+            </div>
+
+            <div class="node" id="financial" onclick="selectNode('financial')">
+                <div class="node-icon">&#127974;</div>
+                <div class="node-label">Financial System</div>
+                <div class="node-value">$130T assets</div>
+            </div>
+
+            <div class="node" id="foreign" onclick="selectNode('foreign')">
+                <div class="node-icon">&#127760;</div>
+                <div class="node-label">Foreign</div>
+                <div class="node-value">$3.5T imports</div>
+            </div>
+
+            <!-- Flow labels positioned by JS -->
+            <div class="flow-label" id="label-spending" style="top: 42%; left: 38%;">Consumer Spending</div>
+            <div class="flow-label" id="label-wages" style="top: 58%; left: 38%;">Wages & Profits</div>
+            <div class="flow-label" id="label-taxes" style="top: 22%; left: 22%;">Taxes</div>
+            <div class="flow-label" id="label-transfers" style="top: 22%; right: 22%;">Transfers</div>
+            <div class="flow-label" id="label-savings" style="bottom: 22%; left: 22%;">Savings</div>
+            <div class="flow-label" id="label-loans" style="bottom: 22%; right: 28%;">Loans</div>
+            <div class="flow-label" id="label-exports" style="bottom: 30%; right: 15%;">Exports</div>
+            <div class="flow-label" id="label-imports" style="bottom: 40%; right: 15%;">Imports</div>
+        </div>
+
+        <div class="steps-container">
+            <div class="playback-controls">
+                <button class="play-btn" id="playBtn" onclick="togglePlayback()">
+                    <span id="playIcon">&#9658;</span> <span id="playText">Play Animation</span>
+                </button>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+                </div>
+            </div>
+
+            <div class="step-buttons" id="stepButtons">
+                <button class="step-btn active" onclick="goToStep(0)">Overview</button>
+                <button class="step-btn" onclick="goToStep(1)">1. Consumer Spending</button>
+                <button class="step-btn" onclick="goToStep(2)">2. Income</button>
+                <button class="step-btn" onclick="goToStep(3)">3. Government</button>
+                <button class="step-btn" onclick="goToStep(4)">4. Financial System</button>
+                <button class="step-btn" onclick="goToStep(5)">5. Foreign Trade</button>
+                <button class="step-btn" onclick="goToStep(6)">6. Complete Circuit</button>
+            </div>
+
+            <div class="step-content" id="stepContent">
+                <div class="step-title">The Economy as a Circuit</div>
+                <div class="step-text">
+                    Money flows continuously through the economy like electricity through a circuit. Households earn income from businesses, spend it on goods and services, pay taxes to government, and save through financial institutions. Each flow creates another flow, keeping the circuit running.
+                </div>
+            </div>
+        </div>
+
+        <p class="source">Source: Federal Reserve Flow of Funds (Z.1), BEA National Income Accounts</p>
+    </div>
+
+    <script>
+        const steps = [
+            {
+                title: "The Economy as a Circuit",
+                text: "Money flows continuously through the economy like electricity through a circuit. Households earn income from businesses, spend it on goods and services, pay taxes to government, and save through financial institutions. Each flow creates another flow, keeping the circuit running.",
+                activeNodes: [],
+                activeFlows: [],
+                highlightFlows: []
+            },
+            {
+                title: "Consumer Spending: $18 Trillion",
+                text: "Households spend about $18 trillion annually on goods and services from businesses. This is the largest flow in the economy, making up roughly 70% of GDP. Housing, transportation, and food are the biggest categories.",
+                activeNodes: ['households', 'businesses'],
+                activeFlows: ['spending'],
+                highlightFlows: ['spending'],
+                value: "$18T annually"
+            },
+            {
+                title: "Income: Wages, Salaries & Profits",
+                text: "In return, businesses pay households for their labor and capital. $12 trillion flows as wages and salaries to workers. Another $3+ trillion flows as profits, dividends, and interest to owners and investors.",
+                activeNodes: ['households', 'businesses'],
+                activeFlows: ['wages'],
+                highlightFlows: ['wages'],
+                value: "$15T+ annually"
+            },
+            {
+                title: "Government: Taxes & Transfers",
+                text: "Government stands between households and businesses. It collects about $4.5 trillion in taxes and returns much of it through Social Security, Medicare, and other transfers ($3.5T). It also purchases goods and services from businesses ($2T).",
+                activeNodes: ['households', 'government', 'businesses'],
+                activeFlows: ['taxes', 'transfers'],
+                highlightFlows: ['taxes', 'transfers'],
+                value: "$10T total flow"
+            },
+            {
+                title: "Financial System: Savings & Investment",
+                text: "The financial system intermediates between savers and borrowers. Households deposit savings in banks and investment funds (~$2T flow). These funds are lent to businesses for investment, to households for mortgages, and to government to finance deficits.",
+                activeNodes: ['households', 'financial', 'businesses'],
+                activeFlows: ['savings', 'loans'],
+                highlightFlows: ['savings', 'loans'],
+                value: "$2T+ savings flow"
+            },
+            {
+                title: "Foreign Trade: Imports & Exports",
+                text: "The U.S. trades with the rest of the world. We export $2.5 trillion in goods and services and import $3.5 trillion. The $1 trillion trade deficit means foreign money flows into the U.S. to finance our consumption.",
+                activeNodes: ['businesses', 'foreign'],
+                activeFlows: ['exports', 'imports'],
+                highlightFlows: ['imports', 'exports'],
+                value: "$1T trade deficit"
+            },
+            {
+                title: "The Complete Circuit",
+                text: "All these flows are interconnected. A dollar earned as wages might be spent at a store, taxed by government, saved at a bank, or used to buy imports. The same dollar circulates multiple times, which is why GDP ($27T) exceeds the money supply.",
+                activeNodes: ['households', 'businesses', 'government', 'financial', 'foreign'],
+                activeFlows: ['spending', 'wages', 'taxes', 'transfers', 'savings', 'loans', 'exports', 'imports'],
+                highlightFlows: ['spending', 'wages'],
+                value: "$27T GDP"
+            }
+        ];
+
+        let currentStep = 0;
+        let isPlaying = false;
+        let playInterval = null;
+
+        function drawFlows() {
+            const svg = document.getElementById('flowsSvg');
+            const container = document.getElementById('diagram');
+            const rect = container.getBoundingClientRect();
+
+            // Get node positions
+            const getNodeCenter = (id) => {
+                const node = document.getElementById(id);
+                const nodeRect = node.getBoundingClientRect();
+                return {
+                    x: nodeRect.left - rect.left + nodeRect.width / 2,
+                    y: nodeRect.top - rect.top + nodeRect.height / 2
+                };
+            };
+
+            const h = getNodeCenter('households');
+            const b = getNodeCenter('businesses');
+            const g = getNodeCenter('government');
+            const f = getNodeCenter('financial');
+            const fo = getNodeCenter('foreign');
+
+            // Define curved paths
+            const paths = {
+                spending: `M ${h.x + 60} ${h.y - 20} Q ${(h.x + b.x) / 2} ${h.y - 80} ${b.x - 60} ${b.y - 20}`,
+                wages: `M ${b.x - 60} ${b.y + 20} Q ${(h.x + b.x) / 2} ${b.y + 80} ${h.x + 60} ${h.y + 20}`,
+                taxes: `M ${h.x + 30} ${h.y - 40} Q ${h.x + 60} ${g.y + 60} ${g.x - 50} ${g.y + 30}`,
+                transfers: `M ${g.x + 50} ${g.y + 30} Q ${b.x - 60} ${g.y + 60} ${b.x - 30} ${b.y - 40}`,
+                savings: `M ${h.x + 30} ${h.y + 40} Q ${h.x + 60} ${f.y - 60} ${f.x - 50} ${f.y - 30}`,
+                loans: `M ${f.x + 50} ${f.y - 30} Q ${b.x - 60} ${f.y - 60} ${b.x - 30} ${b.y + 40}`,
+                exports: `M ${b.x + 20} ${b.y + 40} Q ${fo.x - 20} ${b.y + 40} ${fo.x} ${fo.y - 30}`,
+                imports: `M ${fo.x - 20} ${fo.y - 30} Q ${b.x + 50} ${fo.y - 20} ${b.x + 30} ${b.y + 20}`
+            };
+
+            svg.innerHTML = Object.entries(paths).map(([id, d]) =>
+                `<path id="flow-${id}" class="flow-path" d="${d}" stroke-dasharray="10,5"/>`
+            ).join('');
+        }
+
+        function goToStep(stepIndex) {
+            currentStep = stepIndex;
+            const step = steps[stepIndex];
+
+            // Update step buttons
+            document.querySelectorAll('.step-btn').forEach((btn, i) => {
+                btn.classList.toggle('active', i === stepIndex);
+            });
+
+            // Update content
+            document.getElementById('stepContent').innerHTML = `
+                <div class="step-title">${step.title}</div>
+                <div class="step-text">${step.text}</div>
+                ${step.value ? `<div class="step-value">${step.value}</div>` : ''}
+            `;
+
+            // Update nodes
+            document.querySelectorAll('.node').forEach(node => {
+                node.classList.toggle('active', step.activeNodes.includes(node.id));
+            });
+
+            // Update flows
+            document.querySelectorAll('.flow-path').forEach(path => {
+                const flowId = path.id.replace('flow-', '');
+                path.classList.remove('active', 'highlight');
+                if (step.highlightFlows.includes(flowId)) {
+                    path.classList.add('highlight');
+                } else if (step.activeFlows.includes(flowId)) {
+                    path.classList.add('active');
+                }
+            });
+
+            // Update labels
+            document.querySelectorAll('.flow-label').forEach(label => {
+                const flowId = label.id.replace('label-', '');
+                label.classList.toggle('active', step.activeFlows.includes(flowId));
+            });
+
+            // Update progress
+            const progress = (stepIndex / (steps.length - 1)) * 100;
+            document.getElementById('progressFill').style.width = `${progress}%`;
+        }
+
+        function selectNode(nodeId) {
+            // Find step that highlights this node
+            const relevantStep = steps.findIndex(s =>
+                s.activeNodes.length > 0 &&
+                s.activeNodes.includes(nodeId) &&
+                s.activeNodes.length <= 3
+            );
+            if (relevantStep > 0) {
+                goToStep(relevantStep);
+            }
+        }
+
+        function togglePlayback() {
+            isPlaying = !isPlaying;
+            const btn = document.getElementById('playBtn');
+            const icon = document.getElementById('playIcon');
+            const text = document.getElementById('playText');
+
+            if (isPlaying) {
+                btn.classList.add('playing');
+                icon.textContent = '⏸';
+                text.textContent = 'Pause';
+                currentStep = 0;
+                goToStep(0);
+                playInterval = setInterval(() => {
+                    currentStep++;
+                    if (currentStep >= steps.length) {
+                        currentStep = 0;
+                    }
+                    goToStep(currentStep);
+                }, 4000);
+            } else {
+                btn.classList.remove('playing');
+                icon.textContent = '▶';
+                text.textContent = 'Play Animation';
+                clearInterval(playInterval);
+            }
+        }
+
+        // Initialize
+        window.addEventListener('load', () => {
+            setTimeout(drawFlows, 100);
+            goToStep(0);
+        });
+        window.addEventListener('resize', drawFlows);
+    </script>
+</body>
+</html>

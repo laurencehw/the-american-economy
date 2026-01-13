@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Economic Shock Propagation - Interactive</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #ffffff;
+            color: #1e293b;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+        .title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle {
+            font-size: 0.95rem;
+            color: #64748b;
+            margin-bottom: 1.5rem;
+        }
+        .shock-selector {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 1.5rem;
+        }
+        .shock-card {
+            flex: 1;
+            min-width: 200px;
+            padding: 1rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .shock-card:hover {
+            border-color: #2563eb;
+        }
+        .shock-card.active {
+            border-color: #dc2626;
+            background: #fef2f2;
+        }
+        .shock-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        .shock-name {
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+        }
+        .shock-period {
+            font-size: 0.8rem;
+            color: #64748b;
+        }
+
+        .timeline-container {
+            background: #f8fafc;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .timeline-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        .timeline-title {
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+        .timeline-controls {
+            display: flex;
+            gap: 0.5rem;
+        }
+        .timeline-btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            background: #e2e8f0;
+        }
+        .timeline-btn:hover {
+            background: #cbd5e1;
+        }
+        .timeline-btn.primary {
+            background: #2563eb;
+            color: white;
+        }
+        #timelineChart {
+            width: 100%;
+            height: 300px;
+        }
+
+        .propagation-section {
+            margin-bottom: 1.5rem;
+        }
+        .section-title {
+            font-weight: 700;
+            font-size: 1rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .cascade-container {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .cascade-row {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 0.75rem;
+            background: white;
+            border-radius: 8px;
+            border-left: 4px solid #e2e8f0;
+            transition: all 0.3s;
+        }
+        .cascade-row.active {
+            background: #fef2f2;
+            border-left-color: #dc2626;
+        }
+        .cascade-row.delayed {
+            opacity: 0.5;
+        }
+        .cascade-order {
+            width: 28px;
+            height: 28px;
+            background: #e2e8f0;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.8rem;
+            flex-shrink: 0;
+        }
+        .cascade-row.active .cascade-order {
+            background: #dc2626;
+            color: white;
+        }
+        .cascade-content {
+            flex: 1;
+        }
+        .cascade-sector {
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+        .cascade-effect {
+            font-size: 0.8rem;
+            color: #64748b;
+        }
+        .cascade-impact {
+            font-weight: 600;
+            font-size: 0.85rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            white-space: nowrap;
+        }
+        .impact-severe {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+        .impact-moderate {
+            background: #fef3c7;
+            color: #92400e;
+        }
+        .impact-mild {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .comparison-charts {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+        @media (max-width: 768px) {
+            .comparison-charts {
+                grid-template-columns: 1fr;
+            }
+        }
+        .chart-box {
+            background: #f8fafc;
+            border-radius: 8px;
+            padding: 1rem;
+        }
+        .chart-box-title {
+            font-weight: 600;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        #unemploymentChart, #impactChart {
+            width: 100%;
+            height: 250px;
+        }
+
+        .insight-box {
+            margin-top: 1.5rem;
+            padding: 1.25rem;
+            background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+            border-radius: 8px;
+            border-left: 4px solid #dc2626;
+        }
+        .insight-title {
+            font-weight: 700;
+            color: #991b1b;
+            margin-bottom: 0.5rem;
+        }
+        .insight-text {
+            font-size: 0.9rem;
+            color: #1e293b;
+            line-height: 1.6;
+        }
+        .source {
+            font-size: 0.8rem;
+            color: #64748b;
+            font-style: italic;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">How Economic Shocks Propagate</h1>
+        <p class="subtitle">Select a shock to see how it cascades through industries, regions, and financial markets. Economic shocks rarely stay contained.</p>
+
+        <div class="shock-selector">
+            <div class="shock-card active" onclick="selectShock('oil')">
+                <div class="shock-icon">&#9981;</div>
+                <div class="shock-name">Oil Price Collapse</div>
+                <div class="shock-period">2014-2016</div>
+            </div>
+            <div class="shock-card" onclick="selectShock('housing')">
+                <div class="shock-icon">&#127968;</div>
+                <div class="shock-name">Housing Bust</div>
+                <div class="shock-period">2006-2012</div>
+            </div>
+            <div class="shock-card" onclick="selectShock('china')">
+                <div class="shock-icon">&#128230;</div>
+                <div class="shock-name">China Shock</div>
+                <div class="shock-period">2000-2010</div>
+            </div>
+            <div class="shock-card" onclick="selectShock('rates')">
+                <div class="shock-icon">&#128200;</div>
+                <div class="shock-name">Rate Increases</div>
+                <div class="shock-period">2022-2023</div>
+            </div>
+        </div>
+
+        <div class="timeline-container">
+            <div class="timeline-header">
+                <div class="timeline-title" id="timelineTitle">Oil Price Collapse Timeline</div>
+                <div class="timeline-controls">
+                    <button class="timeline-btn primary" onclick="animateTimeline()">&#9658; Animate</button>
+                    <button class="timeline-btn" onclick="resetTimeline()">Reset</button>
+                </div>
+            </div>
+            <div id="timelineChart"></div>
+        </div>
+
+        <div class="propagation-section">
+            <div class="section-title">Shock Propagation Cascade</div>
+            <div class="cascade-container" id="cascadeContainer">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+
+        <div class="comparison-charts">
+            <div class="chart-box">
+                <div class="chart-box-title">Regional Unemployment Response</div>
+                <div id="unemploymentChart"></div>
+            </div>
+            <div class="chart-box">
+                <div class="chart-box-title">Sectoral Employment Impact</div>
+                <div id="impactChart"></div>
+            </div>
+        </div>
+
+        <div class="insight-box">
+            <div class="insight-title" id="insightTitle">Key Lesson: Geographic Concentration</div>
+            <div class="insight-text" id="insightText">
+                The oil price collapse devastated Texas and North Dakota while benefiting consumer-heavy states. The same shock that destroyed 200,000 energy jobs freed up billions in consumer purchasing power elsewhere. Economic shocks create winners and losers - their distribution depends on the economy's structure.
+            </div>
+        </div>
+
+        <p class="source">Sources: FRED, BLS, BEA, Federal Reserve</p>
+    </div>
+
+    <script>
+        const shocks = {
+            oil: {
+                name: "Oil Price Collapse",
+                period: "2014-2016",
+                timelineTitle: "Oil Price Collapse: Brent Crude ($/barrel)",
+                timeline: [
+                    {date: '2014-01', value: 108},
+                    {date: '2014-06', value: 115, event: 'Peak'},
+                    {date: '2014-09', value: 97},
+                    {date: '2014-12', value: 62, event: 'OPEC decision'},
+                    {date: '2015-03', value: 55},
+                    {date: '2015-06', value: 63},
+                    {date: '2015-09', value: 48},
+                    {date: '2015-12', value: 37},
+                    {date: '2016-01', value: 28, event: 'Bottom'},
+                    {date: '2016-06', value: 50, event: 'Recovery begins'},
+                    {date: '2016-12', value: 55}
+                ],
+                cascade: [
+                    {order: 1, sector: "Oil & Gas Extraction", effect: "Production cuts, rig shutdowns", impact: "-150,000 jobs", severity: "severe"},
+                    {order: 2, sector: "Oilfield Services", effect: "Drilling contracts cancelled", impact: "-100,000 jobs", severity: "severe"},
+                    {order: 3, sector: "Steel & Equipment", effect: "Pipe and machinery orders collapse", impact: "-40,000 jobs", severity: "moderate"},
+                    {order: 4, sector: "Regional Banking", effect: "Energy loan defaults rise", impact: "NPL +200%", severity: "moderate"},
+                    {order: 5, sector: "Texas Real Estate", effect: "Houston office vacancy spikes", impact: "Vacancy +8%", severity: "moderate"},
+                    {order: 6, sector: "Local Services", effect: "Retail, restaurants in oil regions", impact: "Revenue -20%", severity: "mild"},
+                    {order: 7, sector: "State Government", effect: "Severance tax revenue falls", impact: "Revenue -30%", severity: "moderate"}
+                ],
+                unemployment: {
+                    labels: ['2014-Q1', '2014-Q3', '2015-Q1', '2015-Q3', '2016-Q1', '2016-Q3'],
+                    texas: [5.2, 4.8, 4.3, 4.5, 4.8, 4.9],
+                    northDakota: [2.8, 2.7, 3.1, 3.4, 3.6, 3.2],
+                    national: [6.6, 6.1, 5.5, 5.1, 4.9, 4.9]
+                },
+                sectorImpact: {
+                    labels: ['Oil & Gas', 'Mining Support', 'Machinery', 'Fabricated Metals', 'Trucking'],
+                    values: [-12.5, -22.3, -8.4, -4.2, -2.1]
+                },
+                insight: {
+                    title: "Key Lesson: Geographic Concentration",
+                    text: "The oil price collapse devastated Texas and North Dakota while benefiting consumer-heavy states. The same shock that destroyed 200,000 energy jobs freed up billions in consumer purchasing power elsewhere. Economic shocks create winners and losers - their distribution depends on the economy's structure."
+                }
+            },
+            housing: {
+                name: "Housing Bust",
+                period: "2006-2012",
+                timelineTitle: "Housing Bust: Case-Shiller Home Price Index",
+                timeline: [
+                    {date: '2006-01', value: 185},
+                    {date: '2006-07', value: 189, event: 'Peak'},
+                    {date: '2007-01', value: 183},
+                    {date: '2007-07', value: 175},
+                    {date: '2008-01', value: 165},
+                    {date: '2008-09', value: 155, event: 'Lehman falls'},
+                    {date: '2009-01', value: 140},
+                    {date: '2009-07', value: 135},
+                    {date: '2010-01', value: 138},
+                    {date: '2011-01', value: 130},
+                    {date: '2012-01', value: 125, event: 'Bottom'},
+                    {date: '2012-07', value: 130}
+                ],
+                cascade: [
+                    {order: 1, sector: "Residential Construction", effect: "Building permits collapse 75%", impact: "-1.4M jobs", severity: "severe"},
+                    {order: 2, sector: "Mortgage Finance", effect: "Originations fall 60%, defaults spike", impact: "Defaults +400%", severity: "severe"},
+                    {order: 3, sector: "Banking Sector", effect: "Bank failures, credit freeze", impact: "465 banks fail", severity: "severe"},
+                    {order: 4, sector: "Household Wealth", effect: "$8 trillion equity destroyed", impact: "-$8T wealth", severity: "severe"},
+                    {order: 5, sector: "Consumer Spending", effect: "Wealth effect cuts consumption", impact: "-$600B/year", severity: "moderate"},
+                    {order: 6, sector: "Auto Industry", effect: "Sales collapse, GM/Chrysler bankrupt", impact: "-400K jobs", severity: "severe"},
+                    {order: 7, sector: "State & Local Govt", effect: "Property tax revenue falls", impact: "Revenue -15%", severity: "moderate"}
+                ],
+                unemployment: {
+                    labels: ['2007-Q1', '2008-Q1', '2009-Q1', '2010-Q1', '2011-Q1', '2012-Q1'],
+                    arizona: [3.8, 5.2, 8.6, 10.3, 9.5, 8.6],
+                    florida: [3.4, 4.8, 9.4, 11.4, 10.8, 9.3],
+                    national: [4.5, 4.9, 8.1, 9.8, 9.1, 8.3]
+                },
+                sectorImpact: {
+                    labels: ['Construction', 'Real Estate', 'Finance', 'Manufacturing', 'Retail'],
+                    values: [-25.4, -8.2, -7.5, -16.3, -6.8]
+                },
+                insight: {
+                    title: "Key Lesson: Balance Sheet Recessions",
+                    text: "The housing bust transmitted primarily through balance sheets, not production linkages. $8 trillion in lost home equity made households feel poorer, cutting spending across ALL sectors. This 'balance sheet recession' is why recovery took so long - households had to rebuild wealth before normalizing spending."
+                }
+            },
+            china: {
+                name: "China Shock",
+                period: "2000-2010",
+                timelineTitle: "China Shock: Manufacturing Employment (Millions)",
+                timeline: [
+                    {date: '2000-01', value: 17.3, event: 'Pre-WTO'},
+                    {date: '2001-01', value: 16.4, event: 'China joins WTO'},
+                    {date: '2002-01', value: 15.3},
+                    {date: '2003-01', value: 14.5},
+                    {date: '2004-01', value: 14.3},
+                    {date: '2005-01', value: 14.2},
+                    {date: '2006-01', value: 14.2},
+                    {date: '2007-01', value: 13.9},
+                    {date: '2008-01', value: 13.4},
+                    {date: '2009-01', value: 11.8, event: 'Recession'},
+                    {date: '2010-01', value: 11.5, event: 'Stabilization'}
+                ],
+                cascade: [
+                    {order: 1, sector: "Furniture Manufacturing", effect: "NC furniture industry devastated", impact: "-60% employment", severity: "severe"},
+                    {order: 2, sector: "Textile & Apparel", effect: "Southeast mill closures", impact: "-70% employment", severity: "severe"},
+                    {order: 3, sector: "Electronics Assembly", effect: "Consumer electronics production moves", impact: "-45% employment", severity: "severe"},
+                    {order: 4, sector: "Machinery & Equipment", effect: "Capital goods face competition", impact: "-20% employment", severity: "moderate"},
+                    {order: 5, sector: "Small Town Retail", effect: "Manufacturing job loss hits Main St", impact: "Store closures", severity: "moderate"},
+                    {order: 6, sector: "Local Tax Base", effect: "Property values and tax revenue fall", impact: "Revenue -25%", severity: "moderate"},
+                    {order: 7, sector: "Labor Force", effect: "Workers exit workforce permanently", impact: "LFPR -2.5%", severity: "severe"}
+                ],
+                unemployment: {
+                    labels: ['2000', '2002', '2004', '2006', '2008', '2010'],
+                    rust_belt: [4.2, 6.1, 6.3, 5.8, 8.2, 10.5],
+                    south: [3.8, 5.8, 5.4, 4.8, 6.5, 9.8],
+                    national: [4.0, 5.8, 5.5, 4.6, 5.8, 9.6]
+                },
+                sectorImpact: {
+                    labels: ['Furniture', 'Textiles', 'Electronics', 'Machinery', 'Fabricated Metals'],
+                    values: [-42.5, -65.2, -38.4, -18.7, -22.3]
+                },
+                insight: {
+                    title: "Key Lesson: Permanent Displacement",
+                    text: "Unlike cyclical shocks, the China shock caused permanent job losses. Displaced workers largely didn't find equivalent employment - many left the labor force entirely. Communities specialized in import-competing industries never recovered. This reveals how structural shocks differ from temporary disruptions."
+                }
+            },
+            rates: {
+                name: "Rate Increases",
+                period: "2022-2023",
+                timelineTitle: "Fed Rate Increases: Federal Funds Rate (%)",
+                timeline: [
+                    {date: '2022-01', value: 0.08},
+                    {date: '2022-03', value: 0.33, event: 'First hike'},
+                    {date: '2022-05', value: 0.83},
+                    {date: '2022-07', value: 2.33},
+                    {date: '2022-09', value: 3.08},
+                    {date: '2022-11', value: 3.83},
+                    {date: '2023-01', value: 4.33},
+                    {date: '2023-03', value: 4.83, event: 'SVB fails'},
+                    {date: '2023-05', value: 5.08},
+                    {date: '2023-07', value: 5.33, event: 'Peak'},
+                    {date: '2023-12', value: 5.33}
+                ],
+                cascade: [
+                    {order: 1, sector: "Mortgage Markets", effect: "30-year rate: 3% to 7%", impact: "Affordability -40%", severity: "severe"},
+                    {order: 2, sector: "Housing Sales", effect: "Existing home sales freeze", impact: "-35% transactions", severity: "severe"},
+                    {order: 3, sector: "Bank Balance Sheets", effect: "Unrealized losses on securities", impact: "$600B losses", severity: "severe"},
+                    {order: 4, sector: "Regional Banks", effect: "SVB, Signature, First Republic fail", impact: "3 major failures", severity: "severe"},
+                    {order: 5, sector: "Tech Startups", effect: "Funding environment collapses", impact: "VC -60%", severity: "moderate"},
+                    {order: 6, sector: "Commercial Real Estate", effect: "Office valuations fall, refinancing stress", impact: "Values -25%", severity: "moderate"},
+                    {order: 7, sector: "Auto Loans", effect: "Monthly payments rise 20%+", impact: "Delinquencies up", severity: "mild"}
+                ],
+                unemployment: {
+                    labels: ['2022-Q1', '2022-Q2', '2022-Q3', '2022-Q4', '2023-Q1', '2023-Q2'],
+                    tech: [2.0, 2.1, 2.3, 2.8, 3.0, 3.2],
+                    finance: [2.5, 2.4, 2.6, 2.9, 3.1, 2.9],
+                    national: [3.8, 3.6, 3.5, 3.5, 3.5, 3.4]
+                },
+                sectorImpact: {
+                    labels: ['Mortgage Orig', 'Home Sales', 'Construction', 'Tech', 'Retail'],
+                    values: [-62.3, -34.8, -8.2, -12.4, -1.2]
+                },
+                insight: {
+                    title: "Key Lesson: Interest Rate Channels",
+                    text: "Rate increases transmit through multiple channels simultaneously: mortgage affordability, asset valuations, bank balance sheets, and credit conditions. The 2023 bank failures showed how even 'safe' assets (Treasury bonds) can destabilize institutions when rates rise rapidly. Monetary policy affects sectors very unevenly."
+                }
+            }
+        };
+
+        let currentShock = 'oil';
+        let animationIndex = 0;
+
+        function selectShock(shockId) {
+            currentShock = shockId;
+            const shock = shocks[shockId];
+
+            // Update card styling
+            document.querySelectorAll('.shock-card').forEach(card => {
+                card.classList.remove('active');
+            });
+            event.currentTarget.classList.add('active');
+
+            // Update timeline
+            document.getElementById('timelineTitle').textContent = shock.timelineTitle;
+            renderTimeline(shock);
+
+            // Update cascade
+            renderCascade(shock.cascade);
+
+            // Update charts
+            renderUnemploymentChart(shock);
+            renderImpactChart(shock);
+
+            // Update insight
+            document.getElementById('insightTitle').textContent = shock.insight.title;
+            document.getElementById('insightText').textContent = shock.insight.text;
+
+            // Reset animation
+            animationIndex = 0;
+        }
+
+        function renderTimeline(shock) {
+            const dates = shock.timeline.map(d => d.date);
+            const values = shock.timeline.map(d => d.value);
+
+            const trace = {
+                x: dates,
+                y: values,
+                type: 'scatter',
+                mode: 'lines+markers',
+                line: {color: '#dc2626', width: 3},
+                marker: {size: 8},
+                hovertemplate: '%{x}: %{y}<extra></extra>'
+            };
+
+            const annotations = shock.timeline
+                .filter(d => d.event)
+                .map(d => ({
+                    x: d.date,
+                    y: d.value,
+                    text: d.event,
+                    showarrow: true,
+                    arrowhead: 2,
+                    ax: 0,
+                    ay: -40,
+                    font: {size: 11}
+                }));
+
+            const layout = {
+                margin: {t: 20, r: 20, b: 40, l: 50},
+                xaxis: {
+                    tickangle: -45,
+                    gridcolor: '#e2e8f0'
+                },
+                yaxis: {
+                    gridcolor: '#e2e8f0'
+                },
+                annotations: annotations,
+                font: {family: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'},
+                plot_bgcolor: '#f8fafc',
+                paper_bgcolor: '#f8fafc'
+            };
+
+            Plotly.newPlot('timelineChart', [trace], layout, {responsive: true, displaylogo: false});
+        }
+
+        function renderCascade(cascade) {
+            const container = document.getElementById('cascadeContainer');
+            container.innerHTML = cascade.map((item, i) => `
+                <div class="cascade-row" id="cascade-${i}" data-order="${item.order}">
+                    <div class="cascade-order">${item.order}</div>
+                    <div class="cascade-content">
+                        <div class="cascade-sector">${item.sector}</div>
+                        <div class="cascade-effect">${item.effect}</div>
+                    </div>
+                    <div class="cascade-impact impact-${item.severity}">${item.impact}</div>
+                </div>
+            `).join('');
+        }
+
+        function renderUnemploymentChart(shock) {
+            const data = shock.unemployment;
+            const traces = [];
+
+            const keys = Object.keys(data).filter(k => k !== 'labels');
+            const colors = ['#dc2626', '#2563eb', '#64748b'];
+
+            keys.forEach((key, i) => {
+                traces.push({
+                    x: data.labels,
+                    y: data[key],
+                    name: key.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase()),
+                    type: 'scatter',
+                    mode: 'lines+markers',
+                    line: {color: colors[i], width: 2},
+                    marker: {size: 6}
+                });
+            });
+
+            const layout = {
+                margin: {t: 10, r: 10, b: 40, l: 40},
+                legend: {orientation: 'h', y: -0.2},
+                xaxis: {gridcolor: '#e2e8f0', tickangle: -45},
+                yaxis: {title: 'Unemployment %', gridcolor: '#e2e8f0'},
+                font: {family: '-apple-system, sans-serif', size: 11},
+                plot_bgcolor: 'white',
+                paper_bgcolor: '#f8fafc'
+            };
+
+            Plotly.newPlot('unemploymentChart', traces, layout, {responsive: true, displaylogo: false});
+        }
+
+        function renderImpactChart(shock) {
+            const data = shock.sectorImpact;
+
+            const trace = {
+                x: data.values,
+                y: data.labels,
+                type: 'bar',
+                orientation: 'h',
+                marker: {
+                    color: data.values.map(v => v < -20 ? '#dc2626' : v < -10 ? '#f59e0b' : '#16a34a')
+                },
+                text: data.values.map(v => `${v}%`),
+                textposition: 'outside',
+                hovertemplate: '%{y}: %{x}%<extra></extra>'
+            };
+
+            const layout = {
+                margin: {t: 10, r: 60, b: 30, l: 100},
+                xaxis: {
+                    title: 'Employment Change (%)',
+                    gridcolor: '#e2e8f0',
+                    zeroline: true,
+                    zerolinecolor: '#1e293b'
+                },
+                yaxis: {automargin: true},
+                font: {family: '-apple-system, sans-serif', size: 11},
+                plot_bgcolor: 'white',
+                paper_bgcolor: '#f8fafc'
+            };
+
+            Plotly.newPlot('impactChart', [trace], layout, {responsive: true, displaylogo: false});
+        }
+
+        function animateTimeline() {
+            // Reset all cascade rows
+            document.querySelectorAll('.cascade-row').forEach(row => {
+                row.classList.remove('active');
+                row.classList.add('delayed');
+            });
+
+            animationIndex = 0;
+            animateCascade();
+        }
+
+        function animateCascade() {
+            const rows = document.querySelectorAll('.cascade-row');
+            if (animationIndex < rows.length) {
+                rows[animationIndex].classList.remove('delayed');
+                rows[animationIndex].classList.add('active');
+                animationIndex++;
+                setTimeout(animateCascade, 800);
+            }
+        }
+
+        function resetTimeline() {
+            document.querySelectorAll('.cascade-row').forEach(row => {
+                row.classList.remove('active', 'delayed');
+            });
+            animationIndex = 0;
+        }
+
+        // Initialize
+        selectShock('oil');
+    </script>
+</body>
+</html>
