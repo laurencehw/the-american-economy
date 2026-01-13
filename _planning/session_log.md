@@ -1225,3 +1225,235 @@ _planning/
 1. **Editorial Integration:** Insert figure links into Markdown chapter files.
 2. **Data Validation:** Replace hardcoded map data with actual datasets where precision is critical.
 3. **Publication:** Final review of GitBook rendering.
+
+---
+
+## Session 13: January 12, 2026
+
+### Focus: Editorial Integration and Appendices
+
+### Accomplishments
+
+**1. Figure Integration (68 figures across 28 chapters)**
+- Inserted GitBook-compatible figure references into all 28 chapters with figures
+- Used format: `![Caption](../_figures/chXX/filename.png)` with source notes
+- Part I (Ch1-3): 11 figure references added
+- Part II (Ch4-15): 41 figure references added
+- Part III (Ch16-18): 5 figure references added
+- Part IV (Ch19-20): 3 figure references added
+- Part V (Ch21-25): 7 figure references added
+- Part VI (Ch26-28): 3 figure references added
+
+**2. Appendices Drafted**
+- **Appendix A: Data Sources Guide** (~1,200 words)
+  - BEA, BLS, Census overview
+  - Agency-specific sources (EIA, CMS, FDIC, etc.)
+  - International data sources
+  - Tips for using government data
+
+- **Appendix B: BEA Industry Accounts Reference** (~900 words)
+  - GDP by industry table (2023 data)
+  - Manufacturing subsectors breakdown
+  - State GDP rankings
+  - Metro GDP rankings (Top 20)
+  - Guide to reading BEA tables
+
+- **Appendix C: NAICS Codes Quick Reference** (~800 words)
+  - Two-digit NAICS to chapter mapping
+  - Key three-digit subsectors by industry
+  - NAICS vs SIC comparison
+  - Using NAICS for research
+
+**3. Infrastructure Updates**
+- Created `book/appendices/` directory
+- Updated `book/SUMMARY.md` with correct appendix file paths
+
+**4. User Request: Shock Transmission Analysis**
+- User proposed new chapter/integration on economic shocks and transmission mechanisms
+- Topics to cover: monetary policy shocks, oil price changes, trade impacts, immigration policy, military spending, China shock, housing prices, tourism shocks, AI in media, remote work
+- Added to planning for future session
+
+### Files Created/Modified
+
+```
+book/
+├── part1/ch01-economy-in-numbers.md (3 figures added)
+├── part1/ch02-how-it-fits.md (3 figures added)
+├── part1/ch03-geography.md (4 figures added)
+├── part2/ch04-government.md (4 figures added)
+├── part2/ch05-real-estate.md (3 figures added)
+├── part2/ch06-healthcare.md (3 figures added)
+├── part2/ch07-professional-services.md (1 figure added)
+├── part2/ch08-finance-insurance.md (3 figures added)
+├── part2/ch09-manufacturing.md (4 figures added)
+├── part2/ch10-retail-wholesale.md (3 figures added)
+├── part2/ch11-tech-media.md (5 figures added)
+├── part2/ch12-transportation.md (6 figures added)
+├── part2/ch13-construction.md (4 figures added)
+├── part2/ch14-energy.md (2 figures added)
+├── part2/ch15-education.md (1 figure added)
+├── part3/ch16-how-finance-works.md (1 figure added)
+├── part3/ch17-capital-markets.md (2 figures added)
+├── part3/ch18-corporate-finance.md (2 figures added)
+├── part4/ch19-trade.md (2 figures added)
+├── part4/ch20-supply-chains.md (1 figure added)
+├── part5/ch21-northeast.md (1 figure added)
+├── part5/ch22-sunbelt.md (1 figure added)
+├── part5/ch23-midwest.md (1 figure added)
+├── part5/ch24-west.md (1 figure added)
+├── part5/ch25-rural.md (1 figure added)
+├── part6/ch26-federal-governance.md (1 figure added)
+├── part6/ch27-trade-associations.md (1 figure added)
+├── part6/ch28-labor.md (1 figure added)
+├── appendices/
+│   ├── appendix-a-data-sources.md ✓ (NEW)
+│   ├── appendix-b-bea-reference.md ✓ (NEW)
+│   └── appendix-c-naics-codes.md ✓ (NEW)
+└── SUMMARY.md (updated)
+
+_planning/
+└── session_log.md (updated)
+```
+
+### Project Status
+- **Drafting:** 100% Complete (29/29 chapters)
+- **Visualization:** 100% Complete (68/68 figures)
+- **Figure Integration:** 100% Complete (68 references added)
+- **Appendices:** 100% Complete (3/3 appendices drafted)
+
+### Next Steps
+1. **Data Validation:** Pull actual BEA/BLS data to verify key statistics in chapters
+2. **Shock Transmission Analysis:** Plan new chapter or weave analysis into existing structure
+3. **Figure Review:** Review generated figures for accuracy and presentation
+4. **Editorial Pass:** Review chapters for consistency, tone, cross-references
+5. **GitBook Publication:** Test rendering, verify figure display
+
+---
+
+## Session 14: January 12, 2026
+
+### Accomplishments
+
+**1. Shock Transmission Analysis - Complete Implementation**
+
+Completed the shock transmission analysis that weaves examples of economic shocks throughout the book, demonstrating how disturbances propagate through the economy's structure.
+
+**Data Infrastructure:**
+- Created `_scripts/pull_shock_data.py` - pulls FRED, BEA, and BLS data for shock analysis
+- Created `_scripts/create_shock_figures.py` - generates shock visualizations
+- Pulled 19 FRED time series (oil prices, unemployment rates, mortgage rates, manufacturing employment, housing prices)
+- Pulled BEA state GDP data (3,360 observations)
+- Generated 8 shock analysis figures in `_figures/shock_analysis/`
+
+**Chapter Integrations (~4,800 words added across 6 chapters):**
+
+1. **Ch2: How It All Fits Together** (~800 words)
+   - Added "Shock Propagation Through I-O Linkages" section
+   - Explains direct, indirect, and induced effects with oil shock example
+   - Integrated oil_price_collapse.png and oil_shock_unemployment.png figures
+
+2. **Ch9: Manufacturing** (~750 words)
+   - Added "The China Shock and Its Aftermath" subsection
+   - Covers trade channel, geographic concentration (Rust Belt, furniture South)
+   - Labor market effects (permanent displacement vs. reallocation)
+   - Integrated manufacturing_employment.png figure
+
+3. **Ch14: Energy** (~900 words)
+   - Added "Oil Price Volatility and Regional Economies" section
+   - Detailed 2014-2016 oil shock: first-round, second-round, third-round effects
+   - Geographic concentration (Permian, Bakken, Eagle Ford)
+   - Adjustment mechanisms and lessons
+
+4. **Ch5: Real Estate** (~800 words)
+   - Added "When Housing Prices Collapse: The 2006-2012 Crisis" section
+   - Wealth effect transmission ($8 trillion destroyed)
+   - Geographic variation (Sand States vs. Texas)
+   - Financial contagion pathway
+
+5. **Ch12: Transportation** (~850 words)
+   - Expanded supply chain crisis section to full shock analysis
+   - Port congestion → container rates → producer prices → consumer inflation
+   - Semiconductor shortage → auto production transmission
+   - Policy response and structural shifts
+
+6. **Ch16: How American Finance Works** (~1,100 words)
+   - Added "Monetary Policy Transmission: The 2022-2023 Tightening Cycle"
+   - 525 basis points in 16 months
+   - Mortgage rate channel (3% → 7%)
+   - Bank balance sheet effects → SVB pathway
+   - Regional variation in impacts
+
+**2. New Synthesis Chapter - Ch30: How Shocks Move Through the Economy** (~5,200 words)
+
+Drafted comprehensive synthesis chapter covering:
+- The Propagation Framework (I-O linkages, geographic, financial, labor market channels)
+- Detailed Case Study: 2014-2016 Oil Price Collapse
+- Comparative Analysis: China shock, housing bust, monetary policy tightening
+- Policy Responses and Their Transmission (CHIPS Act, IRA, tariffs)
+- What Structure Tells Us About Vulnerability
+
+**3. Book Structure Updates**
+- Updated `book/SUMMARY.md` to include Ch30 in Conclusion section
+- Book now has 30 chapters total
+
+### Files Created/Modified
+
+```
+_scripts/
+├── pull_shock_data.py ✓ (NEW)
+└── create_shock_figures.py ✓ (NEW)
+
+_data/shock_analysis/
+├── fred_*.csv (19 series)
+├── bea_state_gdp.csv
+├── fred_metadata.json
+└── oil_shock_combined.csv
+
+_figures/shock_analysis/
+├── oil_price_collapse.png/pdf
+├── oil_shock_unemployment.png/pdf
+├── manufacturing_employment.png/pdf
+├── mortgage_rate_shock.png/pdf
+├── housing_starts_shock.png/pdf
+├── housing_price_crash.png/pdf
+├── house_price_full_history.png/pdf
+└── shock_comparison_panel.png/pdf
+
+book/
+├── part1/ch02-how-it-fits.md (shock section added)
+├── part2/ch05-real-estate.md (housing crash section added)
+├── part2/ch09-manufacturing.md (China shock section added)
+├── part2/ch12-transportation.md (supply chain section expanded)
+├── part2/ch14-energy.md (oil shock section added)
+├── part3/ch16-how-finance-works.md (monetary policy section added)
+├── conclusion/ch30-shock-transmission.md ✓ (NEW)
+└── SUMMARY.md (updated with Ch30)
+
+_planning/
+└── session_log.md (updated)
+```
+
+### Project Status
+- **Chapters:** 30/30 complete (was 29)
+- **Shock Analysis:** 100% complete
+  - Data infrastructure: ✓
+  - Chapter integrations (6): ✓
+  - Synthesis chapter: ✓
+- **Total New Content:** ~10,000 words added
+
+### Word Count Update
+- Previous: ~162,600 words
+- Added: ~10,000 words (shock analysis)
+- New Total: ~172,600 words
+
+### Technical Notes
+- FRED RIGS series returned 400 error (Baker Hughes rig count may have changed series ID)
+- BEA mining GDP API call failed due to connection reset (state GDP succeeded)
+- Some pandas FutureWarnings (non-blocking)
+
+### Next Steps
+1. **Data Validation:** Pull additional BEA/BLS data to verify chapter statistics
+2. **Figure Review:** Review shock analysis figures for accuracy
+3. **Editorial Pass:** Review shock integrations for consistency and flow
+4. **GitBook Publication:** Test full book rendering
+5. **Cross-Reference Check:** Verify shock chapter references work across book

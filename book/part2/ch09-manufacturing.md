@@ -8,6 +8,9 @@ Manufacturing contributed approximately $2.3 trillion to GDP in 2023—about 10%
 
 The employment picture tells a different story. Manufacturing employed approximately 12.8 million workers as of early 2024—down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents roughly 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.
 
+![Manufacturing employment over time](../_figures/ch09/ch09_manufacturing_employment.png)
+*Figure 9.1: Manufacturing employment, 1970-2024. Employment has declined relentlessly from 19 million to 13 million, even as output doubled. Source: BLS CES*
+
 The divergence between rising output and falling employment represents manufacturing's central economic fact: extraordinary productivity growth. Output per worker has increased dramatically as automation, computerization, and process improvements enabled factories to produce more with fewer hands. A modern automobile assembly plant requires a fraction of the labor that similar facilities needed in the 1970s. Pharmaceutical manufacturing, semiconductor fabrication, and food processing have undergone similar transformations. This productivity growth is economically valuable—it means more goods at lower real cost—but it also means that manufacturing will not return as a mass employer regardless of trade policy, reshoring efforts, or industrial subsidies.
 
 ## How the Industry Works
@@ -35,6 +38,9 @@ Manufacturing business models vary enormously by subsector:
 ### Subsector Composition
 
 Manufacturing's $2.3 trillion GDP contribution distributes unevenly across subsectors:
+
+![Manufacturing subsector value added](../_figures/ch09/ch09_subsector_value_added.png)
+*Figure 9.2: Manufacturing value added by subsector. Chemicals (including pharmaceuticals) lead, followed by computers/electronics and food products. Source: BEA (2023)*
 
 **Chemical products** (including pharmaceuticals) constitute the largest subsector by value-added, contributing approximately $420 billion. This category spans industrial chemicals (basic organic and inorganic compounds), specialty chemicals (catalysts, additives), and pharmaceuticals. The petrochemical industry clusters along the Gulf Coast, exploiting cheap natural gas as feedstock. Pharmaceutical manufacturing concentrates in New Jersey, Massachusetts, and North Carolina, near research universities and biotechnology clusters. Major players include Dow, DuPont (now separate companies after a merger and re-split), BASF's American operations, and pharmaceutical giants like Pfizer, Johnson & Johnson, Merck, and AbbVie.
 
@@ -78,6 +84,9 @@ The largest American manufacturers by revenue (excluding pure energy companies):
 | Pfizer | Pharmaceuticals | $58B | Largest pharma; COVID vaccine producer |
 | Intel | Semiconductors | $54B | Leading US chip manufacturer |
 | Dow | Chemicals | $45B | Commodity and specialty chemicals |
+
+![Top manufacturers by revenue](../_figures/ch09/ch09_top_manufacturers.png)
+*Figure 9.3: Top U.S. manufacturers by revenue. Apple leads by a wide margin, though its manufacturing is contracted out. Source: Company data (2023)*
 
 Apple's position at the top illustrates manufacturing's complexity: the company designs products in California and captures enormous value through brand, design, and software, but contracts virtually all physical manufacturing to Asian suppliers. Whether Apple is a "manufacturer" depends on definition.
 
@@ -149,7 +158,34 @@ Industrial robots represent the most visible face of manufacturing automation. T
 
 Automotive manufacturing has the highest robot penetration, with welding, painting, and material handling extensively automated. Electronics assembly increasingly uses robots, though the dexterity required for complex assembly still exceeds robot capabilities for many tasks. Pharmaceutical manufacturing is highly automated but with specialized equipment rather than general-purpose robots.
 
+![Robot density by country](../_figures/ch09/ch09_robot_density.png)
+*Figure 9.4: Industrial robot density (robots per 10,000 manufacturing workers). The U.S. lags South Korea and Germany; China has surpassed U.S. density. Source: IFR (2023)*
+
 The automation trajectory suggests continued manufacturing employment pressure. Advances in robotics, machine vision, and artificial intelligence expand the range of automatable tasks. Collaborative robots ("cobots") that work alongside humans, rather than in caged workcells, enable automation of tasks previously requiring human flexibility. While alarmist predictions of mass technological unemployment have repeatedly proven premature, manufacturing employment will continue its long-term decline.
+
+### The China Shock and Its Aftermath
+
+While automation provided steady pressure on manufacturing employment, the period from 2000 to 2010 delivered a concentrated blow that economists now call "the China shock." China's accession to the World Trade Organization in December 2001 provided permanent normal trade relations with the United States, eliminating the annual uncertainty over tariff renewal that had constrained Chinese exports. What followed was an import surge of unprecedented speed and scale.
+
+![U.S. manufacturing employment decline](../_figures/shock_analysis/manufacturing_employment.png)
+*Figure 9.5: Manufacturing employment fell sharply from 17.3 million in 2000 to 11.5 million in 2010—a loss of 5.8 million jobs in a single decade. The China shock contributed substantially to this decline. Source: BLS*
+
+Between 2000 and 2010, American manufacturing employment fell from 17.3 million to 11.5 million—a loss of 5.8 million jobs, or one-third of the manufacturing workforce. While automation and the 2008 financial crisis contributed, economists David Autor, David Dorn, and Gordon Hanson demonstrated that import competition from China accounted for a substantial share—perhaps 2 to 2.4 million jobs directly displaced by Chinese imports, with additional losses through supply chain linkages.
+
+The transmission mechanism worked through product market competition. As Chinese factories scaled up production of labor-intensive manufactured goods—furniture, textiles, apparel, toys, electronics assembly—American producers faced a stark choice: match Chinese costs (impossible given wage differentials), automate (capital-intensive and not always feasible), shift to higher-value products (requiring capabilities not all firms possessed), or exit. Many exited. The furniture industry in North Carolina, textile mills in the Southeast, and electronics assembly facilities across the country shuttered as Chinese imports captured market share.
+
+**Geographic Concentration**: The shock did not fall evenly. Communities that had specialized in the goods China now produced suffered disproportionately. The research by Autor, Dorn, and Hanson documented that commuting zones with industries more exposed to Chinese import competition experienced larger employment losses, slower wage growth, and higher rates of disability enrollment, food stamp uptake, and mortality. The pain concentrated in:
+
+- **Appalachian furniture corridor**: North Carolina, Virginia, and Tennessee communities built around furniture manufacturing saw plant closures cascade through the 2000s
+- **Rust Belt manufacturing**: Ohio, Michigan, Indiana communities already stressed by automotive restructuring faced additional pressure
+- **Textile South**: South Carolina, Georgia, and Alabama textile towns that had survived earlier competitive pressures succumbed to Chinese competition
+- **Electronics assembly**: California, Texas, and other hubs of circuit board assembly and component manufacturing
+
+**Labor Market Transmission**: Perhaps most striking was how poorly labor markets absorbed the displaced workers. Economic theory predicted workers would transition to other sectors or regions. In practice, many displaced manufacturing workers never found comparable employment. They withdrew from the labor force, took lower-paying service jobs, applied for disability benefits, or moved into long-term unemployment. The adjustment mechanisms that had smoothed earlier trade shocks—geographic mobility, sectoral reallocation, retraining—proved inadequate for a shock of this magnitude and speed.
+
+**Long-Run Consequences**: The China shock reshaped not just the economy but American politics. The communities most exposed to import competition showed significant shifts in voting patterns, contributing to the populist turn in trade policy that culminated in the 2018 tariffs. The bipartisan consensus favoring trade liberalization fractured. The shock demonstrated that "adjustment costs" economists had treated as temporary frictions could in fact be permanent and geographically concentrated.
+
+The China shock has largely run its course—Chinese wages have risen substantially, and the most trade-sensitive industries have already adjusted or disappeared. But its legacy shapes contemporary industrial policy. The emphasis on supply chain resilience, the skepticism toward free trade agreements, and the willingness to deploy subsidies and tariffs all reflect lessons drawn from the 2000-2010 experience.
 
 ## Regulation and Trade
 

@@ -6,6 +6,9 @@ This chapter examines how American finance actually works: the hierarchy of mone
 
 ## The Hierarchy of Money
 
+![Hierarchy of money](../_figures/ch16/ch16_hierarchy_of_money.png)
+*Figure 16.1: The hierarchy of money. Currency sits at the top; reserves, deposits, and shadow money form progressively lower levels, each a promise to pay the level above. In a crisis, lower-level money gets tested against higher-level money. Source: Author illustration based on Mehrling*
+
 The first insight is that not all money is equal. Money exists in a hierarchy, with each level a promise to pay the level above.
 
 **Level 1: Currency (Federal Reserve Notes)**
@@ -334,6 +337,78 @@ A key insight from Stiglitz and Weiss: credit markets don't clear like commodity
 Why? If banks raise rates to clear excess demand, they attract only the riskiest borrowers (adverse selection) and encourage gambling (moral hazard). Bank profits peak at an interior interest rate. Beyond that rate, expected repayment falls.
 
 This means credit *availability* matters as much as credit *cost*. Monetary policy that lowers rates may not help if banks won't lend.
+
+## Monetary Policy Transmission: The 2022-2023 Tightening Cycle
+
+The Federal Reserve's rapid rate increases from 2022 to 2023 provide a vivid case study of how monetary policy transmits through the financial system to the real economy—and how that transmission can create unexpected stresses.
+
+### The Shock: 525 Basis Points in 16 Months
+
+Beginning in March 2022, the Fed raised the federal funds rate from near zero to 5.25-5.50%—the fastest tightening cycle in 40 years. The goal was to combat inflation that had reached 9%, the highest since 1981. But the transmission of this shock through the economy revealed both expected channels and unanticipated vulnerabilities.
+
+![Mortgage rate shock](../_figures/shock_analysis/mortgage_rate_shock.png)
+*Figure 16.2: The 30-year fixed mortgage rate doubled from 3% to over 7% in just 18 months, the most rapid increase since the Volcker disinflation of 1981-82. Source: FRED*
+
+### The Primary Transmission Channel: Mortgage Rates
+
+The most visible transmission occurred through mortgage rates. The 30-year fixed mortgage rate—the benchmark for American homebuyers—doubled from roughly 3% in late 2021 to over 7% by late 2022. This translated directly into housing affordability:
+
+- **Payment shock**: A $400,000 mortgage at 3% requires monthly payments of $1,686. At 7%, the same loan costs $2,661—a 58% increase.
+- **Purchasing power collapse**: A family that could afford a $500,000 home at 3% rates could afford only $330,000 at 7% rates, holding monthly payments constant.
+- **Transaction freeze**: Existing homeowners locked into 3% mortgages refused to sell, since moving meant taking on a 7% mortgage. Existing home sales fell 35% from 2021 to 2023.
+
+![Housing starts shock](../_figures/shock_analysis/housing_starts_shock.png)
+*Figure 16.3: Housing starts fell sharply as mortgage rates rose, demonstrating the Fed's primary transmission mechanism to the real economy. Source: Census Bureau*
+
+Housing starts declined by roughly 20% as builders faced both higher financing costs and reduced buyer demand. Construction employment, which had boomed during the pandemic housing surge, contracted modestly.
+
+### The Secondary Channel: Asset Prices and Bank Balance Sheets
+
+The rate increases transmitted through asset prices in ways that exposed unexpected vulnerabilities.
+
+**Bond Math**: When interest rates rise, bond prices fall. A 30-year Treasury yielding 1.5% loses roughly 40% of its market value when rates rise to 4.5%. This is mechanical: the fixed coupons become less valuable relative to new market rates.
+
+**Bank Portfolios**: During the 2020-2021 period of near-zero rates, banks bought long-duration bonds—Treasuries and agency mortgage-backed securities—to earn some yield on their swelling deposits. When rates rose, these securities lost substantial market value. By early 2023, US banks held roughly $620 billion in unrealized losses on their securities portfolios.
+
+**Accounting Treatment**: Banks could avoid realizing these losses by classifying securities as "held-to-maturity" (HTM). Under HTM accounting, securities are carried at purchase price, not market value. On paper, banks appeared well-capitalized. In economic reality, many had lost substantial equity.
+
+### Silicon Valley Bank: When the Channel Breaks
+
+The transmission mechanism from monetary policy to bank balance sheets produced the most significant bank failures since 2008.
+
+Silicon Valley Bank exemplified the vulnerability:
+- **Asset side**: Heavy investment in long-duration MBS and Treasuries, now worth $15 billion less than purchase price
+- **Liability side**: Concentrated deposits from tech startups and venture capital—94% uninsured, highly networked, capable of moving funds instantly
+- **Trigger**: When SVB announced it needed to raise capital to offset securities losses, depositors fled—$42 billion in a single day
+
+The Fed had raised rates to slow inflation by tightening financial conditions. It succeeded—but the tightening also created a pathway for bank runs. The rate increases that made mortgages expensive also made bank bond portfolios worth less, creating fragility that manifested in the fastest bank run in American history.
+
+### Geographic and Sectoral Variation
+
+The monetary policy shock affected different regions and sectors unevenly:
+
+**Rate-Sensitive Sectors**: Housing, automobiles (which depend on financing), and commercial real estate bore the brunt. Office building transactions essentially froze as buyers and sellers couldn't agree on values appropriate to the new rate environment.
+
+**Cash-Rich Tech**: Companies like Apple and Google, sitting on billions in cash, faced minimal impact. Venture-backed startups that depended on equity financing saw their funding environment collapse.
+
+**Regional Banks**: Banks concentrated in commercial real estate lending (Signature Bank, First Republic) faced particular stress. Unlike diversified money-center banks, they lacked offsetting businesses and deposit stability.
+
+**Sunbelt Housing Markets**: Markets that had boomed during low-rate pandemic migration—Austin, Phoenix, Boise—saw the sharpest affordability declines as rates rose.
+
+### Policy Response: Extending the Safety Net
+
+The Fed responded to the banking stress it had inadvertently triggered by creating the Bank Term Funding Program (BTFP), which allowed banks to borrow against securities at par value rather than market value. This effectively papered over the unrealized losses, preventing fire sales that could have cascaded through the banking system.
+
+The episode illustrated a recurring pattern in monetary policy transmission: rate changes designed to affect one target (inflation, via spending) also affect other parts of the financial system in ways that can threaten stability. The Fed was simultaneously tightening policy to fight inflation and easing through emergency lending facilities to prevent bank failures—a contradiction that underscored the complexity of monetary transmission.
+
+### Lessons for Understanding Monetary Transmission
+
+The 2022-2023 tightening demonstrates several principles:
+
+- **Transmission channels multiply**: Monetary policy works through mortgage rates, asset prices, bank balance sheets, and credit availability—all simultaneously
+- **Lags vary by channel**: Mortgage rates respond immediately; housing starts respond over months; full employment effects take 1-2 years
+- **Vulnerabilities accumulate in low-rate periods**: The duration mismatch that sank SVB was built during years of near-zero rates
+- **Distribution matters**: The same rate increase helps savers (higher deposit rates) while hurting borrowers (higher mortgage costs)
 
 ## The Regulatory Architecture
 

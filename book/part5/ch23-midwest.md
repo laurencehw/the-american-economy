@@ -17,6 +17,9 @@ The Midwest---here defined as the Great Lakes states of Ohio, Michigan, Indiana,
 | Minnesota | $440 billion | 12% | Growing |
 | Wisconsin | $400 billion | 18% | Stable |
 
+![Manufacturing share by state](../_figures/ch23/ch23_manufacturing_share.png)
+*Figure 23.1: Manufacturing as share of state GDP. Indiana leads the nation; the Great Lakes states retain concentrated manufacturing despite job losses. Source: BEA (2023)*
+
 The region's challenge is structural: manufacturing output grows through automation while manufacturing employment shrinks. Ohio ranks third nationally in manufacturing jobs (687,000), but that figure has fallen by half since 1979.
 
 ## Metropolitan Economies

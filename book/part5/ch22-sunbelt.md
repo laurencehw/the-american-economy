@@ -13,6 +13,9 @@ The Sunbelt---stretching from the Carolinas through Georgia, Florida, Texas, Ari
 | Sunbelt states | 1.1% annually | 3.2% |
 | Non-Sunbelt | 0.1% annually | 1.8% |
 
+![Sunbelt growth](../_figures/ch22/ch22_sunbelt_growth.png)
+*Figure 22.1: Population growth has concentrated in the Sunbelt. Texas and Florida alone account for a third of national population growth. Source: Census Bureau*
+
 The South alone accounted for 87% of U.S. population growth in 2023. Texas and Florida added nearly 800,000 residents between them in a single year---equivalent to adding a city the size of Seattle.
 
 The Sunbelt's projected growth over the next decade exceeds 7%, adding roughly 11 million people. The rest of the country is projected to grow by 0.3%.

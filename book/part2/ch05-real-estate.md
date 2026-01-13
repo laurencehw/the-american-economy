@@ -63,6 +63,9 @@ Congress created **Real Estate Investment Trusts (REITs)** in 1960 to democratiz
 
 REITs trade like stocks but behave like bonds—their dividends are relatively stable, and their values fluctuate with interest rates. When rates rise, REIT prices typically fall, as their yields become less attractive relative to bonds.
 
+![Top REITs by market cap](../_figures/ch05/ch05_top_reits.png)
+*Figure 5.2: Top REITs by market capitalization. Digital infrastructure (data centers, cell towers) now commands higher valuations than traditional property types. Source: NAREIT (2024)*
+
 ## Industry Structure
 
 The industry divides into those who build, those who own, and those who facilitate transactions. Each segment has distinct economics and market structure.
@@ -83,6 +86,9 @@ Homebuilding has consolidated dramatically. The 2008 crash wiped out smaller bui
 | 3 | NVR | $10B | ~24,000 | Reston, VA |
 | 4 | PulteGroup | $16B | ~28,000 | Atlanta, GA |
 | 5 | Toll Brothers | $10B | ~10,000 | Fort Washington, PA |
+
+![Top homebuilders by homes closed](../_figures/ch05/ch05_top_homebuilders.png)
+*Figure 5.1: Top 10 homebuilders by homes closed. D.R. Horton dominates the market, closing nearly 90,000 homes annually. Source: Company data (2024)*
 
 The industry remains geographically fragmented—homebuilding is fundamentally local, dependent on land entitlements, labor markets, and municipal permitting. A Texas builder may not operate in California, and vice versa. But within regions, consolidation continues.
 
@@ -220,9 +226,69 @@ Real estate is among the most politically active sectors in America. Property ri
 
 At the local level, homeowner associations, neighborhood groups, and NIMBY ("Not In My Backyard") organizations wield enormous influence over zoning and development decisions—often more than formal industry lobbies.
 
+## When Housing Prices Collapse: The 2006-2012 Crisis
+
+Real estate's role in household wealth makes housing price collapses uniquely destructive. Unlike stock market crashes, which affect the minority of Americans with substantial equity holdings, housing busts hit the middle class directly. The 2006-2012 housing crisis demonstrated how a shock originating in real estate could propagate through household balance sheets, the financial system, and the broader economy.
+
+### The Boom and Bust
+
+![House price crash 2006-2012](../_figures/shock_analysis/housing_price_crash.png)
+*Figure 5.4: The Case-Shiller Home Price Index fell 27% nationally from its 2006 peak, with some markets (Phoenix, Las Vegas, Miami) experiencing declines of 50-60%. Source: S&P/Case-Shiller*
+
+The early 2000s saw the largest housing boom in American history. The Case-Shiller National Home Price Index roughly doubled between 2000 and 2006, fueled by low interest rates, loosened lending standards, and speculative fervor. Subprime mortgages—loans to borrowers with weak credit—grew from a marginal product to 20% of originations. "No-doc" loans required no income verification. Option ARMs let borrowers pay less than the interest due, with unpaid interest added to principal.
+
+The boom masked fundamental mispricing. When prices stopped rising in 2006, the entire structure unraveled. Borrowers who had counted on refinancing or selling at higher prices found themselves underwater—owing more than their homes were worth. Default rates surged. By 2009, roughly one in four mortgages was underwater.
+
+### Geographic Concentration
+
+The crash devastated some regions far more than others:
+
+**Sand States (Arizona, California, Florida, Nevada)**: Markets that had boomed the most crashed the hardest. Las Vegas prices fell 62% peak-to-trough. Phoenix fell 56%. Miami fell 51%. Entire subdivisions stood half-built and abandoned. "Ghost neighborhoods" dotted the Sunbelt.
+
+**Industrial Midwest**: Ohio, Michigan, and Indiana, already reeling from manufacturing decline, faced foreclosure waves that accelerated population loss from struggling cities.
+
+**Texas Exception**: Texas experienced only a 6% price decline—its elastic housing supply had prevented a boom, and the absence of a boom meant no bust. Strict home equity lending laws also limited the use of homes as ATMs.
+
+**Northeast Resilience**: Supply-constrained markets like Boston and New York fell less (15-20%) and recovered faster, as fundamental demand remained strong.
+
+### The Wealth Effect Transmission
+
+The housing crash transmitted to the broader economy primarily through the **wealth effect** on household balance sheets:
+
+- **$8 trillion in housing wealth destroyed**: American homeowners collectively lost roughly $8 trillion in home equity between 2006 and 2009—equivalent to half of annual GDP.
+- **Consumption collapse**: Households that felt poorer spent less. Economists Atif Mian and Amir Sufi found that zip codes with larger house price declines experienced larger drops in consumer spending, particularly on durables like automobiles and appliances.
+- **Construction employment**: Residential construction employment fell from 3.5 million (2006) to 2 million (2011). Construction workers, concentrated in the hardest-hit markets, faced mass unemployment.
+
+### Financial Contagion
+
+The housing shock became a financial crisis through the securitization chain examined in Chapter 16:
+
+1. **Mortgage defaults** caused losses on mortgage-backed securities
+2. **MBS holders** (banks, investment funds, insurance companies) faced writedowns
+3. **Uncertainty** about who held toxic assets froze interbank lending
+4. **Credit contraction** spread from housing to the entire economy
+
+The result was the deepest recession since the 1930s. Unemployment peaked at 10%. The Federal Reserve cut interest rates to zero and launched unprecedented programs to support credit markets. The federal government bailed out Fannie Mae, Freddie Mac, AIG, and the banking system.
+
+### The Long Recovery
+
+Housing prices did not return to 2006 levels until 2016-2018 in most markets—a decade of lost appreciation. For homeowners who bought at the peak, it meant a decade underwater. For those who lost homes to foreclosure, it meant destroyed credit and lasting financial trauma.
+
+The crisis demonstrated several principles of shock transmission:
+
+- **Leverage amplifies**: Households with 80-95% loan-to-value ratios faced devastating wealth destruction from modest price declines
+- **Geographic concentration matters**: The Sand States bore disproportionate pain, creating localized depressions within a national recession
+- **Financial linkages spread the impact**: Securitization meant that mortgage losses in Phoenix affected pension funds in Norway
+- **Recovery is slow**: Unlike stock market crashes that often reverse within years, housing busts take a decade or more to heal
+
+The scars remain visible in policy—the conservatorship of Fannie and Freddie, the post-crisis mortgage regulations, and the caution that kept housing construction depressed for years, contributing to today's affordability crisis.
+
 ## Recent Trends
 
 ### 1. The Affordability Crisis and "Lock-In" Effect
+
+![House price trends](../_figures/ch05/ch05_house_price_trends.png)
+*Figure 5.3: Case-Shiller Home Price Index, 2000-2024. Prices surged 40% during the post-COVID boom, then stabilized at elevated levels as mortgage rates rose. Source: S&P/Case-Shiller (2024)*
 
 The post-COVID era created a unique affordability crisis:
 

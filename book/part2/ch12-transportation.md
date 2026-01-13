@@ -12,6 +12,9 @@ Every time you order something online and it arrives the next day, you're witnes
 
 The transportation sector is fundamentally shaped by two forces: geography and deregulation. American distances are vast---it's 2,800 miles from Los Angeles to New York, creating natural demand for long-haul freight that doesn't exist in smaller countries. And the regulatory reforms of 1978-1980, which deregulated airlines, trucking, and railroads in rapid succession, unleashed productivity gains that transformed how goods move.
 
+![Freight modal split](../_figures/ch12/ch12_freight_modal_split.png)
+*Figure 12.1: U.S. freight by mode (ton-miles). Trucking dominates for flexibility; rail excels at bulk and long-haul. Source: BTS (2023)*
+
 The modal split reveals the logic of American freight. Trucking dominates, handling 44% of ton-miles and an even larger share by value, because trucks offer door-to-door flexibility that no other mode can match. Rail moves 19% of ton-miles but specializes in bulk commodities---coal, grain, chemicals, intermodal containers---where its cost advantage on long hauls is decisive. Air freight is negligible by weight (less than 1% of ton-miles) but moves high-value, time-sensitive goods: electronics, pharmaceuticals, e-commerce orders. Pipelines quietly move petroleum and natural gas, while ships handle international trade and some domestic bulk cargo.
 
 ## How the Industry Works
@@ -55,6 +58,9 @@ The trucking industry divides into distinct segments:
 | 7 | Schneider | $5.5B | TL/Intermodal |
 | 8 | Werner | $3.0B | Truckload |
 
+![Top trucking companies](../_figures/ch12/ch12_trucking_companies.png)
+*Figure 12.2: Top trucking companies by revenue. UPS and FedEx dominate through their integrated parcel networks. Source: Company data (2023)*
+
 ### The Driver Shortage
 
 The trucking industry has complained about driver shortages for decades. The American Trucking Associations estimates the current shortage at around 60,000 drivers, down from a peak of 80,000 during the pandemic freight boom but still significant. The shortage is concentrated in long-haul trucking, where drivers may spend weeks away from home.
@@ -86,6 +92,9 @@ Only seven "Class I" railroads (those with over $500 million in annual revenue) 
 | CSX | $14.7B | Public | Eastern US |
 | Norfolk Southern | $12.2B | Public | Eastern US |
 
+![Class I railroads revenue](../_figures/ch12/ch12_class_i_railroads.png)
+*Figure 12.3: Class I railroad revenue. Union Pacific and BNSF (Berkshire) dominate the West; CSX and Norfolk Southern split the East. Source: AAR (2023)*
+
 The Canadian carriers (Canadian National and Canadian Pacific Kansas City) also operate extensively in the US, and Kansas City Southern (now part of CPKC) provides the main rail link to Mexico.
 
 ### Precision Scheduled Railroading
@@ -110,6 +119,9 @@ The airline industry that deregulation created in 1978 has consolidated into a s
 | American | 17.5% | Fort Worth | DFW, CLT, PHX, PHL, MIA |
 | Southwest | 17.3% | Dallas | Point-to-point (major: DEN, LAS, PHX) |
 | United | 16.0% | Chicago | ORD, DEN, IAH, SFO, EWR |
+
+![Airline market share](../_figures/ch12/ch12_airline_market_share.png)
+*Figure 12.4: Domestic airline market share. The Big Four control roughly 70% of passengers after decades of consolidation. Source: DOT (2024)*
 
 The Big Four emerged from a wave of mergers: Delta absorbed Northwest (2008), United merged with Continental (2010), Southwest acquired AirTran (2011), and American combined with US Airways (2013). The result is a mature industry with disciplined capacity management and consistent profitability---a stark contrast to the boom-bust cycles of the 1990s and 2000s.
 
@@ -138,6 +150,9 @@ America's seaports are the gateways for international trade. Container ports han
 | Long Beach | 9.1 million | Trans-Pacific (Asia) |
 | Savannah | 5.9 million | Asia, Atlantic |
 | Houston | 4.0 million | Latin America, Gulf |
+
+![Top container ports](../_figures/ch12/ch12_top_ports.png)
+*Figure 12.5: Top U.S. container ports by TEUs. Los Angeles-Long Beach dominates trans-Pacific trade; Savannah has gained share since the 2021 congestion crisis. Source: AAPA (2023)*
 
 The San Pedro Bay ports (Los Angeles and Long Beach) together form the nation's largest port complex, handling about 40% of containerized imports. Their dominance reflects proximity to Asia---the great circle route from Shanghai to LA is several days shorter than to East Coast ports via the Panama Canal.
 
@@ -176,6 +191,9 @@ The warehousing workforce has grown from about 700,000 in 2010 to 1.4 million to
 ### The Freight Corridors
 
 American freight flows along predictable corridors shaped by population, ports, and history:
+
+![Logistics corridors map](../_figures/ch12/ch12_logistics_corridors_map.png)
+*Figure 12.6: Major freight corridors. Interstate highways, rail mainlines, and ports form an interconnected network with Chicago at the center. Source: BTS*
 
 **East-West Trunk Routes:** I-80 and I-90 form the primary cross-country truck corridors, paralleled by Union Pacific and BNSF rail lines. These routes connect West Coast ports to Midwest distribution centers and Eastern markets.
 
@@ -251,11 +269,64 @@ The likely path is "hub-to-hub" autonomy: self-driving trucks handle the long-ha
 
 Full autonomy remains distant. Regulatory frameworks are incomplete, edge cases are innumerable, and the trucking industry's fragmentation makes technology adoption slow. But some form of autonomous trucking will likely emerge within the decade.
 
-### 4. Supply Chain Resilience
+### 4. The 2021-2022 Supply Chain Crisis: A Shock Transmission Case Study
 
-The 2021-2022 supply chain crisis---port congestion, empty shelves, semiconductor shortages---prompted a rethinking of lean inventory practices. Companies that had optimized for efficiency found themselves vulnerable to disruption.
+The supply chain disruptions of 2021-2022 demonstrated how transportation constraints can propagate through the entire economy. What began as a mismatch between pandemic-shifted demand and logistics capacity became a shock that raised prices, disrupted production, and sparked a fundamental rethinking of global supply chain design.
 
-The response has been increased inventory (the "bullwhip effect" that led to excess stock by 2023), diversification of suppliers and shipping routes, and investment in supply chain visibility technology. Reshoring and nearshoring have gained momentum, potentially shifting trade patterns toward Mexico and away from China.
+**The Initial Shock: Port Congestion**
+
+The crisis began at the ports. When American consumers—stuck at home, flush with stimulus checks—shifted spending from services to goods, import volumes surged beyond anything the logistics system could handle. The San Pedro Bay ports (Los Angeles and Long Beach) became the bottleneck.
+
+At the peak in late 2021, over 100 container ships anchored off the Southern California coast, waiting days or weeks to unload. The ports operated 24/7 but couldn't clear the backlog. Containers sat on docks for weeks instead of the normal 3-4 days. The entire logistics chain—trucks, chassis, rail connections, warehouses—was overwhelmed simultaneously.
+
+**Price Transmission: Container Rates**
+
+The scarcity of shipping capacity sent container rates into orbit. The cost to ship a 40-foot container from Shanghai to Los Angeles rose from roughly $1,500 pre-pandemic to over $15,000 at the peak—a 10x increase. Shipping lines like Maersk and MSC reported record profits while shippers scrambled for capacity at any price.
+
+These costs passed through supply chains with a lag. The Producer Price Index for transportation and warehousing rose 15% in 2021 alone. Eventually, higher shipping costs contributed to the broader inflation surge, showing up in everything from furniture to electronics to food.
+
+**The Semiconductor Shortage**
+
+The most economically damaging element was the semiconductor shortage, which revealed the fragility of just-in-time supply chains in auto manufacturing. When COVID shut down chip foundries in early 2020, automakers canceled orders. When demand recovered faster than expected, they found themselves at the back of the queue behind smartphone and electronics companies.
+
+The transmission was devastating for auto production:
+- New vehicle production fell roughly 3.5 million units in 2021 due to chip shortages
+- Auto plants idled workers for weeks at a time, waiting for semiconductors
+- New car inventory collapsed to historically low levels
+- Used car prices rose 40%+, contributing significantly to measured inflation
+- Rental car companies, which had sold fleets during the pandemic, couldn't replenish them
+
+**Geographic and Sectoral Impacts**
+
+The shock's effects varied enormously by location and industry:
+
+**Inland Empire (California)**: Warehouses filled beyond capacity as containers cleared the ports but couldn't move fast enough to final destinations. Trucking rates from LA to Midwest cities doubled.
+
+**Auto Manufacturing (Midwest)**: Plants in Michigan, Ohio, and Indiana faced repeated production shutdowns. The supply chain shock became a demand shock for auto workers.
+
+**Retailers**: Store shelves emptied of goods from toys to appliances. Major retailers like Walmart and Target chartered their own container ships—a dramatic departure from normal practice.
+
+**I-O Linkages**: The disruptions cascaded through supply chains. A missing semiconductor idled an entire assembly line. A delayed container of components held up production of goods dependent on those parts.
+
+**Policy Response and Structural Shift**
+
+The crisis prompted government action. The Biden administration established a Supply Chain Disruptions Task Force, pressured ports to expand operations, and worked with trucking and rail operators to clear backlogs. The Ocean Shipping Reform Act of 2022 gave the Federal Maritime Commission new authority to address shipping line practices.
+
+More fundamentally, companies began rethinking decades of supply chain optimization:
+
+- **Inventory rebuilding**: After years of lean inventory, companies increased buffer stocks. The "just-in-case" model began supplementing "just-in-time."
+- **Nearshoring**: Manufacturing investment in Mexico surged as companies sought to reduce dependence on trans-Pacific shipping.
+- **Diversification**: Shippers spread volumes across more ports (Savannah and Gulf ports gained share) and more carriers.
+- **Visibility investment**: Demand soared for supply chain visibility platforms that could track containers and predict disruptions.
+
+**Lessons for Shock Transmission**
+
+The supply chain crisis illustrated several principles:
+
+- **Optimization creates fragility**: Systems designed for efficiency in normal times lack resilience to shocks
+- **Bottlenecks amplify disruptions**: The LA/LB concentration meant a single point of congestion affected national supply chains
+- **Transmission takes time but persists**: Shipping cost increases from 2021 showed up in consumer prices through 2022
+- **Policy response matters but has limits**: Government intervention helped at the margin, but fundamentally, the system needed to work through the backlog
 
 ### 5. Sustainability Pressures
 

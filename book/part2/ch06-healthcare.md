@@ -35,6 +35,12 @@ The healthcare sector divides into several distinct segments, each with its own 
 
 Source: CMS National Health Expenditure Accounts
 
+![Healthcare spending by category](../_figures/ch06/ch06_spending_treemap.png)
+*Figure 6.1: Healthcare spending by category. Hospital care dominates, followed by physician services and prescription drugs. Source: CMS NHE (2022)*
+
+![Healthcare spending over time](../_figures/ch06/ch06_spending_over_time.png)
+*Figure 6.2: Healthcare spending as share of GDP, 1960-2023. Healthcare has grown from 5% to nearly 18% of the economy over six decades. Source: CMS NHE*
+
 ## How the Industry Works
 
 Healthcare in America operates through an unusual structure where the person receiving care (the patient) is often different from the person paying for it (the insurer or employer) and different again from the person deciding what care to provide (the physician). This three-way split creates incentive problems that shape much of healthcare economics.
@@ -68,6 +74,9 @@ Medicaid is a joint federal-state program covering low-income Americans---about 
 Patients pay directly for some services---deductibles, copays, services not covered by insurance, and care for the uninsured. Out-of-pocket spending has declined as a share of total spending over time as insurance coverage has expanded.
 
 **5. Other (21%)**
+
+![Healthcare payer mix](../_figures/ch06/ch06_payer_mix.png)
+*Figure 6.3: Who pays for healthcare. Private insurance, Medicare, and Medicaid each cover roughly 20-30% of spending, with out-of-pocket and other sources making up the rest. Source: CMS NHE (2022)*
 
 Other payers include the Veterans Administration, workers' compensation, charitable care, and other government programs.
 

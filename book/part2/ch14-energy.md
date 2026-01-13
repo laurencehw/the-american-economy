@@ -35,6 +35,9 @@ Electricity is unique among commodities: it cannot be economically stored at sca
 | Solar | 6% | Growing very rapidly |
 | Hydro | 6% | Stable |
 
+![Electricity generation mix](../_figures/ch14/ch14_generation_mix.png)
+*Figure 14.1: U.S. electricity generation by source. Natural gas has replaced coal as the dominant fuel, while wind and solar have grown rapidly. Source: EIA (2024)*
+
 The generation mix has transformed in 15 years. In 2008, coal provided 48% of US electricity; natural gas 21%. The shale revolution made gas cheap; environmental regulation made coal expensive. Coal's share has fallen by two-thirds.
 
 **Transmission** moves power from generators to load centers over high-voltage lines (100-765 kV). The US has three largely separate grids:
@@ -228,6 +231,9 @@ NextEra is the dominant player, having built more wind and solar than any other 
 
 America's energy geography creates a fundamental divide between **producing states** and **consuming states**:
 
+![Energy production basins map](../_figures/ch14/ch14_energy_basins_map.png)
+*Figure 14.2: Major energy production regions. The Permian Basin (oil) and Appalachian Basin (natural gas) dominate U.S. production. Source: EIA*
+
 **Top Oil Producing States** (million bbl/day):
 1. Texas: 5.5
 2. New Mexico: 1.8
@@ -391,6 +397,79 @@ Energy is among the most heavily lobbied sectors:
 Key lobbying issues: Tax treatment, permitting, environmental regulation, grid rules, trade policy (tariffs on solar panels, LNG exports).
 
 The industry contributes heavily to campaigns, particularly in energy-producing states. Texas, Louisiana, Oklahoma, and Wyoming politics are shaped by oil and gas interests.
+
+## Oil Price Volatility and Regional Economies
+
+Energy prices fluctuate more dramatically than prices in most sectors, and these fluctuations transmit directly to producing regions. No episode illustrates this better than the 2014-2016 oil price collapse—a shock that devastated energy-dependent communities while benefiting consumers everywhere else.
+
+### The 2014-2016 Oil Shock
+
+![Oil price collapse](../_figures/shock_analysis/oil_price_collapse.png)
+*Figure 14.3: Brent crude oil collapsed from $115/barrel in June 2014 to $28/barrel in January 2016—a 76% decline in 19 months. Source: FRED*
+
+Brent crude oil traded above $100/barrel from early 2011 through mid-2014, supporting unprecedented investment in American shale production. The Permian Basin, Bakken, and Eagle Ford boomed. Oil-field services companies expanded aggressively. Workers flooded into West Texas, North Dakota, and South Texas, accepting harsh conditions for wages that could exceed $100,000 annually.
+
+Then prices collapsed. OPEC, led by Saudi Arabia, decided to defend market share rather than prices, flooding an already oversupplied market. Brent fell from $115 in June 2014 to $28 in January 2016—a 76% decline.
+
+**First-Round Effects: The Energy Sector**
+
+The immediate impact devastated oil-dependent industries:
+
+- **Rig counts collapsed**: Active US oil rigs fell from 1,600 (October 2014) to 316 (May 2016)—an 80% decline
+- **Employment cratered**: The oil and gas extraction sector shed over 150,000 jobs; oilfield services lost even more
+- **Capital investment froze**: Exploration and development spending fell by more than half
+- **Bankruptcies surged**: Over 100 North American oil and gas producers filed for bankruptcy in 2015-2016
+
+![Oil shock and energy state unemployment](../_figures/shock_analysis/oil_shock_unemployment.png)
+*Figure 14.4: Unemployment in oil-producing states spiked during the 2014-2016 oil shock. Texas unemployment rose modestly given its diversified economy; North Dakota unemployment tripled. Source: BLS*
+
+**Geographic Concentration**
+
+The pain concentrated in producing regions:
+
+- **Permian Basin (West Texas/New Mexico)**: Midland unemployment jumped from 2.4% to 4.9%. Hotel occupancy collapsed. Real estate prices fell 20-30% in some markets.
+- **Bakken (North Dakota)**: Williston, which had grown from 12,000 to 35,000 residents during the boom, saw workers depart as quickly as they had arrived. Unemployment tripled.
+- **Eagle Ford (South Texas)**: Employment in the San Antonio-New Braunfels metro area slowed dramatically; smaller towns dependent on oil suffered worse.
+- **Gulf Coast**: Houston's diversified economy provided some buffer, but the city still lost tens of thousands of energy jobs and office vacancy rates spiked.
+
+**Second-Round Effects: The I-O Linkages**
+
+The shock rippled outward through input-output linkages:
+
+- **Steel pipe manufacturers** in Arkansas and Texas saw orders collapse
+- **Trucking companies** serving the oil fields cut capacity and jobs
+- **Hotels and restaurants** near drilling sites closed
+- **Oilfield housing** (man-camps) emptied
+- **Regional banks** with energy loan exposure faced mounting non-performing loans
+
+State budgets suffered as well. Texas, which relies heavily on oil and gas severance taxes, faced revenue shortfalls. Oklahoma's budget crisis forced school districts to four-day weeks. North Dakota's sovereign wealth fund stopped growing.
+
+**Third-Round Effects: Consumer Benefits**
+
+For the broader economy, the oil shock was not entirely negative. Gasoline prices fell from nearly $4/gallon to below $2, delivering an effective tax cut to American households. Industries using petroleum as an input—chemicals, plastics, airlines—saw reduced costs. The net effect on national GDP was roughly neutral: losses in energy-producing regions offset gains elsewhere.
+
+### Adjustment and Recovery
+
+The industry adjusted through three mechanisms:
+
+1. **Productivity improvements**: Surviving producers learned to produce more with less. Breakeven costs in the Permian fell from $70+/barrel to below $40/barrel through better technology and practices.
+
+2. **Consolidation**: Weaker producers were acquired or liquidated. The number of independent producers shrank; survivors emerged stronger.
+
+3. **Capital discipline**: Investors, burned by the boom-bust cycle, demanded returns over growth. The industry shifted from "drill baby drill" to sustainable cash flow generation.
+
+By 2018, oil prices had recovered to $70+/barrel and production had resumed growth—but with far fewer workers. The industry had learned it could produce more oil with less capital and fewer people. This structural shift means that even when oil prices rise, employment in energy regions may not return to boom-era levels.
+
+### Lessons for Shock Transmission
+
+The oil price shock illustrates several principles of how disturbances propagate through the economy:
+
+- **Geographic concentration amplifies pain**: Because oil production is geographically concentrated, the shock devastated specific communities rather than spreading thinly across the country.
+- **I-O linkages extend the impact**: The shock affected not just drilling companies but the entire ecosystem of suppliers, services, and local businesses.
+- **Adjustment takes time**: Workers who left Williston or Midland didn't immediately find equivalent employment elsewhere. The "adjustment costs" economists discuss can last years.
+- **Structural change may follow**: The industry that emerged from 2016 was fundamentally different from the one that entered 2014—more efficient, more consolidated, and less labor-intensive.
+
+These dynamics recur in energy-dependent regions during every price cycle. The current boom may create another bust; the question is not whether but when.
 
 ## Recent Trends
 

@@ -24,6 +24,9 @@ Consider a simplified example:
 | **Value Added** | 55 | 180 | 225 | - | 460 |
 | **Total Input** | 100 | 300 | 300 | 460 | - |
 
+![Simplified input-output flow](../_figures/ch02/ch02_io_simplified_flow.png)
+*Figure 2.1: A simplified representation of inter-industry flows. Every sector buys from and sells to other sectors; the economy is a network, not isolated silos. Source: BEA I-O Accounts*
+
 Reading this table:
 - Agriculture sells $30 to manufacturing (grain for food processing, cotton for textiles), $5 to services, $55 to final consumers (food), and $10 to itself (seeds, feed).
 - Manufacturing buys $30 from agriculture, $50 from itself (components, intermediate goods), $40 from services (business services, finance), plus $180 in value added (wages, profits).
@@ -64,6 +67,9 @@ Money circulates through the economy in predictable patterns. The simplest model
 2. **Businesses** hire factors, produce goods, and sell to households.
 
 Money flows in a circle: businesses pay wages and profits to households; households spend on goods and services from businesses. GDP equals total spending equals total income---different ways of measuring the same circular flow.
+
+![Circular flow of the economy](../_figures/ch02/ch02_circular_flow.png)
+*Figure 2.2: The circular flow of income and spending. Money flows from businesses to households as wages and profits, and from households to businesses as consumer spending. Government, finance, and foreign trade add complexity. Source: Author illustration*
 
 ### Adding Complexity
 
@@ -242,6 +248,9 @@ American households spend about $18 trillion annually. The breakdown reveals pri
 | Entertainment | 5% | $0.9 trillion |
 | Other | 12% | $2.2 trillion |
 
+![Consumer expenditure breakdown](../_figures/ch02/ch02_consumer_expenditure_treemap.png)
+*Figure 2.3: Where household spending goes. Housing dominates, followed by transportation and food. Source: BLS Consumer Expenditure Survey (2023)*
+
 **Housing** dominates. Rent or mortgage payments, utilities, furniture, maintenance---together they consume a third of household budgets. This explains real estate's outsize role in the economy and in household wealth.
 
 **Transportation** is the second-largest category, reflecting America's car dependence. Vehicle purchases, fuel, insurance, maintenance, and repairs---plus public transit for urbanites.
@@ -284,6 +293,54 @@ The COVID-19 pandemic and its aftermath revealed supply chain fragility:
 **Labor**: Sudden shifts in labor demand created shortages in some sectors (trucking, nursing) while others (hospitality, travel) laid off millions.
 
 These disruptions illustrated how concentrated, optimized supply chains are efficient in normal times but brittle under stress. The response---"reshoring," "friend-shoring," inventory building---trades efficiency for resilience.
+
+## Shock Propagation Through I-O Linkages
+
+### How Shocks Move Through the Economy
+
+The input-output framework does more than describe static relationships---it explains how economic shocks propagate. When demand or supply changes in one sector, the effects ripple through backward and forward linkages, multiplying as they go.
+
+Consider the sequence of effects from an initial shock:
+
+**Direct effects** hit the sector experiencing the shock. An oil price collapse reduces drilling; a tariff reduces imports of targeted goods; a pandemic closes restaurants.
+
+**Indirect effects** propagate through supply chains. Fewer drilling rigs means less demand for steel pipe, oilfield services, and trucking. Restaurant closures reduce demand for food service distributors, commercial landlords, and linen services.
+
+**Induced effects** come from changes in household income. Laid-off oil workers spend less on cars, housing, and retail. That spending reduction affects those industries, which then reduce employment and spending further.
+
+The total impact---direct plus indirect plus induced---is the **multiplier**. For most industries, the multiplier ranges from 1.5 to 2.5, meaning a $1 million shock ultimately affects $1.5 to $2.5 million in economic activity.
+
+### Case Study: The 2014-2016 Oil Price Collapse
+
+The oil price collapse of 2014-2016 provides a textbook example of shock propagation through I-O linkages.
+
+![Oil price collapse](../_figures/shock_analysis/oil_price_collapse.png)
+*Figure 2.4: Brent crude oil fell from $115/barrel in June 2014 to $28/barrel in January 2016---a 75% collapse. Source: FRED*
+
+**The initial shock**: Brent crude oil fell from $115/barrel in June 2014 to $28/barrel in January 2016. The causes were complex---Saudi Arabia's decision not to cut production, U.S. shale output growth, weakening global demand---but the effect was immediate.
+
+**First-round effects (energy sector)**:
+- The U.S. rig count dropped from 1,900 to 400---an 80% decline
+- Energy sector employment fell by 200,000 jobs
+- Capital expenditure by oil and gas companies collapsed
+
+**Second-round effects (backward linkages)**:
+- Steel pipe manufacturers lost orders as drilling stopped
+- Oilfield service companies (Halliburton, Schlumberger) laid off tens of thousands
+- Trucking firms serving drilling regions saw volumes plummet
+- Hotels near oil fields emptied; Williston, North Dakota went from full to vacant
+
+**Third-round effects (regional economies)**:
+
+![Energy state unemployment](../_figures/shock_analysis/oil_shock_unemployment.png)
+*Figure 2.5: Texas, North Dakota, and Oklahoma unemployment rose sharply during the oil collapse while the national rate continued falling. Source: BLS via FRED*
+
+Texas unemployment rose from 4.2% to 5.4%; North Dakota's unemployment tripled from 2.7% to 4.0%. Houston office vacancy spiked as energy companies consolidated or closed. State government revenues, heavily dependent on severance taxes, collapsed---forcing budget cuts that further reduced economic activity.
+
+**Offsetting effects (forward linkages)**:
+Lower oil prices helped consumers and oil-importing industries. Gasoline savings left households with more to spend elsewhere. Airlines' fuel costs dropped. Chemical manufacturers using oil as feedstock saw input costs fall. These positive effects partially offset the damage to oil-producing regions---but the geography was different. Oil states lost while consuming states gained.
+
+**The lesson**: I-O analysis reveals that a shock to one sector doesn't stay contained. The 2014-2016 oil collapse was an "oil sector" event, but its effects propagated through steel, trucking, hospitality, real estate, state governments, and ultimately into household spending patterns across energy-dependent regions.
 
 ## Key Takeaways
 

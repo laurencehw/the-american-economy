@@ -52,9 +52,10 @@
 ## Conclusion
 
 * [29. The American Economy in Perspective](conclusion/ch29-perspective.md)
+* [30. How Shocks Move Through the Economy](conclusion/ch30-shock-transmission.md)
 
 ## Appendices
 
-* [A. Data Sources and Methods](appendices/data-sources.md)
-* [B. Reading BEA Tables](appendices/bea-tables.md)
-* [C. NAICS Codes Reference](appendices/naics-codes.md)
+* [A. Data Sources Guide](appendices/appendix-a-data-sources.md)
+* [B. BEA Industry Accounts Reference](appendices/appendix-b-bea-reference.md)
+* [C. NAICS Codes Quick Reference](appendices/appendix-c-naics-codes.md)

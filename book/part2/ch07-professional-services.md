@@ -29,6 +29,9 @@ Professional services has been a major engine of employment growth since the 198
 
 *Sources: Census Service Annual Survey, BLS QCEW, IBISWorld estimates*
 
+![Professional services GDP breakdown](../_figures/ch07/ch07_prof_services_gdp.png)
+*Figure 7.1: Professional services GDP by subsector. Computer systems design leads, followed by legal services and management consulting. Source: BEA (2023)*
+
 ## How the Industry Works
 
 Professional services firms share a distinctive business model that differs fundamentally from manufacturing or retail. They sell hours of expert time, face severe information asymmetries with clients, and depend critically on reputation and relationships.
