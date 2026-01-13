@@ -17,9 +17,9 @@ At the top sits currency—physical dollars issued by the Federal Reserve. If yo
 
 | Form | Amount (2024) |
 |------|---------------|
-| Currency in circulation | ~$2.3 trillion |
-| Of which: held domestically | ~$1.1 trillion |
-| Of which: held abroad | ~$1.2 trillion |
+| Currency in circulation | roughly $2.3 trillion |
+| Of which: held domestically | roughly $1.1 trillion |
+| Of which: held abroad | roughly $1.2 trillion |
 
 Most dollars aren't physical. They're entries on balance sheets.
 
@@ -29,10 +29,10 @@ Banks don't settle with each other using currency. They settle using reserves—
 
 | Period | Reserve Balances |
 |--------|------------------|
-| Pre-2008 | ~$10-50 billion |
-| Post-QE (2014) | ~$2.5 trillion |
-| Post-COVID (2022) | ~$3.5 trillion |
-| Current | ~$3.2 trillion |
+| Pre-2008 | roughly $10-50 billion |
+| Post-QE (2014) | roughly $2.5 trillion |
+| Post-COVID (2022) | roughly $3.5 trillion |
+| Current | roughly $3.2 trillion |
 
 The explosion of reserves after 2008 reflects quantitative easing—the Fed buying assets and paying with newly created reserves.
 
@@ -42,10 +42,10 @@ What households and firms call "money" is mostly bank deposits—entries on bank
 
 | Type | Amount (2024) |
 |------|---------------|
-| Checkable deposits | ~$5 trillion |
-| Savings deposits | ~$12 trillion |
-| Small time deposits | ~$0.5 trillion |
-| **Total** | ~$17.5 trillion |
+| Checkable deposits | roughly $5 trillion |
+| Savings deposits | roughly $12 trillion |
+| Small time deposits | roughly $0.5 trillion |
+| **Total** | roughly $17.5 trillion |
 
 Deposits are promises to pay currency/reserves. They're not currency itself. This distinction matters in a crisis: if everyone tries to convert deposits to currency simultaneously, there isn't enough.
 
@@ -55,9 +55,9 @@ Below bank deposits sits a vast layer of money-like claims issued by non-banks:
 
 | Instrument | Amount | Issuer |
 |------------|--------|--------|
-| Money market fund shares | ~$6.4 trillion | Asset managers |
-| Repo | ~$4.5 trillion | Dealers, hedge funds |
-| Commercial paper | ~$1.2 trillion | Corporations |
+| Money market fund shares | roughly $6.4 trillion | Asset managers |
+| Repo | roughly $4.5 trillion | Dealers, hedge funds |
+| Commercial paper | roughly $1.2 trillion | Corporations |
 
 These instruments function as money for their holders—they're liquid, perceived as safe, and used for transactions. But they're promises to pay bank deposits, which are promises to pay reserves, which are promises to pay currency. In normal times, the hierarchy is invisible. In a crisis, it reveals itself. Lower-level money gets tested against higher-level money, and the promises that can't be kept break.
 
@@ -133,9 +133,9 @@ Fedwire is the Federal Reserve's real-time gross settlement (RTGS) system. Every
 
 | Metric | Value |
 |--------|-------|
-| Daily payments | ~$4 trillion |
-| Daily transactions | ~500,000 |
-| Average payment | ~$8 million |
+| Daily payments | roughly $4 trillion |
+| Daily transactions | roughly 500,000 |
+| Average payment | roughly $8 million |
 | Operating hours | 22 hours/day |
 
 Fedwire handles wholesale payments: bank-to-bank transfers, Treasury securities settlement, large corporate transactions. Once a Fedwire payment settles, it cannot be reversed—the recipient has final, unconditional money.
@@ -148,8 +148,8 @@ The Clearing House Interbank Payments System (CHIPS) is a private alternative ow
 
 | Metric | Value |
 |--------|-------|
-| Daily payments | ~$1.8 trillion |
-| Daily transactions | ~400,000 |
+| Daily payments | roughly $1.8 trillion |
+| Daily transactions | roughly 400,000 |
 | Primary use | Cross-border dollar payments, FX settlement |
 
 Unlike Fedwire, CHIPS uses *netting*: payments accumulate during the day, and only net balances settle (in reserves via Fedwire) at day's end. This economizes on reserves—$1.8 trillion in gross payments might net to $50 billion in actual reserve movements.
@@ -176,9 +176,9 @@ The Automated Clearing House (ACH) handles smaller, less time-sensitive payments
 
 | Metric | Value |
 |--------|-------|
-| Annual volume | ~$80 trillion |
-| Annual transactions | ~30 billion |
-| Average payment | ~$2,600 |
+| Annual volume | roughly $80 trillion |
+| Annual transactions | roughly 30 billion |
+| Average payment | roughly $2,600 |
 
 ACH is slow by design—payments traditionally took 1-2 business days to settle. The Fed's FedNow (launched 2023) brings real-time retail payments to the US, finally catching up with systems in the UK, India, and elsewhere.
 
@@ -202,11 +202,11 @@ Shadow banks perform the same economic function as banks—maturity transformati
 
 ### The Shadow Banking Ecosystem
 
-**Money Market Funds (~$6.4 trillion)**
+**Money Market Funds (roughly $6.4 trillion)**
 
 MMFs invest in short-term paper, repo, and government securities while offering investors checking-like features and instant withdrawal. The defining feature is their stable net asset value—they promise to maintain a $1 share price. This makes them function like bank deposits for corporate treasurers and wealthy individuals, but without FDIC insurance. When the Reserve Primary Fund "broke the buck" in September 2008 (NAV fell below $1 after Lehman losses), investors ran—$300 billion fled prime MMFs in a week.
 
-**The Repo Market (~$4.5 trillion)**
+**The Repo Market (roughly $4.5 trillion)**
 
 A repurchase agreement (repo) is effectively a short-term collateralized loan:
 
@@ -256,7 +256,7 @@ The Fed controls short-term interest rates, serves as lender of last resort, and
 
 **The Pre-2008 Corridor System**
 
-Before 2008, reserves were scarce (~$15-50 billion). The Fed operated a corridor system:
+Before 2008, reserves were scarce (roughly $15-50 billion). The Fed operated a corridor system:
 
 - **Ceiling**: Discount rate (Fed won't lend above this)
 - **Target**: Fed funds rate (where trading happens)
@@ -467,7 +467,7 @@ Despite the $250,000 insurance limit, regulators guaranteed all SVB deposits to 
 
 ## Recent Trends
 
-**Private Credit Boom**: As banks face tighter regulation, private credit funds (~$1.7 trillion) have grown rapidly, lending to middle-market companies that banks won't serve. This moves risk outside the regulated system—potentially safer for banks, but raising questions about where losses will land in a downturn.
+**Private Credit Boom**: As banks face tighter regulation, private credit funds (roughly $1.7 trillion) have grown rapidly, lending to middle-market companies that banks won't serve. This moves risk outside the regulated system—potentially safer for banks, but raising questions about where losses will land in a downturn.
 
 **Fintech**: Digital-only banks (Chime, Revolut), payments platforms (PayPal, Square), and buy-now-pay-later providers (Affirm, Klarna) compete with traditional banks. Many operate outside traditional bank regulation, raising questions about consumer protection and systemic risk.
 
@@ -481,8 +481,8 @@ Despite the $250,000 insurance limit, regulators guaranteed all SVB deposits to 
 
 **Headquarters**: New York, NY
 **Total Assets**: $3.9 trillion (2024)
-**Employees**: ~310,000
-**Market Cap**: ~$600 billion
+**Employees**: roughly 310,000
+**Market Cap**: roughly $600 billion
 
 JPMorgan Chase is the largest US bank by assets, formed through the 2000 merger of Chase Manhattan and J.P. Morgan & Co. (itself the successor to the House of Morgan, the most powerful financial institution of the early 20th century). The 2008 acquisition of Bear Stearns (arranged by the Fed) and Washington Mutual (in FDIC receivership) expanded its footprint further.
 
@@ -496,8 +496,8 @@ Under CEO Jamie Dimon (since 2005), JPMorgan navigated the 2008 crisis better th
 
 **Headquarters**: Washington, DC (Board of Governors)
 **Regional Banks**: 12 (Boston, New York, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, St. Louis, Minneapolis, Kansas City, Dallas, San Francisco)
-**Balance Sheet**: ~$7.5 trillion (2024)
-**Employees**: ~24,000
+**Balance Sheet**: roughly $7.5 trillion (2024)
+**Employees**: roughly 24,000
 
 The Federal Reserve System is the central bank of the United States, created by the Federal Reserve Act of 1913 after the Panic of 1907 demonstrated the need for a lender of last resort. Its unusual structure—a public board in Washington governing quasi-private regional Reserve Banks owned by member banks—reflects political compromises between centralization and regional autonomy.
 
@@ -510,9 +510,9 @@ The Fed's balance sheet exploded from under $1 trillion before 2008 to over $8 t
 ## Firm Profile: BlackRock
 
 **Headquarters**: New York, NY
-**Assets Under Management**: ~$10 trillion (2024)
-**Employees**: ~20,000
-**Market Cap**: ~$120 billion
+**Assets Under Management**: roughly $10 trillion (2024)
+**Employees**: roughly 20,000
+**Market Cap**: roughly $120 billion
 
 BlackRock is the world's largest asset manager, having grown from a small bond manager founded in 1988 to a colossus that manages more money than the GDP of every country except the US and China. Its 2009 acquisition of Barclays Global Investors (including the iShares ETF platform) made it the dominant player in both active and passive investing.
 

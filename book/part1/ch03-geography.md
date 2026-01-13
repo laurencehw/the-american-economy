@@ -23,18 +23,18 @@ California's economy exceeds that of India or the United Kingdom. It would rank 
 GDP per capita varies enormously across states:
 
 **Highest:**
-- Washington, D.C.: ~$260,000 (distorted by small population and federal concentration)
+- Washington, D.C.: roughly $260,000 (distorted by small population and federal concentration)
 - New York: $111,000
 - Massachusetts: $105,000
 - Washington State: $95,000
 - California: $83,000
 
 **Lowest:**
-- Mississippi: ~$30,000
-- West Virginia: ~$32,000
-- Arkansas: ~$35,000
-- Alabama: ~$37,000
-- New Mexico: ~$38,000
+- Mississippi: roughly $30,000
+- West Virginia: roughly $32,000
+- Arkansas: roughly $35,000
+- Alabama: roughly $37,000
+- New Mexico: roughly $38,000
 
 The gap is striking: a worker in Massachusetts produces (on average) three times as much value as a worker in Mississippi. This reflects differences in industry mix, educational attainment, capital investment, and agglomeration effects.
 

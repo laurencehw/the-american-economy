@@ -81,11 +81,11 @@ Homebuilding has consolidated dramatically. The 2008 crash wiped out smaller bui
 
 | Rank | Company | Revenue | Homes Closed | Headquarters |
 |------|---------|---------|--------------|--------------|
-| 1 | D.R. Horton | $35B+ | ~90,000 | Arlington, TX |
-| 2 | Lennar | $34B | ~73,000 | Miami, FL |
-| 3 | NVR | $10B | ~24,000 | Reston, VA |
-| 4 | PulteGroup | $16B | ~28,000 | Atlanta, GA |
-| 5 | Toll Brothers | $10B | ~10,000 | Fort Washington, PA |
+| 1 | D.R. Horton | $35B+ | roughly 90,000 | Arlington, TX |
+| 2 | Lennar | $34B | roughly 73,000 | Miami, FL |
+| 3 | NVR | $10B | roughly 24,000 | Reston, VA |
+| 4 | PulteGroup | $16B | roughly 28,000 | Atlanta, GA |
+| 5 | Toll Brothers | $10B | roughly 10,000 | Fort Washington, PA |
 
 ![Top homebuilders by homes closed](../../_figures/ch05/ch05_top_homebuilders.png)
 *Figure 5.1: Top 10 homebuilders by homes closed. D.R. Horton dominates the market, closing nearly 90,000 homes annually. Source: Company data (2024)*
@@ -348,8 +348,8 @@ Blackstone's non-traded REIT, **BREIT**, accumulated over $70 billion in assets 
 > **Quick Facts**
 > - **Headquarters:** Washington, D.C.
 > - **Status:** Government-Sponsored Enterprise in Conservatorship
-> - **Book of Business:** ~$4.2 trillion
-> - **Net Income:** ~$17 billion annually
+> - **Book of Business:** roughly $4.2 trillion
+> - **Net Income:** roughly $17 billion annually
 
 Fannie Mae does not issue mortgages; it buys them. It is the invisible engine that allows a community bank in Iowa to lend $400,000 for 30 years at a fixed rate—the bank sells the loan to Fannie within weeks, freeing up capital for the next mortgage. By guaranteeing principal and interest on trillions of dollars of Mortgage-Backed Securities, Fannie Mae attracts global capital to U.S. housing at rates competitive with Treasury bonds.
 
@@ -360,9 +360,9 @@ Although highly profitable, Fannie Mae remains under government conservatorship 
 > **Quick Facts**
 > - **Headquarters:** Arlington, TX
 > - **Founded:** 1978
-> - **Revenue:** ~$35+ billion
-> - **Homes Closed (2024):** ~90,000
-> - **Employees:** ~13,000
+> - **Revenue:** roughly $35+ billion
+> - **Homes Closed (2024):** roughly 90,000
+> - **Employees:** roughly 13,000
 
 D.R. Horton calls itself "America's Builder," and the title is earned through sheer volume. Founded by Donald R. Horton with a single lot in Fort Worth, the company grew by acquiring smaller builders and perfecting a high-volume, low-cost production model. They build in 33 states with a focus on the entry-level buyer—first-time homebuyers and move-up families seeking value over customization.
 

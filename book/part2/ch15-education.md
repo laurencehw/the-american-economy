@@ -5,13 +5,13 @@ Americans spend over $1.5 trillion annually on education, making it one of the l
 ## Overview
 
 **Size and Scope**
-- Total spending: ~$1.6 trillion annually
-  - K-12 public: ~$800 billion
-  - Higher education: ~$700 billion
-  - Private K-12: ~$70 billion
-  - Federal direct: ~$100 billion (grants, loans, Title I)
-- Employment: ~13 million workers (teachers, professors, administrators, support staff)
-- Establishments: ~130,000 K-12 schools, ~4,000 degree-granting colleges
+- Total spending: roughly $1.6 trillion annually
+  - K-12 public: roughly $800 billion
+  - Higher education: roughly $700 billion
+  - Private K-12: roughly $70 billion
+  - Federal direct: roughly $100 billion (grants, loans, Title I)
+- Employment: roughly 13 million workers (teachers, professors, administrators, support staff)
+- Establishments: roughly 130,000 K-12 schools, roughly 4,000 degree-granting colleges
 - Key subsectors: K-12 public, K-12 private, higher education, for-profit education, testing and assessment, textbooks and curriculum, education technology
 
 ![Education enrollment by sector](../../_figures/ch15/ch15_enrollment_by_sector.png)
@@ -33,33 +33,33 @@ K-12 public education is funded from three sources (national averages):
 This funding structure creates enormous inequality. Districts in wealthy suburbs collect abundant property taxes; districts in poor rural or urban areas cannot. State formulas partially equalize, but gaps persist: New York spends $29,000 per pupil; Utah spends $9,000. Even after cost-of-living adjustment, the ratio exceeds 2:1.
 
 Higher education has a different funding model:
-- **Public universities**: State appropriations (declining from 75% in 1980 to ~40% today), tuition (rising), federal research grants, auxiliaries (housing, athletics, hospitals)
+- **Public universities**: State appropriations (declining from 75% in 1980 to roughly 40% today), tuition (rising), federal research grants, auxiliaries (housing, athletics, hospitals)
 - **Private nonprofits**: Tuition, endowment returns, gifts, federal research grants
-- **For-profit colleges**: Almost entirely tuition, ~90% from federal student aid
+- **For-profit colleges**: Almost entirely tuition, roughly 90% from federal student aid
 
 ### The Commercial Side: Where the Money Goes
 
 The education sector generates enormous commercial activity beyond direct instruction:
 
-**Textbooks and Curriculum** (~$15 billion market)
+**Textbooks and Curriculum** (roughly $15 billion market)
 - K-12 textbooks: States adopt textbooks on 6-8 year cycles; Texas and California dominate adoption decisions
 - Higher ed textbooks: Professors choose; students pay $1,200+ per year; used book and rental markets growing
 - Digital curriculum: Increasingly bundled with assessment and learning management systems
 
-**Testing and Assessment** (~$5 billion market)
+**Testing and Assessment** (roughly $5 billion market)
 - Standardized tests: State accountability tests (Pearson, ETS, AIR)
 - College admissions: SAT (College Board), ACT
 - Professional licensing: Bar exam, CPA, medical boards, teacher certification
 - Credential assessments: GED, CLEP, AP exams
 
-**Education Technology** (~$40 billion market, fast-growing)
+**Education Technology** (roughly $40 billion market, fast-growing)
 - Learning management systems (Canvas, Blackboard)
 - Online course platforms (Coursera, edX, 2U)
 - Tutoring and homework help (Chegg, Varsity Tutors)
 - Assessment software and proctoring
 - Administrative systems (PowerSchool, Ellucian)
 
-**For-Profit Education** (~$25 billion revenue)
+**For-Profit Education** (roughly $25 billion revenue)
 - Online universities (University of Phoenix, Southern New Hampshire, Grand Canyon)
 - Career training (coding bootcamps, trade schools)
 - Test preparation (Kaplan, Princeton Review)
@@ -83,7 +83,7 @@ Education is fragmented on the public side, concentrated on the commercial side:
 
 **K-12 Public Education**: Extremely fragmented
 - 13,000+ school districts
-- Average district serves ~3,800 students
+- Average district serves roughly 3,800 students
 - Largest: NYC (1 million students), LA Unified (600,000)
 - Many rural districts serve <500 students
 
@@ -96,7 +96,7 @@ Education is fragmented on the public side, concentrated on the commercial side:
 
 | Segment | Top Players | Market Structure |
 |---------|-------------|------------------|
-| K-12 Textbooks | Pearson, McGraw-Hill, Cengage, Houghton Mifflin | Oligopoly (4 firms: ~80% market) |
+| K-12 Textbooks | Pearson, McGraw-Hill, Cengage, Houghton Mifflin | Oligopoly (4 firms: roughly 80% market) |
 | Higher Ed Textbooks | Same Big 4 | Oligopoly |
 | College Admissions Testing | College Board (SAT), ACT Inc. | Duopoly |
 | State Assessment | Pearson, ETS, AIR, Cambium | Oligopoly |
@@ -164,7 +164,7 @@ Charter schools cluster in urban areas and in states with permissive charter law
 | Colorado | 14% | Strong authorization system |
 | California | 11% | Large absolute numbers |
 | Florida | 11% | Recent rapid growth |
-| Michigan | 10% | Detroit ~55% charter |
+| Michigan | 10% | Detroit roughly 55% charter |
 
 Rural states (Montana, West Virginia, Nebraska) have minimal charter presence. Charter schools are rare in the Northeast except in cities.
 
@@ -210,15 +210,15 @@ Teaching is the largest single occupation in the United States. The teacher labo
 - Locations: Rural areas, high-poverty urban schools
 - Overall: Fewer students entering teaching programs since 2010
 
-Research on teacher quality finds enormous variation in effectiveness. Replacing a bottom-5% teacher with an average teacher raises students' lifetime earnings by ~$250,000 per classroom (Chetty, Friedman, and Rockoff 2014). Yet identifying effective teachers *before* hiring remains difficult; credentials and test scores are weak predictors.
+Research on teacher quality finds enormous variation in effectiveness. Replacing a bottom-5% teacher with an average teacher raises students' lifetime earnings by roughly $250,000 per classroom (Chetty, Friedman, and Rockoff 2014). Yet identifying effective teachers *before* hiring remains difficult; credentials and test scores are weak predictors.
 
 ### Higher Education Faculty
 
 The higher education labor market has bifurcated:
 
-**Tenure-track faculty** (~30% of instructional staff): Secure positions, high salaries, research time, shared governance. Median salary ~$100,000; top researchers earn $200,000+.
+**Tenure-track faculty** (roughly 30% of instructional staff): Secure positions, high salaries, research time, shared governance. Median salary roughly $100,000; top researchers earn $200,000+.
 
-**Contingent faculty** (~70% of instructional staff):
+**Contingent faculty** (roughly 70% of instructional staff):
 - Adjunct instructors: Paid per course ($3,000-5,000 per class), no benefits, no job security
 - Full-time non-tenure-track: Better paid but still precarious
 - Graduate students: Provide instruction while training
@@ -240,14 +240,14 @@ This "administrative bloat" reflects regulatory compliance (special education, T
 
 Education governance in America is radically decentralized:
 
-**Federal**: Department of Education provides ~8% of K-12 funding with conditions attached. Major laws:
+**Federal**: Department of Education provides roughly 8% of K-12 funding with conditions attached. Major laws:
 - Elementary and Secondary Education Act (1965, reauthorized as Every Student Succeeds Act 2015): Title I funding for low-income schools
 - Individuals with Disabilities Education Act (1975): Requires free appropriate public education for disabled students
 - No Child Left Behind (2002, replaced by ESSA): Mandated testing and accountability
 
 **State**: Constitutional responsibility for education. State boards of education set standards, approve curricula, license teachers, authorize charters, distribute state aid.
 
-**Local**: ~13,000 school districts governed by elected or appointed boards. Districts hire superintendents, negotiate contracts, build schools, and make most operational decisions.
+**Local**: roughly 13,000 school districts governed by elected or appointed boards. Districts hire superintendents, negotiate contracts, build schools, and make most operational decisions.
 
 ### Higher Education Regulation
 
@@ -285,7 +285,7 @@ Education is heavily lobbied from all directions:
 | American Federation of Teachers (AFT) | 1.7 million | Teachers, support staff, higher ed |
 | American Association of State Colleges and Universities | 400 institutions | State university interests |
 | Association of American Universities | 69 research universities | Research funding, graduate education |
-| National School Boards Association | ~14,000 districts | Local governance, federal policy |
+| National School Boards Association | roughly 14,000 districts | Local governance, federal policy |
 | National Alliance for Public Charter Schools | Charter sector | Charter expansion, funding equity |
 | American Council on Education | 1,700 institutions | Higher education policy |
 | Association of Community College Trustees | 6,500 trustees | Community college interests |
@@ -312,9 +312,9 @@ Despite its complexity, the American education system delivers substantial econo
 
 College graduates earn dramatically more than high school graduates:
 
-- **College wage premium**: ~80% (college grads earn 80% more than high school grads)
+- **College wage premium**: roughly 80% (college grads earn 80% more than high school grads)
 - **Lifetime earnings gap**: $1-1.5 million higher for bachelor's degree holders
-- **Premium has grown**: From ~40% in 1980 to ~80% today
+- **Premium has grown**: From roughly 40% in 1980 to roughly 80% today
 
 This growth reflects technological change favoring cognitive skills and stagnant demand for routine labor.
 
@@ -364,7 +364,7 @@ Yet testing remains entrenched: state accountability laws mandate it; the Colleg
 Demographics are about to reshape higher education:
 
 - Birth rates fell during and after 2008-09 recession
-- The "enrollment cliff" arrives ~2025: 15% fewer high school graduates
+- The "enrollment cliff" arrives roughly 2025: 15% fewer high school graduates
 - Impact will concentrate on small private colleges and regional publics
 - Elite institutions and community colleges relatively insulated
 
@@ -396,8 +396,8 @@ This polarization complicates national policy and may increase interstate variat
 > **Quick Facts**
 > - Headquarters: New York, NY
 > - Founded: 1900
-> - Revenue: ~$1.5 billion
-> - Employees: ~6,000
+> - Revenue: roughly $1.5 billion
+> - Employees: roughly 6,000
 > - Status: Nonprofit
 
 The College Board is the most powerful organization in American education that most Americans have never thought about. It administers the SAT (2+ million test-takers annually), the PSAT (3.5 million), and Advanced Placement exams (5 million). It owns the CSS Profile used for financial aid at selective colleges.
@@ -414,7 +414,7 @@ CEO David Coleman (since 2012) previously led development of the Common Core sta
 > - Headquarters: London, UK (major US operations)
 > - Founded: 1844 (education focus since 1998)
 > - Revenue: $4.7 billion
-> - Employees: ~20,000
+> - Employees: roughly 20,000
 > - Stock: LSE: PSON
 
 Pearson is the world's largest education company, touching almost every segment of American education:
@@ -434,9 +434,9 @@ Critics accuse Pearson of prioritizing profit over quality, citing testing error
 > **Quick Facts**
 > - Headquarters: Oakland, CA
 > - Founded: 1868
-> - Budget: ~$45 billion (system-wide, including medical centers)
-> - Students: ~285,000 (10 campuses)
-> - Faculty: ~24,000
+> - Budget: roughly $45 billion (system-wide, including medical centers)
+> - Students: roughly 285,000 (10 campuses)
+> - Faculty: roughly 24,000
 > - Status: Public
 
 The University of California is the crown jewel of American public higher education---and a case study in the tensions facing elite public universities.
@@ -446,7 +446,7 @@ The system includes five top-50 research universities (Berkeley, UCLA, San Diego
 UC pioneered the "California Master Plan" (1960), which stratified higher education: UC for the top 12.5% of high school graduates, Cal State for the top third, community colleges open to all. This system provided both excellence and access---though it has frayed as state funding declined.
 
 The UC model is under strain:
-- **State funding collapsed**: From 78% of core funding (1990) to ~40% (2023)
+- **State funding collapsed**: From 78% of core funding (1990) to roughly 40% (2023)
 - **Tuition rose**: From essentially free (1960s) to $14,000 in-state, $44,000 out-of-state
 - **Out-of-state enrollment**: UC campuses admit more non-resident students (who pay full freight), angering California families
 - **Housing crisis**: California's housing costs make UC campuses unaffordable for many students

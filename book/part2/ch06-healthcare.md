@@ -120,10 +120,10 @@ Newer payment models tie reimbursement to quality metrics and outcomes rather th
 
 The hospital sector includes roughly 6,100 hospitals in the United States:
 
-- **Community hospitals**: ~5,100 (non-federal, short-term general hospitals)
-- **Federal hospitals**: ~200 (VA, military, Indian Health Service)
-- **Psychiatric hospitals**: ~400
-- **Long-term care hospitals**: ~350
+- **Community hospitals**: roughly 5,100 (non-federal, short-term general hospitals)
+- **Federal hospitals**: roughly 200 (VA, military, Indian Health Service)
+- **Psychiatric hospitals**: roughly 400
+- **Long-term care hospitals**: roughly 350
 
 **Ownership**
 
@@ -152,7 +152,7 @@ The health insurance market divides into several segments:
 **Employer-sponsored insurance**
 
 The largest segment by enrollment. Major national carriers include:
-- UnitedHealth Group (largest by revenue, ~$$370B)
+- UnitedHealth Group (largest by revenue, roughly $$370B)
 - Elevance Health (formerly Anthem)
 - Cigna
 - Aetna (owned by CVS Health)
@@ -194,7 +194,7 @@ Drug dispensing occurs through retail pharmacies (CVS, Walgreens, Walmart), mail
 
 The United States has approximately 1 million active physicians. Physician practices have consolidated significantly:
 
-- **Hospital-employed physicians**: Now the majority (>50%) of physicians work for hospitals or health systems, up from ~25% in 2000
+- **Hospital-employed physicians**: Now the majority (>50%) of physicians work for hospitals or health systems, up from roughly 25% in 2000
 - **Large physician groups**: Multi-specialty groups and private equity-backed practices have grown
 - **Solo/small practices**: Declining but still significant, particularly in primary care in some regions
 
@@ -355,7 +355,7 @@ HCA's for-profit model remains controversial. Critics argue that profit motive c
 > - Retail locations: 9,000+
 
 CVS exemplifies healthcare's vertical integration trend. What began as a retail pharmacy chain has become a diversified healthcare company combining:
-- **CVS Pharmacy**: ~9,000 retail pharmacies
+- **CVS Pharmacy**: roughly 9,000 retail pharmacies
 - **CVS Caremark**: One of the three largest PBMs
 - **Aetna**: Major health insurer (acquired 2018)
 - **MinuteClinic**: Retail health clinics

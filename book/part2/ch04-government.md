@@ -5,15 +5,15 @@ The federal government alone spends $6.5 trillion annually---more than the entir
 ## Overview
 
 **Size and Scope**
-- Total government spending: ~$10 trillion (40% of GDP)
-  - Federal: ~$6.5 trillion
-  - State and local: ~$3.5 trillion (net of federal transfers)
-- Government employment: ~23 million workers
+- Total government spending: roughly $10 trillion (40% of GDP)
+  - Federal: roughly $6.5 trillion
+  - State and local: roughly $3.5 trillion (net of federal transfers)
+- Government employment: roughly 23 million workers
   - Federal civilian: 2.2 million
   - Military (active duty): 1.3 million
   - State government: 5.2 million
   - Local government: 14.5 million
-- Number of governments: ~90,000
+- Number of governments: roughly 90,000
   - 1 federal
   - 50 state
   - 3,000+ counties
@@ -27,7 +27,7 @@ Government is simultaneously everywhere and fragmented. The federal government d
 
 ### Revenue: Where the Money Comes From
 
-**Federal Revenue** (~$4.5 trillion, FY 2024):
+**Federal Revenue** (roughly $4.5 trillion, FY 2024):
 
 | Source | Amount | Share |
 |--------|--------|-------|
@@ -39,7 +39,7 @@ Government is simultaneously everywhere and fragmented. The federal government d
 
 The federal government runs persistent deficits---spending exceeding revenue by $1-2 trillion annually since 2020. The difference is financed by borrowing (Treasury bonds), adding to the $35+ trillion national debt.
 
-**State and Local Revenue** (~$4 trillion):
+**State and Local Revenue** (roughly $4 trillion):
 
 | Source | Amount | Share |
 |--------|--------|-------|
@@ -54,7 +54,7 @@ State and local governments are generally required to balance their operating bu
 
 ### Spending: What Government Buys
 
-**Federal Spending by Function** (~$6.5 trillion):
+**Federal Spending by Function** (roughly $6.5 trillion):
 
 | Category | Amount | Share | Notes |
 |----------|--------|-------|-------|
@@ -70,9 +70,9 @@ State and local governments are generally required to balance their operating bu
 ![Federal spending by function](../../_figures/ch04/ch04_spending_treemap.png)
 *Figure 4.1: Federal spending by function. Mandatory spending (Social Security, Medicare, Medicaid) dominates, while discretionary spending is squeezed. Source: OMB Budget (FY 2024)*
 
-The critical distinction: **mandatory spending** (Social Security, Medicare, Medicaid, interest) happens automatically based on eligibility laws. **Discretionary spending** requires annual appropriations. Mandatory spending is ~70% of the budget and growing; discretionary is ~30% and squeezed.
+The critical distinction: **mandatory spending** (Social Security, Medicare, Medicaid, interest) happens automatically based on eligibility laws. **Discretionary spending** requires annual appropriations. Mandatory spending is roughly 70% of the budget and growing; discretionary is roughly 30% and squeezed.
 
-**State and Local Spending by Function** (~$3.5 trillion net):
+**State and Local Spending by Function** (roughly $3.5 trillion net):
 
 | Category | Share | Primary Level |
 |----------|-------|---------------|
@@ -116,7 +116,7 @@ The federal civilian workforce has been roughly flat for 50 years despite enormo
 | Coast Guard | 42,000 | 10,000 |
 | Space Force | 10,000 | - |
 
-Plus ~800,000 civilian DOD employees and millions of contractor employees.
+Plus roughly 800,000 civilian DOD employees and millions of contractor employees.
 
 **State Government Employment** (5.2 million):
 
@@ -150,7 +150,7 @@ Local government employment is dominated by schools: teachers, administrators, a
 
 Beyond payroll, government purchases vast amounts of goods and services from the private sector:
 
-**Federal Procurement** (~$700 billion annually):
+**Federal Procurement** (roughly $700 billion annually):
 
 | Category | Amount |
 |----------|--------|
@@ -185,7 +185,7 @@ The defense industrial base is concentrated: five companies (Lockheed, RTX, Gene
 
 Federal civilian employment is concentrated in several clusters:
 
-**Washington, DC Metropolitan Area**: ~400,000 federal civilian employees (excluding military)---the largest concentration. Every cabinet department headquarters, most agencies, and Congress are here. The DC metro has the highest concentration of federal workers of any region.
+**Washington, DC Metropolitan Area**: roughly 400,000 federal civilian employees (excluding military)---the largest concentration. Every cabinet department headquarters, most agencies, and Congress are here. The DC metro has the highest concentration of federal workers of any region.
 
 **Military Installations**: Major bases shape regional economies:
 - San Diego (Navy): 120,000+ military and civilian DOD
@@ -256,11 +256,11 @@ Government is the largest payer for healthcare:
 - Military healthcare (TRICARE): $50 billion
 - Other (Indian Health Service, CHIP, etc.): $50 billion
 
-Combined, government pays for ~45% of US healthcare spending. This makes HHS, CMS, and VA major economic actors whose payment rates shape provider behavior across the system.
+Combined, government pays for roughly 45% of US healthcare spending. This makes HHS, CMS, and VA major economic actors whose payment rates shape provider behavior across the system.
 
 ### Education as Government Business
 
-Public education spending (~$900 billion K-12, ~$500 billion higher ed) creates enormous demand for:
+Public education spending (roughly $900 billion K-12, roughly $500 billion higher ed) creates enormous demand for:
 - Construction (school buildings)
 - Textbooks and curriculum (Pearson, McGraw-Hill)
 - Technology (laptops, software, internet infrastructure)
@@ -308,14 +308,14 @@ In practice, Congress rarely completes appropriations on time. Government operat
 ### Mandatory vs. Discretionary
 
 The crucial distinction:
-- **Mandatory** (Social Security, Medicare, Medicaid, interest): Spending determined by eligibility rules, not annual appropriations. ~70% of budget.
-- **Discretionary** (defense, education, transportation, R&D): Requires annual appropriations. ~30% of budget.
+- **Mandatory** (Social Security, Medicare, Medicaid, interest): Spending determined by eligibility rules, not annual appropriations. roughly 70% of budget.
+- **Discretionary** (defense, education, transportation, R&D): Requires annual appropriations. roughly 30% of budget.
 
 Mandatory spending grows automatically as the population ages and healthcare costs rise. Discretionary spending is squeezed---Congress can only appropriate what's left after mandatory obligations.
 
 ### Deficits and Debt
 
-The federal government has run deficits in most years since 1970. Annual deficits of $1-2 trillion since 2020 have pushed the national debt above $35 trillion (~120% of GDP). Interest costs (~$700 billion annually) are now larger than defense spending.
+The federal government has run deficits in most years since 1970. Annual deficits of $1-2 trillion since 2020 have pushed the national debt above $35 trillion (roughly 120% of GDP). Interest costs (roughly $700 billion annually) are now larger than defense spending.
 
 Debt sustainability depends on the relationship between interest rates (r) and economic growth (g):
 - If r < g: Debt-to-GDP ratio can stabilize even with deficits
@@ -359,7 +359,7 @@ After a post-Cold War "peace dividend" and sequestration cuts in the 2010s, defe
 
 > **Quick Facts**
 > - Headquarters: The Pentagon, Arlington, VA
-> - Budget: ~$850 billion (FY 2024)
+> - Budget: roughly $850 billion (FY 2024)
 > - Employees: 2.9 million (1.3M active military, 750K civilian, 800K+ reserves/guard)
 > - Secretary: Civilian, Cabinet rank
 
@@ -377,19 +377,19 @@ The department's size creates management challenges. GAO has kept DOD on its "hi
 
 > **Quick Facts**
 > - Capital: Sacramento
-> - Budget: ~$310 billion (including federal funds)
-> - Employees: ~240,000 state workers
+> - Budget: roughly $310 billion (including federal funds)
+> - Employees: roughly 240,000 state workers
 > - Governor: Elected, 4-year term
 
 California's state government, the largest of the 50 states, provides a window into state operations:
 
 **Major functions**:
-- Healthcare (Medi-Cal/Medicaid): ~$150 billion, covering 15 million Californians
-- Education (K-12 state aid + higher ed): ~$100 billion
-- Corrections: ~$15 billion (operating the nation's largest state prison system)
-- Transportation: ~$15 billion
+- Healthcare (Medi-Cal/Medicaid): roughly $150 billion, covering 15 million Californians
+- Education (K-12 state aid + higher ed): roughly $100 billion
+- Corrections: roughly $15 billion (operating the nation's largest state prison system)
+- Transportation: roughly $15 billion
 
-**The UC and CSU systems** employ ~200,000 people across 33 campuses, making higher education the largest state function by employment.
+**The UC and CSU systems** employ roughly 200,000 people across 33 campuses, making higher education the largest state function by employment.
 
 **Fiscal structure**: California relies heavily on income tax (especially capital gains), creating volatile revenues that surge in booms and crash in recessions. Proposition 13 (1978) capped property taxes, shifting school funding to the state and making revenue more dependent on income tax.
 
@@ -398,8 +398,8 @@ California's state government, the largest of the 50 states, provides a window i
 ### New York City Government
 
 > **Quick Facts**
-> - Budget: ~$110 billion
-> - Employees: ~330,000
+> - Budget: roughly $110 billion
+> - Employees: roughly 330,000
 > - Mayor: Elected, 4-year term
 > - Population: 8.3 million
 

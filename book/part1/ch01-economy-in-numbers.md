@@ -27,8 +27,8 @@ The United States remains the world's largest economy by conventional measures, 
 | Economy | GDP (2023) |
 |---------|-----------|
 | United States | $27.4 trillion |
-| China | ~$18 trillion |
-| European Union | ~$18.6 trillion |
+| China | roughly $18 trillion |
+| European Union | roughly $18.6 trillion |
 | Japan | $4.2 trillion |
 | Germany | $4.5 trillion |
 | India | $3.7 trillion |
@@ -54,7 +54,7 @@ Where does $27 trillion come from? The answer may surprise you: the largest indu
 | Wholesale Trade | 6% | $1.6 trillion |
 | Construction | 4% | $1.1 trillion |
 | Transportation & Warehousing | 3.5% | $960 billion |
-| Other | ~10% | $2.7 trillion |
+| Other | roughly 10% | $2.7 trillion |
 
 Several patterns stand out:
 

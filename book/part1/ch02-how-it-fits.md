@@ -142,10 +142,10 @@ At any moment, the Z.1 accounts show the accumulated stocks:
 
 | Sector | Assets | Liabilities | Net Worth |
 |--------|--------|-------------|-----------|
-| Households | ~$175 trillion | ~$20 trillion | ~$155 trillion |
-| Nonfinancial Business | ~$55 trillion | ~$35 trillion | ~$20 trillion |
-| Federal Government | ~$5 trillion | ~$35 trillion | -$30 trillion |
-| Financial Sector | ~$130 trillion | ~$125 trillion | ~$5 trillion |
+| Households | roughly $175 trillion | roughly $20 trillion | roughly $155 trillion |
+| Nonfinancial Business | roughly $55 trillion | roughly $35 trillion | roughly $20 trillion |
+| Federal Government | roughly $5 trillion | roughly $35 trillion | -$30 trillion |
+| Financial Sector | roughly $130 trillion | roughly $125 trillion | roughly $5 trillion |
 
 Household net worth---about $155 trillion---is the most important number for financial stability. When asset prices rise, households feel wealthier and spend more (the "wealth effect"). When prices crash, as in 2008, consumption collapses.
 

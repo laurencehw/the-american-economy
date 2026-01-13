@@ -10,9 +10,9 @@ Retail is the visible face of the economy—the point where production meets con
 
 - **Retail Sales:** Approximately **$7.26 trillion** (2024)
 - **Wholesale Sales:** Approximately **$11.4 trillion**
-- **Retail Employment:** ~15.5 million workers
-- **Wholesale Employment:** ~6.1–6.3 million workers
-- **Total Sector Employment:** ~21.5 million (roughly 14% of US employment)
+- **Retail Employment:** roughly 15.5 million workers
+- **Wholesale Employment:** roughly 6.1–6.3 million workers
+- **Total Sector Employment:** roughly 21.5 million (roughly 14% of US employment)
 
 It is a structural curiosity that wholesale revenue exceeds retail revenue; this reflects the "double counting" inherent in intermediate goods as products change hands multiple times before reaching the final consumer. A bottle of aspirin might be sold by the manufacturer to a pharmaceutical wholesaler to a drugstore chain's distribution center to an individual store before finally reaching you.
 
@@ -75,7 +75,7 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 | Rank | Company | US Revenue | Market Position |
 |------|---------|------------|-----------------|
 | 1 | **Walmart** | $569B | 37% of US online grocery market |
-| 2 | **Amazon** | $274B | ~37.6% of all US e-commerce |
+| 2 | **Amazon** | $274B | roughly 37.6% of all US e-commerce |
 | 3 | **Costco** | $183B | 54% of warehouse club segment |
 | 4 | **Target** | $107B | "Upscale discount" positioning |
 
@@ -230,7 +230,7 @@ With the $24.6 billion merger blocked, the grocery industry structure is set: a 
 
 ### 4. The Dollar Store "Correction"
 
-After years of explosive growth (Dollar General opened 1,000+ stores annually for a decade), the segment is facing headwinds. Dollar Tree/Family Dollar is closing ~1,000 stores; Dollar General is closing ~140. But the footprint remains massive, and Dollar General is still opening 575 new stores in 2025. This is optimization, not decline.
+After years of explosive growth (Dollar General opened 1,000+ stores annually for a decade), the segment is facing headwinds. Dollar Tree/Family Dollar is closing roughly 1,000 stores; Dollar General is closing roughly 140. But the footprint remains massive, and Dollar General is still opening 575 new stores in 2025. This is optimization, not decline.
 
 ### 5. Omnichannel Convergence
 
@@ -246,7 +246,7 @@ Free returns were the drug used to hook consumers on e-commerce. Now, the bill i
 
 > **Quick Facts**
 > - **Headquarters:** Bentonville, AR
-> - **Revenue:** $648B total (~$569B US, 2024)
+> - **Revenue:** $648B total (roughly $569B US, 2024)
 > - **Employees:** 2.1 million (largest private employer in the world)
 > - **Stores:** 4,700+ US, 10,500+ global
 
@@ -266,7 +266,7 @@ Today, Walmart has pivoted to survive the Amazon era. Its massive store network�
 
 Started as an online bookstore in Jeff Bezos's garage (1994), Amazon became the "everything store" through relentless expansion, loss-tolerant investors, and a willingness to sacrifice profit for growth. Its genius was not just selling goods, but building the infrastructure to move them. The fulfillment network—warehouses, sortation centers, last-mile delivery—is a moat so wide that few can cross it.
 
-**Prime membership** (200M+ subscribers globally, ~170M in the US) creates a powerful lock-in effect. Once you pay $139/year, Amazon becomes the default. Prime members spend roughly $1,400/year on Amazon versus $600 for non-members. The program transforms occasional shoppers into habitual users.
+**Prime membership** (200M+ subscribers globally, roughly 170M in the US) creates a powerful lock-in effect. Once you pay $139/year, Amazon becomes the default. Prime members spend roughly $1,400/year on Amazon versus $600 for non-members. The program transforms occasional shoppers into habitual users.
 
 Crucially, Amazon's **Third-Party Marketplace** now accounts for 60% of units sold on the platform. Amazon is often the landlord of commerce rather than the merchant—collecting fees (advertising, fulfillment, referral) while third parties bear the inventory risk. This platform model generates margins far above traditional retail.
 
@@ -281,9 +281,9 @@ Physical retail experiments have been mixed. **Amazon Go** (cashierless convenie
 > - **Warehouses:** 600+ US, 900+ global
 > - **Members:** 130+ million cardholders
 
-Costco is the "anti-Walmart"—proof that a high-wage, high-loyalty retail model can succeed spectacularly. The business runs on membership fees ($65 for basic, $130 for Executive), which generate ~$4.6 billion annually with renewal rates exceeding 90%. This membership revenue effectively *is* the profit; Costco's merchandise margins are intentionally low (capped at roughly 14% gross margin).
+Costco is the "anti-Walmart"—proof that a high-wage, high-loyalty retail model can succeed spectacularly. The business runs on membership fees ($65 for basic, $130 for Executive), which generate roughly $4.6 billion annually with renewal rates exceeding 90%. This membership revenue effectively *is* the profit; Costco's merchandise margins are intentionally low (capped at roughly 14% gross margin).
 
-While Walmart stocks 100,000+ SKUs, Costco carefully curates just **~4,000 items**. This creates massive buying power per item—when Costco commits to selling a product, suppliers get enormous volume. In exchange, Costco demands the lowest possible price. If suppliers won't deliver, Costco develops the item under its **Kirkland Signature** private label, which has become a $60+ billion brand rivaling Coca-Cola in sales.
+While Walmart stocks 100,000+ SKUs, Costco carefully curates just **roughly 4,000 items**. This creates massive buying power per item—when Costco commits to selling a product, suppliers get enormous volume. In exchange, Costco demands the lowest possible price. If suppliers won't deliver, Costco develops the item under its **Kirkland Signature** private label, which has become a $60+ billion brand rivaling Coca-Cola in sales.
 
 The stores deliberately avoid optimization. Costco doesn't tell you where things are; the "treasure hunt" experience—wandering, discovering unexpected deals on kayaks or designer jeans—is the point. It transforms shopping from chore into entertainment for its affluent suburban customer base.
 

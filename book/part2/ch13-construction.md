@@ -11,16 +11,16 @@ This is not a statistical artifact. Goolsbee and Syverson (2023) systematically 
 **Size and Scope**
 
 - **GDP Contribution:** Approximately **$1.3 trillion** (4.5% of GDP)
-- **Gross Output:** ~$2.2 trillion annually (including intermediate inputs)
-- **Employment:** ~8.3 million workers
-- **Establishments:** ~800,000 firms, the vast majority with fewer than 10 employees
+- **Gross Output:** roughly $2.2 trillion annually (including intermediate inputs)
+- **Employment:** roughly 8.3 million workers
+- **Establishments:** roughly 800,000 firms, the vast majority with fewer than 10 employees
 - **Value Put in Place:** $2.1 trillion annually in new construction (2024)
 
 Construction is both cyclical and foundational. It builds the physical infrastructure of the economy—houses, offices, factories, roads, bridges, power plants—but its activity swings wildly with interest rates, credit availability, and economic confidence. In recessions, construction employment can fall 20-30%; in booms, labor shortages become acute within months.
 
 **Key Subsectors:**
 
-- **Residential:** Single-family homes, multifamily apartments, renovations (~40% of total construction spending)
+- **Residential:** Single-family homes, multifamily apartments, renovations (roughly 40% of total construction spending)
 - **Commercial:** Offices, retail, hotels, healthcare facilities, data centers
 - **Heavy Civil/Infrastructure:** Highways, bridges, airports, water systems, public transit
 - **Industrial:** Manufacturing plants, refineries, power generation facilities
@@ -102,30 +102,30 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 
 | Company | Revenue | Specialty |
 |---------|---------|-----------|
-| **Bechtel** | ~$18B | Energy, infrastructure, defense (private, family-owned) |
-| **Fluor** | ~$15B | Energy, chemicals, mining (public) |
-| **Kiewit** | ~$15B | Transportation infrastructure (employee-owned) |
-| **Jacobs** | ~$16B | Buildings, infrastructure, advanced facilities (public) |
-| **AECOM** | ~$14B | Design and construction management |
+| **Bechtel** | roughly $18B | Energy, infrastructure, defense (private, family-owned) |
+| **Fluor** | roughly $15B | Energy, chemicals, mining (public) |
+| **Kiewit** | roughly $15B | Transportation infrastructure (employee-owned) |
+| **Jacobs** | roughly $16B | Buildings, infrastructure, advanced facilities (public) |
+| **AECOM** | roughly $14B | Design and construction management |
 
 **Commercial Building**
 
 | Company | Revenue | Market |
 |---------|---------|--------|
-| **Turner Construction** | ~$16B | Commercial, healthcare, data centers (German-owned via Hochtief/ACS) |
-| **Whiting-Turner** | ~$10B | Commercial, institutional |
-| **Skanska USA** | ~$8B | Commercial, infrastructure (Swedish parent) |
-| **Clark Construction** | ~$6B | Government, commercial |
+| **Turner Construction** | roughly $16B | Commercial, healthcare, data centers (German-owned via Hochtief/ACS) |
+| **Whiting-Turner** | roughly $10B | Commercial, institutional |
+| **Skanska USA** | roughly $8B | Commercial, infrastructure (Swedish parent) |
+| **Clark Construction** | roughly $6B | Government, commercial |
 
 **Homebuilders**
 
 | Company | Revenue | Homes/Year |
 |---------|---------|------------|
-| **D.R. Horton** | ~$35B | ~90,000 |
-| **Lennar** | ~$34B | ~73,000 |
-| **PulteGroup** | ~$16B | ~28,000 |
-| **NVR** | ~$10B | ~24,000 |
-| **Toll Brothers** | ~$10B | ~10,000 |
+| **D.R. Horton** | roughly $35B | roughly 90,000 |
+| **Lennar** | roughly $34B | roughly 73,000 |
+| **PulteGroup** | roughly $16B | roughly 28,000 |
+| **NVR** | roughly $10B | roughly 24,000 |
+| **Toll Brothers** | roughly $10B | roughly 10,000 |
 
 ![Top contractors by revenue](../../_figures/ch13/ch13_top_contractors.png)
 *Figure 13.3: Top U.S. construction companies by revenue. Engineering giants (Bechtel, Fluor) differ from commercial builders (Turner, Whiting-Turner). Source: ENR (2024)*
@@ -329,8 +329,8 @@ The fundamental challenge is that each project is unique, making automation hard
 > **Quick Facts**
 > - **Headquarters:** Reston, VA
 > - **Ownership:** Private, family-controlled since 1898
-> - **Revenue:** ~$18 billion
-> - **Employees:** ~55,000
+> - **Revenue:** roughly $18 billion
+> - **Employees:** roughly 55,000
 
 Bechtel is America's megaproject builder—the firm you call when the job is too big, too complex, or too strategically important for anyone else. The company built Hoover Dam, the San Francisco Bay Area's BART system, the Channel Tunnel (with partners), Boston's Big Dig, and countless refineries, power plants, and LNG terminals.
 
@@ -343,8 +343,8 @@ The culture is conservative and engineering-driven. Bechtel doesn't seek publici
 > **Quick Facts**
 > - **Headquarters:** New York, NY
 > - **Parent Company:** Hochtief AG (Germany) / ACS (Spain)
-> - **Revenue:** ~$16 billion
-> - **Employees:** ~10,000
+> - **Revenue:** roughly $16 billion
+> - **Employees:** roughly 10,000
 
 Turner is the giant of American commercial building construction. The company built One World Trade Center, Madison Square Garden, Yankee Stadium, and countless hospitals, data centers, university buildings, and corporate headquarters.
 
@@ -357,9 +357,9 @@ Turner operates as a union contractor, dominant in the high-cost, high-complexit
 > **Quick Facts**
 > - **Headquarters:** Arlington, TX
 > - **Founded:** 1978
-> - **Revenue:** ~$35+ billion
-> - **Employees:** ~13,000
-> - **Homes Delivered:** ~90,000 annually
+> - **Revenue:** roughly $35+ billion
+> - **Employees:** roughly 13,000
+> - **Homes Delivered:** roughly 90,000 annually
 
 D.R. Horton is what construction could look like if the industry industrialized. While commercial contractors struggle with productivity, Horton has systematized homebuilding into something approaching manufacturing.
 

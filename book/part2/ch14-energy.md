@@ -5,16 +5,16 @@ The United States consumes more energy than any country except China, burning th
 ## Overview
 
 **Size and Scope**
-- Total energy spending: ~$1.5 trillion annually
-  - Electricity: ~$450 billion (retail sales)
-  - Petroleum products: ~$600 billion
-  - Natural gas (non-electric): ~$150 billion
-  - Other: ~$300 billion
-- GDP contribution: ~$500 billion directly (utilities, extraction, refining); ~$800 billion including related sectors
-- Employment: ~1.2 million direct (utilities, extraction, refining); ~3 million including support services
+- Total energy spending: roughly $1.5 trillion annually
+  - Electricity: roughly $450 billion (retail sales)
+  - Petroleum products: roughly $600 billion
+  - Natural gas (non-electric): roughly $150 billion
+  - Other: roughly $300 billion
+- GDP contribution: roughly $500 billion directly (utilities, extraction, refining); roughly $800 billion including related sectors
+- Employment: roughly 1.2 million direct (utilities, extraction, refining); roughly 3 million including support services
 - Key subsectors: Electric utilities, oil and gas extraction, petroleum refining, pipelines, renewable generation, energy services
 
-Energy's direct share of GDP (~3-4%) understates its importance. Energy is an input to every other sector: manufacturing, transportation, agriculture, and buildings all depend on reliable, affordable energy. Energy price shocks ripple through the economy; energy geography shapes regional development; energy policy drives some of the largest investment flows in the economy.
+Energy's direct share of GDP (roughly 3-4%) understates its importance. Energy is an input to every other sector: manufacturing, transportation, agriculture, and buildings all depend on reliable, affordable energy. Energy price shocks ripple through the economy; energy geography shapes regional development; energy policy drives some of the largest investment flows in the economy.
 
 The sector is also unusually capital-intensive. A single nuclear plant costs $20-30 billion; a major offshore oil platform $1-5 billion; even utility-scale solar projects run hundreds of millions. This capital intensity creates long asset lives, path dependence, and high barriers to entry.
 
@@ -24,7 +24,7 @@ The sector is also unusually capital-intensive. A single nuclear plant costs $20
 
 Electricity is unique among commodities: it cannot be economically stored at scale (yet), so supply must match demand instantaneously. This physical constraint shapes everything about how the industry operates.
 
-**Generation** (~4,200 TWh annually):
+**Generation** (roughly 4,200 TWh annually):
 
 | Source | Share (2024) | Trend |
 |--------|--------------|-------|
@@ -49,7 +49,7 @@ Limited transmission between these interconnections constrains the ability to ba
 
 **Distribution** delivers power from substations to end users over lower-voltage lines. Distribution utilities---often the same companies that own transmission---maintain local networks and handle customer billing.
 
-**Retail Sales** (~$450 billion):
+**Retail Sales** (roughly $450 billion):
 
 | Customer Class | Share of Sales | Share of Revenue |
 |----------------|----------------|------------------|
@@ -57,20 +57,20 @@ Limited transmission between these interconnections constrains the ability to ba
 | Commercial | 36% | 35% |
 | Industrial | 26% | 21% |
 
-Residential customers pay the highest rates (~15 cents/kWh national average); industrial customers the lowest (~8 cents/kWh) due to volume and load characteristics.
+Residential customers pay the highest rates (roughly 15 cents/kWh national average); industrial customers the lowest (roughly 8 cents/kWh) due to volume and load characteristics.
 
 ### The Two Models: Regulated vs. Restructured
 
 Electricity operates under two fundamentally different market structures:
 
-**Regulated/Vertically Integrated** (~30 states):
+**Regulated/Vertically Integrated** (roughly 30 states):
 - A single utility owns generation, transmission, and distribution
 - Utility earns a regulated rate of return on invested capital
 - State Public Utility Commission (PUC) approves rates and investments
 - No wholesale competition; utility must serve all load
 - Dominant in the South, West, and much of the Midwest
 
-**Restructured/Deregulated** (~20 states + DC):
+**Restructured/Deregulated** (roughly 20 states + DC):
 - Generation separated from transmission/distribution
 - Competitive wholesale markets operated by Independent System Operators (ISOs)
 - Retail choice: customers can buy from competing suppliers (in some states)
@@ -86,24 +86,24 @@ The restructuring wave of the 1990s-2000s promised lower prices through competit
 US oil production collapsed from 10 million barrels/day (1970) to 5 million (2008), then surged back to 13+ million (2024)---making America the world's largest producer. The **shale revolution** unlocked tight oil and gas through horizontal drilling and hydraulic fracturing.
 
 Key producing regions:
-- **Permian Basin** (West Texas/New Mexico): Largest US oil field, ~6 million bbl/day
-- **Eagle Ford** (South Texas): ~1 million bbl/day
-- **Bakken** (North Dakota): ~1 million bbl/day
+- **Permian Basin** (West Texas/New Mexico): Largest US oil field, roughly 6 million bbl/day
+- **Eagle Ford** (South Texas): roughly 1 million bbl/day
+- **Bakken** (North Dakota): roughly 1 million bbl/day
 - **Appalachian Basin** (PA, WV, OH): Largest gas field (Marcellus/Utica shale)
 - **Haynesville** (LA/TX): Major gas production
 
 **Midstream (Transportation and Storage)**:
 
 Oil and gas move through an extensive pipeline network:
-- ~190,000 miles of oil pipelines
-- ~320,000 miles of natural gas transmission pipelines
-- ~2.2 million miles of natural gas distribution pipelines
+- roughly 190,000 miles of oil pipelines
+- roughly 320,000 miles of natural gas transmission pipelines
+- roughly 2.2 million miles of natural gas distribution pipelines
 
 Major pipeline companies: Energy Transfer, Kinder Morgan, Enterprise Products, Williams Companies. Pipelines are regulated as common carriers (must provide non-discriminatory access) but earn market-based returns.
 
 **Downstream (Refining and Marketing)**:
 
-US refining capacity: ~18 million barrels/day across ~130 refineries. Refining is concentrated on the Gulf Coast (Texas, Louisiana) due to proximity to oil production and port access.
+US refining capacity: roughly 18 million barrels/day across roughly 130 refineries. Refining is concentrated on the Gulf Coast (Texas, Louisiana) due to proximity to oil production and port access.
 
 Major refiners: Marathon Petroleum, Valero, Phillips 66, ExxonMobil, Chevron.
 
@@ -114,18 +114,18 @@ Refined products flow to retail through:
 
 ### Renewables: The New Entrants
 
-**Wind Power** (~150 GW installed capacity):
+**Wind Power** (roughly 150 GW installed capacity):
 - Concentrated in the Great Plains (Texas, Iowa, Oklahoma, Kansas)
 - Utility-scale wind is now cost-competitive with gas in good wind areas
 - Major developers: NextEra, Berkshire Hathaway Energy, Invenergy, AES
 
-**Solar Power** (~175 GW installed capacity):
+**Solar Power** (roughly 175 GW installed capacity):
 - Utility-scale: California, Texas, Florida lead
-- Distributed (rooftop): California dominates (~40% of US rooftop solar)
+- Distributed (rooftop): California dominates (roughly 40% of US rooftop solar)
 - Costs have fallen 90% since 2010
 - Major developers: NextEra, AES, Clearway, Array Technologies
 
-**Battery Storage** (~30 GW installed, growing rapidly):
+**Battery Storage** (roughly 30 GW installed, growing rapidly):
 - Paired with solar to provide dispatchable power
 - Grid-scale batteries reaching 4+ hours duration
 - California, Texas, Arizona leading deployment
@@ -138,18 +138,18 @@ The Inflation Reduction Act (2022) provides 10-year tax credits for wind, solar,
 
 The electric utility industry is fragmented but consolidating:
 
-**Investor-Owned Utilities (IOUs)**: ~170 companies, serving ~70% of customers
+**Investor-Owned Utilities (IOUs)**: roughly 170 companies, serving roughly 70% of customers
 - Publicly traded, profit-seeking
 - Largest by market cap: NextEra ($140B), Southern Company ($80B), Duke Energy ($75B)
 - Subject to state PUC regulation
 
-**Public Power**: ~2,000 entities, serving ~15% of customers
+**Public Power**: roughly 2,000 entities, serving roughly 15% of customers
 - Owned by municipalities, states, or federal government
 - Tennessee Valley Authority (TVA): Largest public utility
 - Los Angeles DWP, Sacramento Municipal Utility District, others
 - Nonprofit; rates set by governing boards
 
-**Cooperatives**: ~900 co-ops, serving ~15% of customers
+**Cooperatives**: roughly 900 co-ops, serving roughly 15% of customers
 - Member-owned, primarily rural
 - Formed in 1930s-40s to electrify rural America
 - National Rural Electric Cooperative Association represents the sector
@@ -301,8 +301,8 @@ Transmission constraints limit the ability to move cheap renewable power (from w
 | Solar installation | 250,000 | $50,000 | Growing rapidly |
 | Wind technicians | 15,000 | $60,000 | Growing |
 
-**Total direct energy employment**: ~1.3 million
-**Including indirect/induced**: ~3 million
+**Total direct energy employment**: roughly 1.3 million
+**Including indirect/induced**: roughly 3 million
 
 ### Workforce Characteristics
 
@@ -390,9 +390,9 @@ State PUCs have enormous power over utility decisions. A PUC that denies cost re
 ### Lobbying Activity
 
 Energy is among the most heavily lobbied sectors:
-- Oil and gas: ~$125 million annually in federal lobbying
-- Electric utilities: ~$100 million
-- Renewable energy: ~$30 million (growing)
+- Oil and gas: roughly $125 million annually in federal lobbying
+- Electric utilities: roughly $100 million
+- Renewable energy: roughly $30 million (growing)
 
 Key lobbying issues: Tax treatment, permitting, environmental regulation, grid rules, trade policy (tariffs on solar panels, LNG exports).
 
@@ -520,7 +520,7 @@ Nuclear's future depends on whether it's valued for reliability and carbon-free 
 ### 6. Electrification and Load Growth
 
 After decades of flat electricity demand, load growth is resuming:
-- **EVs**: Each 1% EV penetration adds ~0.3% to electricity demand
+- **EVs**: Each 1% EV penetration adds roughly 0.3% to electricity demand
 - **Data centers**: AI/cloud computing driving massive data center construction
 - **Electrification**: Heat pumps, industrial electrification
 - **Hydrogen/manufacturing**: IRA incentives driving new industrial load
@@ -533,8 +533,8 @@ Utilities that planned for flat demand now face potential shortages. Load growth
 
 > **Quick Facts**
 > - Headquarters: Juno Beach, FL
-> - Market Cap: ~$140 billion
-> - Employees: ~16,000
+> - Market Cap: roughly $140 billion
+> - Employees: roughly 16,000
 > - CEO: John Ketchum
 
 NextEra Energy is the world's largest generator of wind and solar power---and also Florida's largest electric utility. This combination of regulated utility (Florida Power & Light) and competitive renewables developer (NextEra Energy Resources) has made NextEra the most valuable utility in America.
@@ -551,13 +551,13 @@ Challenges: Rising interest rates (which affect all capital-intensive developers
 
 > **Quick Facts**
 > - Headquarters: Spring, TX (Houston area)
-> - Market Cap: ~$450 billion
-> - Employees: ~62,000
+> - Market Cap: roughly $450 billion
+> - Employees: roughly 62,000
 > - CEO: Darren Woods
 
 ExxonMobil is the largest US oil company and one of the largest in the world, tracing its history to Standard Oil (broken up in 1911). The company operates across the petroleum value chain:
 
-**Upstream**: Major positions in the Permian Basin (acquired Pioneer Natural Resources for $60B in 2024), Guyana (massive offshore discoveries), and global LNG. Production: ~3.8 million boe/day.
+**Upstream**: Major positions in the Permian Basin (acquired Pioneer Natural Resources for $60B in 2024), Guyana (massive offshore discoveries), and global LNG. Production: roughly 3.8 million boe/day.
 
 **Downstream**: Largest US refiner (4.6 million bbl/day capacity globally), major chemicals producer (polyethylene, polypropylene).
 
@@ -571,8 +571,8 @@ The company has faced climate litigation, shareholder activism, and reputational
 
 > **Quick Facts**
 > - Headquarters: Charlotte, NC
-> - Market Cap: ~$75 billion
-> - Employees: ~27,000
+> - Market Cap: roughly $75 billion
+> - Employees: roughly 27,000
 > - CEO: Lynn Good
 
 Duke Energy exemplifies the large regulated utility: predictable, capital-intensive, politically connected, and facing the challenges of energy transition.

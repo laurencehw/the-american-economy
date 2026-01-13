@@ -6,9 +6,9 @@ Every time you order something online and it arrives the next day, you're witnes
 
 **Size and Scope**
 - GDP contribution: $935 billion (Transportation and Warehousing, NAICS 48-49)
-- Broader economic footprint: ~$1.8 trillion including private trucking fleets
+- Broader economic footprint: roughly $1.8 trillion including private trucking fleets
 - Employment: 6.58 million workers
-- Freight moved: ~20 billion tons annually
+- Freight moved: roughly 20 billion tons annually
 
 The transportation sector is fundamentally shaped by two forces: geography and deregulation. American distances are vast---it's 2,800 miles from Los Angeles to New York, creating natural demand for long-haul freight that doesn't exist in smaller countries. And the regulatory reforms of 1978-1980, which deregulated airlines, trucking, and railroads in rapid succession, unleashed productivity gains that transformed how goods move.
 
@@ -344,7 +344,7 @@ Rail is already relatively efficient (about 4x more fuel-efficient than trucking
 > - Headquarters: Atlanta, Georgia
 > - Founded: 1907
 > - Revenue: $100.3 billion (2023)
-> - Employees: ~500,000
+> - Employees: roughly 500,000
 
 UPS began as a Seattle messenger company and grew into the world's largest package delivery company. The "Big Brown" trucks and uniformed drivers are ubiquitous in American life. UPS delivers about 25 million packages daily worldwide.
 
@@ -360,7 +360,7 @@ The 2023 Teamsters contract negotiation nearly resulted in a strike that would h
 > - Headquarters: Omaha, Nebraska
 > - Founded: 1862 (Pacific Railroad Acts)
 > - Revenue: $24.1 billion (2023)
-> - Employees: ~32,000
+> - Employees: roughly 32,000
 
 Union Pacific traces its origins to the transcontinental railroad, completed in 1869 at Promontory Summit, Utah. Today it operates the largest railroad in North America by route miles, serving 23 western states from Chicago to the Pacific.
 
@@ -375,8 +375,8 @@ UP's western duopoly with BNSF creates strong pricing power but limited competit
 > **Quick Facts**
 > - Headquarters: Seattle, Washington (Amazon overall)
 > - Launched: 2015
-> - Parcel Volume: ~27% of US market
-> - Employees: ~275,000 (delivery operations)
+> - Parcel Volume: roughly 27% of US market
+> - Employees: roughly 275,000 (delivery operations)
 
 Amazon Logistics isn't a company---it's a division of Amazon that has grown into one of the largest delivery operations in the world. What began as an effort to reduce dependence on UPS and FedEx has become a competitive threat to both.
 

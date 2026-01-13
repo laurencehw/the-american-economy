@@ -136,15 +136,15 @@ The management consulting industry ($330 billion in the US) advises corporations
 **Market structure**: More fragmented than accounting, but with clear tiers:
 
 **Strategy consulting** (the elite tier):
-- McKinsey & Company (~$16B global revenue, ~6,000 US consultants)
-- Boston Consulting Group (~$12B global, ~5,000 US)
-- Bain & Company (~$6B global, ~3,500 US)
+- McKinsey & Company (roughly $16B global revenue, roughly 6,000 US consultants)
+- Boston Consulting Group (roughly $12B global, roughly 5,000 US)
+- Bain & Company (roughly $6B global, roughly 3,500 US)
 
 **Big 4 consulting arms** (volume and technology):
 - Deloitte Consulting, PwC Advisory, EY-Parthenon, KPMG Advisory
 
 **Technology/implementation consultants**:
-- Accenture (~$65B global, massive scale)
+- Accenture (roughly $65B global, massive scale)
 - IBM Consulting, Capgemini, Cognizant
 
 **Boutiques and specialists**: Thousands of smaller firms focusing on specific industries or functions.
@@ -166,7 +166,7 @@ The largest professional services subsector by revenue ($550 billion) encompasse
 
 **Major players**:
 - Accenture: $65B global revenue, 740,000 employees (the largest)
-- IBM Consulting: ~$20B (spun from IBM's services arm)
+- IBM Consulting: roughly $20B (spun from IBM's services arm)
 - Infosys, TCS, Wipro: Indian-headquartered firms with large US operations
 - Cognizant: $19B, US-headquartered but India-delivery model
 - Thousands of smaller system integrators and consultancies
@@ -387,8 +387,8 @@ Professional services firms face pressure to demonstrate social responsibilityâ€
 > **Quick Facts**
 > - Headquarters: New York, NY
 > - Founded: 1926
-> - Revenue: ~$16 billion (2023, estimated)
-> - Employees: 45,000 globally, ~6,000 US consultants
+> - Revenue: roughly $16 billion (2023, estimated)
+> - Employees: 45,000 globally, roughly 6,000 US consultants
 
 McKinsey is the world's most prestigious management consulting firm, known for advising CEOs on strategy and for producing many corporate and government leaders (current and former clients include numerous Fortune 500 CEOs, cabinet secretaries, and central bank governors).
 
@@ -403,7 +403,7 @@ The firm is a partnership; there are no public financial disclosures. But it is 
 > **Quick Facts**
 > - Headquarters: New York, NY (US entity)
 > - Founded: 1845 (London), US practice established 1890s
-> - Revenue: $65 billion globally, ~$28 billion US (2023)
+> - Revenue: $65 billion globally, roughly $28 billion US (2023)
 > - Employees: 175,000 US, 450,000 globally
 
 Deloitte is the largest professional services firm in the world, offering audit, tax, consulting, and advisory services. In the US, it is the largest of the Big 4 by revenue and headcount.
@@ -417,7 +417,7 @@ Deloitte has invested heavily in technology and industry specialization. Its con
 > **Quick Facts**
 > - Headquarters: Dallas, TX
 > - Founded: 1990 (through mergers)
-> - Revenue: ~$14 billion (2023)
+> - Revenue: roughly $14 billion (2023)
 > - Employees: 50,000
 
 AECOM is the largest architecture and engineering firm in the United States, providing design, construction management, and operations services for infrastructure, buildings, and industrial facilities.

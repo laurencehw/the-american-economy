@@ -33,7 +33,7 @@ Amazon has emerged as the third major digital advertising platform, generating o
 Streaming video represents the clearest example of subscription-based media. Netflix pioneered the model, disrupting both traditional television and the DVD rental business. By late 2024, the streaming landscape had consolidated into several major players:
 
 - **Netflix**: 302 million global subscribers, the clear leader
-- **Amazon Prime Video**: ~230 million (bundled with Prime membership)
+- **Amazon Prime Video**: roughly 230 million (bundled with Prime membership)
 - **Disney+**: 125 million (excluding Hotstar in India)
 - **Max** (HBO): 117 million
 - **Paramount+**: 78 million
@@ -56,9 +56,9 @@ The App Store's 30% commission on digital purchases (15% for small developers) h
 
 Cloud computing represents the most important technological shift in enterprise IT since the personal computer. Rather than maintaining their own data centers, businesses rent computing power, storage, and services from cloud providers. The market is dominated by three players:
 
-- **Amazon Web Services (AWS)**: ~32% market share, roughly $90 billion annual revenue
-- **Microsoft Azure**: ~23% market share
-- **Google Cloud Platform**: ~10% market share
+- **Amazon Web Services (AWS)**: roughly 32% market share, roughly $90 billion annual revenue
+- **Microsoft Azure**: roughly 23% market share
+- **Google Cloud Platform**: roughly 10% market share
 
 Cloud computing is capital-intensive—data centers cost billions to build—but generates recurring revenue with high margins once established. AWS, initially an internal project to improve Amazon's retail operations, now generates the majority of Amazon's operating profit despite representing a smaller share of revenue.
 
@@ -119,9 +119,9 @@ Legacy media has undergone wrenching consolidation as streaming disrupted tradit
 
 The recorded music industry is dominated by three major labels:
 
-- **Universal Music Group** (French-owned, publicly traded): ~32% market share
-- **Sony Music Entertainment** (Japanese-owned): ~22%
-- **Warner Music Group**: ~16%
+- **Universal Music Group** (French-owned, publicly traded): roughly 32% market share
+- **Sony Music Entertainment** (Japanese-owned): roughly 22%
+- **Warner Music Group**: roughly 16%
 
 Together, the majors control roughly 70% of the recorded music market. Independent labels and artists have gained share through streaming, which removed the physical distribution barriers that once advantaged majors. But the majors retain power through extensive back catalogs, artist development infrastructure, and radio/playlist promotion capabilities.
 

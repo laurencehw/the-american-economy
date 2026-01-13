@@ -193,7 +193,7 @@ Government responses to shocks themselves propagate through the economy. Underst
 
 ### Fiscal Policy: The CHIPS Act and IRA
 
-The CHIPS and Science Act ($52.7 billion for semiconductors) and Inflation Reduction Act (~$370 billion for clean energy) represent deliberate positive shocks to specific sectors.
+The CHIPS and Science Act ($52.7 billion for semiconductors) and Inflation Reduction Act (roughly $370 billion for clean energy) represent deliberate positive shocks to specific sectors.
 
 **Direct effects**: Semiconductor fabs are under construction in Arizona, Ohio, and Texas. Battery plants are rising across the "Battery Belt" from Georgia to Michigan.
 
