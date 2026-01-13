@@ -88,7 +88,7 @@ The largest American manufacturers by revenue (excluding pure energy companies):
 ![Top manufacturers by revenue](../../_figures/ch09/ch09_top_manufacturers.png)
 *Figure 9.3: Top U.S. manufacturers by revenue. Apple leads by a wide margin, though its manufacturing is contracted out. Source: Company data (2023)*
 
-Apple's position at the top illustrates manufacturing's complexity: the company designs products in California and captures enormous value through brand, design, and software, but contracts virtually all physical manufacturing to Asian suppliers. Whether Apple is a "manufacturer" depends on definition.
+Apple's position at the top illustrates manufacturing's complexity: the company designs products in California and captures enormous value through brand, design, and software, but contracts virtually all physical manufacturing to suppliers in China. As Patrick McGee documents in *Apple in China* (2025), this arrangement reflects deliberate strategic choices over decades. Foxconn's Zhengzhou facility alone employs over 200,000 workers assembling iPhones—a workforce concentration that would be impossible to replicate in the United States given labor costs, supply chain proximity, and the sheer density of component suppliers within a few hours' drive. Apple's China dependence has become a geopolitical vulnerability, prompting modest diversification toward India and Vietnam, but China remains the center of gravity for iPhone production. Whether Apple is a "manufacturer" depends on definition—it captures the lion's share of value while owning none of the factories.
 
 ## Geographic Distribution
 
