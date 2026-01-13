@@ -97,7 +97,7 @@ Since the 2008 financial crisis, metropolitan areas have captured over 90% of ne
 | Labor force participation | 57% | 63% |
 | GDP growth (2015-2024) | 1.8% annually | 2.4% annually |
 
-![Rural-urban income gap](../_figures/ch25/ch25_income_gap.png)
+![Rural-urban income gap](../../_figures/ch25/ch25_income_gap.png)
 *Figure 25.1: The rural-urban income gap has widened since 2008. Metropolitan areas captured most post-recession recovery, leaving rural communities behind. Source: BEA*
 
 The income gap understates the divide. Rural costs are lower, but the gap in opportunity---the availability of high-paying jobs, the chance for advancement---is wider than the income statistics suggest.

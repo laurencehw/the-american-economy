@@ -15,7 +15,7 @@ The Northeast Corridor---stretching from Boston to Washington---functions less a
 | Boston-Cambridge | $641 billion | 4.9 million | Biotech and higher education |
 | Philadelphia | $558 billion | 6.2 million | Healthcare, logistics, pharma |
 
-![Northeast Corridor GDP](../_figures/ch21/ch21_regional_gdp.png)
+![Northeast Corridor GDP](../../_figures/ch21/ch21_regional_gdp.png)
 *Figure 21.1: GDP of Northeast Corridor metros. The four major cities together produce over $4 trillion annually. Source: BEA Metro*
 
 Together, the corridor accounts for roughly 17% of U.S. GDP on less than 2% of its land area.

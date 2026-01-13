@@ -15,7 +15,7 @@ The four largest American banks hold more assets than the annual GDP of Japan. B
 
 Finance and insurance is the fifth-largest sector of the American economy by GDP, smaller than real estate, healthcare, or professional services, but wielding influence far beyond its size. The sector intermediates the flow of funds from savers to borrowers, transforms risk through insurance, and operates the payment infrastructure that enables economic activity.
 
-![Finance and insurance GDP breakdown](../_figures/ch08/ch08_finance_gdp_treemap.png)
+![Finance and insurance GDP breakdown](../../_figures/ch08/ch08_finance_gdp_treemap.png)
 *Figure 8.1: Finance and insurance GDP by subsector. Banking dominates, followed by insurance and securities. Source: BEA (2023)*
 
 The sector has consolidated dramatically since the 1990s. Deregulation (the Gramm-Leach-Bliley Act of 1999, which repealed Glass-Steagall's separation of commercial and investment banking) enabled the creation of financial supermarkets. The 2008 crisis accelerated consolidation as failing institutions were absorbed by survivors. Today, the four largest banks control nearly half of all US banking assets.
@@ -87,7 +87,7 @@ The US banking system is simultaneously concentrated and fragmented:
 | 3 | Citigroup | $2.4 trillion | $1.3T | 650 |
 | 4 | Wells Fargo | $1.9 trillion | $1.4T | 4,600 |
 
-![Top banks by assets](../_figures/ch08/ch08_top_banks.png)
+![Top banks by assets](../../_figures/ch08/ch08_top_banks.png)
 *Figure 8.2: The Big Four banks by total assets. JPMorgan Chase dominates, with assets approaching $4 trillion. Source: FDIC (2024)*
 
 These four banks hold approximately 45% of all US banking assets. Add the next four (Goldman Sachs, Morgan Stanley, US Bancorp, PNC), and eight banks control over 60%.
@@ -145,7 +145,7 @@ The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of Amer
 | 4 | Cigna | $120B | 20M |
 | 5 | Humana | $100B | 20M |
 
-![Insurance premiums by segment](../_figures/ch08/ch08_insurance_premiums.png)
+![Insurance premiums by segment](../../_figures/ch08/ch08_insurance_premiums.png)
 *Figure 8.3: Insurance premiums by segment. Health insurance dominates, followed by life and property/casualty. Source: NAIC, company data (2023)*
 
 Health insurance is increasingly dominated by vertically integrated conglomerates (UnitedHealth owns Optum; CVS owns Aetna and pharmacies; Cigna merged with Express Scripts). This integration raises antitrust concerns but also enables care coordination.

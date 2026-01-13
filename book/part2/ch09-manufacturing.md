@@ -8,7 +8,7 @@ Manufacturing contributed approximately $2.3 trillion to GDP in 2023—about 10%
 
 The employment picture tells a different story. Manufacturing employed approximately 12.8 million workers as of early 2024—down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents roughly 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.
 
-![Manufacturing employment over time](../_figures/ch09/ch09_manufacturing_employment.png)
+![Manufacturing employment over time](../../_figures/ch09/ch09_manufacturing_employment.png)
 *Figure 9.1: Manufacturing employment, 1970-2024. Employment has declined relentlessly from 19 million to 13 million, even as output doubled. Source: BLS CES*
 
 The divergence between rising output and falling employment represents manufacturing's central economic fact: extraordinary productivity growth. Output per worker has increased dramatically as automation, computerization, and process improvements enabled factories to produce more with fewer hands. A modern automobile assembly plant requires a fraction of the labor that similar facilities needed in the 1970s. Pharmaceutical manufacturing, semiconductor fabrication, and food processing have undergone similar transformations. This productivity growth is economically valuable—it means more goods at lower real cost—but it also means that manufacturing will not return as a mass employer regardless of trade policy, reshoring efforts, or industrial subsidies.
@@ -39,7 +39,7 @@ Manufacturing business models vary enormously by subsector:
 
 Manufacturing's $2.3 trillion GDP contribution distributes unevenly across subsectors:
 
-![Manufacturing subsector value added](../_figures/ch09/ch09_subsector_value_added.png)
+![Manufacturing subsector value added](../../_figures/ch09/ch09_subsector_value_added.png)
 *Figure 9.2: Manufacturing value added by subsector. Chemicals (including pharmaceuticals) lead, followed by computers/electronics and food products. Source: BEA (2023)*
 
 **Chemical products** (including pharmaceuticals) constitute the largest subsector by value-added, contributing approximately $420 billion. This category spans industrial chemicals (basic organic and inorganic compounds), specialty chemicals (catalysts, additives), and pharmaceuticals. The petrochemical industry clusters along the Gulf Coast, exploiting cheap natural gas as feedstock. Pharmaceutical manufacturing concentrates in New Jersey, Massachusetts, and North Carolina, near research universities and biotechnology clusters. Major players include Dow, DuPont (now separate companies after a merger and re-split), BASF's American operations, and pharmaceutical giants like Pfizer, Johnson & Johnson, Merck, and AbbVie.
@@ -85,7 +85,7 @@ The largest American manufacturers by revenue (excluding pure energy companies):
 | Intel | Semiconductors | $54B | Leading US chip manufacturer |
 | Dow | Chemicals | $45B | Commodity and specialty chemicals |
 
-![Top manufacturers by revenue](../_figures/ch09/ch09_top_manufacturers.png)
+![Top manufacturers by revenue](../../_figures/ch09/ch09_top_manufacturers.png)
 *Figure 9.3: Top U.S. manufacturers by revenue. Apple leads by a wide margin, though its manufacturing is contracted out. Source: Company data (2023)*
 
 Apple's position at the top illustrates manufacturing's complexity: the company designs products in California and captures enormous value through brand, design, and software, but contracts virtually all physical manufacturing to Asian suppliers. Whether Apple is a "manufacturer" depends on definition.
@@ -158,7 +158,7 @@ Industrial robots represent the most visible face of manufacturing automation. T
 
 Automotive manufacturing has the highest robot penetration, with welding, painting, and material handling extensively automated. Electronics assembly increasingly uses robots, though the dexterity required for complex assembly still exceeds robot capabilities for many tasks. Pharmaceutical manufacturing is highly automated but with specialized equipment rather than general-purpose robots.
 
-![Robot density by country](../_figures/ch09/ch09_robot_density.png)
+![Robot density by country](../../_figures/ch09/ch09_robot_density.png)
 *Figure 9.4: Industrial robot density (robots per 10,000 manufacturing workers). The U.S. lags South Korea and Germany; China has surpassed U.S. density. Source: IFR (2023)*
 
 The automation trajectory suggests continued manufacturing employment pressure. Advances in robotics, machine vision, and artificial intelligence expand the range of automatable tasks. Collaborative robots ("cobots") that work alongside humans, rather than in caged workcells, enable automation of tasks previously requiring human flexibility. While alarmist predictions of mass technological unemployment have repeatedly proven premature, manufacturing employment will continue its long-term decline.
@@ -167,7 +167,7 @@ The automation trajectory suggests continued manufacturing employment pressure. 
 
 While automation provided steady pressure on manufacturing employment, the period from 2000 to 2010 delivered a concentrated blow that economists now call "the China shock." China's accession to the World Trade Organization in December 2001 provided permanent normal trade relations with the United States, eliminating the annual uncertainty over tariff renewal that had constrained Chinese exports. What followed was an import surge of unprecedented speed and scale.
 
-![U.S. manufacturing employment decline](../_figures/shock_analysis/manufacturing_employment.png)
+![U.S. manufacturing employment decline](../../_figures/shock_analysis/manufacturing_employment.png)
 *Figure 9.5: Manufacturing employment fell sharply from 17.3 million in 2000 to 11.5 million in 2010—a loss of 5.8 million jobs in a single decade. The China shock contributed substantially to this decline. Source: BLS*
 
 Between 2000 and 2010, American manufacturing employment fell from 17.3 million to 11.5 million—a loss of 5.8 million jobs, or one-third of the manufacturing workforce. While automation and the 2008 financial crisis contributed, economists David Autor, David Dorn, and Gordon Hanson demonstrated that import competition from China accounted for a substantial share—perhaps 2 to 2.4 million jobs directly displaced by Chinese imports, with additional losses through supply chain linkages.

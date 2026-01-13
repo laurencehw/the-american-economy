@@ -8,7 +8,7 @@ The Bureau of Economic Analysis classifies the information sector as NAICS 51, e
 
 A more revealing metric is market capitalization. As of late 2024, the five largest American companies by market value were all technology firms: Apple ($3.0 trillion), Microsoft ($2.8 trillion), Alphabet ($1.8 trillion), Amazon ($1.6 trillion), and Meta ($900 billion). Together, these five companies—sometimes called "Big Tech" or the "Magnificent Seven" (adding Nvidia and Tesla)—account for roughly 25% of the S&P 500's total value. No other sector comes close to this concentration of market power in so few hands.
 
-![Big Tech market capitalization](../_figures/ch11/ch11_big_tech_market_cap.png)
+![Big Tech market capitalization](../../_figures/ch11/ch11_big_tech_market_cap.png)
 *Figure 11.1: Big Tech market capitalization, 2024. Apple, Microsoft, and the rest of the "Magnificent Seven" account for roughly 25% of S&P 500 market value. Source: Company data*
 
 The information sector's economic significance lies not just in its direct output but in its role as infrastructure for everything else. Cloud computing powers businesses from startups to Fortune 500 firms. Digital advertising enables the "free" internet. Telecommunications networks carry commerce, entertainment, and increasingly, work itself. Understanding this sector requires examining several distinct but interconnected industries.
@@ -23,7 +23,7 @@ Google's search advertising works on a pay-per-click model: advertisers bid on k
 
 Meta's advertising model relies on the detailed user data collected through Facebook and Instagram. Advertisers can target users by demographics, interests, behaviors, and "lookalike audiences" similar to existing customers. Meta generated $132 billion in advertising revenue in 2023, virtually all of its total revenue.
 
-![Digital advertising revenue by platform](../_figures/ch11/ch11_digital_ad_revenue.png)
+![Digital advertising revenue by platform](../../_figures/ch11/ch11_digital_ad_revenue.png)
 *Figure 11.2: Digital advertising revenue by platform. Google and Meta together capture roughly 50% of the $300+ billion market. Source: eMarketer (2023)*
 
 Amazon has emerged as the third major digital advertising platform, generating over $45 billion from ads displayed in search results and product pages. Unlike Google and Meta, Amazon's advertising appears at the point of purchase, making it especially valuable for consumer products.
@@ -39,7 +39,7 @@ Streaming video represents the clearest example of subscription-based media. Net
 - **Paramount+**: 78 million
 - **Peacock**: 36 million
 
-![Streaming subscribers by service](../_figures/ch11/ch11_streaming_subscribers.png)
+![Streaming subscribers by service](../../_figures/ch11/ch11_streaming_subscribers.png)
 *Figure 11.3: Streaming video subscribers by service. Netflix leads globally, but Amazon Prime Video's bundle gives it comparable reach. Source: Company data (2024)*
 
 The economics of streaming remain challenging. Content costs are enormous—Netflix spent over $17 billion on content in 2023—and subscriber growth in mature markets has slowed. The initial promise of streaming was "cord-cutting": consumers would save money by dropping cable. Instead, many households now subscribe to multiple services, collectively approaching or exceeding cable costs. The streaming services have responded by cracking down on password sharing, introducing ad-supported tiers, and raising prices.
@@ -66,7 +66,7 @@ Cloud computing is capital-intensive—data centers cost billions to build—but
 
 Telecommunications remains a capital-intensive network business. Wireless carriers invest tens of billions annually in spectrum licenses, cell towers, and network equipment. The business model is straightforward: charge monthly fees for voice, data, and increasingly, bundled services like streaming video.
 
-![Telecom market share](../_figures/ch11/ch11_telecom_market_share.png)
+![Telecom market share](../../_figures/ch11/ch11_telecom_market_share.png)
 *Figure 11.4: Wireless carrier market share. T-Mobile narrowly leads after its Sprint acquisition. Source: Company data (2024)*
 
 The wireless industry has consolidated to three national carriers: AT&T, Verizon, and T-Mobile (which acquired Sprint in 2020). T-Mobile's aggressive pricing and network investment have made it the market share leader at 35%, narrowly ahead of Verizon (34%) and AT&T (27%).
@@ -141,7 +141,7 @@ The "local news crisis" has created information deserts in many communities. Cou
 
 The technology industry is extraordinarily concentrated geographically. Five metropolitan areas—San Francisco-San Jose, Seattle, New York, Boston, and Austin—account for roughly half of all software development employment.
 
-![Tech hubs map](../_figures/ch11/ch11_tech_hubs_map.png)
+![Tech hubs map](../../_figures/ch11/ch11_tech_hubs_map.png)
 *Figure 11.5: Major technology employment hubs. Silicon Valley dominates, but Seattle, Austin, and Boston have grown as secondary centers. Source: BLS QCEW*
 
 **Silicon Valley** (San Jose-San Francisco metropolitan area) remains the undisputed center of the technology industry despite decades of predictions about its decline. The region hosts the headquarters of Alphabet, Apple, Meta, and thousands of smaller companies. Stanford University and UC Berkeley provide both research and talent pipelines. Venture capital is heavily concentrated: Sand Hill Road in Menlo Park hosts the largest concentration of VC firms in the world. The region's dysfunction—housing costs that make $200,000 salaries feel inadequate, traffic congestion, homelessness—has not displaced its network effects.

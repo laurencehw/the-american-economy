@@ -29,7 +29,7 @@ Professional services has been a major engine of employment growth since the 198
 
 *Sources: Census Service Annual Survey, BLS QCEW, IBISWorld estimates*
 
-![Professional services GDP breakdown](../_figures/ch07/ch07_prof_services_gdp.png)
+![Professional services GDP breakdown](../../_figures/ch07/ch07_prof_services_gdp.png)
 *Figure 7.1: Professional services GDP by subsector. Computer systems design leads, followed by legal services and management consulting. Source: BEA (2023)*
 
 ## How the Industry Works

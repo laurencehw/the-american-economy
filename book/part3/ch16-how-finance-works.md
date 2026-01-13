@@ -6,7 +6,7 @@ This chapter examines how American finance actually works: the hierarchy of mone
 
 ## The Hierarchy of Money
 
-![Hierarchy of money](../_figures/ch16/ch16_hierarchy_of_money.png)
+![Hierarchy of money](../../_figures/ch16/ch16_hierarchy_of_money.png)
 *Figure 16.1: The hierarchy of money. Currency sits at the top; reserves, deposits, and shadow money form progressively lower levels, each a promise to pay the level above. In a crisis, lower-level money gets tested against higher-level money. Source: Author illustration based on Mehrling*
 
 The first insight is that not all money is equal. Money exists in a hierarchy, with each level a promise to pay the level above.
@@ -346,7 +346,7 @@ The Federal Reserve's rapid rate increases from 2022 to 2023 provide a vivid cas
 
 Beginning in March 2022, the Fed raised the federal funds rate from near zero to 5.25-5.50%—the fastest tightening cycle in 40 years. The goal was to combat inflation that had reached 9%, the highest since 1981. But the transmission of this shock through the economy revealed both expected channels and unanticipated vulnerabilities.
 
-![Mortgage rate shock](../_figures/shock_analysis/mortgage_rate_shock.png)
+![Mortgage rate shock](../../_figures/shock_analysis/mortgage_rate_shock.png)
 *Figure 16.2: The 30-year fixed mortgage rate doubled from 3% to over 7% in just 18 months, the most rapid increase since the Volcker disinflation of 1981-82. Source: FRED*
 
 ### The Primary Transmission Channel: Mortgage Rates
@@ -357,7 +357,7 @@ The most visible transmission occurred through mortgage rates. The 30-year fixed
 - **Purchasing power collapse**: A family that could afford a $500,000 home at 3% rates could afford only $330,000 at 7% rates, holding monthly payments constant.
 - **Transaction freeze**: Existing homeowners locked into 3% mortgages refused to sell, since moving meant taking on a 7% mortgage. Existing home sales fell 35% from 2021 to 2023.
 
-![Housing starts shock](../_figures/shock_analysis/housing_starts_shock.png)
+![Housing starts shock](../../_figures/shock_analysis/housing_starts_shock.png)
 *Figure 16.3: Housing starts fell sharply as mortgage rates rose, demonstrating the Fed's primary transmission mechanism to the real economy. Source: Census Bureau*
 
 Housing starts declined by roughly 20% as builders faced both higher financing costs and reduced buyer demand. Construction employment, which had boomed during the pandemic housing surge, contracted modestly.

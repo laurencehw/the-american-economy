@@ -12,7 +12,7 @@ Every time you order something online and it arrives the next day, you're witnes
 
 The transportation sector is fundamentally shaped by two forces: geography and deregulation. American distances are vast---it's 2,800 miles from Los Angeles to New York, creating natural demand for long-haul freight that doesn't exist in smaller countries. And the regulatory reforms of 1978-1980, which deregulated airlines, trucking, and railroads in rapid succession, unleashed productivity gains that transformed how goods move.
 
-![Freight modal split](../_figures/ch12/ch12_freight_modal_split.png)
+![Freight modal split](../../_figures/ch12/ch12_freight_modal_split.png)
 *Figure 12.1: U.S. freight by mode (ton-miles). Trucking dominates for flexibility; rail excels at bulk and long-haul. Source: BTS (2023)*
 
 The modal split reveals the logic of American freight. Trucking dominates, handling 44% of ton-miles and an even larger share by value, because trucks offer door-to-door flexibility that no other mode can match. Rail moves 19% of ton-miles but specializes in bulk commodities---coal, grain, chemicals, intermodal containers---where its cost advantage on long hauls is decisive. Air freight is negligible by weight (less than 1% of ton-miles) but moves high-value, time-sensitive goods: electronics, pharmaceuticals, e-commerce orders. Pipelines quietly move petroleum and natural gas, while ships handle international trade and some domestic bulk cargo.
@@ -58,7 +58,7 @@ The trucking industry divides into distinct segments:
 | 7 | Schneider | $5.5B | TL/Intermodal |
 | 8 | Werner | $3.0B | Truckload |
 
-![Top trucking companies](../_figures/ch12/ch12_trucking_companies.png)
+![Top trucking companies](../../_figures/ch12/ch12_trucking_companies.png)
 *Figure 12.2: Top trucking companies by revenue. UPS and FedEx dominate through their integrated parcel networks. Source: Company data (2023)*
 
 ### The Driver Shortage
@@ -92,7 +92,7 @@ Only seven "Class I" railroads (those with over $500 million in annual revenue) 
 | CSX | $14.7B | Public | Eastern US |
 | Norfolk Southern | $12.2B | Public | Eastern US |
 
-![Class I railroads revenue](../_figures/ch12/ch12_class_i_railroads.png)
+![Class I railroads revenue](../../_figures/ch12/ch12_class_i_railroads.png)
 *Figure 12.3: Class I railroad revenue. Union Pacific and BNSF (Berkshire) dominate the West; CSX and Norfolk Southern split the East. Source: AAR (2023)*
 
 The Canadian carriers (Canadian National and Canadian Pacific Kansas City) also operate extensively in the US, and Kansas City Southern (now part of CPKC) provides the main rail link to Mexico.
@@ -120,7 +120,7 @@ The airline industry that deregulation created in 1978 has consolidated into a s
 | Southwest | 17.3% | Dallas | Point-to-point (major: DEN, LAS, PHX) |
 | United | 16.0% | Chicago | ORD, DEN, IAH, SFO, EWR |
 
-![Airline market share](../_figures/ch12/ch12_airline_market_share.png)
+![Airline market share](../../_figures/ch12/ch12_airline_market_share.png)
 *Figure 12.4: Domestic airline market share. The Big Four control roughly 70% of passengers after decades of consolidation. Source: DOT (2024)*
 
 The Big Four emerged from a wave of mergers: Delta absorbed Northwest (2008), United merged with Continental (2010), Southwest acquired AirTran (2011), and American combined with US Airways (2013). The result is a mature industry with disciplined capacity management and consistent profitability---a stark contrast to the boom-bust cycles of the 1990s and 2000s.
@@ -151,7 +151,7 @@ America's seaports are the gateways for international trade. Container ports han
 | Savannah | 5.9 million | Asia, Atlantic |
 | Houston | 4.0 million | Latin America, Gulf |
 
-![Top container ports](../_figures/ch12/ch12_top_ports.png)
+![Top container ports](../../_figures/ch12/ch12_top_ports.png)
 *Figure 12.5: Top U.S. container ports by TEUs. Los Angeles-Long Beach dominates trans-Pacific trade; Savannah has gained share since the 2021 congestion crisis. Source: AAPA (2023)*
 
 The San Pedro Bay ports (Los Angeles and Long Beach) together form the nation's largest port complex, handling about 40% of containerized imports. Their dominance reflects proximity to Asia---the great circle route from Shanghai to LA is several days shorter than to East Coast ports via the Panama Canal.
@@ -192,7 +192,7 @@ The warehousing workforce has grown from about 700,000 in 2010 to 1.4 million to
 
 American freight flows along predictable corridors shaped by population, ports, and history:
 
-![Logistics corridors map](../_figures/ch12/ch12_logistics_corridors_map.png)
+![Logistics corridors map](../../_figures/ch12/ch12_logistics_corridors_map.png)
 *Figure 12.6: Major freight corridors. Interstate highways, rail mainlines, and ports form an interconnected network with Chicago at the center. Source: BTS*
 
 **East-West Trunk Routes:** I-80 and I-90 form the primary cross-country truck corridors, paralleled by Union Pacific and BNSF rail lines. These routes connect West Coast ports to Midwest distribution centers and Eastern markets.

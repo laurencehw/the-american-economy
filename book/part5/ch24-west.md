@@ -6,7 +6,7 @@ The American West---the Pacific Coast states plus the Mountain West---represents
 
 ## California: The Colossus
 
-![California GDP comparison](../_figures/ch24/ch24_california_gdp.png)
+![California GDP comparison](../../_figures/ch24/ch24_california_gdp.png)
 *Figure 24.1: California's economy is larger than most nations. If a country, it would rank as the world's fifth-largest economy. Source: BEA, World Bank*
 
 California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds the entire output of the United Kingdom. The state leads the nation in manufacturing (by value), agriculture, entertainment, and technology. One in eight Americans lives in California; one in seven dollars of American output is produced there.

@@ -38,7 +38,7 @@ America's largest trading relationships have shifted significantly, with North A
 | 9 | Vietnam | $165 billion | -$124 billion |
 | 10 | Taiwan | $128 billion | -$48 billion |
 
-![Top U.S. trading partners](../_figures/ch19/ch19_top_partners.png)
+![Top U.S. trading partners](../../_figures/ch19/ch19_top_partners.png)
 *Figure 19.1: Top U.S. trading partners. Mexico surpassed China as America's largest trading partner in 2023, reflecting nearshoring trends and tariff effects. Source: Census Bureau*
 
 Mexico surpassed China as America's largest single-country trading partner in 2023—a milestone reflecting both the "nearshoring" trend and the cumulative effect of tariffs on Chinese goods. Vietnam has emerged as a major beneficiary of supply chain diversification, its trade with the U.S. growing from $50 billion in 2015 to $165 billion in 2024.
@@ -58,7 +58,7 @@ While goods trade shows a persistent deficit, services trade runs a surplus. The
 | Business services | $220 billion | $140 billion | +$80 billion |
 | **Total services** | **$920 billion** | **$680 billion** | **+$240 billion** |
 
-![Trade balance over time](../_figures/ch19/ch19_trade_balance.png)
+![Trade balance over time](../../_figures/ch19/ch19_trade_balance.png)
 *Figure 19.2: U.S. trade balance. The persistent goods deficit (imports > exports) is partially offset by a services surplus. Source: BEA*
 
 The services surplus partially offsets the goods deficit. American dominance in finance, technology, entertainment, and professional services generates enormous foreign earnings—though these are invisible in the shipping containers that dominate trade imagery.
