@@ -197,7 +197,7 @@
 
         // Calculate productivity for each industry
         data.byIndustry.forEach(d => {
-            d.productivity = (d.value / d.employment).toFixed(0);
+            d.productivity = d.value / d.employment;
         });
 
         const insights = {
