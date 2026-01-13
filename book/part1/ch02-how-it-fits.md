@@ -71,6 +71,12 @@ Money flows in a circle: businesses pay wages and profits to households; househo
 ![Circular flow of the economy](../../_figures/ch02/ch02_circular_flow.png)
 *Figure 2.2: The circular flow of income and spending. Money flows from businesses to households as wages and profits, and from households to businesses as consumer spending. Government, finance, and foreign trade add complexity. Source: Author illustration*
 
+{% hint style="info" %}
+**Interactive Version:** Click on the nodes below or use the step buttons to explore how money flows through the economy. Press "Play Animation" to see the complete circuit in action.
+{% endhint %}
+
+<iframe src="../../_interactive/circular-flow.html" width="100%" height="850" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
+
 ### Adding Complexity
 
 The real economy has more moving parts:

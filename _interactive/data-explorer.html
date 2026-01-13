@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Economic Data Explorer - Interactive Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f8fafc;
+            color: #1e293b;
+        }
+        .dashboard {
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            min-height: 100vh;
+        }
+        @media (max-width: 900px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
+        }
+        .sidebar {
+            background: white;
+            padding: 1.5rem;
+            border-right: 1px solid #e2e8f0;
+        }
+        .sidebar-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: #1e293b;
+        }
+        .filter-section {
+            margin-bottom: 1.5rem;
+        }
+        .filter-title {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #64748b;
+            margin-bottom: 0.5rem;
+        }
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.85rem;
+            cursor: pointer;
+        }
+        .checkbox-item input {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }
+        .color-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        select {
+            width: 100%;
+            padding: 0.5rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            background: white;
+        }
+        .main-content {
+            padding: 1.5rem;
+            overflow-y: auto;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        .header-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        .header-subtitle {
+            font-size: 0.9rem;
+            color: #64748b;
+        }
+        .view-toggle {
+            display: flex;
+            gap: 0.5rem;
+        }
+        .view-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            background: white;
+            cursor: pointer;
+            font-size: 0.85rem;
+        }
+        .view-btn:hover {
+            border-color: #2563eb;
+        }
+        .view-btn.active {
+            background: #2563eb;
+            color: white;
+            border-color: #2563eb;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        .stat-card {
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .stat-value {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: #2563eb;
+        }
+        .stat-label {
+            font-size: 0.8rem;
+            color: #64748b;
+        }
+        .stat-change {
+            font-size: 0.75rem;
+            margin-top: 0.25rem;
+        }
+        .stat-change.positive {
+            color: #16a34a;
+        }
+        .stat-change.negative {
+            color: #dc2626;
+        }
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5rem;
+        }
+        @media (max-width: 900px) {
+            .chart-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        .chart-card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .chart-header {
+            padding: 1rem;
+            border-bottom: 1px solid #e2e8f0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .chart-title {
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+        .chart-actions {
+            display: flex;
+            gap: 0.5rem;
+        }
+        .chart-btn {
+            padding: 0.25rem 0.5rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 4px;
+            background: white;
+            cursor: pointer;
+            font-size: 0.75rem;
+        }
+        .chart-btn:hover {
+            background: #f1f5f9;
+        }
+        .chart-body {
+            padding: 1rem;
+        }
+        .chart-area {
+            height: 300px;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.85rem;
+        }
+        .data-table th {
+            text-align: left;
+            padding: 0.75rem;
+            background: #f8fafc;
+            border-bottom: 2px solid #e2e8f0;
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+        }
+        .data-table td {
+            padding: 0.75rem;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        .data-table tr:hover {
+            background: #f8fafc;
+        }
+        .comparison-container {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .comparison-header {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+        .comparison-select {
+            flex: 1;
+            min-width: 200px;
+        }
+        .comparison-select label {
+            display: block;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #64748b;
+            margin-bottom: 0.25rem;
+        }
+        #comparisonChart {
+            height: 350px;
+        }
+        .source-note {
+            font-size: 0.75rem;
+            color: #64748b;
+            font-style: italic;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <aside class="sidebar">
+            <h2 class="sidebar-title">Data Explorer</h2>
+
+            <div class="filter-section">
+                <div class="filter-title">Sectors</div>
+                <div class="filter-group" id="sectorFilters">
+                    <!-- Generated by JS -->
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <div class="filter-title">Metric</div>
+                <select id="metricSelect" onchange="updateDashboard()">
+                    <option value="gdp">GDP Value ($B)</option>
+                    <option value="gdpShare">GDP Share (%)</option>
+                    <option value="employment">Employment (M)</option>
+                    <option value="empShare">Employment Share (%)</option>
+                    <option value="productivity">Productivity ($/worker)</option>
+                </select>
+            </div>
+
+            <div class="filter-section">
+                <div class="filter-title">Sort By</div>
+                <select id="sortSelect" onchange="updateDashboard()">
+                    <option value="gdp">GDP (High to Low)</option>
+                    <option value="employment">Employment</option>
+                    <option value="productivity">Productivity</option>
+                    <option value="alphabetical">Alphabetical</option>
+                </select>
+            </div>
+
+            <div class="filter-section">
+                <div class="filter-title">Quick Filters</div>
+                <div class="filter-group">
+                    <label class="checkbox-item">
+                        <input type="checkbox" id="filterServices" onchange="applyQuickFilter('services')">
+                        Services Only
+                    </label>
+                    <label class="checkbox-item">
+                        <input type="checkbox" id="filterGoods" onchange="applyQuickFilter('goods')">
+                        Goods-Producing Only
+                    </label>
+                    <label class="checkbox-item">
+                        <input type="checkbox" id="filterTop5" onchange="applyQuickFilter('top5')">
+                        Top 5 by GDP
+                    </label>
+                </div>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="header">
+                <div>
+                    <h1 class="header-title">U.S. Economy by Sector</h1>
+                    <p class="header-subtitle">Explore GDP, employment, and productivity across 15 industries (2023 data)</p>
+                </div>
+                <div class="view-toggle">
+                    <button class="view-btn active" id="chartViewBtn" onclick="setView('chart')">Charts</button>
+                    <button class="view-btn" id="tableViewBtn" onclick="setView('table')">Table</button>
+                    <button class="view-btn" id="compareViewBtn" onclick="setView('compare')">Compare</button>
+                </div>
+            </div>
+
+            <div class="stats-grid" id="statsGrid">
+                <!-- Generated by JS -->
+            </div>
+
+            <div id="chartView">
+                <div class="chart-grid">
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <span class="chart-title">GDP by Sector</span>
+                        </div>
+                        <div class="chart-body">
+                            <div id="gdpChart" class="chart-area"></div>
+                        </div>
+                    </div>
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <span class="chart-title">Employment by Sector</span>
+                        </div>
+                        <div class="chart-body">
+                            <div id="employmentChart" class="chart-area"></div>
+                        </div>
+                    </div>
+                    <div class="chart-card" style="grid-column: 1 / -1;">
+                        <div class="chart-header">
+                            <span class="chart-title">GDP Share vs Employment Share (Productivity Gap)</span>
+                        </div>
+                        <div class="chart-body">
+                            <div id="scatterChart" class="chart-area"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tableView" style="display: none;">
+                <div class="chart-card">
+                    <div class="chart-body" style="overflow-x: auto;">
+                        <table class="data-table" id="dataTable">
+                            <!-- Generated by JS -->
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div id="compareView" style="display: none;">
+                <div class="comparison-container">
+                    <div class="comparison-header">
+                        <div class="comparison-select">
+                            <label>Sector 1</label>
+                            <select id="compare1" onchange="updateComparison()"></select>
+                        </div>
+                        <div class="comparison-select">
+                            <label>Sector 2</label>
+                            <select id="compare2" onchange="updateComparison()"></select>
+                        </div>
+                    </div>
+                    <div id="comparisonChart"></div>
+                </div>
+            </div>
+
+            <p class="source-note">Sources: Bureau of Economic Analysis (GDP by Industry), Bureau of Labor Statistics (Employment). Data for 2023.</p>
+        </main>
+    </div>
+
+    <script>
+        const sectors = [
+            {name: "Professional & Business Services", gdp: 3557, gdpShare: 13.0, employment: 22.9, empShare: 14.6, color: "#2563eb", type: "services"},
+            {name: "Real Estate", gdp: 3283, gdpShare: 12.0, employment: 2.3, empShare: 1.5, color: "#7c3aed", type: "services"},
+            {name: "Government", gdp: 3010, gdpShare: 11.0, employment: 23.1, empShare: 14.7, color: "#dc2626", type: "services"},
+            {name: "Manufacturing", gdp: 3010, gdpShare: 11.0, employment: 12.6, empShare: 8.0, color: "#ea580c", type: "goods"},
+            {name: "Healthcare & Social Services", gdp: 2462, gdpShare: 9.0, employment: 26.4, empShare: 16.8, color: "#16a34a", type: "services"},
+            {name: "Finance & Insurance", gdp: 2189, gdpShare: 8.0, employment: 9.1, empShare: 5.8, color: "#0891b2", type: "services"},
+            {name: "Information (Tech/Media)", gdp: 1642, gdpShare: 6.0, employment: 2.9, empShare: 1.8, color: "#4f46e5", type: "services"},
+            {name: "Retail Trade", gdp: 1642, gdpShare: 6.0, employment: 15.6, empShare: 9.9, color: "#db2777", type: "services"},
+            {name: "Wholesale Trade", gdp: 1642, gdpShare: 6.0, employment: 6.1, empShare: 3.9, color: "#9333ea", type: "services"},
+            {name: "Construction", gdp: 1094, gdpShare: 4.0, employment: 8.1, empShare: 5.2, color: "#ca8a04", type: "goods"},
+            {name: "Arts, Entertainment & Food", gdp: 1094, gdpShare: 4.0, employment: 16.8, empShare: 10.7, color: "#e11d48", type: "services"},
+            {name: "Transportation & Warehousing", gdp: 958, gdpShare: 3.5, employment: 6.2, empShare: 3.9, color: "#059669", type: "services"},
+            {name: "Utilities", gdp: 438, gdpShare: 1.6, employment: 0.58, empShare: 0.4, color: "#64748b", type: "goods"},
+            {name: "Mining", gdp: 383, gdpShare: 1.4, employment: 0.65, empShare: 0.4, color: "#78716c", type: "goods"},
+            {name: "Agriculture", gdp: 274, gdpShare: 1.0, employment: 2.6, empShare: 1.7, color: "#65a30d", type: "goods"}
+        ];
+
+        // Calculate productivity
+        sectors.forEach(s => {
+            s.productivity = Math.round((s.gdp / s.employment) * 1000);
+        });
+
+        let selectedSectors = sectors.map(s => s.name);
+        let currentView = 'chart';
+
+        function initFilters() {
+            const container = document.getElementById('sectorFilters');
+            container.innerHTML = sectors.map(s => `
+                <label class="checkbox-item">
+                    <input type="checkbox" value="${s.name}" checked onchange="updateSectorFilter()">
+                    <span class="color-dot" style="background: ${s.color}"></span>
+                    ${s.name.length > 25 ? s.name.substring(0, 25) + '...' : s.name}
+                </label>
+            `).join('');
+
+            // Init comparison selects
+            const options = sectors.map(s => `<option value="${s.name}">${s.name}</option>`).join('');
+            document.getElementById('compare1').innerHTML = options;
+            document.getElementById('compare2').innerHTML = options;
+            document.getElementById('compare2').selectedIndex = 1;
+        }
+
+        function updateSectorFilter() {
+            const checkboxes = document.querySelectorAll('#sectorFilters input[type="checkbox"]');
+            selectedSectors = Array.from(checkboxes)
+                .filter(cb => cb.checked)
+                .map(cb => cb.value);
+            updateDashboard();
+        }
+
+        function applyQuickFilter(filter) {
+            const checkboxes = document.querySelectorAll('#sectorFilters input[type="checkbox"]');
+
+            // Reset other quick filters
+            document.getElementById('filterServices').checked = filter === 'services';
+            document.getElementById('filterGoods').checked = filter === 'goods';
+            document.getElementById('filterTop5').checked = filter === 'top5';
+
+            if (filter === 'services') {
+                checkboxes.forEach(cb => {
+                    const sector = sectors.find(s => s.name === cb.value);
+                    cb.checked = sector && sector.type === 'services';
+                });
+            } else if (filter === 'goods') {
+                checkboxes.forEach(cb => {
+                    const sector = sectors.find(s => s.name === cb.value);
+                    cb.checked = sector && sector.type === 'goods';
+                });
+            } else if (filter === 'top5') {
+                const top5 = [...sectors].sort((a, b) => b.gdp - a.gdp).slice(0, 5).map(s => s.name);
+                checkboxes.forEach(cb => {
+                    cb.checked = top5.includes(cb.value);
+                });
+            }
+
+            updateSectorFilter();
+        }
+
+        function setView(view) {
+            currentView = view;
+            document.getElementById('chartView').style.display = view === 'chart' ? 'block' : 'none';
+            document.getElementById('tableView').style.display = view === 'table' ? 'block' : 'none';
+            document.getElementById('compareView').style.display = view === 'compare' ? 'block' : 'none';
+
+            document.getElementById('chartViewBtn').classList.toggle('active', view === 'chart');
+            document.getElementById('tableViewBtn').classList.toggle('active', view === 'table');
+            document.getElementById('compareViewBtn').classList.toggle('active', view === 'compare');
+
+            if (view === 'compare') updateComparison();
+        }
+
+        function getFilteredData() {
+            const sortBy = document.getElementById('sortSelect').value;
+            let data = sectors.filter(s => selectedSectors.includes(s.name));
+
+            switch(sortBy) {
+                case 'gdp':
+                    data.sort((a, b) => b.gdp - a.gdp);
+                    break;
+                case 'employment':
+                    data.sort((a, b) => b.employment - a.employment);
+                    break;
+                case 'productivity':
+                    data.sort((a, b) => b.productivity - a.productivity);
+                    break;
+                case 'alphabetical':
+                    data.sort((a, b) => a.name.localeCompare(b.name));
+                    break;
+            }
+            return data;
+        }
+
+        function updateDashboard() {
+            updateStats();
+            updateGDPChart();
+            updateEmploymentChart();
+            updateScatterChart();
+            updateTable();
+        }
+
+        function updateStats() {
+            const data = getFilteredData();
+            const totalGDP = data.reduce((sum, s) => sum + s.gdp, 0);
+            const totalEmp = data.reduce((sum, s) => sum + s.employment, 0);
+            // Avoid division by zero when no sectors are selected
+            const avgProductivity = totalEmp > 0 ? Math.round(totalGDP / totalEmp * 1000) : 0;
+
+            document.getElementById('statsGrid').innerHTML = `
+                <div class="stat-card">
+                    <div class="stat-value">$${(totalGDP / 1000).toFixed(1)}T</div>
+                    <div class="stat-label">Selected GDP</div>
+                    <div class="stat-change positive">${((totalGDP / 27360) * 100).toFixed(1)}% of total</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${totalEmp.toFixed(1)}M</div>
+                    <div class="stat-label">Selected Employment</div>
+                    <div class="stat-change positive">${((totalEmp / 157.2) * 100).toFixed(1)}% of total</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${avgProductivity > 0 ? '$' + avgProductivity + 'K' : 'N/A'}</div>
+                    <div class="stat-label">Avg Productivity</div>
+                    <div class="stat-change">per worker</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${data.length}</div>
+                    <div class="stat-label">Sectors Selected</div>
+                    <div class="stat-change">of 15 total</div>
+                </div>
+            `;
+        }
+
+        function updateGDPChart() {
+            const data = getFilteredData();
+            const trace = {
+                x: data.map(d => d.gdp),
+                y: data.map(d => d.name),
+                type: 'bar',
+                orientation: 'h',
+                marker: {color: data.map(d => d.color)},
+                text: data.map(d => `$${d.gdp}B`),
+                textposition: 'outside',
+                hovertemplate: '<b>%{y}</b><br>GDP: $%{x}B<extra></extra>'
+            };
+            const layout = {
+                margin: {l: 180, r: 60, t: 10, b: 30},
+                xaxis: {title: 'GDP ($B)', gridcolor: '#e2e8f0'},
+                yaxis: {automargin: true},
+                font: {family: '-apple-system, sans-serif', size: 11},
+                plot_bgcolor: 'white'
+            };
+            Plotly.newPlot('gdpChart', [trace], layout, {responsive: true, displaylogo: false});
+        }
+
+        function updateEmploymentChart() {
+            const data = getFilteredData();
+            const trace = {
+                x: data.map(d => d.employment),
+                y: data.map(d => d.name),
+                type: 'bar',
+                orientation: 'h',
+                marker: {color: data.map(d => d.color)},
+                text: data.map(d => `${d.employment}M`),
+                textposition: 'outside',
+                hovertemplate: '<b>%{y}</b><br>Employment: %{x}M<extra></extra>'
+            };
+            const layout = {
+                margin: {l: 180, r: 60, t: 10, b: 30},
+                xaxis: {title: 'Employment (Millions)', gridcolor: '#e2e8f0'},
+                yaxis: {automargin: true},
+                font: {family: '-apple-system, sans-serif', size: 11},
+                plot_bgcolor: 'white'
+            };
+            Plotly.newPlot('employmentChart', [trace], layout, {responsive: true, displaylogo: false});
+        }
+
+        function updateScatterChart() {
+            const data = getFilteredData();
+            const trace = {
+                x: data.map(d => d.empShare),
+                y: data.map(d => d.gdpShare),
+                mode: 'markers+text',
+                type: 'scatter',
+                text: data.map(d => d.name.split(' ')[0]),
+                textposition: 'top center',
+                marker: {
+                    size: data.map(d => Math.sqrt(d.gdp) / 3),
+                    color: data.map(d => d.color),
+                    line: {width: 2, color: 'white'}
+                },
+                hovertemplate: '<b>%{hovertext}</b><br>GDP Share: %{y}%<br>Emp Share: %{x}%<extra></extra>',
+                hovertext: data.map(d => d.name)
+            };
+            const diagLine = {
+                x: [0, 18],
+                y: [0, 18],
+                mode: 'lines',
+                type: 'scatter',
+                line: {color: '#94a3b8', dash: 'dash', width: 1},
+                showlegend: false,
+                hoverinfo: 'skip'
+            };
+            const layout = {
+                margin: {l: 50, r: 30, t: 20, b: 50},
+                xaxis: {title: 'Employment Share (%)', range: [0, 18], gridcolor: '#e2e8f0'},
+                yaxis: {title: 'GDP Share (%)', range: [0, 18], gridcolor: '#e2e8f0'},
+                font: {family: '-apple-system, sans-serif', size: 11},
+                plot_bgcolor: 'white',
+                showlegend: false,
+                annotations: [
+                    {x: 14, y: 4, text: 'Labor-intensive', showarrow: false, font: {size: 10, color: '#64748b'}},
+                    {x: 4, y: 14, text: 'High productivity', showarrow: false, font: {size: 10, color: '#64748b'}}
+                ]
+            };
+            Plotly.newPlot('scatterChart', [diagLine, trace], layout, {responsive: true, displaylogo: false});
+        }
+
+        function updateTable() {
+            const data = getFilteredData();
+            const table = document.getElementById('dataTable');
+            table.innerHTML = `
+                <thead>
+                    <tr>
+                        <th>Sector</th>
+                        <th>GDP ($B)</th>
+                        <th>GDP Share</th>
+                        <th>Employment (M)</th>
+                        <th>Emp Share</th>
+                        <th>Productivity</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    ${data.map(d => `
+                        <tr>
+                            <td><span class="color-dot" style="background:${d.color};display:inline-block;margin-right:8px;"></span>${d.name}</td>
+                            <td>$${d.gdp.toLocaleString()}</td>
+                            <td>${d.gdpShare}%</td>
+                            <td>${d.employment}</td>
+                            <td>${d.empShare}%</td>
+                            <td>$${d.productivity.toLocaleString()}</td>
+                            <td>${d.type}</td>
+                        </tr>
+                    `).join('')}
+                </tbody>
+            `;
+        }
+
+        function updateComparison() {
+            const sector1 = document.getElementById('compare1').value;
+            const sector2 = document.getElementById('compare2').value;
+
+            const s1 = sectors.find(s => s.name === sector1);
+            const s2 = sectors.find(s => s.name === sector2);
+
+            const metrics = ['GDP ($B)', 'GDP Share (%)', 'Employment (M)', 'Emp Share (%)', 'Productivity ($K)'];
+            const values1 = [s1.gdp, s1.gdpShare, s1.employment, s1.empShare, s1.productivity / 1000];
+            const values2 = [s2.gdp, s2.gdpShare, s2.employment, s2.empShare, s2.productivity / 1000];
+
+            const trace1 = {
+                x: metrics,
+                y: values1,
+                name: s1.name.split(' ')[0],
+                type: 'bar',
+                marker: {color: s1.color}
+            };
+            const trace2 = {
+                x: metrics,
+                y: values2,
+                name: s2.name.split(' ')[0],
+                type: 'bar',
+                marker: {color: s2.color}
+            };
+
+            const layout = {
+                barmode: 'group',
+                margin: {l: 50, r: 30, t: 30, b: 80},
+                legend: {orientation: 'h', y: 1.1},
+                font: {family: '-apple-system, sans-serif', size: 11},
+                plot_bgcolor: 'white'
+            };
+
+            Plotly.newPlot('comparisonChart', [trace1, trace2], layout, {responsive: true, displaylogo: false});
+        }
+
+        // Initialize
+        initFilters();
+        updateDashboard();
+    </script>
+</body>
+</html>

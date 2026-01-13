@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GDP Composition by Industry - Interactive Treemap</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #ffffff;
+            color: #1e293b;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+        .title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: #1e293b;
+        }
+        .subtitle {
+            font-size: 0.95rem;
+            color: #64748b;
+            margin-bottom: 1rem;
+        }
+        .controls {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background: #f8fafc;
+            border-radius: 8px;
+        }
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+        .control-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #64748b;
+        }
+        select {
+            padding: 0.5rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            background: white;
+            cursor: pointer;
+            min-width: 150px;
+        }
+        select:hover {
+            border-color: #2563eb;
+        }
+        #treemap {
+            width: 100%;
+            height: 520px;
+        }
+        .source {
+            font-size: 0.8rem;
+            color: #64748b;
+            font-style: italic;
+            margin-top: 0.5rem;
+        }
+        .insight-box {
+            margin-top: 1rem;
+            padding: 1rem;
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-radius: 8px;
+            border-left: 4px solid #2563eb;
+        }
+        .insight-title {
+            font-weight: 600;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+            color: #1e40af;
+        }
+        .insight-text {
+            font-size: 0.85rem;
+            color: #1e293b;
+            line-height: 1.5;
+        }
+        .stats-row {
+            display: flex;
+            gap: 1.5rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+        .stat-card {
+            flex: 1;
+            min-width: 150px;
+            padding: 1rem;
+            background: #f8fafc;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: #2563eb;
+        }
+        .stat-label {
+            font-size: 0.8rem;
+            color: #64748b;
+            margin-top: 0.25rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">GDP Composition by Industry</h1>
+        <p class="subtitle">Click on sectors to explore. Hover for details. The U.S. economy is dominated by services.</p>
+
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-value">$27.4T</div>
+                <div class="stat-label">Total GDP (2023)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">80%+</div>
+                <div class="stat-label">Services Share</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">15</div>
+                <div class="stat-label">Major Industries</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="control-group">
+                <label class="control-label">View Mode</label>
+                <select id="viewMode" onchange="updateChart()">
+                    <option value="gdp">GDP Value ($B)</option>
+                    <option value="share">GDP Share (%)</option>
+                    <option value="employment">Employment (M)</option>
+                    <option value="productivity">Output per Worker</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label class="control-label">Highlight</label>
+                <select id="highlight" onchange="updateChart()">
+                    <option value="none">None</option>
+                    <option value="services">Services Sectors</option>
+                    <option value="goods">Goods-Producing</option>
+                    <option value="high-productivity">High Productivity</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="treemap"></div>
+
+        <p class="source">Source: Bureau of Economic Analysis, GDP by Industry (2023)</p>
+
+        <div class="insight-box">
+            <div class="insight-title">Key Insight</div>
+            <div class="insight-text" id="insightText">
+                Professional & Business Services leads all sectors at 13% of GDP, followed by Real Estate and Government.
+                Manufacturing, despite contributing 11% of GDP, employs only 8% of workers - reflecting high productivity
+                through automation and capital investment.
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const data = {
+            byIndustry: [
+                {name: "Professional & Business Services", value: 3557, share: 13.0, employment: 22.9, color: "#2563eb", type: "services"},
+                {name: "Real Estate", value: 3283, share: 12.0, employment: 2.3, color: "#7c3aed", type: "services"},
+                {name: "Government", value: 3010, share: 11.0, employment: 23.1, color: "#dc2626", type: "services"},
+                {name: "Manufacturing", value: 3010, share: 11.0, employment: 12.6, color: "#ea580c", type: "goods"},
+                {name: "Healthcare & Social Services", value: 2462, share: 9.0, employment: 26.4, color: "#16a34a", type: "services"},
+                {name: "Finance & Insurance", value: 2189, share: 8.0, employment: 9.1, color: "#0891b2", type: "services"},
+                {name: "Information (Tech/Media)", value: 1642, share: 6.0, employment: 2.9, color: "#4f46e5", type: "services"},
+                {name: "Retail Trade", value: 1642, share: 6.0, employment: 15.6, color: "#db2777", type: "services"},
+                {name: "Wholesale Trade", value: 1642, share: 6.0, employment: 6.1, color: "#9333ea", type: "services"},
+                {name: "Construction", value: 1094, share: 4.0, employment: 8.1, color: "#ca8a04", type: "goods"},
+                {name: "Arts, Entertainment & Food", value: 1094, share: 4.0, employment: 16.8, color: "#e11d48", type: "services"},
+                {name: "Transportation & Warehousing", value: 958, share: 3.5, employment: 6.2, color: "#059669", type: "services"},
+                {name: "Utilities", value: 438, share: 1.6, employment: 0.58, color: "#64748b", type: "goods"},
+                {name: "Mining", value: 383, share: 1.4, employment: 0.65, color: "#78716c", type: "goods"},
+                {name: "Agriculture", value: 274, share: 1.0, employment: 2.6, color: "#65a30d", type: "goods"}
+            ]
+        };
+
+        // Calculate productivity for each industry (keep as number for sorting)
+        data.byIndustry.forEach(d => {
+            d.productivity = Math.round(d.value / d.employment);
+        });
+
+        const insights = {
+            gdp: "Professional & Business Services leads all sectors at 13% of GDP ($3.6T), followed by Real Estate and Government. The top 5 sectors account for over half of total economic output.",
+            share: "Services dominate the American economy with over 80% of GDP. Goods-producing sectors (Manufacturing, Construction, Mining, Agriculture, Utilities) together contribute less than 20%.",
+            employment: "Healthcare employs the most Americans (26.4M), followed by Government (23.1M) and Professional Services (22.9M). The employment distribution is very different from the GDP distribution.",
+            productivity: "Information/Tech produces $566K per worker - nearly 6x the economy-wide average. Manufacturing ($239K) is also highly productive. Leisure & Hospitality ($65K) and Retail ($105K) are labor-intensive with lower output per worker."
+        };
+
+        function updateChart() {
+            const viewMode = document.getElementById('viewMode').value;
+            const highlight = document.getElementById('highlight').value;
+
+            let values, textTemplate, hoverTemplate, colorScale;
+
+            // Sort data based on view mode
+            let sortedData = [...data.byIndustry];
+
+            switch(viewMode) {
+                case 'gdp':
+                    sortedData.sort((a, b) => b.value - a.value);
+                    values = sortedData.map(d => d.value);
+                    textTemplate = '%{label}<br>$%{value:,.0f}B';
+                    hoverTemplate = '<b>%{label}</b><br>GDP: $%{value:,.0f}B<br>Share: %{customdata[0]}%<br>Employment: %{customdata[1]}M<extra></extra>';
+                    break;
+                case 'share':
+                    sortedData.sort((a, b) => b.share - a.share);
+                    values = sortedData.map(d => d.share);
+                    textTemplate = '%{label}<br>%{value:.1f}%';
+                    hoverTemplate = '<b>%{label}</b><br>GDP Share: %{value:.1f}%<br>GDP: $%{customdata[2]:,.0f}B<extra></extra>';
+                    break;
+                case 'employment':
+                    sortedData.sort((a, b) => b.employment - a.employment);
+                    values = sortedData.map(d => d.employment);
+                    textTemplate = '%{label}<br>%{value:.1f}M';
+                    hoverTemplate = '<b>%{label}</b><br>Employment: %{value:.1f}M workers<br>GDP: $%{customdata[2]:,.0f}B<br>Productivity: $%{customdata[3]}K/worker<extra></extra>';
+                    break;
+                case 'productivity':
+                    sortedData.sort((a, b) => b.productivity - a.productivity);
+                    values = sortedData.map(d => parseFloat(d.productivity));
+                    textTemplate = '%{label}<br>$%{value:,.0f}K';
+                    hoverTemplate = '<b>%{label}</b><br>Output/Worker: $%{value:,.0f}K<br>GDP: $%{customdata[2]:,.0f}B<br>Employment: %{customdata[1]}M<extra></extra>';
+                    break;
+            }
+
+            // Apply highlighting
+            let colors = sortedData.map(d => {
+                if (highlight === 'none') return d.color;
+                if (highlight === 'services' && d.type === 'services') return d.color;
+                if (highlight === 'goods' && d.type === 'goods') return d.color;
+                if (highlight === 'high-productivity' && parseFloat(d.productivity) > 150) return d.color;
+                return '#d1d5db';  // Gray out non-highlighted
+            });
+
+            const trace = {
+                type: 'treemap',
+                labels: sortedData.map(d => d.name),
+                parents: sortedData.map(() => ''),
+                values: values,
+                customdata: sortedData.map(d => [d.share, d.employment, d.value, d.productivity]),
+                texttemplate: textTemplate,
+                hovertemplate: hoverTemplate,
+                marker: {
+                    colors: colors,
+                    line: {
+                        width: 2,
+                        color: 'white'
+                    }
+                },
+                textfont: {
+                    size: 14,
+                    color: 'white'
+                },
+                pathbar: {
+                    visible: false
+                }
+            };
+
+            const layout = {
+                margin: {t: 10, l: 10, r: 10, b: 10},
+                font: {
+                    family: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+                }
+            };
+
+            const config = {
+                responsive: true,
+                displayModeBar: true,
+                modeBarButtonsToRemove: ['lasso2d', 'select2d'],
+                displaylogo: false
+            };
+
+            Plotly.newPlot('treemap', [trace], layout, config);
+
+            // Update insight text
+            document.getElementById('insightText').textContent = insights[viewMode];
+        }
+
+        // Initial render
+        updateChart();
+    </script>
+</body>
+</html>

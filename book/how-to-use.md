@@ -50,6 +50,23 @@ You don't need to read this book front-to-back. Here are some suggested paths:
 
 **For financial analysis**: Read Part III (Financial Architecture) and Chapter 8 (Finance and Insurance).
 
+## Interactive Visualizations
+
+Throughout this book, you'll find interactive visualizations that let you explore the data yourself. These include:
+
+- **GDP Treemap** (Chapter 1): Explore GDP composition by industry with hover details and multiple view modes
+- **Employment Chart** (Chapter 1): Compare sectors by employment, GDP share, and productivity
+- **Circular Flow Diagram** (Chapter 2): Animated visualization of how money flows through the economy
+- **Regional Map** (Chapter 21): Interactive map of America's top 20 metro economies
+- **Shock Propagation** (Chapter 30): Explore how economic shocks cascade through industries and regions
+- **Data Explorer**: A full dashboard for comparing any sectors across all metrics
+
+{% hint style="success" %}
+**Data Explorer Dashboard:** For comprehensive sector comparisons and custom analysis, use our interactive data explorer:
+{% endhint %}
+
+<iframe src="../_interactive/data-explorer.html" width="100%" height="700" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
+
 ## Technical Appendices
 
 The appendices provide more detail on:
