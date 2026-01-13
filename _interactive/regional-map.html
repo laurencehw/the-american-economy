@@ -171,11 +171,11 @@
         <p class="subtitle">Explore the top 20 metropolitan economies. Click markers for details. The top 20 metros produce over 50% of U.S. GDP.</p>
 
         <div class="region-tabs">
-            <button class="region-tab active" onclick="filterRegion('all')">All Regions</button>
-            <button class="region-tab" onclick="filterRegion('northeast')">Northeast</button>
-            <button class="region-tab" onclick="filterRegion('sunbelt')">Sunbelt</button>
-            <button class="region-tab" onclick="filterRegion('midwest')">Midwest</button>
-            <button class="region-tab" onclick="filterRegion('west')">West</button>
+            <button class="region-tab active" onclick="filterRegion('all', event)">All Regions</button>
+            <button class="region-tab" onclick="filterRegion('northeast', event)">Northeast</button>
+            <button class="region-tab" onclick="filterRegion('sunbelt', event)">Sunbelt</button>
+            <button class="region-tab" onclick="filterRegion('midwest', event)">Midwest</button>
+            <button class="region-tab" onclick="filterRegion('west', event)">West</button>
         </div>
 
         <div class="controls">
@@ -192,7 +192,6 @@
                 <select id="colorBy" onchange="updateMarkers()">
                     <option value="region">Region</option>
                     <option value="gdp">GDP Size</option>
-                    <option value="growth">Growth Rate</option>
                 </select>
             </div>
         </div>
@@ -247,7 +246,6 @@
         // Calculate derived metrics
         metros.forEach(m => {
             m.gdpPerCapita = Math.round(m.gdp / m.population / 1000);
-            m.growth = Math.random() * 4 + 1; // Placeholder growth rate
         });
 
         const regionColors = {
@@ -298,10 +296,6 @@
                     if (metro.gdp > 400000) return '#65a30d';
                     if (metro.gdp > 300000) return '#eab308';
                     return '#f97316';
-                case 'growth':
-                    if (metro.growth > 3) return '#15803d';
-                    if (metro.growth > 2) return '#65a30d';
-                    return '#eab308';
                 default:
                     return regionColors[metro.region];
             }
@@ -353,14 +347,20 @@
             updateLegend(colorBy);
         }
 
-        function filterRegion(region) {
+        function filterRegion(region, event) {
             currentRegion = region;
 
             // Update tab styling
             document.querySelectorAll('.region-tab').forEach(tab => {
                 tab.classList.remove('active');
             });
-            event.target.classList.add('active');
+            // Handle both click events and programmatic calls
+            if (event && event.target) {
+                event.target.classList.add('active');
+            } else {
+                // Programmatic call - find and activate the correct tab
+                document.querySelector(`.region-tab[onclick*="${region}"]`)?.classList.add('active');
+            }
 
             // Zoom to region
             const bounds = {
@@ -399,17 +399,7 @@
             legend.onAdd = function() {
                 const div = L.DomUtil.create('div', 'legend');
 
-                if (colorBy === 'region') {
-                    div.innerHTML = `
-                        <div class="legend-title">Region</div>
-                        ${Object.entries(regionColors).map(([region, color]) => `
-                            <div style="display:flex;align-items:center;gap:6px;margin:4px 0;">
-                                <div style="width:12px;height:12px;background:${color};border-radius:2px;"></div>
-                                <span>${regionNames[region]}</span>
-                            </div>
-                        `).join('')}
-                    `;
-                } else if (colorBy === 'gdp') {
+                if (colorBy === 'gdp') {
                     div.innerHTML = `
                         <div class="legend-title">GDP Size</div>
                         <div class="legend-scale">
@@ -424,17 +414,15 @@
                         </div>
                     `;
                 } else {
+                    // Default: region
                     div.innerHTML = `
-                        <div class="legend-title">Growth Rate</div>
-                        <div class="legend-scale">
-                            <div style="flex:1;background:#eab308;"></div>
-                            <div style="flex:1;background:#65a30d;"></div>
-                            <div style="flex:1;background:#15803d;"></div>
-                        </div>
-                        <div class="legend-labels">
-                            <span>Low</span>
-                            <span>High</span>
-                        </div>
+                        <div class="legend-title">Region</div>
+                        ${Object.entries(regionColors).map(([region, color]) => `
+                            <div style="display:flex;align-items:center;gap:6px;margin:4px 0;">
+                                <div style="width:12px;height:12px;background:${color};border-radius:2px;"></div>
+                                <span>${regionNames[region]}</span>
+                            </div>
+                        `).join('')}
                     `;
                 }
                 return div;

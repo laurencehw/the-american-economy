@@ -228,9 +228,9 @@
             {name: "Utilities", employment: 0.58, empShare: 0.4, gdpShare: 1.6, color: "#475569"}
         ];
 
-        // Calculate productivity (GDP per worker proxy)
+        // Calculate productivity (GDP per worker proxy - keep as number for sorting)
         sectorData.forEach(d => {
-            d.productivity = (d.gdpShare / d.empShare).toFixed(2);
+            d.productivity = d.gdpShare / d.empShare;
         });
 
         let chartType = 'bar';

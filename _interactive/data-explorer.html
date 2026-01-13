@@ -507,7 +507,8 @@
             const data = getFilteredData();
             const totalGDP = data.reduce((sum, s) => sum + s.gdp, 0);
             const totalEmp = data.reduce((sum, s) => sum + s.employment, 0);
-            const avgProductivity = Math.round(totalGDP / totalEmp * 1000);
+            // Avoid division by zero when no sectors are selected
+            const avgProductivity = totalEmp > 0 ? Math.round(totalGDP / totalEmp * 1000) : 0;
 
             document.getElementById('statsGrid').innerHTML = `
                 <div class="stat-card">
@@ -521,7 +522,7 @@
                     <div class="stat-change positive">${((totalEmp / 157.2) * 100).toFixed(1)}% of total</div>
                 </div>
                 <div class="stat-card">
-                    <div class="stat-value">$${avgProductivity}K</div>
+                    <div class="stat-value">${avgProductivity > 0 ? '$' + avgProductivity + 'K' : 'N/A'}</div>
                     <div class="stat-label">Avg Productivity</div>
                     <div class="stat-change">per worker</div>
                 </div>

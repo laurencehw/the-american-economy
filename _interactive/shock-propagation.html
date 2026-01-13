@@ -242,22 +242,22 @@
         <p class="subtitle">Select a shock to see how it cascades through industries, regions, and financial markets. Economic shocks rarely stay contained.</p>
 
         <div class="shock-selector">
-            <div class="shock-card active" onclick="selectShock('oil')">
+            <div class="shock-card active" onclick="selectShock('oil', event)">
                 <div class="shock-icon">&#9981;</div>
                 <div class="shock-name">Oil Price Collapse</div>
                 <div class="shock-period">2014-2016</div>
             </div>
-            <div class="shock-card" onclick="selectShock('housing')">
+            <div class="shock-card" onclick="selectShock('housing', event)">
                 <div class="shock-icon">&#127968;</div>
                 <div class="shock-name">Housing Bust</div>
                 <div class="shock-period">2006-2012</div>
             </div>
-            <div class="shock-card" onclick="selectShock('china')">
+            <div class="shock-card" onclick="selectShock('china', event)">
                 <div class="shock-icon">&#128230;</div>
                 <div class="shock-name">China Shock</div>
                 <div class="shock-period">2000-2010</div>
             </div>
-            <div class="shock-card" onclick="selectShock('rates')">
+            <div class="shock-card" onclick="selectShock('rates', event)">
                 <div class="shock-icon">&#128200;</div>
                 <div class="shock-name">Rate Increases</div>
                 <div class="shock-period">2022-2023</div>
@@ -474,8 +474,9 @@
 
         let currentShock = 'oil';
         let animationIndex = 0;
+        let animationTimeoutId = null;
 
-        function selectShock(shockId) {
+        function selectShock(shockId, event) {
             currentShock = shockId;
             const shock = shocks[shockId];
 
@@ -483,7 +484,13 @@
             document.querySelectorAll('.shock-card').forEach(card => {
                 card.classList.remove('active');
             });
-            event.currentTarget.classList.add('active');
+            // Handle both click events and programmatic calls
+            if (event && event.currentTarget) {
+                event.currentTarget.classList.add('active');
+            } else {
+                // Programmatic call - find and activate the correct card
+                document.querySelector(`.shock-card[onclick*="${shockId}"]`)?.classList.add('active');
+            }
 
             // Update timeline
             document.getElementById('timelineTitle').textContent = shock.timelineTitle;
@@ -629,6 +636,12 @@
         }
 
         function animateTimeline() {
+            // Cancel any existing animation
+            if (animationTimeoutId) {
+                clearTimeout(animationTimeoutId);
+                animationTimeoutId = null;
+            }
+
             // Reset all cascade rows
             document.querySelectorAll('.cascade-row').forEach(row => {
                 row.classList.remove('active');
@@ -645,11 +658,18 @@
                 rows[animationIndex].classList.remove('delayed');
                 rows[animationIndex].classList.add('active');
                 animationIndex++;
-                setTimeout(animateCascade, 800);
+                animationTimeoutId = setTimeout(animateCascade, 800);
+            } else {
+                animationTimeoutId = null;
             }
         }
 
         function resetTimeline() {
+            // Cancel any running animation
+            if (animationTimeoutId) {
+                clearTimeout(animationTimeoutId);
+                animationTimeoutId = null;
+            }
             document.querySelectorAll('.cascade-row').forEach(row => {
                 row.classList.remove('active', 'delayed');
             });
