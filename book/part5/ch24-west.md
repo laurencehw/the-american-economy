@@ -6,8 +6,8 @@ The American West---the Pacific Coast states plus the Mountain West---represents
 
 ## California: The Colossus
 
-![California GDP comparison](../../_figures/ch24/ch24_california_gdp.png)
-*Figure 24.1: California's economy is larger than most nations. If a country, it would rank as the world's fifth-largest economy. Source: BEA, World Bank*
+![Western State Economies](../../_figures/ch24/ch24_west_gdp.png)
+*Figure 24.1: GDP of Western states (2023). California dominates, producing more than all other Western states combined. Source: BEA*
 
 California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds the entire output of the United Kingdom. The state leads the nation in manufacturing (by value), agriculture, entertainment, and technology. One in eight Americans lives in California; one in seven dollars of American output is produced there.
 
@@ -22,6 +22,10 @@ California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds th
 | Tech employment | 1.9 million | 1st |
 
 The state's dominance reflects accumulated advantages: decades of federal investment (defense, aerospace, research universities), unmatched natural amenities (climate, coastline, mountains), and network effects that make success self-reinforcing. Silicon Valley became the technology center because it was the technology center; the density of talent, capital, and ideas created feedback loops that no other region could replicate.
+
+California's population has stabilized at around 39.4 million after unprecedented losses during the pandemic years. The state lost 400,000 residents between 2020 and 2022---the first population decline in recorded history---as remote work enabled professionals to flee astronomical housing costs. International immigration returned California to slight growth in 2023-2024, but net domestic migration remains stubbornly negative.
+
+The departures follow a pattern: middle-class families priced out of homeownership, retirees seeking lower costs and taxes, businesses relocating headquarters to Texas or other low-tax states. What remains is increasingly bifurcated: wealthy knowledge workers who can afford $1.5 million homes and service workers crowded into overpriced apartments, with the middle class hollowed out.
 
 ## Metropolitan Economies
 
@@ -41,6 +45,10 @@ The current AI boom, concentrated in San Francisco, has reversed some pandemic-e
 
 The costs are legendary: median home prices exceed $1.3 million; office rents in premium locations top $100 per square foot; a family earning $150,000 qualifies as "low income" for housing assistance. These costs push out the middle class, hollow out the public sector (teachers, police, nurses cannot afford to live there), and create the homelessness visible on city streets.
 
+The region's venture capital ecosystem remains unmatched. Of the $170 billion invested in U.S. startups in 2023, roughly $85 billion---half---flowed through Bay Area investors into Bay Area companies. This dominance has persisted despite predictions of tech diaspora; if anything, the AI boom has concentrated venture activity even further.
+
+The two metropolitan areas within the Bay Area---San Francisco and San Jose---function as distinct but interconnected economies. San Jose and Silicon Valley proper (Santa Clara and San Mateo counties) host the hardware and established technology companies: Apple, Alphabet, Nvidia, Intel. San Francisco hosts the younger software and AI companies: Salesforce, Uber, Airbnb, OpenAI, Anthropic. The two have different characters---San Jose is suburban, car-dependent, corporate; San Francisco is urban, walkable, startup-oriented---but workers and companies move fluidly between them.
+
 ### Los Angeles: The Diversified Giant
 
 Los Angeles is often misunderstood as "just entertainment." In fact, the metropolitan economy is remarkably diversified---and enormous.
@@ -54,6 +62,10 @@ Los Angeles is often misunderstood as "just entertainment." In fact, the metropo
 The entertainment industry remains significant: the studios, the talent agencies, the streaming services, the music industry, the video game studios. But manufacturing employs more workers than entertainment. Aerospace (Northrop Grumman, Boeing, SpaceX in nearby Hawthorne) combines with fashion, food processing, and plastics to make Southern California a genuine industrial region.
 
 The ports of Los Angeles and Long Beach, side by side at San Pedro Bay, are the nation's busiest. Thirty percent of all U.S. container imports enter through these facilities, connecting the American consumer to Asian manufacturing. The logistics industry stretching inland to the "Inland Empire" (Riverside and San Bernardino counties) represents one of the country's largest employment clusters.
+
+Los Angeles also hosts the nation's largest concentration of immigrants, many of whom power the region's manufacturing and service sectors. The garment industry, food processing, and small-scale manufacturing depend on immigrant labor. This creates a distinctive metropolitan economy: high-end entertainment and technology coexisting with working-class manufacturing in ways unusual for coastal California.
+
+The region's challenges are immense. Traffic congestion is legendary---the 405 freeway is a national byword for gridlock. Housing costs, while below the Bay Area, remain prohibitive for middle-class families. Homelessness is visible across the metropolitan area. Yet the regional economy continues to generate substantial output, and population has stabilized after pandemic-era losses.
 
 ### Seattle: Cloud Capital
 
@@ -70,6 +82,10 @@ The cloud computing concentration creates extraordinary wealth: median household
 Boeing's presence---while diminished by the 737 MAX crisis, the move of headquarters to Virginia, and the loss of some production to South Carolina---remains significant. The engineering workforce and supplier base represent a century of accumulated expertise that would be difficult to replicate elsewhere.
 
 Life sciences are a growing third pillar. The Fred Hutchinson Cancer Center, the University of Washington, and the Allen Institute have attracted biotechnology investment, though Seattle remains far behind Boston in this sector.
+
+Washington State's economy extends beyond Seattle. The eastern part of the state, centered on Spokane, depends on agriculture (wheat, apples, wine grapes) and hydroelectric power from the Columbia River dams. The Hanford nuclear site, legacy of the Manhattan Project, is both a cleanup challenge and an employment anchor. The contrast between the Seattle metropolis and eastern Washington creates political tensions that mirror the urban-rural divide nationally.
+
+Seattle's immigrant population, particularly from China, India, and Vietnam, provides both technical talent (software engineers at Amazon and Microsoft) and entrepreneurial energy (small businesses throughout the metropolitan area). The region's Asian heritage is visible in cuisine, culture, and economic linkages across the Pacific.
 
 ### Denver: The Mountain Hub
 
@@ -127,6 +143,22 @@ Intel's Oregon operations produce some of the company's most advanced processors
 Athletic apparel is the second pillar: Nike's world headquarters in Beaverton, Columbia Sportswear's headquarters in Portland, and Adidas's North American headquarters create an apparel design and marketing cluster.
 
 Portland's challenges---high homelessness, drug use visible in the downtown core, business departures---have garnered national attention. The city's economic fundamentals remain solid, but quality-of-life concerns have dampened growth.
+
+Oregon's economy also includes substantial timber and agriculture sectors in the rural regions. The Willamette Valley produces hazelnuts, berries, and wine grapes; eastern Oregon's ranching and farming continue despite population decline. The tension between Portland's progressive politics and rural Oregon's conservative orientation shapes state policy debates.
+
+### Las Vegas: The Service Economy
+
+Las Vegas presents a distinctive Western economic model: tourism and gaming as the primary drivers.
+
+**Key Statistics:**
+- Metropolitan GDP: $160 billion
+- Gaming revenue: $15 billion annually
+- Tourism employment: 300,000+
+- Annual visitors: 40 million+
+
+The "Strip" casinos---MGM, Caesars, Wynn---generate revenues that fund a broader service economy. Conventions, sports (the city now hosts the Raiders, Golden Knights, and Formula 1), and entertainment diversify the base beyond gambling.
+
+Las Vegas faces acute water constraints. The Southern Nevada Water Authority has pioneered conservation and recycling, achieving reductions in per capita use even as population grew. But the fundamental limit---dependence on Lake Mead and the Colorado River---constrains long-term growth.
 
 ## Housing and the Affordability Crisis
 
@@ -188,6 +220,22 @@ State policies push environmental and social agendas aggressively: zero-emission
 Mountain West states and nearby Texas offer counter-programming: low or no income tax, light regulation, faster permitting, pro-housing development. Utah and Idaho consistently rank among the nation's fastest-growing states; Colorado has thrived with a hybrid approach.
 
 The competition is direct: California companies establishing Texas operations, workers relocating to Nevada for tax savings, manufacturing choosing Arizona for regulatory simplicity.
+
+## Workforce and Immigration
+
+The West's economy depends on immigration to a degree unmatched elsewhere in the country. California alone is home to 10 million immigrants---roughly one-quarter of all immigrants in the United States. Foreign-born workers constitute over 30% of California's labor force.
+
+### The Tech Workforce
+
+The H-1B visa program, which allows employers to hire skilled foreign workers, funnels disproportionately to the West Coast. Amazon, Google, Apple, and Meta are among the largest H-1B sponsors; their Seattle and Bay Area offices rely heavily on workers from India, China, and other countries. The uncertainty around H-1B policy---caps, lottery systems, green card backlogs---creates business planning challenges and pushes some operations offshore.
+
+International students at Stanford, UC Berkeley, and the University of Washington provide a talent pipeline. Those who remain after graduation often launch startups; more than half of Silicon Valley's venture-backed companies have at least one immigrant founder.
+
+### Agriculture and Service Workers
+
+At the other end of the skill spectrum, California's agriculture depends almost entirely on immigrant labor. Farmworkers harvesting Central Valley produce, processing workers in food plants, and dairy workers in the state's substantial milk industry are overwhelmingly immigrant, many unauthorized.
+
+The service sector---hotels, restaurants, construction, landscaping---similarly depends on immigrant labor. When immigration enforcement tightens, these industries face acute worker shortages. The economic reality of this dependence creates tension with restrictive immigration sentiment in some communities.
 
 ## Recent Trends
 
@@ -267,6 +315,6 @@ Kaiser's challenges are California's challenges: high costs, labor shortages, co
 
 ---
 
-**Word count:** roughly 3,000 words
+**Word count:** roughly 4,500 words
 
 *Note: For detailed treatment of technology, energy, and specific industries, see the relevant chapters in Part II.*

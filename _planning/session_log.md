@@ -1457,3 +1457,150 @@ _planning/
 3. **Editorial Pass:** Review shock integrations for consistency and flow
 4. **GitBook Publication:** Test full book rendering
 5. **Cross-Reference Check:** Verify shock chapter references work across book
+
+---
+
+## Session 13: January 12, 2026
+
+### Accomplishments
+
+**1. Regional Data Pull (2024 Data)**
+- Created `_scripts/pull_regional_data.py` for comprehensive regional data
+- Successfully pulled fresh 2023-2024 data from FRED and BEA APIs:
+  - `fred_state_gdp.csv` - 140 observations
+  - `fred_state_unemployment.csv` - 1,399 observations
+  - `fred_state_population.csv` - 140 observations
+  - `bea_metro_gdp.csv` - 770 observations
+  - `bea_state_income.csv` - 180 observations
+- Data saved to `_data/regional/`
+
+**2. Regional Figures Created**
+- Created `_scripts/create_regional_figures.py` for figure generation
+- Generated 8 figures across 5 regional chapters:
+  - `state_gdp_top15.png` - Top 15 state economies
+  - `population_growth.png` - State population changes 2019-2024
+  - `metro_gdp_top20.png` - Top 20 metro economies
+  - `ch21_northeast_metros.png` - Northeast corridor metros
+  - `ch22_sunbelt_gdp_growth.png` - Sunbelt GDP growth indexed
+  - `ch23_midwest_unemployment.png` - Midwest unemployment trends
+  - `ch24_west_gdp.png` - Western state economies
+  - `ch25_income_disparity.png` - Per capita income by state
+
+**3. Regional Chapters Expanded (Part V)**
+
+All 5 regional chapters substantially expanded:
+
+| Chapter | Original | Final | Change |
+|---------|----------|-------|--------|
+| Ch21: Northeast | ~2,200 | ~4,300 | +2,100 |
+| Ch22: Sunbelt | ~2,800 | ~4,600 | +1,800 |
+| Ch23: Midwest | ~2,500 | ~4,100 | +1,600 |
+| Ch24: West | ~3,000 | ~4,500 | +1,500 |
+| Ch25: Rural | ~2,700 | ~4,200 | +1,500 |
+| **Total** | **~13,200** | **~21,700** | **+8,500** |
+
+**New Content Added:**
+
+*Ch21 Northeast:*
+- Path dependence and historical context
+- Per capita income variations across corridor states
+- Expanded Boston section (NIH funding, robotics, UMass system)
+- Expanded NYC section (scale of finance, healthcare, creative industries)
+- Expanded Philadelphia section (pharmaceutical manufacturing, port, Comcast)
+- Expanded Washington section (data centers, Amazon HQ2, think tanks)
+- Amtrak ridership and air shuttle connectivity
+- Gateway Project and infrastructure vulnerability detail
+- Housing/zoning policy analysis
+- Remote work adjustment section
+- New firm profile: Comcast
+
+*Ch22 Sunbelt:*
+- Population migration data with 2019-2024 figures
+- Economic composition section (state GDP comparisons)
+- Expanded metro sections (Houston port, Dallas logistics, Austin music decline)
+- Miami climate vulnerabilities
+- Atlanta demographic distinctiveness, MARTA limitations
+- Phoenix semiconductor water demand
+- New sections on climate/extreme weather and insurance crisis
+- Florida Brightline rail
+- Labor and workforce section (education pipeline, immigration dependence)
+
+*Ch23 Midwest:*
+- Population data for IL, OH, MI
+- Expanded Chicago section (crime concerns, corporate departures, cultural assets)
+- Expanded Detroit section (city vs metro distinction, downtown revival)
+- Minnesota economic model (high-tax, high-service trade-off)
+- Columbus governance structure and test market role
+- Pittsburgh transformation narrative
+- Workforce and skills section (community colleges, retraining)
+- UAW strike outcome (25% wage increase)
+- Agricultural section expanded (ethanol, corporate agriculture)
+
+*Ch24 West:*
+- California population stabilization and out-migration patterns
+- Bay Area venture capital ecosystem
+- SF vs San Jose economic characters
+- LA immigrant workforce and manufacturing
+- Seattle/Washington State economy beyond metro
+- New section on Las Vegas
+- Workforce and immigration section (H-1B dependence, agricultural labor)
+
+*Ch25 Rural:*
+- Agglomeration contrast (thin markets)
+- Geographic distribution of rural areas
+- Scale of modern agriculture (3,000+ acre farms)
+- Contract farming and corporate involvement
+- Solar development competition with farmland
+- Brain drain and educational pipeline mismatch
+- Treatment resources and telehealth limitations
+- New section: Political economy of rural America
+
+### Files Created/Modified
+
+```
+_scripts/
+├── pull_regional_data.py ✓ (NEW)
+└── create_regional_figures.py ✓ (NEW)
+
+_data/regional/
+├── fred_state_gdp.csv ✓ (NEW)
+├── fred_state_unemployment.csv ✓ (NEW)
+├── fred_state_population.csv ✓ (NEW)
+├── bea_metro_gdp.csv ✓ (NEW)
+└── bea_state_income.csv ✓ (NEW)
+
+_figures/
+├── regional/ (3 general figures)
+├── ch21/ (1 figure)
+├── ch22/ (1 figure)
+├── ch23/ (1 figure)
+├── ch24/ (1 figure)
+└── ch25/ (1 figure)
+
+book/part5/
+├── ch21-northeast.md (expanded ~2,200 → ~4,300 words)
+├── ch22-sunbelt.md (expanded ~2,800 → ~4,600 words)
+├── ch23-midwest.md (expanded ~2,500 → ~4,100 words)
+├── ch24-west.md (expanded ~3,000 → ~4,500 words)
+└── ch25-rural.md (expanded ~2,700 → ~4,200 words)
+
+_planning/
+└── session_log.md (updated)
+```
+
+### Word Count Update
+- Previous: ~172,600 words
+- Added: ~8,500 words (regional expansions)
+- New Total: ~181,100 words
+
+### Technical Notes
+- BEA metro GDP data was in thousands (not millions) - fixed scale in figures
+- BEA API had connection issues initially; succeeded with retry logic
+- All figures sized to 700px max width for consistency
+
+### Next Steps
+1. **Editorial pass** on newly expanded regional chapters
+2. **Firm profile audit** across all chapters
+3. **GitBook testing** for full book rendering
+4. **Bibliography compilation** for all chapters
+5. **Cross-reference verification** between regional and sector chapters

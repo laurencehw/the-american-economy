@@ -17,6 +17,10 @@ The Office of Management and Budget (OMB) uses a county-based classification tha
 
 By the OMB definition, roughly 46 million Americans---14% of the population---live in nonmetropolitan counties. These populations spread across 72% of the nation's land area, at densities that make many urban economic activities unfeasible.
 
+The distinction matters economically. Urban economies benefit from agglomeration: the density of workers, employers, and infrastructure that enables specialization, reduces transaction costs, and generates knowledge spillovers. Rural economies operate without these advantages. A worker in a rural county may have one or two realistic employers; a business may have one or two realistic suppliers. The "thickness" of urban markets is unavailable.
+
+The geographic distribution of rural America is uneven. The Great Plains and Mountain West are overwhelmingly rural by land area but contain relatively few people. The Upper Midwest, Appalachia, and the Deep South combine rural landscapes with meaningful population. The Northeast and West Coast have few rural counties because their land areas are small.
+
 ## The Rural Economies
 
 Rural America is not one economy but several, each with distinct dynamics.
@@ -38,6 +42,10 @@ The result is economic marginalization. Counties dependent on agriculture lose p
 **2025 Agricultural Outlook:**
 Net farm income is projected to rebound 37-40% from 2024 lows, driven primarily by livestock (cattle, poultry) and government payments exceeding $40 billion. Row crop farmers (corn, soybeans) face compressed margins from low commodity prices and high input costs---the perpetual squeeze between global markets and local costs.
 
+The scale of modern agriculture creates a distinctive rural landscape. Farmhouses separated by miles, grain elevators visible for ten miles, equipment worth more than most houses---the economics require vast operations. A corn farm generating adequate income might span 3,000 acres, well beyond what a single family could work a generation ago. Custom operators, seasonal labor, and hired managers fill the gap.
+
+Corporate involvement in agriculture takes multiple forms. Direct ownership of farmland is less common than the mythology suggests, but contract farming---where processors specify practices and guarantee purchases---dominates poultry, hogs, and increasingly cattle. Farmers become managers of assets owned by integrators, bearing production risk while following corporate specifications.
+
 ### Energy Production
 
 Energy extraction creates the highest-wage rural jobs, but with extreme volatility.
@@ -52,6 +60,10 @@ Energy extraction creates the highest-wage rural jobs, but with extreme volatili
 Fossil fuel extraction brings economic booms---Midland, Texas has among the highest median incomes in the country---but also busts when commodity prices fall. The 2014-2016 oil price collapse emptied boom towns; the 2020 pandemic crash repeated the cycle. Workers migrate in and out, straining local services during booms and leaving behind debts and vacancies during busts.
 
 Renewable energy represents a growing share of rural land use. Wind farms now dot the Great Plains from Texas to Minnesota. The economics are straightforward: wind is strongest where population is sparsest. Landowners receive lease payments (typically $5,000-$10,000 per turbine annually) that supplement farm income and reduce agricultural risk.
+
+Solar development has expanded into rural areas as well. Utility-scale solar farms---thousands of acres of panels---increasingly compete with agricultural use for land, particularly in the Sun Belt. The economics favor relatively poor agricultural land: if an acre generates $200 in farm income but $800 in solar lease payments, the transition is compelling. Concerns about farmland loss and community character have prompted some counties to restrict solar development.
+
+Battery storage facilities, essential for grid integration of renewable energy, add another dimension. These industrial installations in rural settings bring construction jobs, property taxes, and ongoing employment---modest but meaningful for small communities.
 
 ### Mining and Extraction
 
@@ -97,8 +109,8 @@ Since the 2008 financial crisis, metropolitan areas have captured over 90% of ne
 | Labor force participation | 57% | 63% |
 | GDP growth (2015-2024) | 1.8% annually | 2.4% annually |
 
-![Rural-urban income gap](../../_figures/ch25/ch25_income_gap.png)
-*Figure 25.1: The rural-urban income gap has widened since 2008. Metropolitan areas captured most post-recession recovery, leaving rural communities behind. Source: BEA*
+![State Per Capita Income Disparity](../../_figures/ch25/ch25_income_disparity.png)
+*Figure 25.1: Per capita income by state (2023). The highest-income states exceed the lowest by more than $40,000 per person. Source: BEA*
 
 The income gap understates the divide. Rural costs are lower, but the gap in opportunity---the availability of high-paying jobs, the chance for advancement---is wider than the income statistics suggest.
 
@@ -110,11 +122,19 @@ The result is population aging and skill depletion. Rural counties increasingly 
 
 This pattern is self-reinforcing. The absence of skilled workers deters employers; the absence of employers drives young people away. Breaking the cycle requires interventions at multiple points simultaneously.
 
+Some rural communities have had success with "grow your own" workforce strategies: scholarships requiring recipients to return home, loan forgiveness programs for professionals serving rural areas, and aggressive recruitment of hometown graduates. But these programs operate at the margins; the fundamental economic forces favor concentration.
+
+The educational pipeline presents particular challenges. Rural schools, often excellent despite limited resources, prepare students for higher education. But the higher education itself occurs in cities: state universities, community colleges, technical schools are metropolitan institutions. Once students relocate for education, the return rate is low. This geographic mismatch between where rural students grow up and where they must go to acquire marketable skills creates structural brain drain.
+
 ### Deaths of Despair
 
 Economist Anne Case and Angus Deaton documented a phenomenon concentrated in rural America: rising mortality among middle-aged white adults without college degrees, driven by suicide, drug overdose, and alcoholic liver disease.
 
 The pattern reflects economic dislocation: the loss of manufacturing and mining jobs that provided identity and income without requiring educational credentials. The opioid epidemic hit hardest in rural areas, beginning with prescription painkillers and evolving through heroin and fentanyl. Recovery is slow.
+
+The geography of despair overlaps with the geography of economic decline but isn't identical. Some struggling rural areas have avoided the worst mortality trends; some relatively prosperous areas have high rates. Social cohesion, community institutions, healthcare access, and cultural factors all matter. But the general pattern is clear: where economic hope diminishes, health outcomes worsen.
+
+Treatment resources are particularly scarce in rural areas. Addiction medicine specialists, mental health professionals, and rehabilitation facilities cluster in metropolitan areas. Rural residents may need to travel hours for treatment---if they can access it at all. Telehealth has expanded access but cannot substitute for in-person care in many cases.
 
 ## Infrastructure Gaps
 
@@ -166,6 +186,16 @@ In the most rural "noncore" counties, transfer payments (Social Security, Medica
 Federal agricultural policy flows primarily through the quinquennial Farm Bill, which combines farm subsidies, nutrition programs (SNAP), crop insurance, and conservation programs. Subsidy payments disproportionately benefit large producers of specific commodities (corn, cotton, soybeans, wheat, rice)---often corporate operations rather than family farms.
 
 The politics of the Farm Bill links rural agricultural interests with urban nutrition programs in an alliance that ensures bipartisan support. The result is durable but also resistant to reform.
+
+## The Political Economy of Rural America
+
+Rural communities punch above their weight politically. The Senate allocates two seats per state regardless of population; rural states like Wyoming (population 580,000) have the same representation as California (39 million). The Electoral College slightly favors smaller states. State legislatures often over-represent rural areas.
+
+This political power does not translate straightforwardly into economic policy favorable to rural areas. Rural voters tend conservative; conservative economic policy tends toward limited government intervention. The tension between "leave us alone" politics and "help us out" economic needs creates contradictions. Federal agricultural programs, healthcare subsidies, and infrastructure investments that rural economies depend upon sometimes conflict with the ideology of rural representatives.
+
+Immigration policy illustrates the contradiction acutely. Many rural economies---meatpacking plants, dairy farms, construction in resort towns---depend on immigrant labor, often unauthorized. Restrictive immigration enforcement threatens these labor supplies even as rural voters support such enforcement politically.
+
+The geographic sorting of American politics has intensified the divide. Rural areas vote overwhelmingly Republican; urban areas vote overwhelmingly Democratic. The cultural differences that accompany this sorting---on guns, religion, social issues---have become as salient as economic differences. Rural resentment of metropolitan elites combines economic grievance with cultural alienation.
 
 ## Success Stories
 
@@ -292,6 +322,6 @@ The employment impact is more limited. Construction provides temporary jobs; ong
 
 ---
 
-**Word count:** roughly 2,700 words
+**Word count:** roughly 4,200 words
 
 *Note: For detailed treatment of agriculture, energy, and healthcare, see the relevant sector chapters in Part II.*

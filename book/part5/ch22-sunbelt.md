@@ -6,6 +6,10 @@ In 2024, Chevron announced it was moving its corporate headquarters from the San
 
 The Sunbelt---stretching from the Carolinas through Georgia, Florida, Texas, Arizona, and Nevada---has captured the lion's share of American growth for two decades. This is not simply population movement; it represents a structural reallocation of economic activity from the Northeast and Midwest to the South and Southwest.
 
+The shift accelerated after 2020. Remote work untethered millions of knowledge workers from expensive coastal metros; lower taxes and warmer weather suddenly became accessible without career sacrifice. Corporate relocations followed, drawn by the same cost arbitrage plus the desire to locate near migrating talent. The Sunbelt absorbed the resulting influx with a mixture of triumphalism and infrastructure strain.
+
+The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents---growing from 29 million to 31.3 million. Florida added 1.9 million, growing from 21.5 million to 23.4 million. Together, these two states absorbed more population than the bottom 30 states combined. Meanwhile, New York lost 250,000 residents, Illinois lost 270,000, and California essentially flatlined despite substantial international immigration.
+
 **Growth Differentials (2023-2024)**
 
 | Region | Population Growth | GDP Growth |
@@ -13,12 +17,20 @@ The Sunbelt---stretching from the Carolinas through Georgia, Florida, Texas, Ari
 | Sunbelt states | 1.1% annually | 3.2% |
 | Non-Sunbelt | 0.1% annually | 1.8% |
 
-![Sunbelt growth](../../_figures/ch22/ch22_sunbelt_growth.png)
-*Figure 22.1: Population growth has concentrated in the Sunbelt. Texas and Florida alone account for a third of national population growth. Source: Census Bureau*
+![Sunbelt GDP Growth](../../_figures/ch22/ch22_sunbelt_gdp_growth.png)
+*Figure 22.1: Sunbelt state GDP growth since 2019, indexed to 100. All Sunbelt states have outpaced national growth, with Texas and Florida leading. Source: BEA*
 
 The South alone accounted for 87% of U.S. population growth in 2023. Texas and Florida added nearly 800,000 residents between them in a single year---equivalent to adding a city the size of Seattle.
 
 The Sunbelt's projected growth over the next decade exceeds 7%, adding roughly 11 million people. The rest of the country is projected to grow by 0.3%.
+
+### The Economic Composition
+
+The Sunbelt economy is more diverse than stereotypes suggest. Texas alone had a GDP of $2.3 trillion in 2023---larger than Italy's national economy. Florida's $1.4 trillion economy would rank as the world's 15th largest if it were a separate country. Georgia's $781 billion economy exceeds that of Switzerland.
+
+Energy remains central to Texas---the state produces 43% of U.S. crude oil and 25% of natural gas---but healthcare, technology, manufacturing, and professional services have grown to match it. Florida's economy tilts toward tourism, real estate, and financial services, but aerospace and biomedical manufacturing have gained ground. Georgia's economy balances logistics, media production, and a growing technology sector.
+
+The Sunbelt's per capita income tells a different story than total output. Texas ($67,500), Florida ($70,000), Georgia ($60,000), and Arizona ($63,000) all trail the national average of $70,000. The region's economic growth has been extensive---more people, more jobs---rather than intensive growth in productivity per worker. This creates a different economic character than the high-productivity coastal metros.
 
 ## Key Metropolitan Economies
 
@@ -37,6 +49,10 @@ When Chevron relocated its headquarters in 2024, Houston completed a decades-lon
 
 But Houston is also diversifying. The Texas Medical Center, the world's largest medical complex, employs 120,000 people across 60 institutions. The city has become a center for energy transition technologies: hydrogen production, carbon capture, and renewable project development. The same engineering talent that managed offshore drilling platforms now designs wind farms and solar installations.
 
+Houston's port complex---the nation's largest by foreign tonnage---handles 45% of U.S. petrochemical exports and serves as the gateway for goods bound for Mexico. The ship channel's ongoing widening project, when completed in 2026, will allow post-Panamax vessels to access the port directly, reducing transshipment costs.
+
+The city's sprawl is legendary---the metropolitan area covers 10,000 square miles, larger than New Jersey---but this sprawl enables affordable housing that coastal metros cannot match. A median home price of $340,000 in 2024, while substantially higher than pre-pandemic levels, remains far below comparable coastal markets.
+
 ### Dallas-Fort Worth: The Boardroom of the South
 
 If Houston is the energy capital, Dallas is the corporate capital. The metropolitan area hosts more than 20 Fortune 500 headquarters, ranging from AT&T and American Airlines to Texas Instruments and Kimberly-Clark.
@@ -49,6 +65,10 @@ If Houston is the energy capital, Dallas is the corporate capital. The metropoli
 Dallas has positioned itself as the low-regulation, low-tax alternative to New York for corporate headquarters. When Charles Schwab moved from San Francisco, when Caterpillar left Illinois, when Toyota relocated from California---they chose Dallas. The city offers executive-friendly costs, a central time zone, and the nation's most connected hub airport (DFW).
 
 The financial services sector has grown particularly rapidly. Schwab, Fidelity, and multiple regional banks have expanded Texas operations, creating a secondary financial hub that competes with Charlotte.
+
+Dallas's logistics infrastructure supports its corporate economy. DFW Airport handles more domestic passengers than any hub except Atlanta; American Airlines' fortress hub enables same-day business travel to nearly anywhere in the country. The extensive freight rail network---including the massive Alliance Global Logistics Hub in north Fort Worth---makes Dallas a natural distribution center for goods flowing from Pacific ports to eastern markets.
+
+The metroplex's corporate tax base creates a different fiscal dynamic than most Texas metros. Property taxes fund schools and local governments, but the concentration of corporate headquarters generates substantial franchise taxes at the state level. The result is relatively well-funded infrastructure and education by Texas standards.
 
 ### Austin: Silicon Hills Under Strain
 
@@ -63,6 +83,10 @@ But Austin is also a cautionary tale about the limits of growth without infrastr
 
 The question facing Austin is whether it can mature into a genuine first-tier technology center or whether infrastructure constraints will cap its potential.
 
+The University of Texas at Austin provides a continuous pipeline of engineering talent; Samsung's Austin semiconductor fab and Applied Materials' major presence reflect the region's strength in hardware. But Austin lacks the deep venture capital ecosystem of the Bay Area and Boston---most Austin startups ultimately raise money from coastal investors.
+
+The music and creative culture that made Austin famous increasingly feels like a residual brand rather than a living reality. Rising rents have displaced the small venues that incubated musicians; tech workers have priced out artists. The "Live Music Capital of the World" slogan rings hollow to many longtime residents watching the transformation.
+
 ### Miami: Wall Street South
 
 Miami's reinvention as a financial center has been remarkably rapid. When Citadel, the hedge fund managing $60 billion in assets, relocated from Chicago to Miami in 2022, it signaled that the city had arrived as a serious destination for elite finance.
@@ -75,6 +99,10 @@ Miami's reinvention as a financial center has been remarkably rapid. When Citade
 Miami has always been the gateway to Latin America---half of U.S. trade with South America flows through its ports and airport. But the pandemic-era migration of wealthy New Yorkers and financial professionals has created something new: a concentration of hedge funds, family offices, and wealth management firms that rivals Greenwich, Connecticut.
 
 The city's lack of state income tax, combined with its climate and cultural amenities, has made it particularly attractive to high-net-worth individuals. Critics argue that Miami is building a "wealth management economy" rather than a diversified metropolitan base---but for now, the formula is working.
+
+Miami also faces unique climate vulnerabilities. Sea level rise threatens low-lying neighborhoods; hurricane risk requires expensive insurance; saltwater intrusion endangers the aquifer that supplies drinking water. The real estate boom has proceeded despite these risks, but climate insurance costs are rising rapidly, and some areas may become effectively uninsurable.
+
+The city's role as the gateway to Latin America continues to drive trade and banking. Miami International Airport handles more international freight than any U.S. airport except JFK; Brightline's high-speed rail connection to Orlando (completed in 2023) has enhanced intercity connectivity within Florida.
 
 ### Atlanta: The Logistics and Media Hub
 
@@ -91,6 +119,10 @@ The media transformation has been equally striking. Georgia's generous film tax 
 
 Georgia Tech's "Tech Square" innovation district is attempting to replicate what MIT's Kendall Square did for Boston: create a dense cluster of research, startups, and corporate R&D that generates knowledge spillovers.
 
+Atlanta's large Black middle class distinguishes it demographically from other Sunbelt metros. Historically Black colleges and universities---Morehouse, Spelman, Clark Atlanta---anchor a distinctive educational ecosystem. Corporate headquarters like Coca-Cola, Home Depot, and Delta Air Lines have made diversity commitments that shape hiring patterns. The result is a metropolitan economy that looks different from Houston or Phoenix in racial composition and economic opportunity distribution.
+
+The region's rapid suburban growth has created governance challenges. The 10-county metropolitan area spans multiple school districts, transit authorities, and municipal governments with competing priorities. MARTA, the regional transit system, operates primarily within Fulton and DeKalb counties; suburban counties have resisted expansion, limiting connectivity.
+
 ### Phoenix: Silicon Desert
 
 Phoenix has emerged as the epicenter of America's semiconductor reshoring effort. TSMC's Arizona fabs represent $65 billion in investment---the largest foreign direct investment in American history. Intel is expanding its facilities. The CHIPS Act has directed billions more toward Arizona projects.
@@ -103,6 +135,10 @@ Phoenix has emerged as the epicenter of America's semiconductor reshoring effort
 Phoenix also serves as a massive retirement and healthcare destination. The population skews older than other Sunbelt metros; healthcare systems are among the largest employers.
 
 The city's water constraints present an existential challenge. The Colorado River, which supplies Phoenix, is in crisis. Groundwater depletion in suburban developments has led to construction moratoriums. The long-term viability of continued growth depends on solving the water problem.
+
+The semiconductor investments create both opportunity and risk. TSMC's fabs require enormous quantities of ultra-pure water---roughly 10 million gallons per day per fab. Arizona has worked to secure water rights and recycling infrastructure, but the fundamental tension between industrial water demand and a drought-stressed region remains unresolved.
+
+Phoenix's housing market experienced one of the most extreme boom-bust-recovery cycles of the 2020s. Home prices roughly doubled between 2019 and 2022, then declined 15% as rising interest rates cooled demand. By 2024, prices had stabilized but remained unaffordable for many workers at the new semiconductor facilities.
 
 ### Charlotte: Banking Center
 
@@ -147,7 +183,13 @@ Beyond taxes, Sunbelt states offer lighter regulation, faster permitting, and "r
 
 ## Infrastructure Challenges
 
-The Sunbelt's growth has outpaced its infrastructure investment, creating vulnerabilities that threaten the growth model.
+The Sunbelt's growth has outpaced its infrastructure investment, creating vulnerabilities that threaten the growth model. The region's low-tax philosophy generates less revenue per capita for infrastructure; the rapid growth strains existing systems; and the car-dependent development pattern requires expensive highway expansion rather than more efficient transit alternatives.
+
+### Climate and Extreme Weather
+
+Climate change creates asymmetric risks across the Sunbelt. Texas faces both freezing events (like February 2021) and intensifying heat waves. Florida confronts accelerating sea level rise, hurricane intensification, and flooding that already affects inland communities. Arizona and Nevada experience extreme heat that makes outdoor work dangerous and strains electrical systems during peak demand.
+
+Insurance markets have begun to price these risks. Florida's property insurance market has entered crisis: major carriers have withdrawn, Citizens (the state insurer of last resort) has grown to 1.3 million policies, and premiums have tripled in five years. Similar dynamics are emerging in coastal Texas and Louisiana. The long-term growth model assumes continued migration, but climate costs may eventually discourage it.
 
 ### Water Scarcity
 
@@ -170,6 +212,24 @@ The grid is improving---new generation is being added, weatherization requiremen
 Sunbelt cities were built for automobiles. Austin and Nashville grew into major metros with small-town road networks and virtually no mass transit. The result is congestion that rivals or exceeds coastal cities, without the transit alternatives that allow workers to bypass highways.
 
 Houston and Dallas have invested in light rail systems, but these serve a fraction of travel needs. The Sunbelt's suburban form makes transit inherently difficult: low density means few riders per station, making service economically marginal.
+
+Florida's Brightline represents an exception: privately financed intercity passenger rail connecting Miami, Fort Lauderdale, West Palm Beach, and (since 2023) Orlando. The service has exceeded ridership expectations, suggesting demand for alternatives to highway travel. Extensions to Tampa and potentially Jacksonville are under consideration.
+
+## Labor and Workforce
+
+The Sunbelt's rapid growth creates persistent labor shortages across multiple sectors. Construction workers, healthcare professionals, and skilled tradespeople command premium wages. The 2024 unemployment rates---3.5% in Texas, 3.1% in Florida, 3.3% in Georgia---indicate tight labor markets despite substantial in-migration.
+
+### The Education Pipeline
+
+Sunbelt states vary dramatically in educational attainment. Texas has invested heavily in its flagship universities (UT-Austin, Texas A&M) and community college system, producing engineering and technical graduates at scale. Florida's state university system, led by the University of Florida and Florida State, has grown substantially. Georgia Tech ranks among the nation's top engineering schools.
+
+But K-12 education presents challenges. Teacher pay in Texas, Florida, and Georgia lags national averages; public school funding in low-tax states constrains resources. The result is a workforce pipeline that produces adequate quantities but sometimes struggles with quality. Companies relocating to the Sunbelt often import management talent from higher-cost regions while hiring operational staff locally.
+
+### Immigration
+
+The Sunbelt economy depends heavily on immigrant labor. Texas employs roughly 2 million unauthorized workers; Florida employs over 800,000. These workers concentrate in construction, agriculture, hospitality, and food processing---precisely the sectors where labor shortages are most acute.
+
+The political tension is obvious: state governments pursue restrictive immigration policies while their economies depend on immigrant labor. The construction boom funding new semiconductor plants and battery factories requires workers that domestic labor markets cannot fully supply.
 
 ## The Battery Belt
 
@@ -264,6 +324,6 @@ When fully operational, the plant will be one of the largest manufacturing facil
 
 ---
 
-**Word count:** roughly 2,800 words
+**Word count:** roughly 4,600 words
 
 *Note: For industry-specific analysis of energy, manufacturing, and technology, see the relevant chapters in Part II.*
