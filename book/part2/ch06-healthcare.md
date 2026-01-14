@@ -92,6 +92,11 @@ Patients pay directly for some services---deductibles, copays, services not cove
 
 Other payers include the Veterans Administration, workers' compensation, charitable care, and other government programs.
 
+<figure>
+<img src="../_figures/ch06/ch06_payment_flow.png" alt="Healthcare payment flows" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 6.4: Healthcare payment flows: who pays whom. Money flows from employers and households through insurers (private, Medicare, Medicaid) to providers (hospitals, physicians, pharmacies). The complexity of these flows drives significant administrative costs. Source: CMS NHE</figcaption>
+</figure>
+
 ### Cost Structure: Where Does the Money Go?
 
 Healthcare providers face several major cost categories:

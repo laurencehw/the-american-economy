@@ -163,6 +163,11 @@ Asset management has been transformed by the shift from active to passive (index
 
 The "Big Three" (BlackRock, Vanguard, State Street) collectively manage roughly $23 trillion and are the largest shareholders in most S&P 500 companies. This concentration raises governance questions: these firms vote the shares they manage, giving them enormous influence over corporate decisions.
 
+<figure>
+<img src="../_figures/ch08/ch08_asset_managers.png" alt="Top asset managers by AUM" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 8.4: Largest U.S. asset managers by assets under management. BlackRock and Vanguard together manage nearly $20 trillion—more than the GDP of every country except the U.S. and China. Source: Company reports, Pensions & Investments (2024)</figcaption>
+</figure>
+
 **Alternative asset managers** (private equity, hedge funds, real estate):
 
 | Rank | Firm | AUM | Primary Strategy |
