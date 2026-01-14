@@ -18,6 +18,11 @@ This geographic concentration matters enormously for policy, politics, and indiv
 
 California's economy exceeds that of India or the United Kingdom. It would rank among the world's five largest countries. Texas has grown rapidly, riding oil production and business-friendly policies to become America's second-largest economy. New York punches above its population weight, reflecting the concentration of finance, media, and professional services in Manhattan.
 
+<figure>
+<img src="../_figures/ch03/ch03_state_gdp.png" alt="State GDP choropleth" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 3.0: State GDP (2023). California dominates at nearly $4 trillion, followed by Texas and New York. The top five states produce half of national output. Source: BEA Regional GDP</figcaption>
+</figure>
+
 ### The Productivity Divide
 
 GDP per capita varies enormously across states:
