@@ -63,11 +63,10 @@ Several patterns stand out:
 <figcaption>Figure 1.1: GDP composition by industry. Professional services, real estate, and government together account for more than a third of U.S. economic output. Source: BEA (2023)</figcaption>
 </figure>
 
-{% hint style="info" %}
-**Interactive Version:** Explore the GDP treemap below. Hover over sectors for details, use the dropdown to switch between GDP value, share, employment, and productivity views.
-{% endhint %}
-
-<iframe src="https://laurencehw.github.io/the-american-economy/book/_interactive/gdp-treemap.html" width="100%" height="750" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
+<figure>
+<img src="../_figures/ch01/ch01_gdp_treemap.png" alt="GDP composition by industry" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 1.1: U.S. GDP composition by industry (2023). Services dominate, with professional services, real estate, and government each exceeding manufacturing. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/gdp-treemap.html" target="_blank">View interactive version</a>. Source: BEA</figcaption>
+</figure>
 
 **Services dominate.** The goods-producing sectors---manufacturing, construction, mining, agriculture---together account for less than 20% of GDP. The remaining 80%+ comes from services: professional services, healthcare, finance, retail, government, real estate. This is sometimes called the "post-industrial" economy, though it's more accurate to say we've shifted what we produce rather than stopped producing.
 
@@ -114,14 +113,8 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 <figure>
 <img src="../_figures/ch01/ch01_employment_bar.png" alt="Employment by sector" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 1.2: Employment by sector. Education and healthcare employ the most Americans, followed by government and professional services. Source: BLS CES (2023)</figcaption>
+<figcaption>Figure 1.2: Employment by sector. Education and healthcare employ the most Americans, followed by government and professional services. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/employment-chart.html" target="_blank">View interactive version</a>. Source: BLS CES (2023)</figcaption>
 </figure>
-
-{% hint style="info" %}
-**Interactive Version:** Use the chart below to sort by different metrics, compare GDP vs employment shares, and visualize the productivity gap between sectors.
-{% endhint %}
-
-<iframe src="https://laurencehw.github.io/the-american-economy/book/_interactive/employment-chart.html" width="100%" height="850" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
 
 ### The GDP-Employment Gap
 

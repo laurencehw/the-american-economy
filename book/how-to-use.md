@@ -62,10 +62,8 @@ Throughout this book, you'll find interactive visualizations that let you explor
 - **Data Explorer**: A full dashboard for comparing any sectors across all metrics
 
 {% hint style="success" %}
-**Data Explorer Dashboard:** For comprehensive sector comparisons and custom analysis, use our interactive data explorer:
+**Data Explorer Dashboard:** For comprehensive sector comparisons and custom analysis, use our [interactive data explorer](https://laurencehw.github.io/the-american-economy/book/_interactive/data-explorer.html).
 {% endhint %}
-
-<iframe src="https://laurencehw.github.io/the-american-economy/book/_interactive/data-explorer.html" width="100%" height="700" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
 
 ## Technical Appendices
 
