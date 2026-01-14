@@ -24,6 +24,8 @@ This book attempts to fill that gap. It draws on the tradition of regional econo
 
 **Part VI** examines the institutional landscape: federal economic governance, trade associations and business lobbying, and labor organizations.
 
+**Part VII** concludes with a synthesis: what makes the American economy distinctive, how shocks propagate through the system, and the tensions that will shape its future.
+
 ## Who This Book Is For
 
 This book is written for a mixed audience:
@@ -43,4 +45,6 @@ Where possible, I've tried to use the most recent available data, but economic s
 
 ## Acknowledgments
 
-[To be added]
+This book was written with substantial assistance from Claude, an AI assistant developed by Anthropic. Claude helped with research, drafting, data analysis, figure generation, and editing across all chapters. The author directed the overall structure, made editorial judgments, and takes responsibility for the final content. All factual claims should be verified against the primary sources cited throughout the text.
+
+The interactive visualizations were built using Plotly.js. Figures were generated using Python with matplotlib, seaborn, and plotnine. Data comes from public sources including the Bureau of Economic Analysis, Bureau of Labor Statistics, Federal Reserve, and Census Bureau.

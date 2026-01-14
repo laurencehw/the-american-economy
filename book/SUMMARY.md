@@ -49,10 +49,10 @@
 * [27. Trade Associations and Business Organization](part6/ch27-trade-associations.md)
 * [28. Labor Organizations](part6/ch28-labor.md)
 
-## Conclusion
+## Part VII: Conclusion
 
-* [29. The American Economy in Perspective](conclusion/ch29-perspective.md)
-* [30. How Shocks Move Through the Economy](conclusion/ch30-shock-transmission.md)
+* [29. The American Economy in Perspective](part7/ch29-perspective.md)
+* [30. How Shocks Move Through the Economy](part7/ch30-shock-transmission.md)
 
 ## Appendices
 
