@@ -6,7 +6,7 @@ The American West---the Pacific Coast states plus the Mountain West---represents
 
 ## California: The Colossus
 
-<img src="../_figures/ch24/ch24_west_gdp.png" alt="Western State Economies" width="100%">
+![Western State Economies](../_figures/ch24/ch24_west_gdp.png)
 *Figure 24.1: GDP of Western states (2023). California dominates, producing more than all other Western states combined. Source: BEA*
 
 California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds the entire output of the United Kingdom. The state leads the nation in manufacturing (by value), agriculture, entertainment, and technology. One in eight Americans lives in California; one in seven dollars of American output is produced there.

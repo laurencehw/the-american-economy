@@ -14,7 +14,7 @@ Union membership has declined for decades, from roughly 35% of private-sector wo
 | 2000 | 13.4% | 9.0% | 37.5% |
 | 2024 | 9.9% | 5.9% | 32.2% |
 
-<img src="../_figures/ch28/ch28_union_membership.png" alt="Union membership over time" width="100%">
+![Union membership over time](../_figures/ch28/ch28_union_membership.png)
 *Figure 28.1: Union membership has declined from 35% to under 10% since the 1950s. Public-sector unions have maintained strength while private-sector membership has collapsed. Source: BLS*
 
 The divergence between sectors tells the story. Public-sector workers---teachers, firefighters, government employees---maintain union representation at six times the private-sector rate. Private-sector decline reflects deindustrialization, employer resistance, and legal changes that have made organizing increasingly difficult.

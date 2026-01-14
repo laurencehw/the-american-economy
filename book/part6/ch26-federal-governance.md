@@ -56,7 +56,7 @@ Beyond the policy-making core, a constellation of regulatory agencies shapes eco
 
 ### Financial Regulators
 
-<img src="../_figures/ch26/ch26_agency_budgets.png" alt="Regulatory agency budgets" width="100%">
+![Regulatory agency budgets](../_figures/ch26/ch26_agency_budgets.png)
 *Figure 26.1: Key financial regulatory agency budgets. The FDIC, funded by bank premiums, dwarfs the SEC and other agencies that rely on congressional appropriations. Source: Agency budget documents*
 
 **Key Financial Regulatory Agencies (2025)**

@@ -21,7 +21,7 @@ Population tells the story of transition. Illinois has declined from 12.8 millio
 | Minnesota | $440 billion | 12% | Growing |
 | Wisconsin | $400 billion | 18% | Stable |
 
-<img src="../_figures/ch23/ch23_midwest_unemployment.png" alt="Midwest Unemployment Trends" width="100%">
+![Midwest Unemployment Trends](../_figures/ch23/ch23_midwest_unemployment.png)
 *Figure 23.1: Midwest state unemployment rates have converged post-pandemic. The regional labor market remains tight despite manufacturing automation. Source: BLS*
 
 The region's challenge is structural: manufacturing output grows through automation while manufacturing employment shrinks. Ohio ranks third nationally in manufacturing jobs (687,000), but that figure has fallen by half since 1979.

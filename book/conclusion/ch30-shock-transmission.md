@@ -65,7 +65,7 @@ Shocks unfold over multiple time horizons:
 **Interactive Version:** Explore how economic shocks propagate through the economy. Select different shocks (Oil, Housing, China, Rates) to see their transmission channels, cascade effects, and regional impacts.
 {% endhint %}
 
-<iframe src="https://raw.githack.com/laurencehw/the-american-economy/main/book/_interactive/shock-propagation.html" width="100%" height="1100" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
+<iframe src="../_interactive/shock-propagation.html" width="100%" height="1100" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
 
 The oil price collapse of 2014-2016 illustrates every transmission channel in action. Tracing it in detail shows how the economy's structure shapes shock propagation.
 

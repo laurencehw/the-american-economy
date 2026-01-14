@@ -67,7 +67,7 @@ State and local governments are generally required to balance their operating bu
 | Non-defense discretionary | $800B | 12% | Education, transportation, R&D, etc. |
 | Other | $550B | 8% | |
 
-<img src="../_figures/ch04/ch04_spending_treemap.png" alt="Federal spending by function" width="100%">
+![Federal spending by function](../_figures/ch04/ch04_spending_treemap.png)
 *Figure 4.1: Federal spending by function. Mandatory spending (Social Security, Medicare, Medicaid) dominates, while discretionary spending is squeezed. Source: OMB Budget (FY 2024)*
 
 The critical distinction: **mandatory spending** (Social Security, Medicare, Medicaid, interest) happens automatically based on eligibility laws. **Discretionary spending** requires annual appropriations. Mandatory spending is roughly 70% of the budget and growing; discretionary is roughly 30% and squeezed.
@@ -143,7 +143,7 @@ State employment is dominated by higher education---public university faculty, s
 
 Local government employment is dominated by schools: teachers, administrators, and support staff account for over half of all local government workers.
 
-<img src="../_figures/ch04/ch04_govt_employment_level.png" alt="Government employment by level" width="100%">
+![Government employment by level](../_figures/ch04/ch04_govt_employment_level.png)
 *Figure 4.2: Government employment by level. Local governments employ far more workers than federal or state, with education dominating local payrolls. Source: BLS CES (2023)*
 
 ### Government as Purchaser
@@ -174,7 +174,7 @@ Federal procurement is governed by the Federal Acquisition Regulation (FAR), a d
 | 9 | BAE Systems | $7B | Vehicles, electronics |
 | 10 | Deloitte | $5B | Consulting, IT |
 
-<img src="../_figures/ch04/ch04_top_contractors.png" alt="Top federal contractors" width="100%">
+![Top federal contractors](../_figures/ch04/ch04_top_contractors.png)
 *Figure 4.3: Top 10 federal contractors by contract value. Defense dominates federal procurement, with Lockheed Martin alone receiving $75 billion annually. Source: USASpending.gov (FY 2023)*
 
 The defense industrial base is concentrated: five companies (Lockheed, RTX, General Dynamics, Boeing, Northrop) receive over half of defense contract dollars. Consolidation since the 1990s reduced the number of prime contractors from dozens to a handful.
@@ -212,7 +212,7 @@ Federal civilian employment is concentrated in several clusters:
 
 States with military bases, federal lands, or proximity to DC have high federal employment; Midwest manufacturing states have low federal presence.
 
-<img src="../_figures/ch04/ch04_federal_employment_map.png" alt="Federal employment by state" width="100%">
+![Federal employment by state](../_figures/ch04/ch04_federal_employment_map.png)
 *Figure 4.4: Federal civilian employment by state. The Washington, DC metro dominates, with additional concentrations around military bases and federal lands. Source: OPM (2023)*
 
 ### State and Local Employment Geography
