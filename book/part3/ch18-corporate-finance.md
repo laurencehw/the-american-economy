@@ -18,8 +18,10 @@ The Federal Reserve's Financial Accounts (Z.1) reveal the true picture of corpor
 | Net debt issuance | $0.9 trillion | 24% |
 | Net equity issuance | -$0.8 trillion | Negative |
 
-![Corporate financing sources](../_figures/ch18/ch18_corp_financing.png)
-*Figure 18.1: How corporations finance investment. Internal funds dominate; net equity issuance is negative as buybacks exceed new issues. Source: Federal Reserve Z.1*
+<figure>
+<img src="../_figures/ch18/ch18_corp_financing.png" alt="Corporate financing sources" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 18.1: How corporations finance investment. Internal funds dominate; net equity issuance is negative as buybacks exceed new issues. Source: Federal Reserve Z.1</figcaption>
+</figure>
 
 The negative equity figure means corporations bought back more stock than they issued—a pattern that has persisted for most of the past two decades. American corporations are not tapping equity markets for expansion capital; they're returning equity capital to shareholders.
 
@@ -124,8 +126,10 @@ Mergers and acquisitions represent the highest-profile activity in corporate fin
 | Financial sponsors (other) | 10% | Infrastructure, real assets |
 | SPAC/de-SPAC | 5% | Down from 20%+ in 2021 |
 
-![M&A activity over time](../_figures/ch18/ch18_ma_activity.png)
-*Figure 18.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv*
+<figure>
+<img src="../_figures/ch18/ch18_ma_activity.png" alt="M&A activity over time" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 18.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv</figcaption>
+</figure>
 
 **The Largest Deals (Recent History):**
 

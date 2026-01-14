@@ -19,8 +19,10 @@ The six states that comprise the corridor's core---Massachusetts, Connecticut, N
 | Boston-Cambridge | $641 billion | 4.9 million | Biotech and higher education |
 | Philadelphia | $558 billion | 6.2 million | Healthcare, logistics, pharma |
 
-![Northeast Corridor Metro Economies](../_figures/ch21/ch21_northeast_metros.png)
-*Figure 21.1: GDP of Northeast Corridor metros (2023). New York dominates at $2.3 trillion, but the combined corridor economy exceeds $4 trillion. Source: BEA*
+<figure>
+<img src="../_figures/ch21/ch21_northeast_metros.png" alt="Northeast Corridor Metro Economies" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 21.1: GDP of Northeast Corridor metros (2023). New York dominates at $2.3 trillion, but the combined corridor economy exceeds $4 trillion. Source: BEA</figcaption>
+</figure>
 
 {% hint style="info" %}
 **Interactive Map:** Explore America's top 20 metro economies below. Click markers for details, filter by region, and compare metros by GDP, population, or GDP per capita.

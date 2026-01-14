@@ -35,8 +35,10 @@ Electricity is unique among commodities: it cannot be economically stored at sca
 | Solar | 6% | Growing very rapidly |
 | Hydro | 6% | Stable |
 
-![Electricity generation mix](../_figures/ch14/ch14_generation_mix.png)
-*Figure 14.1: U.S. electricity generation by source. Natural gas has replaced coal as the dominant fuel, while wind and solar have grown rapidly. Source: EIA (2024)*
+<figure>
+<img src="../_figures/ch14/ch14_generation_mix.png" alt="Electricity generation mix" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 14.1: U.S. electricity generation by source. Natural gas has replaced coal as the dominant fuel, while wind and solar have grown rapidly. Source: EIA (2024)</figcaption>
+</figure>
 
 The generation mix has transformed in 15 years. In 2008, coal provided 48% of US electricity; natural gas 21%. The shale revolution made gas cheap; environmental regulation made coal expensive. Coal's share has fallen by two-thirds.
 
@@ -231,8 +233,10 @@ NextEra is the dominant player, having built more wind and solar than any other 
 
 America's energy geography creates a fundamental divide between **producing states** and **consuming states**:
 
-![Energy production basins map](../_figures/ch14/ch14_energy_basins_map.png)
-*Figure 14.2: Major energy production regions. The Permian Basin (oil) and Appalachian Basin (natural gas) dominate U.S. production. Source: EIA*
+<figure>
+<img src="../_figures/ch14/ch14_energy_basins_map.png" alt="Energy production basins map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 14.2: Major energy production regions. The Permian Basin (oil) and Appalachian Basin (natural gas) dominate U.S. production. Source: EIA</figcaption>
+</figure>
 
 **Top Oil Producing States** (million bbl/day):
 1. Texas: 5.5
@@ -404,8 +408,10 @@ Energy prices fluctuate more dramatically than prices in most sectors, and these
 
 ### The 2014-2016 Oil Shock
 
-![Oil price collapse](../_figures/shock_analysis/oil_price_collapse.png)
-*Figure 14.3: Brent crude oil collapsed from $115/barrel in June 2014 to $28/barrel in January 2016—a 76% decline in 19 months. Source: FRED*
+<figure>
+<img src="../_figures/shock_analysis/oil_price_collapse.png" alt="Oil price collapse" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 14.3: Brent crude oil collapsed from $115/barrel in June 2014 to $28/barrel in January 2016—a 76% decline in 19 months. Source: FRED</figcaption>
+</figure>
 
 Brent crude oil traded above $100/barrel from early 2011 through mid-2014, supporting unprecedented investment in American shale production. The Permian Basin, Bakken, and Eagle Ford boomed. Oil-field services companies expanded aggressively. Workers flooded into West Texas, North Dakota, and South Texas, accepting harsh conditions for wages that could exceed $100,000 annually.
 
@@ -420,8 +426,10 @@ The immediate impact devastated oil-dependent industries:
 - **Capital investment froze**: Exploration and development spending fell by more than half
 - **Bankruptcies surged**: Over 100 North American oil and gas producers filed for bankruptcy in 2015-2016
 
-![Oil shock and energy state unemployment](../_figures/shock_analysis/oil_shock_unemployment.png)
-*Figure 14.4: Unemployment in oil-producing states spiked during the 2014-2016 oil shock. Texas unemployment rose modestly given its diversified economy; North Dakota unemployment tripled. Source: BLS*
+<figure>
+<img src="../_figures/shock_analysis/oil_shock_unemployment.png" alt="Oil shock and energy state unemployment" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 14.4: Unemployment in oil-producing states spiked during the 2014-2016 oil shock. Texas unemployment rose modestly given its diversified economy; North Dakota unemployment tripled. Source: BLS</figcaption>
+</figure>
 
 **Geographic Concentration**
 

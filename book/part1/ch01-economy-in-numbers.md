@@ -58,8 +58,10 @@ Where does $27 trillion come from? The answer may surprise you: the largest indu
 
 Several patterns stand out:
 
-![GDP composition by industry](../_figures/ch01/ch01_gdp_treemap.png)
-*Figure 1.1: GDP composition by industry. Professional services, real estate, and government together account for more than a third of U.S. economic output. Source: BEA (2023)*
+<figure>
+<img src="../_figures/ch01/ch01_gdp_treemap.png" alt="GDP composition by industry" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 1.1: GDP composition by industry. Professional services, real estate, and government together account for more than a third of U.S. economic output. Source: BEA (2023)</figcaption>
+</figure>
 
 {% hint style="info" %}
 **Interactive Version:** Explore the GDP treemap below. Hover over sectors for details, use the dropdown to switch between GDP value, share, employment, and productivity views.
@@ -110,8 +112,10 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 | Information | 2.9 million | 2% |
 | Mining & Utilities | 1.2 million | 1% |
 
-![Employment by sector](../_figures/ch01/ch01_employment_bar.png)
-*Figure 1.2: Employment by sector. Education and healthcare employ the most Americans, followed by government and professional services. Source: BLS CES (2023)*
+<figure>
+<img src="../_figures/ch01/ch01_employment_bar.png" alt="Employment by sector" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 1.2: Employment by sector. Education and healthcare employ the most Americans, followed by government and professional services. Source: BLS CES (2023)</figcaption>
+</figure>
 
 {% hint style="info" %}
 **Interactive Version:** Use the chart below to sort by different metrics, compare GDP vs employment shares, and visualize the productivity gap between sectors.
@@ -131,8 +135,10 @@ Compare these rankings with GDP share, and you'll notice striking divergences:
 
 **Information/tech** shows the reverse: 2% of employment but 6% of GDP. Tech workers are among the most productive (and highly paid) in the economy.
 
-![GDP share vs employment share by sector](../_figures/ch01/ch01_gdp_vs_employment.png)
-*Figure 1.3: The GDP-employment gap by sector. Manufacturing and tech produce far more output per worker than healthcare or leisure services. This divergence drives wage inequality and shapes automation's impact. Source: BEA, BLS (2023)*
+<figure>
+<img src="../_figures/ch01/ch01_gdp_vs_employment.png" alt="GDP share vs employment share by sector" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 1.3: The GDP-employment gap by sector. Manufacturing and tech produce far more output per worker than healthcare or leisure services. This divergence drives wage inequality and shapes automation's impact. Source: BEA, BLS (2023)</figcaption>
+</figure>
 
 These gaps explain much about wage inequality, regional divergence, and the political economy of trade and automation. Industries that can substitute capital for labor tend to have rising productivity, higher wages, and falling employment shares. Industries that can't---healthcare, education, personal services---absorb more workers but face persistent cost pressures.
 

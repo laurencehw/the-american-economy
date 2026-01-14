@@ -35,11 +35,15 @@ The healthcare sector divides into several distinct segments, each with its own 
 
 Source: CMS National Health Expenditure Accounts
 
-![Healthcare spending by category](../_figures/ch06/ch06_spending_treemap.png)
-*Figure 6.1: Healthcare spending by category. Hospital care dominates, followed by physician services and prescription drugs. Source: CMS NHE (2022)*
+<figure>
+<img src="../_figures/ch06/ch06_spending_treemap.png" alt="Healthcare spending by category" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 6.1: Healthcare spending by category. Hospital care dominates, followed by physician services and prescription drugs. Source: CMS NHE (2022)</figcaption>
+</figure>
 
-![Healthcare spending over time](../_figures/ch06/ch06_spending_over_time.png)
-*Figure 6.2: Healthcare spending as share of GDP, 1960-2023. Healthcare has grown from 5% to nearly 18% of the economy over six decades. Source: CMS NHE*
+<figure>
+<img src="../_figures/ch06/ch06_spending_over_time.png" alt="Healthcare spending over time" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 6.2: Healthcare spending as share of GDP, 1960-2023. Healthcare has grown from 5% to nearly 18% of the economy over six decades. Source: CMS NHE</figcaption>
+</figure>
 
 ## How the Industry Works
 
@@ -75,8 +79,10 @@ Patients pay directly for some services---deductibles, copays, services not cove
 
 **5. Other (21%)**
 
-![Healthcare payer mix](../_figures/ch06/ch06_payer_mix.png)
-*Figure 6.3: Who pays for healthcare. Private insurance, Medicare, and Medicaid each cover roughly 20-30% of spending, with out-of-pocket and other sources making up the rest. Source: CMS NHE (2022)*
+<figure>
+<img src="../_figures/ch06/ch06_payer_mix.png" alt="Healthcare payer mix" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 6.3: Who pays for healthcare. Private insurance, Medicare, and Medicaid each cover roughly 20-30% of spending, with out-of-pocket and other sources making up the rest. Source: CMS NHE (2022)</figcaption>
+</figure>
 
 Other payers include the Veterans Administration, workers' compensation, charitable care, and other government programs.
 

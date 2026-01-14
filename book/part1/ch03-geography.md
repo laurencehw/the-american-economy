@@ -54,8 +54,10 @@ Broad regions show distinct economic characters:
 
 **The Mountain West**: Low population density, resource extraction (mining, energy), tourism, and increasingly remote workers fleeing coastal costs. Colorado and Utah have diversified; Wyoming and Montana remain resource-dependent.
 
-![Regional economic dominance by state](../_figures/ch03/ch03_regional_dominance_map.png)
-*Figure 3.1: The dominant economic sector varies across states. Coastal states rely heavily on professional services and finance, while interior states depend more on manufacturing, energy, or government. Source: BEA (2023)*
+<figure>
+<img src="../_figures/ch03/ch03_regional_dominance_map.png" alt="Regional economic dominance by state" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 3.1: The dominant economic sector varies across states. Coastal states rely heavily on professional services and finance, while interior states depend more on manufacturing, energy, or government. Source: BEA (2023)</figcaption>
+</figure>
 
 ## Metropolitan Dominance
 
@@ -78,11 +80,15 @@ The concentration is even more extreme at the top:
 
 The top eight metros produce nearly $8 trillion---about 30% of GDP. Add the next dozen, and you've accounted for half the economy.
 
-![Top metros by GDP](../_figures/ch03/ch03_top_metros_gdp.png)
-*Figure 3.2: The top 20 metropolitan areas by GDP. New York alone produces more than most countries. Source: BEA Metropolitan GDP (2023)*
+<figure>
+<img src="../_figures/ch03/ch03_top_metros_gdp.png" alt="Top metros by GDP" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 3.2: The top 20 metropolitan areas by GDP. New York alone produces more than most countries. Source: BEA Metropolitan GDP (2023)</figcaption>
+</figure>
 
-![Metro employment density](../_figures/ch03/ch03_metro_job_density.png)
-*Figure 3.3: Job concentration in major metros. Bubble size represents total employment. Economic activity clusters intensely in a handful of urban centers. Source: BLS QCEW (2023)*
+<figure>
+<img src="../_figures/ch03/ch03_metro_job_density.png" alt="Metro employment density" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 3.3: Job concentration in major metros. Bubble size represents total employment. Economic activity clusters intensely in a handful of urban centers. Source: BLS QCEW (2023)</figcaption>
+</figure>
 
 ### Why Cities?
 
@@ -177,8 +183,10 @@ Rural America---roughly 20% of the population spread across 97% of the land---fa
 
 **Service deserts**: As population thins, services consolidate. Hospitals close. Schools consolidate. Main streets empty.
 
-![Urban vs rural employment](../_figures/ch03/ch03_urban_rural_employment.png)
-*Figure 3.4: The urban-rural divide in employment. Urban areas have diversified economies; rural areas depend more heavily on agriculture, mining, and government. Source: BLS (2023)*
+<figure>
+<img src="../_figures/ch03/ch03_urban_rural_employment.png" alt="Urban vs rural employment" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 3.4: The urban-rural divide in employment. Urban areas have diversified economies; rural areas depend more heavily on agriculture, mining, and government. Source: BLS (2023)</figcaption>
+</figure>
 
 Yet rural America is not monolithic:
 

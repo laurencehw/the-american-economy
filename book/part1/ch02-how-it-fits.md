@@ -24,8 +24,10 @@ Consider a simplified example:
 | **Value Added** | 55 | 180 | 225 | - | 460 |
 | **Total Input** | 100 | 300 | 300 | 460 | - |
 
-![Simplified input-output flow](../_figures/ch02/ch02_io_simplified_flow.png)
-*Figure 2.1: A simplified representation of inter-industry flows. Every sector buys from and sells to other sectors; the economy is a network, not isolated silos. Source: BEA I-O Accounts*
+<figure>
+<img src="../_figures/ch02/ch02_io_simplified_flow.png" alt="Simplified input-output flow" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 2.1: A simplified representation of inter-industry flows. Every sector buys from and sells to other sectors; the economy is a network, not isolated silos. Source: BEA I-O Accounts</figcaption>
+</figure>
 
 Reading this table:
 - Agriculture sells $30 to manufacturing (grain for food processing, cotton for textiles), $5 to services, $55 to final consumers (food), and $10 to itself (seeds, feed).
@@ -68,8 +70,10 @@ Money circulates through the economy in predictable patterns. The simplest model
 
 Money flows in a circle: businesses pay wages and profits to households; households spend on goods and services from businesses. GDP equals total spending equals total income---different ways of measuring the same circular flow.
 
-![Circular flow of the economy](../_figures/ch02/ch02_circular_flow.png)
-*Figure 2.2: The circular flow of income and spending. Money flows from businesses to households as wages and profits, and from households to businesses as consumer spending. Government, finance, and foreign trade add complexity. Source: Author illustration*
+<figure>
+<img src="../_figures/ch02/ch02_circular_flow.png" alt="Circular flow of the economy" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 2.2: The circular flow of income and spending. Money flows from businesses to households as wages and profits, and from households to businesses as consumer spending. Government, finance, and foreign trade add complexity. Source: Author illustration</figcaption>
+</figure>
 
 {% hint style="info" %}
 **Interactive Version:** Click on the nodes below or use the step buttons to explore how money flows through the economy. Press "Play Animation" to see the complete circuit in action.
@@ -254,8 +258,10 @@ American households spend about $18 trillion annually. The breakdown reveals pri
 | Entertainment | 5% | $0.9 trillion |
 | Other | 12% | $2.2 trillion |
 
-![Consumer expenditure breakdown](../_figures/ch02/ch02_consumer_expenditure_treemap.png)
-*Figure 2.3: Where household spending goes. Housing dominates, followed by transportation and food. Source: BLS Consumer Expenditure Survey (2023)*
+<figure>
+<img src="../_figures/ch02/ch02_consumer_expenditure_treemap.png" alt="Consumer expenditure breakdown" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 2.3: Where household spending goes. Housing dominates, followed by transportation and food. Source: BLS Consumer Expenditure Survey (2023)</figcaption>
+</figure>
 
 **Housing** dominates. Rent or mortgage payments, utilities, furniture, maintenance---together they consume a third of household budgets. This explains real estate's outsize role in the economy and in household wealth.
 
@@ -320,8 +326,10 @@ The total impact---direct plus indirect plus induced---is the **multiplier**. Fo
 
 The oil price collapse of 2014-2016 provides a textbook example of shock propagation through I-O linkages.
 
-![Oil price collapse](../_figures/shock_analysis/oil_price_collapse.png)
-*Figure 2.4: Brent crude oil fell from $115/barrel in June 2014 to $28/barrel in January 2016---a 75% collapse. Source: FRED*
+<figure>
+<img src="../_figures/shock_analysis/oil_price_collapse.png" alt="Oil price collapse" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 2.4: Brent crude oil fell from $115/barrel in June 2014 to $28/barrel in January 2016---a 75% collapse. Source: FRED</figcaption>
+</figure>
 
 **The initial shock**: Brent crude oil fell from $115/barrel in June 2014 to $28/barrel in January 2016. The causes were complex---Saudi Arabia's decision not to cut production, U.S. shale output growth, weakening global demand---but the effect was immediate.
 
@@ -338,8 +346,10 @@ The oil price collapse of 2014-2016 provides a textbook example of shock propaga
 
 **Third-round effects (regional economies)**:
 
-![Energy state unemployment](../_figures/shock_analysis/oil_shock_unemployment.png)
-*Figure 2.5: Texas, North Dakota, and Oklahoma unemployment rose sharply during the oil collapse while the national rate continued falling. Source: BLS via FRED*
+<figure>
+<img src="../_figures/shock_analysis/oil_shock_unemployment.png" alt="Energy state unemployment" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 2.5: Texas, North Dakota, and Oklahoma unemployment rose sharply during the oil collapse while the national rate continued falling. Source: BLS via FRED</figcaption>
+</figure>
 
 Texas unemployment rose from 4.2% to 5.4%; North Dakota's unemployment tripled from 2.7% to 4.0%. Houston office vacancy spiked as energy companies consolidated or closed. State government revenues, heavily dependent on severance taxes, collapsed---forcing budget cuts that further reduced economic activity.
 

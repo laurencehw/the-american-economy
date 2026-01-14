@@ -77,8 +77,10 @@ They systematically tested potential explanations:
 
 **Why has this happened?**
 
-![Construction productivity puzzle](../_figures/ch13/ch13_productivity_puzzle.png)
-*Figure 13.2: The construction productivity puzzle. Output per worker has declined since 1970, unlike every other major sector. Source: Goolsbee and Syverson (2023)*
+<figure>
+<img src="../_figures/ch13/ch13_productivity_puzzle.png" alt="Construction productivity puzzle" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 13.2: The construction productivity puzzle. Output per worker has declined since 1970, unlike every other major sector. Source: Goolsbee and Syverson (2023)</figcaption>
+</figure>
 
 D'Amico, Glaeser, et al. (2024) point to **regulation and fragmentation**:
 - Land-use regulations limit project sizes, preventing economies of scale
@@ -127,8 +129,10 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 | **NVR** | roughly $10B | roughly 24,000 |
 | **Toll Brothers** | roughly $10B | roughly 10,000 |
 
-![Top contractors by revenue](../_figures/ch13/ch13_top_contractors.png)
-*Figure 13.3: Top U.S. construction companies by revenue. Engineering giants (Bechtel, Fluor) differ from commercial builders (Turner, Whiting-Turner). Source: ENR (2024)*
+<figure>
+<img src="../_figures/ch13/ch13_top_contractors.png" alt="Top contractors by revenue" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 13.3: Top U.S. construction companies by revenue. Engineering giants (Bechtel, Fluor) differ from commercial builders (Turner, Whiting-Turner). Source: ENR (2024)</figcaption>
+</figure>
 
 Note that the largest American engineering contractors (Bechtel, Fluor, Kiewit) are essentially engineering firms that happen to build, while the largest commercial builders (Turner, Whiting-Turner) are project management operations that coordinate subcontractors. Neither model achieves the vertical integration that characterizes large homebuilders like D.R. Horton or global construction giants. This fragmentation reflects the industry's project-based nature: each job is custom, making standardization difficult.
 
@@ -256,8 +260,10 @@ Infrastructure spending attracts bipartisan support—everyone likes ribbon-cutt
 
 ### 1. The Manufacturing Supercycle
 
-![Construction spending over time](../_figures/ch13/ch13_construction_spending.png)
-*Figure 13.1: Construction spending by category. Manufacturing construction has tripled since 2021 due to CHIPS Act and IRA investments. Source: Census Bureau*
+<figure>
+<img src="../_figures/ch13/ch13_construction_spending.png" alt="Construction spending over time" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 13.1: Construction spending by category. Manufacturing construction has tripled since 2021 due to CHIPS Act and IRA investments. Source: Census Bureau</figcaption>
+</figure>
 
 Construction spending on manufacturing facilities has **tripled** since 2021, driven by industrial policy:
 
@@ -271,8 +277,10 @@ Construction spending on manufacturing facilities has **tripled** since 2021, dr
   - Battery plants across Georgia, Tennessee, Kentucky, Michigan
   - Solar and wind manufacturing facilities
 
-![Manufacturing construction supercycle](../_figures/ch13/ch13_manufacturing_supercycle.png)
-*Figure 13.4: The manufacturing construction supercycle. CHIPS Act and IRA investments have driven unprecedented factory construction, especially in semiconductor fabs. Source: Census Bureau*
+<figure>
+<img src="../_figures/ch13/ch13_manufacturing_supercycle.png" alt="Manufacturing construction supercycle" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 13.4: The manufacturing construction supercycle. CHIPS Act and IRA investments have driven unprecedented factory construction, especially in semiconductor fabs. Source: Census Bureau</figcaption>
+</figure>
 
 This manufacturing construction boom is unprecedented in a generation. It is also straining labor markets—workers are being pulled from housing construction, exacerbating affordability problems.
 

@@ -109,8 +109,10 @@ Since the 2008 financial crisis, metropolitan areas have captured over 90% of ne
 | Labor force participation | 57% | 63% |
 | GDP growth (2015-2024) | 1.8% annually | 2.4% annually |
 
-![State Per Capita Income Disparity](../_figures/ch25/ch25_income_disparity.png)
-*Figure 25.1: Per capita income by state (2023). The highest-income states exceed the lowest by more than $40,000 per person. Source: BEA*
+<figure>
+<img src="../_figures/ch25/ch25_income_disparity.png" alt="State Per Capita Income Disparity" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 25.1: Per capita income by state (2023). The highest-income states exceed the lowest by more than $40,000 per person. Source: BEA</figcaption>
+</figure>
 
 The income gap understates the divide. Rural costs are lower, but the gap in opportunity---the availability of high-paying jobs, the chance for advancement---is wider than the income statistics suggest.
 
