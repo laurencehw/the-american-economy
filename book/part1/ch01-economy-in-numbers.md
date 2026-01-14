@@ -60,11 +60,6 @@ Several patterns stand out:
 
 <figure>
 <img src="../_figures/ch01/ch01_gdp_treemap.png" alt="GDP composition by industry" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 1.1: GDP composition by industry. Professional services, real estate, and government together account for more than a third of U.S. economic output. Source: BEA (2023)</figcaption>
-</figure>
-
-<figure>
-<img src="../_figures/ch01/ch01_gdp_treemap.png" alt="GDP composition by industry" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 1.1: U.S. GDP composition by industry (2023). Services dominate, with professional services, real estate, and government each exceeding manufacturing. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/gdp-treemap.html" target="_blank">View interactive version</a>. Source: BEA</figcaption>
 </figure>
 

@@ -10,7 +10,7 @@ Economic shocks transmit through multiple channels simultaneously. Understanding
 
 <figure>
 <img src="../_figures/ch30/ch30_transmission_channels.png" alt="Shock transmission channels" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 30.1: The four primary channels through which economic shocks propagate: input-output linkages (supply chain cascades), financial channels (credit and balance sheets), labor markets (jobs, wages, migration), and geographic transmission (regional concentration). Source: Author illustration</figcaption>
+<figcaption>Figure 30.1: The four primary channels through which economic shocks propagate: input-output linkages (supply chain cascades), financial channels (credit and balance sheets), labor markets (jobs, wages, migration), and geographic transmission (regional concentration). <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/shock-propagation.html" target="_blank">View interactive version</a>. Source: Author illustration</figcaption>
 </figure>
 
 ### Input-Output Linkages: The Production Network
@@ -65,11 +65,6 @@ Shocks unfold over multiple time horizons:
 **Long-run effects** (5+ years): Some shocks leave permanent marks—"hysteresis" in the jargon. Communities that lose their economic base may never recover. Workers who exit the labor force may never return. The China shock's effects on manufacturing communities are still visible 20 years later.
 
 ## Case Study: The 2014-2016 Oil Price Collapse
-
-<figure>
-<img src="../_figures/ch30/ch30_transmission_channels.png" alt="Economic shock transmission channels" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 30.1: How economic shocks propagate through the economy. Shocks transmit through trade linkages, financial channels, and labor markets, with effects cascading across sectors and regions. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/shock-propagation.html" target="_blank">View interactive version</a>. Source: Author illustration</figcaption>
-</figure>
 
 The oil price collapse of 2014-2016 illustrates every transmission channel in action. Tracing it in detail shows how the economy's structure shapes shock propagation.
 
