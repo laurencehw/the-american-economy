@@ -114,6 +114,11 @@ Since the 2008 financial crisis, metropolitan areas have captured over 90% of ne
 <figcaption>Figure 25.1: Per capita income by state (2023). The highest-income states exceed the lowest by more than $40,000 per person. Source: BEA</figcaption>
 </figure>
 
+<figure>
+<img src="../_figures/ch25/ch25_rural_types.png" alt="Rural Economic Typologies" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 25.2: Economic typologies of rural America. Different regions face distinct economic dynamics: agriculture in the Corn Belt, energy extraction in the Permian, coal decline in Appalachia, recreation economies in the Mountain West, and resource depletion in the Ogallala region. Source: USDA ERS, Census Bureau</figcaption>
+</figure>
+
 The income gap understates the divide. Rural costs are lower, but the gap in opportunity---the availability of high-paying jobs, the chance for advancement---is wider than the income statistics suggest.
 
 ### The Brain Drain

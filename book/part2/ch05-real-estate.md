@@ -22,6 +22,12 @@ The real estate industry functions on a fundamental split between **residential*
 
 ### Residential Real Estate: The 30-Year Mortgage
 
+{% hint style="info" %}
+**An American Anomaly**
+
+The 30-year fixed-rate mortgage is a uniquely American product—virtually unknown elsewhere. This government-backed structure transfers all interest rate risk from borrowers to lenders (and ultimately to taxpayers). Private markets would never offer such terms. The entire system depends on Fannie Mae and Freddie Mac, which buy mortgages from lenders and package them for global investors.
+{% endhint %}
+
 The U.S. residential market is structurally unique due to the **30-year fixed-rate mortgage**. In most of the world, mortgages have variable rates or require refinancing every 5–10 years. A German homebuyer faces rate adjustments; a British borrower typically gets a 2–5 year fix. The American 30-year fixed loan is a peculiarly American, government-backed anomaly that transfers interest rate risk entirely from the borrower to the lender—and ultimately to the federal government.
 
 This product exists only because of an elaborate federal infrastructure. Private lenders would never offer 30-year fixed rates on their own: the interest rate risk is too severe. Instead, the system depends on the Government-Sponsored Enterprises (Fannie Mae and Freddie Mac), which buy mortgages from lenders, package them into securities, and sell them to global investors with an implicit (now explicit) government guarantee.

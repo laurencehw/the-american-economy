@@ -16,6 +16,11 @@ This "lock-in" effect is the defining microeconomic distortion of our time. It h
 
 Throughout this book, we have encountered features that make the American economy structurally distinct from its peers. These are not merely differences of degree.
 
+<figure>
+<img src="../_figures/ch29/ch29_distinctive_features.png" alt="Distinctive features of the US economy" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 29.1: What makes the American economy distinctive. Finance is woven into daily life; services dominate; geographic diversity creates regional economies; innovation infrastructure remains the global standard. Source: Author analysis</figcaption>
+</figure>
+
 ### The Financialization of Daily Life
 
 No other developed nation has woven finance so deeply into the fabric of ordinary existence. The 30-year fixed-rate mortgage is an American anomaly---a government-subsidized transfer of interest rate risk from households to the financial system that effectively turns homeowners into leveraged real estate investors. The 401(k) retirement system, having largely replaced defined-benefit pensions, forces middle-class workers to become amateur asset managers. The depth of American capital markets---$50 trillion in equity market capitalization, $50 trillion in bond markets---allows the federal government to sustain deficits that would destabilize other nations, backed by the dollar's role as the world's reserve currency. Finance in America is not merely a sector; it is the operating system.
@@ -39,6 +44,11 @@ The United States maintains an innovation infrastructure that remains the global
 ## Ongoing Transformations
 
 Three simultaneous transformations are reshaping the economic landscape.
+
+<figure>
+<img src="../_figures/ch29/ch29_three_transformations.png" alt="Three transformations reshaping the economy" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 29.2: Three simultaneous transformations: the return of industrial policy (CHIPS Act, IRA), the dual-track energy transition, and the emergence of the AI-driven intelligence economy. Source: Author analysis</figcaption>
+</figure>
 
 ### The Return of Industrial Policy
 
@@ -67,6 +77,11 @@ The geographic implications remain uncertain. If AI enables more remote work on 
 ## Persistent Tensions
 
 For all its dynamism, the American economy faces structural tensions that are not resolving.
+
+<figure>
+<img src="../_figures/ch29/ch29_persistent_tensions.png" alt="Persistent tensions in the economy" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 29.3: Three interconnected structural tensions: geographic divergence between superstar metros and left-behind places; cost disease in healthcare, housing, and education; and fiscal sustainability concerns as deficits persist at 6%+ of GDP. Source: Author analysis</figcaption>
+</figure>
 
 ### Geographic Divergence
 

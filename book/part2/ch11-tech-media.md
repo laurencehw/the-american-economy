@@ -4,6 +4,12 @@ The information sector occupies a peculiar position in the American economy: rel
 
 ## Overview: Size and Scope
 
+{% hint style="info" %}
+**Market Cap vs. Employment**
+
+Tech's defining paradox: the five largest American companies by market value (Apple, Microsoft, Alphabet, Amazon, Meta) together employ fewer than 2 million people but are worth over $10 trillion—roughly 25% of the entire S&P 500. No sector concentrates so much wealth in so few hands, with so few workers.
+{% endhint %}
+
 The Bureau of Economic Analysis classifies the information sector as NAICS 51, encompassing publishing, motion pictures, broadcasting, telecommunications, and data processing. By this narrow definition, the sector contributes roughly $1.8 trillion to GDP—about 6% of the total economy—and employs approximately 3 million workers. But these official statistics dramatically understate the sector's economic footprint. Amazon, classified as retail, derives growing revenue from cloud computing. Financial services firms employ armies of software engineers. The "tech sector" as commonly understood sprawls across multiple NAICS codes.
 
 A more revealing metric is market capitalization. As of late 2024, the five largest American companies by market value were all technology firms: Apple ($3.0 trillion), Microsoft ($2.8 trillion), Alphabet ($1.8 trillion), Amazon ($1.6 trillion), and Meta ($900 billion). Together, these five companies—sometimes called "Big Tech" or the "Magnificent Seven" (adding Nvidia and Tesla)—account for roughly 25% of the S&P 500's total value. No other sector comes close to this concentration of market power in so few hands.

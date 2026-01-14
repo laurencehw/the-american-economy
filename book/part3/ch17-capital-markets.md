@@ -517,6 +517,22 @@ Unlike most VC firms that return capital to investors after each fund, Sequoia i
 - Locations: Menlo Park, London, India, China, Southeast Asia
 - Partners: roughly 60
 
+## Firm Profile: Vanguard Group
+
+> **Quick Facts**
+> - **Headquarters:** Malvern, Pennsylvania
+> - **Assets Under Management:** $9.3 trillion (2024)
+> - **Structure:** Owned by its funds (and thus by fund shareholders)
+> - **Employees:** 20,000+
+
+Vanguard is the world's largest mutual fund company and the second-largest asset manager, having pioneered low-cost index investing and transformed how Americans save for retirement. The company's unique ownership structure—Vanguard is owned by its funds, which are owned by their shareholders—means profits flow back to investors through lower fees rather than to outside shareholders.
+
+John Bogle founded Vanguard in 1975 after being fired from Wellington Management. His contrarian insight: most active managers fail to beat the market after fees, so investors are better served by low-cost funds that simply track market indices. The first retail index fund, tracking the S&P 500, launched in 1976 to industry ridicule ("Bogle's Folly"). Today that fund holds over $1 trillion.
+
+Vanguard's relentless cost reduction has driven average expense ratios across the industry down from over 1% to around 0.5%. The company's largest funds charge just 0.03-0.04% annually—$3-4 per $10,000 invested. This compounding cost advantage has attracted enormous inflows: Vanguard grew from $1 trillion in 2008 to $9+ trillion today, largely through organic growth rather than acquisitions. Along with BlackRock and State Street, Vanguard forms the "Big Three" passive managers whose combined holdings make them top shareholders in most large American companies—a concentration that raises questions about market competition, corporate governance, and index investing's effects on price discovery.
+
+---
+
 ## Conclusion
 
 American capital markets are the world's largest and most sophisticated, channeling trillions of dollars from savers to borrowers and from passive investors to active managers. Their depth and liquidity give U.S. companies access to capital that firms in other countries cannot match.

@@ -42,6 +42,12 @@ Electricity is unique among commodities: it cannot be economically stored at sca
 
 The generation mix has transformed in 15 years. In 2008, coal provided 48% of US electricity; natural gas 21%. The shale revolution made gas cheap; environmental regulation made coal expensive. Coal's share has fallen by two-thirds.
 
+{% hint style="warning" %}
+**Three Separate Grids**
+
+The US operates three largely separate electrical grids with limited interconnection between them. ERCOT (Texas) deliberately isolated itself from the national grid to avoid federal regulation—but this means Texas cannot import power during emergencies, as the deadly February 2021 freeze demonstrated.
+{% endhint %}
+
 **Transmission** moves power from generators to load centers over high-voltage lines (100-765 kV). The US has three largely separate grids:
 - **Eastern Interconnection**: East of the Rockies (except Texas)
 - **Western Interconnection**: West of the Rockies

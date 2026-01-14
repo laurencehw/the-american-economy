@@ -6,6 +6,12 @@ This chapter examines America's trading relationships: the scale and composition
 
 ## The Scale of American Trade
 
+{% hint style="info" %}
+**The Trade Deficit Paradox**
+
+America's persistent trade deficit—importing $1.2 trillion more than it exports—reflects its role as global consumer of last resort. The deficit is financed by foreign purchases of American assets: Treasury bonds, stocks, and real estate. In effect, the world lends to America so America can buy from the world. The dollar's reserve currency status makes this sustainable.
+{% endhint %}
+
 The United States trades roughly $5 trillion in goods annually—more than any other nation.
 
 **Table 19.1: U.S. Goods Trade (2024)**
@@ -273,6 +279,38 @@ Trade policy has scrambled traditional partisan alignments. Republicans, histori
 The bipartisan consensus: skepticism of China. Both parties support tariffs on Chinese goods, export controls on technology, and restrictions on Chinese investment. The disagreement is over how far to extend those policies and whether allies should face similar treatment.
 
 ## Firm Profiles
+
+### Port of Los Angeles and Long Beach
+
+> **Quick Facts**
+> - **Location:** San Pedro Bay, California
+> - **Combined Annual Volume:** 17+ million TEUs
+> - **U.S. Import Share:** 30-40% of containerized imports
+> - **Economic Impact:** $450+ billion in trade value annually
+
+The twin ports of Los Angeles and Long Beach—collectively the San Pedro Bay Complex—form America's primary gateway to Asia and the largest container port complex in the Western Hemisphere. Together they handle more cargo than all other West Coast ports combined and serve as the entry point for goods from China, Vietnam, Japan, South Korea, and Taiwan.
+
+The ports operate as separate entities—Los Angeles is a city department, Long Beach a city enterprise—but function as a single integrated complex sharing the same bay, similar infrastructure, and common challenges. The Port of Los Angeles handles slightly more volume (roughly 9.5 million TEUs annually), while Long Beach operates the most automated terminals. Major terminal operators include APM Terminals (Maersk), SSA Marine, and Yang Ming.
+
+The 2021-22 supply chain crisis exposed the complex's vulnerabilities. At the peak, over 100 container ships anchored offshore waiting weeks to berth. The ports lacked surge capacity, chassis were in short supply, warehouses were full, and trucker availability was limited. The backlog took months to clear. Since then, both ports have invested in automation, extended operating hours, and coordinated with railroads to improve throughput. But fundamental constraints remain: the ports are surrounded by dense urban development, and expansion faces environmental and community opposition. The Panama Canal expansion has shifted some cargo to Gulf and East Coast ports, beginning a long-term diversification of American trade infrastructure away from total dependence on San Pedro Bay.
+
+---
+
+### Office of the U.S. Trade Representative (USTR)
+
+> **Quick Facts**
+> - **Headquarters:** Washington, DC (Executive Office of the President)
+> - **Agency Type:** Cabinet-level Executive Office
+> - **Staff:** ~250 employees
+> - **Role:** Principal trade negotiator and policy advisor
+
+The Office of the U.S. Trade Representative is the federal agency responsible for developing and coordinating American trade policy. The U.S. Trade Representative—a Cabinet-level position—serves as the president's principal advisor on trade and as the chief U.S. negotiator for international trade agreements.
+
+Created in 1962 and elevated to Cabinet status in 1974, USTR emerged from Congressional frustration with the State Department's handling of trade negotiations, which lawmakers felt prioritized diplomatic relationships over American commercial interests. USTR's location in the Executive Office of the President (rather than as an independent department) gives it direct access to presidential decision-making while maintaining arms-length separation from agencies with competing interests.
+
+USTR's small staff punches far above its weight. The agency negotiates bilateral and multilateral trade agreements, represents the United States in World Trade Organization disputes, administers Section 301 (unfair trade practices) investigations, and coordinates the interagency trade policy process. Recent USTR priorities have shifted from traditional "market opening" toward what the agency calls "worker-centered trade policy"—emphasizing labor standards, environmental provisions, and skepticism of agreements that benefit corporations without delivering gains to workers. Under both Trump and Biden administrations, USTR maintained tariffs on Chinese goods and pursued aggressive use of Section 301 authority. The agency's pivot from free-trade orthodoxy to managed trade reflects the broader transformation of American trade policy.
+
+---
 
 ### Walmart
 

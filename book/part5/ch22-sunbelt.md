@@ -22,6 +22,11 @@ The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents-
 <figcaption>Figure 22.1: Sunbelt state GDP growth since 2019, indexed to 100. All Sunbelt states have outpaced national growth, with Texas and Florida leading. Source: BEA</figcaption>
 </figure>
 
+<figure>
+<img src="../_figures/ch22/ch22_sunbelt_migration.png" alt="Sunbelt Migration Patterns" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 22.2: Population and corporate migration to Sunbelt metros. The Northeast and Midwest have experienced net out-migration of nearly 1 million people since 2020, with Texas and Florida capturing the majority. Source: Census Bureau, BEA</figcaption>
+</figure>
+
 The South alone accounted for 87% of U.S. population growth in 2023. Texas and Florida added nearly 800,000 residents between them in a single year---equivalent to adding a city the size of Seattle.
 
 The Sunbelt's projected growth over the next decade exceeds 7%, adding roughly 11 million people. The rest of the country is projected to grow by 0.3%.

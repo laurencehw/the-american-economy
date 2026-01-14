@@ -8,6 +8,11 @@ Economic shocks are perturbations that disrupt normal patterns of production, em
 
 Economic shocks transmit through multiple channels simultaneously. Understanding these channels helps explain why some shocks spread broadly while others remain contained, why some communities recover quickly while others never do.
 
+<figure>
+<img src="../_figures/ch30/ch30_transmission_channels.png" alt="Shock transmission channels" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 30.1: The four primary channels through which economic shocks propagate: input-output linkages (supply chain cascades), financial channels (credit and balance sheets), labor markets (jobs, wages, migration), and geographic transmission (regional concentration). Source: Author illustration</figcaption>
+</figure>
+
 ### Input-Output Linkages: The Production Network
 
 The input-output framework introduced in Chapter 2 provides the foundation for understanding how shocks propagate through the production network. Every industry purchases inputs from other industries and sells its output to downstream buyers. A shock to one sector creates ripples throughout this network.
@@ -68,6 +73,11 @@ Shocks unfold over multiple time horizons:
 <iframe src="https://laurencehw.github.io/the-american-economy/book/_interactive/shock-propagation.html" width="100%" height="1100" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
 
 The oil price collapse of 2014-2016 illustrates every transmission channel in action. Tracing it in detail shows how the economy's structure shapes shock propagation.
+
+<figure>
+<img src="../_figures/ch30/ch30_oil_shock_timeline.png" alt="Oil price shock timeline 2014-2016" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 30.2: The 2014-2016 oil price collapse. Brent crude fell from $115 to $28 per barrel; the U.S. rig count collapsed 80% from 1,600 to 316. The shock devastated energy-producing regions while benefiting consumers elsewhere. Source: EIA, Baker Hughes</figcaption>
+</figure>
 
 ### The Initial Shock
 

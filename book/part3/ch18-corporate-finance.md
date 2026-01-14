@@ -457,6 +457,38 @@ CFOs are also grappling with AI's impact on their businesses more broadly—both
 
 ## Firm Profiles
 
+### Goldman Sachs
+
+> **Quick Facts**
+> - **Headquarters:** New York, NY
+> - **Revenue:** $46 billion (2024)
+> - **Employees:** 46,000
+> - **Market Cap:** $180 billion
+
+Goldman Sachs is Wall Street's most storied investment bank, synonymous with both financial elite status and the revolving door between finance and government. The firm consistently ranks #1 in M&A advisory and equity underwriting globally, handling the most complex and highest-profile transactions.
+
+Founded in 1869 by Marcus Goldman, the partnership remained private until its 1999 IPO—one of the last major Wall Street firms to go public. That delayed IPO created enormous wealth for partners and preserved a partnership culture that emphasizes collective success over individual stardom. Goldman partners historically rotated through functions, building broad expertise; many became Treasury Secretaries (Robert Rubin, Hank Paulson), central bankers (Mario Draghi), and corporate CEOs.
+
+Goldman's business spans investment banking (M&A advisory, securities underwriting), trading (market-making in equities, bonds, currencies, commodities), asset management, and consumer banking (the Marcus platform, since scaled back). The firm's trading operations generated controversy during the 2008 crisis—Goldman both sold mortgage securities to clients and bet against them—leading to a $550 million SEC settlement. Since then, Goldman has emphasized advisory businesses over proprietary risk-taking, though trading remains highly profitable. Under CEO David Solomon, the firm attempted and then retreated from consumer banking, refocusing on its core strengths serving corporations, institutions, and the ultra-wealthy.
+
+---
+
+### Apollo Global Management
+
+> **Quick Facts**
+> - **Headquarters:** New York, NY
+> - **Assets Under Management:** $700 billion (2024)
+> - **Founded:** 1990
+> - **Employees:** 3,000+
+
+Apollo exemplifies the evolution of private equity from leveraged buyouts into a diversified alternative asset manager. The firm manages more credit assets than equity—a strategic choice that has made it one of the largest non-bank lenders in America.
+
+Leon Black, Marc Rowan, and Josh Harris founded Apollo in 1990 after the collapse of Drexel Burnham Lambert, where they had worked in Michael Milken's high-yield bond operation. That heritage informed Apollo's approach: the firm specializes in complex, contrarian investments that others avoid. Apollo's PE deals often involve distressed situations, corporate carve-outs, and heavily leveraged transactions where the firm's credit expertise provides an edge.
+
+Apollo's integration of private equity and private credit distinguishes it from competitors. The firm raises credit funds that lend to its own PE portfolio companies and to third parties, generating multiple fee streams from related activities. The 2022 acquisition of Athene, a retirement services company with $250 billion in assets, gave Apollo a permanent capital base and positioned it at the center of the insurance industry's shift toward alternative investments. Critics note potential conflicts—Apollo lending to Apollo-owned companies—while defenders argue the integration creates unique deal-sourcing advantages. Under CEO Marc Rowan (who succeeded Leon Black in 2021 following the Epstein association scandal), Apollo has emphasized its transformation from a PE shop to a "retirement services company" with PE capabilities.
+
+---
+
 ### Berkshire Hathaway
 
 Berkshire Hathaway, led by Warren Buffett since 1965, represents a unique model of corporate finance: a holding company that allocates capital across wholly-owned businesses, public equity investments, and fixed income.

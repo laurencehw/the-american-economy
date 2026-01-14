@@ -107,6 +107,11 @@ Semiconductor production has fragmented by function:
 
 The United States dominates chip design and manufacturing equipment but has almost no leading-edge fabrication capacity. The most advanced chips—powering AI systems, smartphones, and advanced computing—come from a single company (TSMC) in a single location (Taiwan).
 
+<figure>
+<img src="../_figures/ch20/ch20_semiconductor_supply_chain.png" alt="Semiconductor supply chain" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 20.1: The semiconductor supply chain's geographic concentration risk. TSMC in Taiwan produces 90% of the world's most advanced chips. ASML in the Netherlands is the sole supplier of critical EUV lithography equipment. Source: Author analysis</figcaption>
+</figure>
+
 ### The Chokepoints
 
 **ASML and EUV Lithography**: The most advanced chips require Extreme Ultraviolet (EUV) lithography machines, manufactured exclusively by ASML in the Netherlands. These $200 million machines, containing 100,000+ components from hundreds of suppliers, are the most complex manufacturing equipment ever built. No EUV machine, no leading-edge chips.
@@ -232,6 +237,11 @@ Progress has been slow. Pharmaceutical manufacturing is capital-intensive, heavi
 
 The COVID-19 pandemic exposed fragilities across global supply chains, creating disruptions that took years to resolve.
 
+<figure>
+<img src="../_figures/ch20/ch20_supply_chain_crisis.png" alt="Supply chain crisis 2021-22" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 20.2: The cascade of supply chain disruptions in 2021-22. Sequential shocks—the Texas freeze, Suez blockage, Vietnam lockdowns, port congestion, and Ukraine war—created compounding disruptions that drove inflation to 9.1%. Source: Author analysis</figcaption>
+</figure>
+
 ### The Demand Shock
 
 The pandemic fundamentally altered consumption patterns. As services spending (travel, dining, entertainment) collapsed, goods spending exploded. Americans bought home office equipment, exercise bikes, home improvement materials, and consumer electronics at unprecedented rates.
@@ -322,6 +332,22 @@ Instead, the dominant strategy is "China Plus One": maintaining China operations
 | Thailand | Quality, infrastructure | Cost rising |
 
 ## Firm Profiles
+
+### Taiwan Semiconductor Manufacturing Company (TSMC)
+
+> **Quick Facts**
+> - **Headquarters:** Hsinchu, Taiwan
+> - **Revenue:** $69 billion (2023)
+> - **Global Foundry Market Share:** 60%+ (90%+ at leading edge)
+> - **Employees:** 73,000
+
+TSMC is the most important company most Americans have never heard of. The Taiwanese semiconductor foundry manufactures over 90% of the world's most advanced logic chips—the processors powering iPhones, NVIDIA AI systems, AMD computers, and Qualcomm devices. No other company can fabricate chips at the cutting edge (below 7 nanometers), making TSMC an irreplaceable node in global technology supply chains.
+
+Morris Chang founded TSMC in 1987 with a revolutionary business model: pure-play foundry manufacturing. Rather than designing and selling its own chips (like Intel), TSMC would manufacture chips designed by others. This allowed "fabless" companies—firms without factories—to compete in semiconductors. NVIDIA, Qualcomm, AMD, and eventually Apple built their businesses on TSMC's manufacturing capability.
+
+TSMC's dominance stems from relentless process improvement. The company invests $30+ billion annually in capital expenditure, staying ahead of Samsung (its only potential competitor at advanced nodes) in yield, reliability, and capacity. The firm's workforce culture—demanding hours, precision engineering, deep process expertise—is difficult to replicate elsewhere, as the Arizona fab construction has demonstrated. TSMC's Taiwan location creates geopolitical risk that policymakers increasingly view as unacceptable: the company sits 100 miles from mainland China, and a Taiwan conflict would devastate global electronics production. The CHIPS Act subsidies for U.S. fabs aim partly to reduce this concentration, though TSMC's Arizona operations will produce a small fraction of its Taiwan output.
+
+---
 
 ### Flexport
 

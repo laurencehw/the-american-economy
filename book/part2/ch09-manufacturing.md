@@ -4,6 +4,12 @@ American manufacturing occupies a paradoxical position in the national imaginati
 
 ## Overview: Size and Scope
 
+{% hint style="info" %}
+**The Manufacturing Paradox**
+
+American manufacturing presents a paradox: output has roughly doubled since the 1980s, but employment has fallen by a third. The divergence reflects extraordinary productivity growth—automation, computerization, and process improvements enable factories to produce more with fewer workers. This is economically valuable but means manufacturing will not return as a mass employer regardless of trade policy or reshoring efforts.
+{% endhint %}
+
 Manufacturing contributed approximately $2.3 trillion to GDP in 2023—about 10% of the total economy. This share has declined from roughly 25% in the 1960s, but the decline primarily reflects the faster growth of services, not an absolute contraction of industrial output. Real manufacturing output has roughly doubled since the 1980s. American factories produce more aircraft, pharmaceuticals, chemicals, and vehicles than they did a generation ago.
 
 The employment picture tells a different story. Manufacturing employed approximately 12.8 million workers as of early 2024—down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents roughly 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.

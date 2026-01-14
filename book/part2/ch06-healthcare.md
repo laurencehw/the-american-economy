@@ -6,6 +6,12 @@ Yet healthcare is not a single industry. It's an ecosystem of hospitals, physici
 
 ## Overview
 
+{% hint style="info" %}
+**Healthcare's Unique Structure**
+
+In healthcare, the person receiving care (patient) differs from the person paying (insurer/employer) and the person deciding treatment (physician). This three-way split creates incentive problems that shape much of healthcare economics—and helps explain why the US spends nearly twice as much as peer countries without better outcomes.
+{% endhint %}
+
 ### Size and Scope
 
 - **National health expenditure (2022)**: $4.5 trillion

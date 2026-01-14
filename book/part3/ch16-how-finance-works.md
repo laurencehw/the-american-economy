@@ -6,6 +6,12 @@ This chapter examines how American finance actually works: the hierarchy of mone
 
 ## The Hierarchy of Money
 
+{% hint style="info" %}
+**Key Concept: The Hierarchy of Money**
+
+Not all money is equal. Money exists in layers, with each level a *promise to pay* the level above. Currency (physical dollars) sits at the top. Bank deposits are promises to pay currency. Shadow money is promises to pay deposits. In a crisis, this hierarchy reveals itself as lower-level promises get tested.
+{% endhint %}
+
 <figure>
 <img src="../_figures/ch16/ch16_hierarchy_of_money.png" alt="Hierarchy of money" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 16.1: The hierarchy of money. Currency sits at the top; reserves, deposits, and shadow money form progressively lower levels, each a promise to pay the level above. In a crisis, lower-level money gets tested against higher-level money. Source: Author illustration based on Mehrling</figcaption>
@@ -72,6 +78,12 @@ The most important thing to understand about money: banks create it when they le
 Traditional textbooks tell a money multiplier story: the central bank creates reserves, banks lend out a fraction, those loans become deposits at other banks, those banks lend out a fraction, and so on. This implies the central bank controls the money supply through reserve requirements, with banks as passive conduits.
 
 This is backwards.
+
+{% hint style="warning" %}
+**The Textbook Is Wrong**
+
+The traditional "money multiplier" story—where banks lend out existing deposits—is backwards. In reality, loans create deposits. When a bank makes a loan, it simultaneously creates a matching deposit by keystroke. The Bank of England confirmed this in 2014: "Whenever a bank makes a loan, it simultaneously creates a matching deposit in the borrower's bank account, thereby creating new money."
+{% endhint %}
 
 **The Reality: Loans Create Deposits**
 
@@ -185,6 +197,12 @@ The Automated Clearing House (ACH) handles smaller, less time-sensitive payments
 ACH is slow by design—payments traditionally took 1-2 business days to settle. The Fed's FedNow (launched 2023) brings real-time retail payments to the US, finally catching up with systems in the UK, India, and elsewhere.
 
 ## Shadow Banking
+
+{% hint style="danger" %}
+**The 2008 Crisis Was a Shadow Bank Run**
+
+The financial crisis of 2008 was not primarily about subprime mortgages—it was about the wholesale funding that financed those mortgages. Money market funds, repo markets, and commercial paper all experienced the same panic dynamics as classic bank runs, but without deposit insurance or lender-of-last-resort access. When the run started, trillions fled in weeks.
+{% endhint %}
 
 Shadow banking is credit intermediation outside the traditional banking system. It grew enormously before 2008, shrank during the crisis, and has resumed growing since. Understanding it is essential because the 2008 crisis was fundamentally a shadow bank run.
 
@@ -480,6 +498,22 @@ Despite the $250,000 insurance limit, regulators guaranteed all SVB deposits to 
 **Stablecoins**: Crypto tokens pegged to the dollar (Tether, USDC) function as money-like claims outside the banking system. They promise instant redemption at $1 but aren't backed by FDIC insurance or Fed access. In essence, they're unregulated money market funds—the same structure that broke during the 2008 crisis.
 
 **Central Bank Digital Currencies**: The Fed is studying a potential digital dollar (CBDC) that would give the public direct access to central bank money—currently available only to banks. This could disintermediate the banking system or simply provide a safer form of digital cash.
+
+---
+
+## Firm Profile: Fedwire and CHIPS
+
+> **Quick Facts**
+> - **Operator (Fedwire):** Federal Reserve Banks
+> - **Operator (CHIPS):** The Clearing House (owned by major banks)
+> - **Daily Fedwire Volume:** $4+ trillion across 500,000 transactions
+> - **Daily CHIPS Volume:** $1.8 trillion across 400,000 transactions
+
+Fedwire and CHIPS are the two large-value payment systems that settle virtually all wholesale dollar transactions in the United States. Together they move over $5 trillion daily—more than the annual GDP of Japan—with almost no public awareness of their existence.
+
+Fedwire, operated by the Federal Reserve since 1918, is a real-time gross settlement (RTGS) system. Every payment settles individually and immediately in central bank money. When a Fedwire payment completes, the recipient has final, irrevocable funds—there is no counterparty risk. The system operates 22 hours per day, closing only briefly for maintenance. Major banks make thousands of Fedwire payments daily for securities settlement, interbank transfers, and large commercial transactions.
+
+CHIPS (Clearing House Interbank Payments System), owned by a consortium of large banks, handles primarily cross-border dollar payments and foreign exchange settlement. Unlike Fedwire's gross settlement, CHIPS uses multilateral netting: payments accumulate during the day, offsetting credits and debits, with only net balances settling in reserves at day's end. This economizes on liquidity—$1.8 trillion in gross payments might net to $50 billion in actual reserve movements. The two systems complement each other: CHIPS handles routine high-volume flows efficiently, while Fedwire provides the ultimate settlement layer and handles time-critical payments.
 
 ---
 

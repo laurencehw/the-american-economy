@@ -4,6 +4,12 @@ The federal government alone spends $6.5 trillion annually---more than the entir
 
 ## Overview
 
+{% hint style="info" %}
+**90,000 Governments**
+
+"Government" is not a single entity. The United States has roughly 90,000 separate governments: 1 federal, 50 state, 3,000+ counties, 19,000+ municipalities, 13,000+ school districts, and 37,000+ special districts. Each has its own budget, workforce, and functions. This fragmentation creates both resilience and incoherence.
+{% endhint %}
+
 **Size and Scope**
 - Total government spending: roughly $10 trillion (40% of GDP)
   - Federal: roughly $6.5 trillion
