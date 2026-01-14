@@ -502,4 +502,4 @@ UC remains a remarkable institution---world-class research combined with genuine
 
 *Chapter 15 | Education*
 *The American Economy: A Structural Geography*
-*Draft v1 --- January 2026*
+*Draft v1.1 --- January 2026*
