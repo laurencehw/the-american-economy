@@ -1,6 +1,6 @@
 # 6. Healthcare
 
-Americans spend more on healthcare than on anything else except housing. The healthcare sector accounts for nearly $$4.5 trillion in annual spending---about 17% of GDP---making it by far the largest healthcare system in the world in absolute terms and one of the largest as a share of the economy. More than 20 million people work in healthcare and social assistance, making it the largest private-sector employer in the country.
+Americans spend more on healthcare than on anything else except housing. The healthcare sector accounts for nearly $4.5 trillion in annual spending---about 17% of GDP---making it by far the largest healthcare system in the world in absolute terms and one of the largest as a share of the economy. More than 20 million people work in healthcare and social assistance, making it the largest private-sector employer in the country.
 
 Yet healthcare is not a single industry. It's an ecosystem of hospitals, physician practices, insurers, pharmaceutical companies, medical device manufacturers, pharmacies, nursing homes, and home health agencies, all connected through byzantine payment flows involving employers, governments, and individuals. Understanding how this system actually works---where the money comes from and where it goes---is essential to understanding the American economy.
 
@@ -8,7 +8,7 @@ Yet healthcare is not a single industry. It's an ecosystem of hospitals, physici
 
 ### Size and Scope
 
-- **National health expenditure (2022)**: $$4.5 trillion
+- **National health expenditure (2022)**: $4.5 trillion
 - **Share of GDP**: 17.3%
 - **Employment**: 20.5 million (healthcare and social assistance)
 - **Share of total employment**: 13%
@@ -22,23 +22,23 @@ The healthcare sector divides into several distinct segments, each with its own 
 
 | Subsector | Spending (2022) | Share |
 |-----------|----------------|-------|
-| Hospital care | $$1.35 trillion | 30% |
-| Physician and clinical services | $$885 billion | 20% |
-| Prescription drugs | $$405 billion | 9% |
-| Nursing care and continuing care | $$215 billion | 5% |
-| Dental services | $$165 billion | 4% |
-| Home health care | $$130 billion | 3% |
-| Other professional services | $$130 billion | 3% |
-| Medical devices and equipment | $$100 billion | 2% |
-| Government administration | $$65 billion | 1% |
-| Other | $$1 trillion+ | 23% |
+| Hospital care | $1.35 trillion | 30% |
+| Physician and clinical services | $885 billion | 20% |
+| Prescription drugs | $405 billion | 9% |
+| Nursing care and continuing care | $215 billion | 5% |
+| Dental services | $165 billion | 4% |
+| Home health care | $130 billion | 3% |
+| Other professional services | $130 billion | 3% |
+| Medical devices and equipment | $100 billion | 2% |
+| Government administration | $65 billion | 1% |
+| Other | $1 trillion+ | 23% |
 
 Source: CMS National Health Expenditure Accounts
 
-![Healthcare spending by category](../../_figures/ch06/ch06_spending_treemap.png)
+![Healthcare spending by category](../_figures/ch06/ch06_spending_treemap.png)
 *Figure 6.1: Healthcare spending by category. Hospital care dominates, followed by physician services and prescription drugs. Source: CMS NHE (2022)*
 
-![Healthcare spending over time](../../_figures/ch06/ch06_spending_over_time.png)
+![Healthcare spending over time](../_figures/ch06/ch06_spending_over_time.png)
 *Figure 6.2: Healthcare spending as share of GDP, 1960-2023. Healthcare has grown from 5% to nearly 18% of the economy over six decades. Source: CMS NHE*
 
 ## How the Industry Works
@@ -53,7 +53,7 @@ Healthcare spending flows through four main channels:
 
 Most working-age Americans get health insurance through their employers. Employers contract with insurers (UnitedHealth, Anthem, Cigna, Aetna, Humana, and others) who negotiate rates with healthcare providers. The employer typically pays most of the premium, with employees contributing through payroll deductions.
 
-Employer-sponsored insurance covers about 155 million Americans. The average annual premium for family coverage is over $$23,000, with employers paying roughly 73% and employees 27%.
+Employer-sponsored insurance covers about 155 million Americans. The average annual premium for family coverage is over $23,000, with employers paying roughly 73% and employees 27%.
 
 **2. Medicare (21%)**
 
@@ -75,7 +75,7 @@ Patients pay directly for some services---deductibles, copays, services not cove
 
 **5. Other (21%)**
 
-![Healthcare payer mix](../../_figures/ch06/ch06_payer_mix.png)
+![Healthcare payer mix](../_figures/ch06/ch06_payer_mix.png)
 *Figure 6.3: Who pays for healthcare. Private insurance, Medicare, and Medicaid each cover roughly 20-30% of spending, with out-of-pocket and other sources making up the rest. Source: CMS NHE (2022)*
 
 Other payers include the Veterans Administration, workers' compensation, charitable care, and other government programs.
@@ -137,11 +137,11 @@ Hospital markets have consolidated significantly over the past two decades. The 
 
 | System | Hospitals | Beds | Revenue | Headquarters |
 |--------|-----------|------|---------|--------------|
-| HCA Healthcare | 182 | 47,000 | $$60B | Nashville, TN |
-| CommonSpirit Health | 140 | 25,000 | $$35B | Chicago, IL |
-| Ascension | 139 | 22,000 | $$28B | St. Louis, MO |
-| Trinity Health | 88 | 14,000 | $$21B | Livonia, MI |
-| Providence | 52 | 12,000 | $$28B | Renton, WA |
+| HCA Healthcare | 182 | 47,000 | $60B | Nashville, TN |
+| CommonSpirit Health | 140 | 25,000 | $35B | Chicago, IL |
+| Ascension | 139 | 22,000 | $28B | St. Louis, MO |
+| Trinity Health | 88 | 14,000 | $21B | Livonia, MI |
+| Providence | 52 | 12,000 | $28B | Renton, WA |
 
 Most hospital markets are highly concentrated. A typical metropolitan area has 2-4 major hospital systems competing for patients and contracts with insurers.
 
@@ -152,7 +152,7 @@ The health insurance market divides into several segments:
 **Employer-sponsored insurance**
 
 The largest segment by enrollment. Major national carriers include:
-- UnitedHealth Group (largest by revenue, roughly $$370B)
+- UnitedHealth Group (largest by revenue, roughly $370B)
 - Elevance Health (formerly Anthem)
 - Cigna
 - Aetna (owned by CVS Health)
@@ -239,12 +239,12 @@ Healthcare and social assistance employs about 20.5 million workers, divided rou
 
 | Occupation | Employment | Median Wage |
 |------------|------------|-------------|
-| Registered nurses | 3.1 million | $$81,000 |
-| Nursing assistants | 1.4 million | $$35,000 |
-| Home health aides | 3.6 million | $$31,000 |
-| Medical assistants | 740,000 | $$38,000 |
-| Physicians | 1.0 million | $$220,000+ |
-| Pharmacists | 320,000 | $$128,000 |
+| Registered nurses | 3.1 million | $81,000 |
+| Nursing assistants | 1.4 million | $35,000 |
+| Home health aides | 3.6 million | $31,000 |
+| Medical assistants | 740,000 | $38,000 |
+| Physicians | 1.0 million | $220,000+ |
+| Pharmacists | 320,000 | $128,000 |
 
 Healthcare employs workers across the wage spectrum, from low-wage home health aides to high-earning specialist physicians.
 
@@ -289,7 +289,7 @@ Healthcare is one of the most heavily lobbied industries in America. Major trade
 | AHIP | Health insurers | Insurance regulations, ACA |
 | ANA (American Nurses Association) | Nurses | Staffing ratios, scope of practice |
 
-The healthcare sector consistently ranks as the largest lobbying spender in Washington, spending over $$700 million annually on federal lobbying.
+The healthcare sector consistently ranks as the largest lobbying spender in Washington, spending over $700 million annually on federal lobbying.
 
 ## Recent Trends
 
@@ -320,7 +320,7 @@ Medicare and private insurers are gradually shifting from fee-for-service toward
 > **Quick Facts**
 > - Headquarters: Oakland, California
 > - Founded: 1945
-> - Revenue: $$95 billion (2022)
+> - Revenue: $95 billion (2022)
 > - Members: 12.5 million
 > - Employees: 300,000+
 
@@ -335,7 +335,7 @@ Today Kaiser operates in eight states plus the District of Columbia, with partic
 > **Quick Facts**
 > - Headquarters: Nashville, Tennessee
 > - Founded: 1968
-> - Revenue: $$60 billion (2022)
+> - Revenue: $60 billion (2022)
 > - Hospitals: 182
 > - Employees: 275,000
 
@@ -350,7 +350,7 @@ HCA's for-profit model remains controversial. Critics argue that profit motive c
 > **Quick Facts**
 > - Headquarters: Woonsocket, Rhode Island
 > - Founded: 1963 (as Consumer Value Stores)
-> - Revenue: $$322 billion (2022)
+> - Revenue: $322 billion (2022)
 > - Employees: 300,000
 > - Retail locations: 9,000+
 

@@ -63,7 +63,7 @@ Congress created **Real Estate Investment Trusts (REITs)** in 1960 to democratiz
 
 REITs trade like stocks but behave like bonds—their dividends are relatively stable, and their values fluctuate with interest rates. When rates rise, REIT prices typically fall, as their yields become less attractive relative to bonds.
 
-![Top REITs by market cap](../../_figures/ch05/ch05_top_reits.png)
+![Top REITs by market cap](../_figures/ch05/ch05_top_reits.png)
 *Figure 5.2: Top REITs by market capitalization. Digital infrastructure (data centers, cell towers) now commands higher valuations than traditional property types. Source: NAREIT (2024)*
 
 ## Industry Structure
@@ -87,7 +87,7 @@ Homebuilding has consolidated dramatically. The 2008 crash wiped out smaller bui
 | 4 | PulteGroup | $16B | roughly 28,000 | Atlanta, GA |
 | 5 | Toll Brothers | $10B | roughly 10,000 | Fort Washington, PA |
 
-![Top homebuilders by homes closed](../../_figures/ch05/ch05_top_homebuilders.png)
+![Top homebuilders by homes closed](../_figures/ch05/ch05_top_homebuilders.png)
 *Figure 5.1: Top 10 homebuilders by homes closed. D.R. Horton dominates the market, closing nearly 90,000 homes annually. Source: Company data (2024)*
 
 The industry remains geographically fragmented—homebuilding is fundamentally local, dependent on land entitlements, labor markets, and municipal permitting. A Texas builder may not operate in California, and vice versa. But within regions, consolidation continues.
@@ -232,7 +232,7 @@ Real estate's role in household wealth makes housing price collapses uniquely de
 
 ### The Boom and Bust
 
-![House price crash 2006-2012](../../_figures/shock_analysis/housing_price_crash.png)
+![House price crash 2006-2012](../_figures/shock_analysis/housing_price_crash.png)
 *Figure 5.4: The Case-Shiller Home Price Index fell 27% nationally from its 2006 peak, with some markets (Phoenix, Las Vegas, Miami) experiencing declines of 50-60%. Source: S&P/Case-Shiller*
 
 The early 2000s saw the largest housing boom in American history. The Case-Shiller National Home Price Index roughly doubled between 2000 and 2006, fueled by low interest rates, loosened lending standards, and speculative fervor. Subprime mortgages—loans to borrowers with weak credit—grew from a marginal product to 20% of originations. "No-doc" loans required no income verification. Option ARMs let borrowers pay less than the interest due, with unpaid interest added to principal.
@@ -287,7 +287,7 @@ The scars remain visible in policy—the conservatorship of Fannie and Freddie, 
 
 ### 1. The Affordability Crisis and "Lock-In" Effect
 
-![House price trends](../../_figures/ch05/ch05_house_price_trends.png)
+![House price trends](../_figures/ch05/ch05_house_price_trends.png)
 *Figure 5.3: Case-Shiller Home Price Index, 2000-2024. Prices surged 40% during the post-COVID boom, then stabilized at elevated levels as mortgage rates rose. Source: S&P/Case-Shiller (2024)*
 
 The post-COVID era created a unique affordability crisis:

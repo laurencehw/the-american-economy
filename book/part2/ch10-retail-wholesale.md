@@ -33,7 +33,7 @@ The trajectory of American retail is a history of disruption, each wave driven b
 5. **Suburban Big-Box (1960s–2000s):** Category killers (Toys "R" Us, Circuit City, Borders) and mass merchants (Walmart, Target) colonized suburban sprawl with massive footprints and parking lots.
 6. **E-commerce (1995–):** The digital iteration of mail order, turbocharged by search costs approaching zero. Why drive to three stores when you can compare prices in seconds?
 
-![Retail format evolution](../../_figures/ch10/ch10_format_evolution.png)
+![Retail format evolution](../_figures/ch10/ch10_format_evolution.png)
 *Figure 10.3: The wheel of retailing: format evolution over a century. Each wave entered as low-cost disruptor before maturing and becoming vulnerable to the next innovation. Source: Author compilation*
 
 Research by Hortaçsu and Syverson (2015) demonstrates that this format evolution, not e-commerce specifically, is the primary story of retail. The shift from small, inefficient retailers to large, productive chains accounts for nearly all productivity growth in the sector. E-commerce is simply the latest chapter.
@@ -79,7 +79,7 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 | 3 | **Costco** | $183B | 54% of warehouse club segment |
 | 4 | **Target** | $107B | "Upscale discount" positioning |
 
-![Top retailers by revenue](../../_figures/ch10/ch10_top_retailers.png)
+![Top retailers by revenue](../_figures/ch10/ch10_top_retailers.png)
 *Figure 10.1: Top 10 retailers by US revenue. Walmart dominates, with nearly twice Amazon's retail revenue. Source: Company data (2024)*
 
 These four firms together account for over $1.1 trillion in US retail sales—roughly 15% of the total market. Their scale advantages in logistics, technology, and purchasing power are nearly insurmountable for smaller competitors.
@@ -215,7 +215,7 @@ NADA deserves special mention as one of the most effective state-level lobbies i
 
 ### 1. The E-commerce Plateau
 
-![E-commerce share of retail](../../_figures/ch10/ch10_ecommerce_share.png)
+![E-commerce share of retail](../_figures/ch10/ch10_ecommerce_share.png)
 *Figure 10.2: E-commerce as a share of retail sales, 2010-2024. Growth has plateaued near 16%, far below predictions of physical retail's demise. Source: Census Bureau*
 
 Contrary to early predictions, physical stores did not die. E-commerce penetration has plateaued at around **16%** of Census-defined retail sales (broader definitions, excluding autos, gas, and restaurants, put it near **22.7%**). The growth curve has flattened. For many categories—grocery, apparel, home goods—consumers still prefer to see, touch, and try before buying.

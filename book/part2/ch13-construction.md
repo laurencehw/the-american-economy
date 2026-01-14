@@ -77,7 +77,7 @@ They systematically tested potential explanations:
 
 **Why has this happened?**
 
-![Construction productivity puzzle](../../_figures/ch13/ch13_productivity_puzzle.png)
+![Construction productivity puzzle](../_figures/ch13/ch13_productivity_puzzle.png)
 *Figure 13.2: The construction productivity puzzle. Output per worker has declined since 1970, unlike every other major sector. Source: Goolsbee and Syverson (2023)*
 
 D'Amico, Glaeser, et al. (2024) point to **regulation and fragmentation**:
@@ -127,7 +127,7 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 | **NVR** | roughly $10B | roughly 24,000 |
 | **Toll Brothers** | roughly $10B | roughly 10,000 |
 
-![Top contractors by revenue](../../_figures/ch13/ch13_top_contractors.png)
+![Top contractors by revenue](../_figures/ch13/ch13_top_contractors.png)
 *Figure 13.3: Top U.S. construction companies by revenue. Engineering giants (Bechtel, Fluor) differ from commercial builders (Turner, Whiting-Turner). Source: ENR (2024)*
 
 **International Giants:** Global construction is increasingly dominated by European and Asian firms with scale American companies cannot match. **VINCI** (France, $70B revenue), **Grupo ACS** (Spain, $45B, owns Turner and Hochtief), and **Bouygues** (France, $45B) operate worldwide. Chinese state-owned enterprises (China State Construction, China Railway) are the world's largest but focus on Asia and Africa.
@@ -254,7 +254,7 @@ Infrastructure spending attracts bipartisan support—everyone likes ribbon-cutt
 
 ### 1. The Manufacturing Supercycle
 
-![Construction spending over time](../../_figures/ch13/ch13_construction_spending.png)
+![Construction spending over time](../_figures/ch13/ch13_construction_spending.png)
 *Figure 13.1: Construction spending by category. Manufacturing construction has tripled since 2021 due to CHIPS Act and IRA investments. Source: Census Bureau*
 
 Construction spending on manufacturing facilities has **tripled** since 2021, driven by industrial policy:
@@ -269,7 +269,7 @@ Construction spending on manufacturing facilities has **tripled** since 2021, dr
   - Battery plants across Georgia, Tennessee, Kentucky, Michigan
   - Solar and wind manufacturing facilities
 
-![Manufacturing construction supercycle](../../_figures/ch13/ch13_manufacturing_supercycle.png)
+![Manufacturing construction supercycle](../_figures/ch13/ch13_manufacturing_supercycle.png)
 *Figure 13.4: The manufacturing construction supercycle. CHIPS Act and IRA investments have driven unprecedented factory construction, especially in semiconductor fabs. Source: Census Bureau*
 
 This manufacturing construction boom is unprecedented in a generation. It is also straining labor markets—workers are being pulled from housing construction, exacerbating affordability problems.

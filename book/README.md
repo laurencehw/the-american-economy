@@ -4,7 +4,7 @@
 
 This book offers a concrete, institutional guide to how the American economy actually works. Not abstract theory, but the real ecosystem: which industries dominate, where they're located, who the major players are, how money flows, what the government does with 40% of GDP, how trade works with neighbors, what people buy, and how it all connects.
 
-The United States has a $$27 trillion economy---the largest in the world. But what does that actually mean? Where does the money come from and where does it go? Who works in what industries, and where? How do the pieces fit together?
+The United States has a $27 trillion economy---the largest in the world. But what does that actually mean? Where does the money come from and where does it go? Who works in what industries, and where? How do the pieces fit together?
 
 These are surprisingly difficult questions to answer. Economics courses teach models and theory. Business schools focus on strategy and finance from the firm's perspective. Neither provides a systematic map of the economic terrain---the kind of concrete knowledge that a regional planner, a journalist covering business, or an informed citizen might want.
 
