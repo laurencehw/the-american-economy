@@ -69,6 +69,11 @@ Below bank deposits sits a vast layer of money-like claims issued by non-banks:
 
 These instruments function as money for their holders—they're liquid, perceived as safe, and used for transactions. But they're promises to pay bank deposits, which are promises to pay reserves, which are promises to pay currency. In normal times, the hierarchy is invisible. In a crisis, it reveals itself. Lower-level money gets tested against higher-level money, and the promises that can't be kept break.
 
+<figure>
+<img src="../_figures/ch16/ch16_flow_of_funds.png" alt="Flow of funds diagram" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 16.2: The flow of funds: how savings become investment. Money flows from sources (households, corporations, government, rest of world) through financial intermediaries (banks, shadow banks, capital markets) to ultimate uses (mortgages, business loans, consumer credit). The Fed sits at the bottom, providing reserves that lubricate the entire system. Source: Federal Reserve Z.1 Financial Accounts</figcaption>
+</figure>
+
 ## How Banks Actually Work
 
 The most important thing to understand about money: banks create it when they lend.

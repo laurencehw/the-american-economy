@@ -79,6 +79,11 @@ The **Federal Deposit Insurance Corporation (FDIC)** insures deposits and resolv
 
 The **Office of the Comptroller of the Currency (OCC)**, an independent bureau within Treasury, supervises national banks. The **Consumer Financial Protection Bureau (CFPB)**, created after 2008, regulates consumer financial products with funding from Federal Reserve transfers that insulate it from congressional appropriations pressure.
 
+<figure>
+<img src="../_figures/ch26/ch26_regulatory_structure.png" alt="U.S. financial regulatory structure" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 26.2: U.S. financial regulatory structure. Congress creates agencies with overlapping jurisdictions. The Treasury and Fed share bank supervision with the FDIC and OCC. Securities and derivatives are split between SEC and CFTC. State regulators add another layer. Source: Author synthesis</figcaption>
+</figure>
+
 ### Other Economic Regulators
 
 The **Federal Trade Commission (FTC)** enforces antitrust law and consumer protection statutes, sharing antitrust authority with the Justice Department's Antitrust Division. The FTC's current leadership has pursued an aggressive enforcement agenda against technology platforms and expanded merger scrutiny.

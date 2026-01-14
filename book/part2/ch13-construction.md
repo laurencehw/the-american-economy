@@ -278,8 +278,8 @@ Construction spending on manufacturing facilities has **tripled** since 2021, dr
   - Solar and wind manufacturing facilities
 
 <figure>
-<img src="../_figures/ch13/ch13_manufacturing_supercycle.png" alt="Manufacturing construction supercycle" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 13.4: The manufacturing construction supercycle. CHIPS Act and IRA investments have driven unprecedented factory construction, especially in semiconductor fabs. Source: Census Bureau</figcaption>
+<img src="../_figures/ch13/ch13_construction_annotated.png" alt="Manufacturing construction supercycle with annotations" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 13.4: The manufacturing construction supercycle. CHIPS Act (August 2022) and IRA triggered a 3.5x increase in manufacturing construction spending, with major projects including Intel Ohio ($20B) and TSMC Arizona ($40B). Source: Census Bureau</figcaption>
 </figure>
 
 This manufacturing construction boom is unprecedented in a generation. It is also straining labor markets—workers are being pulled from housing construction, exacerbating affordability problems.

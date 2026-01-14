@@ -55,6 +55,11 @@ The US operates three largely separate electrical grids with limited interconnec
 
 Limited transmission between these interconnections constrains the ability to balance supply and demand across regions.
 
+<figure>
+<img src="../_figures/ch14/ch14_grid_map.png" alt="U.S. electric grid map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 14.2: U.S. electric grid: ISO/RTO territories. Wholesale electricity markets are managed by Independent System Operators in restructured regions (colored), while traditional utilities operate in gray areas. Texas (ERCOT) is the only state with its own isolated grid. Source: FERC, EIA</figcaption>
+</figure>
+
 **Distribution** delivers power from substations to end users over lower-voltage lines. Distribution utilities---often the same companies that own transmission---maintain local networks and handle customer billing.
 
 **Retail Sales** (roughly $450 billion):

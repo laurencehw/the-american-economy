@@ -33,6 +33,11 @@ The most important innovation in freight isn't a vehicle---it's the shipping con
 
 Intermodal freight---containers that move by multiple modes---has grown from a curiosity to a major segment. J.B. Hunt built a business model around trucking containers to and from rail yards, combining the line-haul efficiency of rail with the flexibility of trucks at each end. The economics work when the rail haul exceeds about 500 miles; below that, trucks are faster and cheaper door-to-door.
 
+<figure>
+<img src="../_figures/ch12/ch12_freight_network.png" alt="U.S. freight network map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 12.3: The U.S. freight skeleton. Major rail corridors (Class I railroads), interstate highways, and container ports form the physical infrastructure of American commerce. Chicago serves as the critical hub where eastern and western rail networks meet. Source: STB, DOT</figcaption>
+</figure>
+
 ## Trucking: The Dominant Mode
 
 Trucking moves America. With over 900,000 registered motor carriers and 1.5 million drivers, trucking is both the largest freight mode and one of the most fragmented industries in the economy. A Walmart store might receive deliveries from dozens of different trucking companies in a single day.

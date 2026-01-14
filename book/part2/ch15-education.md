@@ -181,6 +181,21 @@ Higher education is more geographically concentrated than K-12:
 
 The geography of higher education shapes regional economies. Universities anchor innovation ecosystems; student spending supports college-town retail; alumni networks facilitate hiring. The absence of a major research university can limit a region's economic development options.
 
+<figure>
+<img src="../_figures/ch15/ch15_research_clusters.png" alt="Research university clusters" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 15.2: Major research university clusters (R1 institutions). Knowledge economy hubs concentrate around elite research universities, with Boston/Cambridge, the Bay Area, and NYC hosting the largest clusters. Source: Carnegie Classification (2024)</figcaption>
+</figure>
+
+<figure>
+<img src="../_figures/ch15/ch15_endowments_top20.png" alt="Top 20 university endowments" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 15.3: Top 20 university endowments (FY 2024). Harvard leads with over $50 billion, followed by the University of Texas System. Endowments fund financial aid, research, and operations at wealthy institutions. Source: NACUBO-Commonfund Study of Endowments</figcaption>
+</figure>
+
+<figure>
+<img src="../_figures/ch15/ch15_foreign_students.png" alt="International students in US higher education" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 15.4: International students in U.S. higher education. Enrollment peaked at 1.09 million before COVID, crashed during the pandemic, and has since recovered. International students contribute $40+ billion annually to the U.S. economy. Source: IIE Open Doors Report</figcaption>
+</figure>
+
 ## The Workforce
 
 ### Employment Overview

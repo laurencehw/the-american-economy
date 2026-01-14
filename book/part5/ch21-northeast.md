@@ -37,6 +37,11 @@ The six states that comprise the corridor's core---Massachusetts, Connecticut, N
 
 Together, the corridor accounts for roughly 17% of U.S. GDP on less than 2% of its land area. This concentration of economic output in such a small geographic footprint is unmatched anywhere in the world outside of city-states like Singapore. The density creates both extraordinary productivity and extraordinary vulnerability: the corridor's economic output depends on infrastructure that was largely built a century ago.
 
+<figure>
+<img src="../_figures/regional/regional_gdp_small_multiples.png" alt="Regional GDP growth comparison" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 21.2: Regional economic growth trajectories (indexed to 2010). The Sunbelt and West have grown faster than the Northeast and Midwest over the past decade, though the COVID recession hit all regions. The dashed line shows the national average. Source: BEA Regional GDP</figcaption>
+</figure>
+
 ## The Four Pillars
 
 Each major corridor city has developed a distinct economic specialization, creating complementarity rather than pure competition.

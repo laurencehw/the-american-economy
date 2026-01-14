@@ -94,6 +94,11 @@ The US legal services market ($370 billion) is the world's largest, reflecting b
 
 **Geographic concentration**: Legal services concentrate in major business centers. New York (especially Midtown Manhattan) hosts the largest cluster, followed by Washington DC (regulatory/government work), Chicago, Los Angeles, and San Francisco/Silicon Valley.
 
+<figure>
+<img src="../_figures/ch07/ch07_professional_hubs.png" alt="Professional services hub map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 7.2: Professional services concentration by metro. NYC and DC dominate as "mega-hubs," hosting the majority of AmLaw 100 firms and Big Four offices. Source: American Lawyer, Vault rankings</figcaption>
+</figure>
+
 **Key trends**:
 - Rising associate salaries (first-year associates at top firms now earn $215,000+)
 - Growing in-house legal departments (corporations bringing work inside)

@@ -15,8 +15,8 @@ Manufacturing contributed approximately $2.3 trillion to GDP in 2023—about 10%
 The employment picture tells a different story. Manufacturing employed approximately 12.8 million workers as of early 2024—down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents roughly 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.
 
 <figure>
-<img src="../_figures/ch09/ch09_manufacturing_employment.png" alt="Manufacturing employment over time" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 9.1: Manufacturing employment, 1970-2024. Employment has declined relentlessly from 19 million to 13 million, even as output doubled. Source: BLS CES</figcaption>
+<img src="../_figures/ch09/ch09_manufacturing_annotated.png" alt="Manufacturing employment with key turning points" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 9.1: Manufacturing employment with key turning points, 1980-2024. Key events—NAFTA, China's WTO accession, the financial crisis, and the CHIPS Act—mark turning points in the sector's long employment decline. Source: BLS CES</figcaption>
 </figure>
 
 The divergence between rising output and falling employment represents manufacturing's central economic fact: extraordinary productivity growth. Output per worker has increased dramatically as automation, computerization, and process improvements enabled factories to produce more with fewer hands. A modern automobile assembly plant requires a fraction of the labor that similar facilities needed in the 1970s. Pharmaceutical manufacturing, semiconductor fabrication, and food processing have undergone similar transformations. This productivity growth is economically valuable—it means more goods at lower real cost—but it also means that manufacturing will not return as a mass employer regardless of trade policy, reshoring efforts, or industrial subsidies.

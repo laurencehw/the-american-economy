@@ -131,6 +131,11 @@ The CHIPS and Science Act (2022) committed $52 billion to rebuild domestic semic
 
 Whether these investments can restore U.S. competitiveness remains uncertain. Building costs are 4-5x higher than Asia. The workforce barely exists. And the subsidies, while large, are small relative to what Asian governments have provided for decades.
 
+<figure>
+<img src="../_figures/ch20/ch20_critical_dependencies.png" alt="Critical supply chain dependencies map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 20.2: Critical U.S. supply chain dependencies. Red markers indicate single-point-of-failure chokepoints (TSMC, ASML); orange indicates high concentration risk (China for rare earths and pharmaceutical precursors); green indicates nearshoring destinations (Mexico, Vietnam). Source: Commerce Department Supply Chain Review (2024)</figcaption>
+</figure>
+
 ## Automotive Supply Chains
 
 The North American automotive industry functions as a single integrated production network, with components crossing borders multiple times before a vehicle is completed.
