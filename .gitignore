@@ -11,8 +11,9 @@ _planning/
 # Data sources, working files, raw data
 _data/
 
-# Figure generation scripts
+# Figure generation scripts and working output
 _scripts/
+_figures/
 
 # Templates
 _templates/
