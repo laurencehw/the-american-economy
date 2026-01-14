@@ -91,7 +91,7 @@ The region's Nordic heritage and progressive politics create a civic culture tha
 Columbus is the Rust Belt's growth story. While Cleveland and Detroit lost population, Columbus grew faster than almost any metropolitan area in the region.
 
 **Key Statistics:**
-- Metropolitan GDP: $170 billion
+- Metropolitan GDP: $182 billion (2023)
 - Population growth 2010-2024: 18%
 - Key development: Intel chip fabs ($20 billion investment)
 

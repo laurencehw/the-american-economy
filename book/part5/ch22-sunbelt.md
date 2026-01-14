@@ -41,7 +41,7 @@ The Sunbelt's growth concentrates in a handful of metropolitan areas, each devel
 Houston is to global energy what New York is to global finance: the command center. The city hosts the headquarters of most major oil and gas companies operating in the Western Hemisphere, along with the engineering firms, oilfield service companies, and legal practices that serve them.
 
 **Key Statistics:**
-- Metropolitan GDP: $500 billion
+- Metropolitan GDP: $700 billion (2023)
 - Fortune 500 headquarters: 22
 - Employment in energy sector: 230,000 direct
 
@@ -58,7 +58,7 @@ The city's sprawl is legendary---the metropolitan area covers 10,000 square mile
 If Houston is the energy capital, Dallas is the corporate capital. The metropolitan area hosts more than 20 Fortune 500 headquarters, ranging from AT&T and American Airlines to Texas Instruments and Kimberly-Clark.
 
 **Key Statistics:**
-- Metropolitan GDP: $600 billion
+- Metropolitan GDP: $745 billion (2023)
 - Fortune 500 headquarters: 23
 - Population: 7.8 million (4th largest U.S. metro)
 
@@ -79,7 +79,7 @@ Austin's emergence as a technology center represents one of the most successful 
 - Tech employment: 200,000+
 - Population growth 2010-2024: 45%
 
-But Austin is also a cautionary tale about the limits of growth without infrastructure investment. Traffic congestion has worsened dramatically; housing costs have quintupled since 2010; the city's electric grid strains under extreme temperatures. The "cool" factor that attracted creative workers is being buried under corporate density.
+But Austin also illustrates the limits of growth without infrastructure investment. Traffic congestion has worsened dramatically; housing costs have quintupled since 2010; the city's electric grid strains under extreme temperatures. The creative culture that attracted early tech workers has been transformed by corporate density.
 
 The question facing Austin is whether it can mature into a genuine first-tier technology center or whether infrastructure constraints will cap its potential.
 

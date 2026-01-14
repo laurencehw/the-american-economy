@@ -8,7 +8,7 @@ The Northeast Corridor---stretching from Boston to Washington---functions less a
 
 The corridor's economic dominance reflects centuries of path dependence. Colonial-era port cities became industrial centers, which became financial capitals, which became knowledge hubs. Each transition built on existing infrastructure, institutions, and human capital. The result is an economic density that would be nearly impossible to replicate elsewhere---a fact that explains both the corridor's resilience and its persistent cost disadvantages.
 
-The six states that comprise the corridor's core---Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, and Maryland---plus the District of Columbia together generated $4.8 trillion in GDP in 2023, roughly 18% of the national total. Per capita income across these states averaged $77,000, well above the national figure of $70,000. But these averages mask enormous variation: Connecticut's per capita income of $90,000 and Massachusetts's $90,000 contrast sharply with Pennsylvania's $68,000.
+The six states that comprise the corridor's core---Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, and Maryland---plus the District of Columbia together generated $4.8 trillion in GDP in 2023, roughly 18% of the national total. Per capita income across these states averaged $77,000, well above the national figure of $70,000. But these averages mask enormous variation: Connecticut and Massachusetts lead at roughly $90,000 per capita, while Pennsylvania trails at $68,000.
 
 **Combined Regional Statistics (2024)**
 

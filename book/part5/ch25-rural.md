@@ -39,7 +39,7 @@ The paradox is productivity. American agriculture produces record output with fe
 
 The result is economic marginalization. Counties dependent on agriculture lose population even as agricultural output grows. The consolidation into larger farms---capital-intensive, often corporate-owned---generates wealth that accrues to landowners and equipment suppliers, not to small-town main streets.
 
-**2025 Agricultural Outlook:**
+**Agricultural Outlook (2024-2025):**
 Net farm income is projected to rebound 37-40% from 2024 lows, driven primarily by livestock (cattle, poultry) and government payments exceeding $40 billion. Row crop farmers (corn, soybeans) face compressed margins from low commodity prices and high input costs---the perpetual squeeze between global markets and local costs.
 
 The scale of modern agriculture creates a distinctive rural landscape. Farmhouses separated by miles, grain elevators visible for ten miles, equipment worth more than most houses---the economics require vast operations. A corn farm generating adequate income might span 3,000 acres, well beyond what a single family could work a generation ago. Custom operators, seasonal labor, and hired managers fill the gap.
