@@ -153,6 +153,44 @@ Worker centers are typically nonprofit organizations---legally distinct from uni
 
 Worker centers fill gaps in the labor movement but cannot substitute for the economic leverage that comes from representing workers in collective bargaining.
 
+## The Gig Economy and Worker Misclassification
+
+A structural challenge facing organized labor extends beyond declining unionization: the growing share of workers classified as independent contractors rather than employees. This "gig economy" or "1099 economy" has permeated virtually every sector of the American economy.
+
+**Scale and Scope**
+
+Estimates vary, but roughly 36% of American workers participate in some form of gig work, though only 10-15% rely on it as primary income. The phenomenon extends far beyond the ride-share and delivery apps that dominate public perception:
+
+- **Transportation**: Uber and Lyft drivers (roughly 2 million), DoorDash and Instacart delivery workers
+- **Healthcare**: Travel nurses (agencies provide "gig-like" flexibility), home health aides, locum tenens physicians
+- **Construction**: Day laborers, specialty subcontractors who cycle between jobs
+- **Professional Services**: Consultants, freelance accountants, contract lawyers
+- **Education**: Adjunct faculty (now 70%+ of college instructors), substitute teachers
+- **Media and Tech**: Freelance journalists, contract software developers, content moderators
+
+**Why Classification Matters**
+
+Independent contractors lack access to:
+- Minimum wage and overtime protections (Fair Labor Standards Act)
+- Unemployment insurance
+- Workers' compensation
+- Employer-provided health insurance and retirement contributions
+- The right to organize under the NLRA
+
+For employers, 1099 classification can reduce labor costs by 20-30%---eliminating payroll taxes, benefits, and legal obligations. This creates powerful incentives to structure work as "independent contracting" even when the functional reality resembles employment.
+
+**Legal Battles**
+
+The definition of "employee" versus "contractor" has become a central labor policy battleground. California's AB5 (2019) attempted to reclassify gig workers as employees, but ride-share companies spent $200 million on Proposition 22 (2020) to exempt themselves, creating a special category of "app-based workers" with some benefits but not employee status.
+
+The federal standard remains contested. The Biden administration's Department of Labor issued a rule tightening independent contractor classification; its durability under subsequent administrations is uncertain. The PRO Act, supported by unions, would codify the stricter "ABC test" for contractor status under federal labor law.
+
+**Implications for Organizing**
+
+Gig work poses fundamental challenges for traditional unionism. Workers are dispersed, often work for multiple platforms simultaneously, and lack a stable workplace where organizing can occur. Some unions have adapted: SEIU has organized home care workers classified as contractors; the Teamsters have affiliated with the Amazon Labor Union. But the 1099 model structurally undermines the assumptions of New Deal labor law, which presumed stable employment relationships at fixed locations.
+
+The growth of gig work represents not just a legal classification issue but a broader restructuring of the employment relationship---shifting risk from employers to workers while reducing the leverage that comes from collective action.
+
 ## Political Activity
 
 Unions remain significant political actors, though their influence has declined with membership.

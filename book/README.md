@@ -39,9 +39,9 @@ The main text is accessible and avoids unnecessary jargon. Technical details and
 
 ## A Note on Data
 
-The primary reference year for data in this book is 2022-2023. Economic statistics come from official sources: the Bureau of Economic Analysis (BEA) for GDP and industry accounts, the Bureau of Labor Statistics (BLS) for employment, the Census Bureau for business establishments, and various regulatory agencies for sector-specific data.
+This book was written in late 2025 and early 2026. The primary reference year for statistical data is 2022-2023, reflecting the lag in official economic statistics from the Bureau of Economic Analysis (BEA), Bureau of Labor Statistics (BLS), and Census Bureau. However, the narrative and policy context is current through January 2026, incorporating major developments in antitrust enforcement, industrial policy, and market events through 2024 and 2025.
 
-Where possible, I've tried to use the most recent available data, but economic statistics are often released with a lag. The goal is to capture the structure of the economy as it exists in the 2020s, not to provide a real-time snapshot.
+Economic statistics are released with varying lags---GDP data may be one to two years old, while employment data is more current. Where possible, I've updated figures to reflect the most recent releases, but readers should check primary sources for the latest numbers. The goal is to capture the structure of the economy as it exists in the mid-2020s, not to provide a real-time snapshot that would be outdated upon publication.
 
 ## Acknowledgments
 

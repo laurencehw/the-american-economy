@@ -246,6 +246,20 @@ Generative AI has transformed the technology landscape since ChatGPT's November 
 
 The AI boom has concentrated capital and talent at the largest companies. Training frontier models requires hundreds of millions of dollars in computing costs, favoring companies with cloud infrastructure and deep pockets. Whether AI will ultimately disrupt Big Tech incumbents or entrench them remains unclear.
 
+### The Data Economy
+
+Data has become a distinct economic asset—the raw material that powers AI models, targeted advertising, and algorithmic decision-making. A "data economy" has emerged alongside the traditional technology sector, often invisible but pervasive.
+
+**Data Brokers**: Companies like Acxiom, Experian (beyond credit scores), Oracle Data Cloud, and LiveRamp aggregate consumer data from thousands of sources—purchases, location history, social media activity, browsing behavior—and sell it to advertisers, insurers, employers, and political campaigns. The industry generates an estimated $250 billion annually.
+
+**AI Training Data**: Large language models require massive text corpora; image generators require billions of captioned images. This has created a market for training data, raising questions about copyright (many models trained on copyrighted material without permission) and compensation (artists and writers whose work trains models receive nothing). Scale AI, a startup valued at $14 billion, coordinates armies of human labelers who annotate data for AI training.
+
+**Enterprise Data**: Companies increasingly treat their own data as a strategic asset. Customer transaction data, sensor readings from equipment, employee productivity metrics—all can be analyzed for insights or sold to third parties. Chief Data Officers have become common C-suite positions.
+
+**Personal Data as Currency**: Consumers generate valuable data through their daily activities but capture almost none of its value. Proposals for "data dividends" or treating data as a property right have gained attention but not traction. The asymmetry between data generators (consumers) and data exploiters (platforms) remains a defining feature of the digital economy.
+
+The data economy sits awkwardly between this chapter's technology sector and Chapter 7's professional services. Data brokers are neither traditional tech companies nor consulting firms. Yet the decisions made about data—who collects it, who owns it, how it's used—will shape the AI-driven economy of the coming decades.
+
 ### Streaming Consolidation
 
 The streaming wars have entered a mature phase characterized by consolidation, price increases, and profitability pressure. The era of easy subscriber growth has ended in developed markets. Services have responded by:

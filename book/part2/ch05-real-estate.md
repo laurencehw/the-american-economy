@@ -107,7 +107,7 @@ Commercial owners are highly specialized. A warehouse operator has nothing in co
 Residential real estate transaction costs in the U.S. are remarkably high—typically 5–6% total commission, split between buyer's and seller's agents. International comparisons suggest 1–2% is achievable. The culprit is the **Multiple Listing Service (MLS)** structure:
 
 - **NAR and MLS:** The National Association of Realtors coordinates local MLSs, which serve as the primary database of homes for sale. Access requires NAR membership and adherence to compensation rules that historically required sellers to offer commissions to buyer's agents.
-- **2024 Settlement:** A major antitrust settlement in 2024 restructured these rules, potentially decoupling buyer and seller commissions. The full impact remains to be seen.
+- **2024 Settlement:** A $418 million antitrust settlement, effective August 2024, prohibited listing agents from advertising buyer's agent compensation on the MLS and required buyer representation agreements specifying how buyer's agents would be paid. The theory was that "decoupling" would force negotiation and lower commissions. In practice, the impact has been muted: average buyer's agent commissions dropped briefly to 2.36% in Q3 2024 but rebounded to 2.40% by Q1 2025. Sellers' agents continue to communicate commission offers outside the MLS, and most sellers still pay buyer's agent commissions to facilitate sales. The revolution in transaction costs that some predicted has not materialized.
 
 **Major Residential Brokerages**
 
@@ -322,7 +322,18 @@ Remote work has cratered demand for office space in many markets:
 - **Conversion Challenge:** Converting offices to apartments is technically difficult (floor plates, windows, plumbing) and financially marginal without subsidies.
 - **Bifurcation:** Trophy buildings with amenities retain tenants; commodity space faces obsolescence.
 
-### 5. The Rent Control Debate Returns
+### 5. The Property Insurance Crisis
+
+A less-discussed threat to housing markets is the emerging insurance crisis. Property insurance is the invisible prerequisite for mortgage finance: no insurance, no mortgage; no mortgage, no sale at conventional prices.
+
+- **Climate Losses**: Insured losses from natural disasters have risen from roughly $10 billion annually in the 1990s to $50-100 billion annually in the 2020s. Hurricanes, wildfires, and severe storms are straining the insurance model.
+- **Insurer Retreat**: Major insurers are withdrawing from high-risk markets. State Farm and Allstate have stopped writing new homeowner policies in California. In Florida, several regional insurers have gone insolvent, and the state-backed Citizens Property Insurance has become the largest insurer by default.
+- **The Mortgage-Insurance Link**: Fannie Mae and Freddie Mac require borrowers to maintain property insurance. If private insurance becomes unavailable or unaffordable, homeowners face a choice between sky-high premiums, inadequate state-backed plans, or losing access to conventional mortgages entirely.
+- **Value Implications**: In areas where insurance costs have doubled or tripled, home values are effectively capped by what buyers can afford in total housing costs (mortgage + insurance + taxes). Some coastal Florida properties have seen 20-30% value declines attributable primarily to insurance cost increases.
+
+The insurance crisis intersects with the housing crisis: if climate risk makes coastal and wildfire-prone areas uninsurable, the housing stock in those areas loses significant value, potentially triggering localized housing busts. This represents a slow-motion version of the 2008 geographic concentration—except instead of speculative excess, the underlying cause is physical climate risk. See Chapter 8 for more on the insurance industry's challenges.
+
+### 6. The Rent Control Debate Returns
 
 As affordability has worsened, rent control has resurfaced as a policy option.
 

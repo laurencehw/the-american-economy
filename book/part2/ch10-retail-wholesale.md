@@ -84,6 +84,8 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 
 These four firms together account for over $1.1 trillion in US retail sales—roughly 15% of the total market. Their scale advantages in logistics, technology, and purchasing power are nearly insurmountable for smaller competitors.
 
+The dominance of these four reflects different paths to scale. Walmart won through ruthless cost discipline and geographic saturation of underserved markets. Amazon won through technology, logistics investment, and willingness to sacrifice profits for growth. Costco won through a membership model that generates loyalty and recurring revenue. Target found a "cheap chic" positioning niche between Walmart's bare-bones efficiency and department store prestige. Each succeeded by creating customer lock-in that smaller competitors cannot replicate—Walmart through ubiquity, Amazon through Prime, Costco through membership psychology. A regional grocer or independent retailer cannot match any of these moats.
+
 ### Other Major Segments
 
 **Grocery:** A brutally low-margin business (1–2% net margins typical) dominated by scale. **Kroger** ($150B), the largest traditional grocer, operates regional banners (Ralphs, Fred Meyer, Harris Teeter). **Albertsons** ($79B) owns Safeway, Vons, and Jewel-Osco. Strong regional chains persist: **Publix** (Florida-based, $54B, employee-owned), **H-E-B** (Texas, privately held, cult following), **Wegmans** (Northeast, smaller but beloved).

@@ -130,7 +130,9 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 ![Top contractors by revenue](../_figures/ch13/ch13_top_contractors.png)
 *Figure 13.3: Top U.S. construction companies by revenue. Engineering giants (Bechtel, Fluor) differ from commercial builders (Turner, Whiting-Turner). Source: ENR (2024)*
 
-**International Giants:** Global construction is increasingly dominated by European and Asian firms with scale American companies cannot match. **VINCI** (France, $70B revenue), **Grupo ACS** (Spain, $45B, owns Turner and Hochtief), and **Bouygues** (France, $45B) operate worldwide. Chinese state-owned enterprises (China State Construction, China Railway) are the world's largest but focus on Asia and Africa.
+Note that the largest American engineering contractors (Bechtel, Fluor, Kiewit) are essentially engineering firms that happen to build, while the largest commercial builders (Turner, Whiting-Turner) are project management operations that coordinate subcontractors. Neither model achieves the vertical integration that characterizes large homebuilders like D.R. Horton or global construction giants. This fragmentation reflects the industry's project-based nature: each job is custom, making standardization difficult.
+
+**International Giants:** Global construction is increasingly dominated by European and Asian firms with scale American companies cannot match. **VINCI** (France, $70B revenue), **Grupo ACS** (Spain, $45B, owns Turner and Hochtief), and **Bouygues** (France, $45B) operate worldwide. Chinese state-owned enterprises (China State Construction, China Railway) are the world's largest but focus on Asia and Africa. The American absence from the global top tier reflects the domestic industry's fragmentation—no U.S. firm has achieved the scale or international reach of these foreign giants.
 
 ## Geographic Distribution
 

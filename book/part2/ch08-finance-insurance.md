@@ -35,7 +35,7 @@ Banks perform **maturity transformation**: they borrow short (deposits that can 
 | Loans: 65% | Equity capital: 10% |
 | Other: 5% | |
 
-Banks make money on the **net interest margin (NIM)**---the spread between what they earn on loans and what they pay on deposits. Historical NIM for US banks has declined from 4-4.5% in the 1990s to 2.5-3.5% today, reflecting lower interest rates, competition from fintech, and regulation requiring more liquid (low-yield) assets.
+Banks make money on the **net interest margin (NIM)**---the spread between what they earn on loans and what they pay on deposits. Historical NIM for US banks has declined from 4-4.5% in the 1990s to 2.5-3.5% today, reflecting lower interest rates, competition from fintech, and regulation requiring more liquid (low-yield) assets. For a deeper explanation of how banks actually create money and how the payment system works, see Chapter 16.
 
 ### Revenue Streams
 
@@ -63,14 +63,7 @@ Banks make money on the **net interest margin (NIM)**---the spread between what 
 
 ### The Shadow Banking System
 
-Beyond traditional banks, a parallel system of credit intermediation operates with less regulation and no deposit insurance:
-
-- **Money market funds**: roughly $6 trillion, investing in short-term paper while offering checking features
-- **Repo markets**: roughly $5 trillion in overnight secured lending
-- **Asset-backed securities**: Pools of mortgages, auto loans, credit cards packaged and sold to investors
-- **Private credit**: Direct lending by funds outside the banking system, now roughly $1.5 trillion
-
-Shadow banking grew because it was profitable for all participants: regulatory arbitrage allowed higher leverage, yield-seeking investors accepted bank-like risks, and financial innovation enabled complex structuring. The 2008 crisis was fundamentally a run on shadow banking---institutions performing bank-like functions without bank-like protections collapsed when confidence evaporated.
+Beyond traditional banks, a parallel system of credit intermediation operates with less regulation and no deposit insurance. Money market funds (roughly $6 trillion), repo markets (roughly $5 trillion), and private credit (roughly $1.5 trillion) perform bank-like functions without bank-like protections. The 2008 crisis was fundamentally a run on shadow banking. For detailed treatment of how shadow banking works and its role in financial crises, see Chapter 16.
 
 ## Industry Structure
 
@@ -175,6 +168,15 @@ The "Big Three" (BlackRock, Vanguard, State Street) collectively manage roughly 
 | 5 | Bridgewater | $125B | Hedge fund (macro) |
 
 Private equity has grown from a niche strategy to a major force, with implications across the economy. PE firms own companies employing millions of workers, from hospital systems to retail chains to single-family rental homes.
+
+**The Roll-Up Strategy**: Beyond headline acquisitions, PE has quietly consolidated thousands of small businesses in fragmented industries. The playbook is straightforward: buy a "platform" company in a fragmented sector, then aggressively acquire smaller competitors ("add-ons"), achieving economies of scale while extracting synergies. Examples span the economy:
+
+- **Healthcare**: Dental practices (Heartland Dental, Aspen Dental), dermatology clinics, veterinary practices (Mars Petcare owns 2,500+ clinics), emergency rooms (Envision, TeamHealth)
+- **Home Services**: HVAC contractors, plumbing companies, pest control, lawn care
+- **Professional Services**: Accounting firms, engineering consultancies, IT service providers
+- **Consumer Services**: Car washes, funeral homes, self-storage facilities
+
+For a dentist or plumber who sells to PE, the exit provides liquidity and retirement funds. For consumers, the consolidation often means higher prices, standardized service, and corporate rather than owner-operator management. For workers, it can mean new management pressure on wages and staffing levels. The roll-up wave has transformed industries that were historically fragmented into surprisingly concentrated markets—often without the antitrust scrutiny that large horizontal mergers attract, since each individual acquisition is small.
 
 ### Fintech and Neobanks
 
