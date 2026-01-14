@@ -1,25 +1,14 @@
-# Large source materials (PDFs) - too large for GitHub
-_3industries/
-_2businesshistory/
-_9 Federal government/
-_1nipa/
-_4economics of institutions/
-_6Macro/
-_5history/
-_8regional economics/
-_7Trade/
+# Literature/source materials (large PDFs, not needed in repo)
+literature/
 
 # Data files that are large or generated
-*.pdf
 *.xlsx
 *.xls
-*.csv
 *.parquet
 
-# But keep markdown and code
+# But keep specific data files needed for the book
 !_data/*.md
-!_scripts/*.py
-!_templates/*.md
+!_data/*.json
 
 # Python
 __pycache__/
@@ -46,24 +35,23 @@ desktop.ini
 # Temp files
 *.tmp
 *.temp
+tmpclaude-*
 
-# Google Drive files (shortcuts, not real files)
+# Google Drive shortcuts (not real files)
 *.gdoc
 *.gsheet
 *.gslides
 *.gdraw
 
-# Project-specific exclusions (sensitive/private)
-CLAUDE.md
+# Office documents (usually not needed in repo)
+*.docx
+*.pptx
+
+# Claude Code working files
+.claude/
+
+# Project-specific exclusions
 _data/cross_project_resources.md
 _data/materials_inventory.md
 _data/pdf_inventory_raw.txt
-
-# Unrelated materials
-_0econ_data_statistics/
-__slides/
-*.docx
-*.pptx
-tmpclaude-*
 _data/*.txt
-.claude/
