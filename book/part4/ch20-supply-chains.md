@@ -83,7 +83,7 @@ Other major land crossings include El Paso-Juarez (second largest), Detroit-Wind
 
 ## Semiconductor Supply Chains
 
-![iPhone supply chain](../_figures/ch20/ch20_iphone_supply_chain.png)
+<img src="../_figures/ch20/ch20_iphone_supply_chain.png" alt="iPhone supply chain" width="100%">
 *Figure 20.1: The iPhone supply chain spans dozens of countries. Components designed in the U.S. are manufactured across Asia, assembled in China, and shipped worldwide. Source: Author compilation from company data*
 
 No industry better illustrates the complexity and vulnerability of global supply chains than semiconductors.

@@ -65,7 +65,7 @@ Throughout this book, you'll find interactive visualizations that let you explor
 **Data Explorer Dashboard:** For comprehensive sector comparisons and custom analysis, use our interactive data explorer:
 {% endhint %}
 
-<iframe src="./_interactive/data-explorer.html" width="100%" height="700" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
+<iframe src="https://raw.githack.com/laurencehw/the-american-economy/main/book/_interactive/data-explorer.html" width="100%" height="700" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
 
 ## Technical Appendices
 

@@ -23,7 +23,7 @@ American capital markets dwarf those of any other nation.
 
 *Sources: World Federation of Exchanges; SIFMA; Preqin*
 
-![Stock market capitalization](../_figures/ch17/ch17_stock_market_cap.png)
+<img src="../_figures/ch17/ch17_stock_market_cap.png" alt="Stock market capitalization" width="100%">
 *Figure 17.1: U.S. stock market capitalization dwarfs all other markets. The "Big Three" exchanges (NYSE, NASDAQ, and their affiliates) account for over 40% of global equity market value. Source: World Federation of Exchanges*
 
 The dominance is no accident. Deep capital markets require legal infrastructure (property rights, contract enforcement, bankruptcy procedures), sophisticated intermediaries, large pools of domestic savings, and network effects that attract foreign capital. The United States developed these advantages over more than a century, and they compound: liquidity attracts liquidity.
@@ -203,7 +203,7 @@ The **10-year Treasury yield** is the benchmark rate for the U.S. economy, influ
 
 ### Corporate Bonds
 
-![Bond market breakdown](../_figures/ch17/ch17_bond_market.png)
+<img src="../_figures/ch17/ch17_bond_market.png" alt="Bond market breakdown" width="100%">
 *Figure 17.2: U.S. bond markets by segment. Treasury securities dominate, followed by mortgage-backed securities and corporate bonds. The $50+ trillion market dwarfs equities by outstanding value. Source: SIFMA*
 
 Corporations borrow in bond markets to fund operations, acquisitions, and capital expenditures. The corporate bond market totals roughly $10 trillion outstanding.
