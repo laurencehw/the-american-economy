@@ -132,6 +132,11 @@ The Federal Reserve System produces financial and monetary data.
 - Federal Reserve balance sheet
 - Weekly
 
+**H.8 Release (Assets and Liabilities of Commercial Banks)**
+- Weekly data on bank credit, loans, and securities holdings
+- Key for tracking lending conditions and bank balance sheets
+- Access: [federalreserve.gov/releases/h8](https://www.federalreserve.gov/releases/h8)
+
 **Industrial Production and Capacity Utilization**
 - Monthly output by industry
 - Capacity utilization rates
