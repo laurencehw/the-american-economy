@@ -75,7 +75,7 @@ Money flows in a circle: businesses pay wages and profits to households; househo
 **Interactive Version:** Click on the nodes below or use the step buttons to explore how money flows through the economy. Press "Play Animation" to see the complete circuit in action.
 {% endhint %}
 
-<iframe src="../_interactive/circular-flow.html" width="100%" height="850" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
+<iframe src="https://laurencehw.github.io/the-american-economy/book/_interactive/circular-flow.html" width="100%" height="850" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
 
 ### Adding Complexity
 

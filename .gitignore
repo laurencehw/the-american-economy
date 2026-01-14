@@ -1,14 +1,28 @@
-# Literature/source materials (large PDFs, not needed in repo)
+# ===========================================
+# Private/working files - not for public repo
+# ===========================================
+
+# Claude instructions
+CLAUDE.md
+
+# Planning and session docs
+_planning/
+
+# Data sources, working files, raw data
+_data/
+
+# Figure generation scripts
+_scripts/
+
+# Templates
+_templates/
+
+# Literature and source materials
 literature/
 
-# Data files that are large or generated
-*.xlsx
-*.xls
-*.parquet
-
-# But keep specific data files needed for the book
-!_data/*.md
-!_data/*.json
+# ===========================================
+# General ignores
+# ===========================================
 
 # Python
 __pycache__/
@@ -37,21 +51,23 @@ desktop.ini
 *.temp
 tmpclaude-*
 
-# Google Drive shortcuts (not real files)
+# Google Drive shortcuts
 *.gdoc
 *.gsheet
 *.gslides
 *.gdraw
 
-# Office documents (usually not needed in repo)
+# Office documents
 *.docx
 *.pptx
 
 # Claude Code working files
 .claude/
 
-# Project-specific exclusions
-_data/cross_project_resources.md
-_data/materials_inventory.md
-_data/pdf_inventory_raw.txt
-_data/*.txt
+# Large binary files
+*.pdf
+
+# Figure generation scripts and data (keep only PNGs)
+book/_figures/**/*.py
+book/_figures/**/*.csv
+book/_figures/**/data/

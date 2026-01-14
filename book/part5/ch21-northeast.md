@@ -26,7 +26,7 @@ The six states that comprise the corridor's core---Massachusetts, Connecticut, N
 **Interactive Map:** Explore America's top 20 metro economies below. Click markers for details, filter by region, and compare metros by GDP, population, or GDP per capita.
 {% endhint %}
 
-<iframe src="../_interactive/regional-map.html" width="100%" height="850" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
+<iframe src="https://laurencehw.github.io/the-american-economy/book/_interactive/regional-map.html" width="100%" height="850" frameborder="0" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></iframe>
 
 Together, the corridor accounts for roughly 17% of U.S. GDP on less than 2% of its land area. This concentration of economic output in such a small geographic footprint is unmatched anywhere in the world outside of city-states like Singapore. The density creates both extraordinary productivity and extraordinary vulnerability: the corridor's economic output depends on infrastructure that was largely built a century ago.
 
