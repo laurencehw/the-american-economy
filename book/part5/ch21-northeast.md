@@ -2,6 +2,11 @@
 
 The Acela train leaves Penn Station in New York at 6:00 AM, and by 8:30 it has deposited passengers at Union Station in Washington. In between, the train passes through Newark, Philadelphia, Wilmington, and Baltimore---a continuous metropolitan fabric housing 50 million people generating over $4 trillion in annual output. If the Northeast Corridor were a country, it would rank among the world's five largest economies.
 
+<figure>
+<img src="../_figures/ch21/ch21_corridor_map.png" alt="Northeast Corridor Map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 21.0: The Northeast Corridor mega-region. Four major metros---Boston, New York, Philadelphia, and Washington---form a continuous economic zone generating over $4 trillion annually, linked by the Acela rail corridor. Source: Author analysis</figcaption>
+</figure>
+
 ## A Unified Economic Region
 
 The Northeast Corridor---stretching from Boston to Washington---functions less as a collection of separate cities than as a single economic mega-region. Economists increasingly view it through the lens of agglomeration: four major metros so tightly integrated by rail, road, and digital infrastructure that they operate as a unified labor market for elite professional services.

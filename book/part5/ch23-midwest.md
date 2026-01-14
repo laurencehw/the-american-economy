@@ -22,13 +22,13 @@ Population tells the story of transition. Illinois has declined from 12.8 millio
 | Wisconsin | $400 billion | 18% | Stable |
 
 <figure>
-<img src="../_figures/ch23/ch23_midwest_unemployment.png" alt="Midwest Unemployment Trends" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 23.1: Midwest state unemployment rates have converged post-pandemic. The regional labor market remains tight despite manufacturing automation. Source: BLS</figcaption>
+<img src="../_figures/ch23/ch23_midwest_map.png" alt="Midwest Region and Battery Belt Map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 23.1: The Midwest and Battery Belt corridor. Major industrial investments from the CHIPS Act and IRA have directed over $50 billion into manufacturing across Michigan, Ohio, Indiana, Kentucky, and Tennessee since 2022. Source: Company announcements, state economic development</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch23/ch23_battery_belt.png" alt="Battery Belt Industrial Investment" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 23.2: The "Battery Belt" corridor of industrial investment. The CHIPS Act and IRA have directed over $50 billion into Midwest manufacturing since 2022, with Intel's Ohio fabs and EV battery plants anchoring the revival. Source: Company announcements, state economic development</figcaption>
+<img src="../_figures/ch23/ch23_midwest_unemployment.png" alt="Midwest Unemployment Trends" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 23.2: Midwest state unemployment rates have converged post-pandemic. The regional labor market remains tight despite manufacturing automation. Source: BLS</figcaption>
 </figure>
 
 The region's challenge is structural: manufacturing output grows through automation while manufacturing employment shrinks. Ohio ranks third nationally in manufacturing jobs (687,000), but that figure has fallen by half since 1979.

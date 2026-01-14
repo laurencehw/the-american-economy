@@ -23,6 +23,11 @@ The geographic distribution of rural America is uneven. The Great Plains and Mou
 
 ## The Rural Economies
 
+<figure>
+<img src="../_figures/ch25/ch25_rural_map.png" alt="Rural America Economic Regions Map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 25.1: Rural America's diverse economies. The Great Plains Corn Belt depends on agriculture; Appalachia faces coal decline; the Mountain West attracts recreation and remote workers; the Permian Basin booms from energy extraction; and the Wind Belt emerges with renewable energy. Source: USDA ERS, Census Bureau</figcaption>
+</figure>
+
 Rural America is not one economy but several, each with distinct dynamics.
 
 ### Agriculture

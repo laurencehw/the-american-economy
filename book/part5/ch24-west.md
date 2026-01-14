@@ -7,13 +7,13 @@ The American West---the Pacific Coast states plus the Mountain West---represents
 ## California: The Colossus
 
 <figure>
-<img src="../_figures/ch24/ch24_west_gdp.png" alt="Western State Economies" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 24.1: GDP of Western states (2023). California dominates, producing more than all other Western states combined. Source: BEA</figcaption>
+<img src="../_figures/ch24/ch24_west_map.png" alt="Western States Map" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 24.1: The American West. California alone generates $4.1 trillion in GDP—the world's 5th largest economy if independent. Major tech hubs cluster along the coast, while the Colorado River Basin faces existential water constraints. Source: BEA, Bureau of Reclamation</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch24/ch24_tech_water_map.png" alt="Western Tech Hubs and Water Stress" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 24.2: Tech concentration and water constraints in the American West. The Bay Area dominates with $1.3 trillion GDP and 50%+ of US venture capital, while the Colorado River Basin faces existential water crisis affecting Phoenix, Las Vegas, and Southern California. Source: BEA, Bureau of Reclamation</figcaption>
+<img src="../_figures/ch24/ch24_west_gdp.png" alt="Western State Economies" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 24.2: GDP of Western states (2023). California dominates, producing more than all other Western states combined. Source: BEA</figcaption>
 </figure>
 
 California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds the entire output of the United Kingdom. The state leads the nation in manufacturing (by value), agriculture, entertainment, and technology. One in eight Americans lives in California; one in seven dollars of American output is produced there.
