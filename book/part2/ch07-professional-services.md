@@ -1,8 +1,8 @@
 # 7. Professional and Business Services
 
-Walk into any office tower in Manhattan, downtown Chicago, or San Francisco's Financial District and you'll find floors of lawyers, consultants, accountants, and software engineers—the knowledge workers who power the professional services economy. This sector, often invisible to consumers who never hire a management consultant or M&A attorney, quietly accounts for over $2 trillion in annual output and employs more than 20 million Americans.
+Walk into any office tower in Manhattan, Chicago, or San Francisco and you will find floors of lawyers, consultants, accountants, and software engineers. Most Americans never hire an M&A attorney or a management consultant, yet professional services generates $2.3 trillion annually and employs 22 million workers. These firms sell expertise---legal judgment, strategic advice, audited financials---and their concentration in a handful of elite metros shapes the economic geography of American cities.
 
-Professional and business services (NAICS 54-56) encompasses an extraordinarily diverse set of industries united by one feature: they sell expertise rather than physical goods. A law firm sells legal judgment; McKinsey sells strategic advice; Deloitte sells audit opinions and tax planning; advertising agencies sell creative campaigns and media placement. These services are produced by highly educated workers, concentrated in major metropolitan areas, and increasingly central to how the modern economy functions.
+Professional and business services (NAICS 54-56) encompasses a diverse set of industries united by one feature: they sell expertise rather than physical goods. A law firm sells legal judgment; McKinsey sells strategic advice; Deloitte sells audit opinions and tax planning; advertising agencies sell creative campaigns and media placement. These services are produced by highly educated workers, concentrated in major metropolitan areas, and increasingly central to how the modern economy functions.
 
 ## Overview
 
@@ -50,6 +50,12 @@ The **leverage ratio** (associates per partner) determines profitability. A law 
 
 This model creates a distinctive career structure: the **tournament**. Junior professionals compete for a limited number of partner slots. Those who make partner earn substantial equity stakes; those who don't typically leave ("up or out"). Marc Galanter and Thomas Palay's *Tournament of Lawyers* (1991) formalized this model for law firms, but it applies broadly across consulting, accounting, and investment banking.
 
+{% hint style="warning" %}
+**The Tournament's Hidden Costs**
+
+The "up or out" model generates intense effort but also burnout, attrition, and perverse incentives. Associates work 80-hour weeks for years pursuing partnership odds of 10-20%. Those who fail leave with transferable skills but often with strained relationships and health consequences. The model persists because it extracts maximum effort from the young while firms are built on their labor.
+{% endhint %}
+
 ### Revenue Streams
 
 **Hourly billing** remains dominant in legal services and much of accounting. Clients pay for time spent, creating incentives for efficiency (clients want less time) and inefficiency (firms want more billable hours) that are never fully resolved.
@@ -90,6 +96,12 @@ The US legal services market ($370 billion) is the world's largest, reflecting b
 
 *PPP = Profits Per Partner. Source: American Lawyer*
 
+{% hint style="info" %}
+**Key Metric: Profits Per Partner (PPP)**
+
+PPP measures a law firm's profitability by dividing total partner profits by number of equity partners. A firm with $500M in profits and 100 equity partners has PPP of $5M. This metric drives firm strategy: partners resist promoting new partners (dilutes PPP) and push for higher leverage (increases PPP). The AmLaw rankings by PPP create intense competitive pressure.
+{% endhint %}
+
 **Specialization**: Large firms increasingly specialize. Kirkland & Ellis dominates private equity work; Wachtell Lipton is the premier M&A defense firm; Quinn Emanuel leads commercial litigation. Specialization allows expertise development but creates "rainmaker" dependency—partners who control client relationships hold enormous power.
 
 **Geographic concentration**: Legal services concentrate in major business centers. New York (especially Midtown Manhattan) hosts the largest cluster, followed by Washington DC (regulatory/government work), Chicago, Los Angeles, and San Francisco/Silicon Valley.
@@ -117,6 +129,12 @@ The accounting industry is dominated by the **Big 4**: Deloitte, PwC, EY, and KP
 | PwC | $53B | $21B | 75,000 |
 | EY | $50B | $20B | 78,000 |
 | KPMG | $36B | $14B | 40,000 |
+
+{% hint style="warning" %}
+**Too Big to Fail? The Big 4 Problem**
+
+The Big 4 audit 99% of S&P 500 companies. If one firm collapsed (as Arthur Andersen did after Enron), the remaining three could not absorb its clients---creating systemic risk for capital markets. Regulators have considered structural reforms (mandatory firm rotation, audit-only firms) but none have been implemented. The Big 4 remain too big to fail and too essential to regulate aggressively.
+{% endhint %}
 
 *Sources: Firm disclosures*
 

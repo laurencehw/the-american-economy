@@ -1,6 +1,6 @@
 # 26. Federal Economic Governance
 
-When markets crash, when inflation spikes, when unemployment rises, Americans look to Washington for answers. But "Washington" is not a single actor---it is a sprawling apparatus of agencies, councils, and commissions, each with distinct authorities, constituencies, and institutional cultures. Understanding how economic policy actually gets made requires mapping this institutional landscape.
+When markets crash, when inflation spikes, when unemployment rises, Americans look to Washington for answers. But "Washington" is not a single actor---it is a sprawling apparatus of agencies, councils, and commissions, each with distinct authorities, constituencies, and institutional cultures. Understanding how economic policy actually gets made requires charting this institutional architecture.
 
 ## The Policy-Making Core
 
