@@ -1,18 +1,26 @@
 # 1. The American Economy in Numbers
 
-The American economy produces $27 trillion worth of goods and services each year. To put that in perspective: the New York metropolitan area alone has a larger economy than Canada. California's output exceeds that of India. Texas produces more than Russia. The United States, with about 4% of the world's population, accounts for roughly a quarter of global GDP.
+The United States generates $27 trillion in annual output. New York's metropolitan area alone outproduces Canada. California exceeds India. Texas, Russia. Four percent of the world's population, one-quarter of its GDP.
 
-But what does a $27 trillion economy actually look like? Who works in it, what do they produce, and where? This chapter provides the basic map---the statistical portrait that frames everything that follows.
+What does a $27 trillion economy look like from the inside---who works in it, what they make, and where? The statistics that follow answer these questions and frame the chapters ahead.
 
 ## The Big Picture
 
 **Gross Domestic Product (2023):** $27.4 trillion
 
-This single number captures the total value of goods and services produced within U.S. borders in a year. It's the most commonly cited measure of economic size, though as we'll see, it has important limitations.
+{% hint style="info" %}
+**Gross Domestic Product (GDP)** measures the total market value of all final goods and services produced within a country's borders during a specific period. "Final" means goods sold to end users---not intermediate inputs that will be processed further.
+{% endhint %}
 
-To grasp the scale: if you stacked $27 trillion in $100 bills, the pile would reach to the moon and back---twice. Every day, the American economy produces about $75 billion in value. Every hour, about $3 billion.
+GDP measures the total value of goods and services produced within U.S. borders over a year---the standard benchmark for economic size, though an imperfect one (it misses unpaid labor, ignores environmental costs, and conflates activity with welfare).
+
+The daily output runs to $75 billion. Hourly, $3 billion. At any moment, the American economy produces wealth at a rate no other nation matches.
 
 **Employment:** 157 million nonfarm workers
+
+{% hint style="info" %}
+**Nonfarm Payroll Employment** counts workers on the payrolls of non-agricultural businesses. It excludes self-employed individuals, unpaid family workers, farm workers, and military personnel. This is the headline number in the monthly "jobs report."
+{% endhint %}
 
 These are people on payrolls---employees who show up to a workplace (or log on remotely) and receive a wage or salary. It doesn't include the self-employed, agricultural workers, or the military, but it captures the vast majority of the workforce.
 
@@ -24,16 +32,20 @@ From corner stores to corporate headquarters, the American economy comprises abo
 
 The United States remains the world's largest economy by conventional measures, though China has closed the gap dramatically:
 
-| Economy | GDP (2023) |
-|---------|-----------|
-| United States | $27.4 trillion |
-| China | roughly $18 trillion |
-| European Union | roughly $18.6 trillion |
-| Japan | $4.2 trillion |
-| Germany | $4.5 trillion |
-| India | $3.7 trillion |
+**Table 1.0: Global GDP Comparison (2023)**
 
-What makes America distinctive isn't just size but productivity. American workers produce about $140,000 in output per year on average---among the highest in the world. This reflects a combination of capital investment, technology, skills, and the sectoral mix of the economy.
+| Rank | Economy | GDP (2023) |
+|:----:|---------|----------:|
+| 1 | **United States** | **$27.4T** |
+| 2 | European Union | $18.6T |
+| 3 | China | $18.0T |
+| 4 | Germany | $4.5T |
+| 5 | Japan | $4.2T |
+| 6 | India | $3.7T |
+
+*Source: IMF World Economic Outlook, October 2023*
+
+What makes America distinctive isn't just size but productivity. American workers produce about $175,000 in output per year on average---among the highest in the world. This reflects a combination of capital investment, technology, skills, and the sectoral mix of the economy.
 
 ## What Gets Produced: GDP by Industry
 
@@ -41,20 +53,23 @@ Where does $27 trillion come from? The answer may surprise you: the largest indu
 
 ### The Composition of Output
 
+**Table 1.1: GDP by Major Industry (2023)**
+
 | Industry | Share of GDP | Value Added |
-|----------|-------------|-------------|
-| Professional & Business Services | 13% | $3.6 trillion |
-| Real Estate | 12% | $3.3 trillion |
-| Government | 12% | $3.3 trillion |
-| Manufacturing | 11% | $3.0 trillion |
-| Healthcare & Social Services | 9% | $2.5 trillion |
-| Finance & Insurance | 8% | $2.2 trillion |
-| Retail Trade | 6% | $1.6 trillion |
-| Information (Tech/Media) | 6% | $1.6 trillion |
-| Wholesale Trade | 6% | $1.6 trillion |
-| Construction | 4% | $1.1 trillion |
-| Transportation & Warehousing | 3.5% | $960 billion |
-| Other | roughly 10% | $2.7 trillion |
+|----------|------------:|------------:|
+| Professional & Business Services | 13% | $3.6T |
+| Real Estate | 12% | $3.3T |
+| Government | 11% | $3.0T |
+| Manufacturing | 11% | $3.0T |
+| Healthcare & Social Services | 9% | $2.5T |
+| Finance & Insurance | 8% | $2.2T |
+| Information (Tech/Media) | 6% | $1.6T |
+| Retail Trade | 6% | $1.6T |
+| Wholesale Trade | 6% | $1.6T |
+| Construction | 4% | $1.1T |
+| Transportation & Warehousing | 3.5% | $960B |
+
+*Source: Bureau of Economic Analysis, GDP by Industry (Table 1.5.5, 2023 annual data)*
 
 Several patterns stand out:
 
@@ -82,6 +97,10 @@ GDP counts market production---goods and services exchanged for money. This crea
 
 GDP is also a flow, not a stock. It measures what's produced each year, not the accumulated wealth of the nation. A country could have enormous GDP while running down its natural resources, degrading its infrastructure, or accumulating unsustainable debt.
 
+{% hint style="warning" %}
+**Common Misconception**: GDP growth does not equal prosperity growth. A country can report rising GDP while depleting natural resources, accumulating debt, or concentrating gains among a small elite. GDP measures production, not well-being.
+{% endhint %}
+
 Despite these limitations, GDP remains the standard measure because it's comprehensive, consistent, and comparable across time and countries. Just remember what it captures: the market value of final goods and services produced within a country's borders in a given period.
 
 ## Who Works: Employment by Sector
@@ -90,21 +109,25 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 ### Where Americans Work (2023)
 
+**Table 1.2: Employment by Sector**
+
 | Sector | Employment | Share |
-|--------|-----------|-------|
-| Education & Health Services | 26.4 million | 17% |
-| Government | 23.1 million | 15% |
-| Professional & Business Services | 22.9 million | 15% |
-| Leisure & Hospitality | 16.8 million | 11% |
-| Retail Trade | 15.6 million | 10% |
-| Manufacturing | 12.6 million | 8% |
-| Financial Activities | 9.1 million | 6% |
-| Construction | 8.1 million | 5% |
-| Transportation & Warehousing | 6.2 million | 4% |
-| Wholesale Trade | 6.1 million | 4% |
-| Other Services | 5.9 million | 4% |
-| Information | 2.9 million | 2% |
-| Mining & Utilities | 1.2 million | 1% |
+|--------|----------:|------:|
+| Education & Health Services | 26.4M | 17% |
+| Government | 23.1M | 15% |
+| Professional & Business Services | 22.9M | 15% |
+| Leisure & Hospitality | 16.8M | 11% |
+| Retail Trade | 15.6M | 10% |
+| Manufacturing | 12.6M | 8% |
+| Financial Activities | 9.1M | 6% |
+| Construction | 8.1M | 5% |
+| Transportation & Warehousing | 6.2M | 4% |
+| Wholesale Trade | 6.1M | 4% |
+| Other Services | 5.9M | 4% |
+| Information | 2.9M | 2% |
+| Mining & Utilities | 1.2M | 1% |
+
+*Source: Bureau of Labor Statistics, Current Employment Statistics (CES), December 2023*
 
 <figure>
 <img src="../_figures/ch01/ch01_employment_bar.png" alt="Employment by sector" style="width: 100%; max-width: 800px;">
@@ -130,6 +153,12 @@ Compare these rankings with GDP share, and you'll notice striking divergences:
 
 These gaps explain much about wage inequality, regional divergence, and the political economy of trade and automation. Industries that can substitute capital for labor tend to have rising productivity, higher wages, and falling employment shares. Industries that can't---healthcare, education, personal services---absorb more workers but face persistent cost pressures.
 
+{% hint style="success" %}
+**Deep Dive: The Baumol Effect**
+
+Why do healthcare and education costs rise faster than inflation? Economist William Baumol identified a structural problem: some services resist productivity gains. A string quartet in 1850 required four musicians playing for 40 minutes. In 2024, it still does. Meanwhile, manufacturing productivity has increased 100-fold. Service sectors must raise wages to compete for workers, but can't offset costs with productivity---so prices rise. This explains much about the modern economy's cost structure.
+{% endhint %}
+
 ## The Structure of Business
 
 ### Size Distribution
@@ -138,13 +167,21 @@ American business spans an enormous range of scales. At one extreme, a Fortune 5
 
 The distribution is highly skewed:
 
+**Table 1.3: Firm Size Distribution**
+
 | Firm Size | Share of Firms | Share of Employment |
-|-----------|---------------|-------------------|
+|-----------|---------------:|--------------------:|
 | Under 20 employees | 90% | 17% |
 | 20-499 employees | 9.7% | 29% |
-| 500+ employees | 0.3% | 54% |
+| **500+ employees** | **0.3%** | **54%** |
+
+*Source: Census Bureau, Statistics of U.S. Businesses (SUSB), 2021*
 
 Read that again: 0.3% of firms---about 20,000 large enterprises---employ more than half of all American workers. The American economy is, in an important sense, an economy of large corporations surrounded by millions of small businesses.
+
+{% hint style="warning" %}
+**Common Misconception**: "Small businesses create most jobs." This is true only for *gross* job creation. Small businesses also destroy many jobs through failure. At any given time, most Americans work for large, established firms---not startups or small businesses.
+{% endhint %}
 
 This matters for policy debates. Small businesses are celebrated as the engine of job creation, and it's true that new small businesses create most gross new jobs. But small businesses also destroy lots of jobs (through failure), and most employment at any given time is at large, established firms.
 
@@ -160,7 +197,11 @@ The composition of the Fortune 500 has shifted dramatically over decades:
 
 ### Establishments vs. Firms
 
-A distinction that matters: **firms** are legal entities (companies); **establishments** are physical locations (stores, factories, offices). A single firm may operate thousands of establishments. Walmart is one firm but operates over 10,000 establishments. Understanding this distinction matters when interpreting data: establishment counts tell you about the geographic footprint of business; firm counts tell you about corporate structure and concentration.
+A distinction that matters: **firms** are legal entities (companies); **establishments** are physical locations (stores, factories, offices). A single firm may operate thousands of establishments. Walmart is one firm but operates over 4,700 U.S. stores. Understanding this distinction matters when interpreting data: establishment counts tell you about the geographic footprint of business; firm counts tell you about corporate structure and concentration.
+
+{% hint style="info" %}
+**Firm vs. Establishment**: A **firm** is a legal business entity (a company). An **establishment** is a single physical location where business is conducted. Always check which measure your data uses---the numbers can differ dramatically.
+{% endhint %}
 
 ## How We Measure: The Statistical Infrastructure
 
@@ -184,6 +225,12 @@ The BLS, part of the Labor Department, measures employment, unemployment, wages,
 
 - **Current Employment Statistics (CES)**: The monthly jobs report that moves markets, based on a survey of 670,000 establishments
 - **Current Population Survey (CPS)**: The source of the unemployment rate, based on a household survey
+
+{% hint style="success" %}
+**Deep Dive: Why Economic Data Gets Revised**
+
+The BLS publishes employment data 3 weeks after each month ends. How? Surveys. The initial estimate samples 670,000 establishments. Over subsequent months, more responses arrive and benchmarks are applied. The "final" number may differ from the initial release by 100,000+ jobs. Markets react to the first number, but researchers should use revised data.
+{% endhint %}
 - **Consumer Price Index (CPI)**: The main measure of inflation
 - **Occupational Employment Statistics (OES)**: Detailed wage and employment data by occupation
 - **Productivity statistics**: Output per hour worked
@@ -208,6 +255,10 @@ All these agencies organize data using the North American Industry Classificatio
 
 Understanding NAICS codes matters for anyone working with economic data. The system replaced the older SIC codes in 1997 and is updated periodically to reflect economic change.
 
+{% hint style="info" %}
+**Reading NAICS Codes**: The more digits, the more specific. Code 31-33 covers all Manufacturing; 336 is Transportation Equipment; 336111 is specifically Automobile Manufacturing. When researching industries, start broad (2-digit) then narrow down.
+{% endhint %}
+
 ## Reading the Numbers
 
 Statistics are only as useful as your ability to interpret them. A few principles:
@@ -221,6 +272,10 @@ Statistics are only as useful as your ability to interpret them. A few principle
 **Seasonality.** Many economic series have regular seasonal patterns---retail sales spike in December, construction slows in winter. Seasonally adjusted figures remove these patterns to reveal underlying trends.
 
 **Revisions.** Economic statistics are revised, sometimes substantially. The first estimate of GDP growth is often revised in subsequent months as more data arrives. Don't over-interpret preliminary numbers.
+
+{% hint style="warning" %}
+**Data Caution**: Initial GDP and employment estimates are frequently revised---sometimes by full percentage points. The "advance" GDP estimate uses incomplete data. Wait for the "final" release (3 months later) before drawing firm conclusions.
+{% endhint %}
 
 ## What the Numbers Don't Show
 
