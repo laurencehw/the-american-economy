@@ -14,7 +14,7 @@ Retail is the visible face of the economy—the point where production meets con
 - **Wholesale Employment:** roughly 6.1–6.3 million workers
 - **Total Sector Employment:** roughly 21.5 million (roughly 14% of US employment)
 
-It is a structural curiosity that wholesale revenue exceeds retail revenue; this reflects the "double counting" inherent in intermediate goods as products change hands multiple times before reaching the final consumer. A bottle of aspirin might be sold by the manufacturer to a pharmaceutical wholesaler to a drugstore chain's distribution center to an individual store before finally reaching you.
+Wholesale revenue exceeds retail revenue---a counterintuitive result that reflects intermediate goods changing hands multiple times before reaching consumers. A bottle of aspirin passes from manufacturer to pharmaceutical wholesaler to drugstore distribution center to individual store before finally reaching you. Each transaction counts as wholesale sales; only the final purchase counts as retail.
 
 Retail is the nation's largest private employer sector, though its dominance is fragmenting. Wholesale trade, while employing fewer people, generates immense turnover and acts as the critical logistical bridge between manufacturers (who make things) and retailers (who sell them). Without the wholesale infrastructure—the drug distributors, food service companies, industrial suppliers—the retail shelves would be empty.
 

@@ -1,6 +1,6 @@
 # Chapter 11: Information, Technology, and Media
 
-The information sector occupies a peculiar position in the American economy: relatively small in employment but enormous in market capitalization, geographically concentrated yet ubiquitous in daily life, and governed by regulatory frameworks designed for technologies that no longer exist. This chapter examines the economic structure of technology, telecommunications, and media—industries that have reshaped how Americans work, shop, communicate, and consume entertainment.
+The information sector occupies an anomalous position in the American economy: relatively small in employment but enormous in market capitalization, geographically concentrated yet ubiquitous in daily life, and governed by regulatory frameworks designed for technologies that no longer exist. This chapter examines the economic structure of technology, telecommunications, and media—industries that have reshaped how Americans work, shop, communicate, and consume entertainment.
 
 ## Overview: Size and Scope
 
@@ -19,7 +19,7 @@ A more revealing metric is market capitalization. As of late 2024, the five larg
 <figcaption>Figure 11.1: Big Tech market capitalization, 2024. Apple, Microsoft, and the rest of the "Magnificent Seven" account for roughly 25% of S&P 500 market value. Source: Company data</figcaption>
 </figure>
 
-The information sector's economic significance lies not just in its direct output but in its role as infrastructure for everything else. Cloud computing powers businesses from startups to Fortune 500 firms. Digital advertising enables the "free" internet. Telecommunications networks carry commerce, entertainment, and increasingly, work itself. Understanding this sector requires examining several distinct but interconnected industries.
+The information sector's economic significance lies not just in its direct output but in its role as infrastructure for everything else. Cloud computing powers businesses from startups to Fortune 500 firms. Digital advertising enables the "free" internet. Telecommunications networks carry commerce, entertainment, and increasingly, work itself.
 
 ## How the Industry Works: Business Models
 

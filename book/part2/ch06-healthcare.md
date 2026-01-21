@@ -53,7 +53,7 @@ Source: CMS National Health Expenditure Accounts
 
 ## How the Industry Works
 
-Healthcare in America operates through an unusual structure where the person receiving care (the patient) is often different from the person paying for it (the insurer or employer) and different again from the person deciding what care to provide (the physician). This three-way split creates incentive problems that shape much of healthcare economics.
+This split---patient, payer, provider---drives the economics of American healthcare.
 
 ### Revenue Streams: Where Does the Money Come From?
 

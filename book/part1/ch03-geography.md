@@ -1,8 +1,8 @@
 # 3. The Geography of Production
 
-Economic activity is not spread evenly across the American landscape. Half of U.S. GDP comes from just five states---California, Texas, New York, Florida, and Illinois. The New York metropolitan area alone produces more than all but a handful of countries. Meanwhile, vast stretches of rural America have seen population and employment decline for decades.
+Economic activity clusters intensely. Five states---California, Texas, New York, Florida, and Illinois---produce half of U.S. GDP. The New York metro area alone outproduces all but a handful of nations. Meanwhile, vast rural stretches have bled population and jobs for decades.
 
-This geographic concentration matters enormously for policy, politics, and individual opportunity. Where you live shapes what jobs are available, what you'll earn, and what kind of life you can build. Understanding the spatial economy is essential to understanding America.
+This concentration determines policy, politics, and opportunity. Where you live dictates available jobs, wages, and life prospects. To understand America, start with geography.
 
 ## The State-Level Picture
 
@@ -70,7 +70,11 @@ Broad regions show distinct economic characters:
 
 Economic activity concentrates in metropolitan areas---urban cores plus surrounding suburbs. About 85% of U.S. GDP comes from the 384 metropolitan statistical areas (MSAs), even though they cover only about 3% of land area.
 
-The concentration is even more extreme at the top:
+{% hint style="info" %}
+**Metropolitan Statistical Area (MSA)**: A Census Bureau designation for a core urban area of 50,000+ population plus adjacent counties with strong commuting ties. The 384 MSAs range from New York-Newark (20 million) to Carson City, NV (57,000). MSAs enable consistent economic comparison across metro regions.
+{% endhint %}
+
+At the top, concentration is extreme:
 
 | Metro Area | GDP (2023) | Notable Industries |
 |------------|-----------|-------------------|
@@ -97,7 +101,11 @@ The top eight metros produce nearly $8 trillion---about 30% of GDP. Add the next
 
 ### Why Cities?
 
-Why does economic activity cluster so intensely? Economists point to **agglomeration economies**---the benefits firms and workers gain from proximity:
+Why the intense clustering? Four mechanisms---collectively called **agglomeration economies**---reward proximity:
+
+{% hint style="info" %}
+**Agglomeration Economies**: The productivity benefits arising from geographic concentration: (1) Knowledge spillovers---ideas diffuse through informal contact; (2) Labor market pooling---deep specialist talent pools; (3) Input sharing---specialized suppliers nearby; (4) Matching efficiency---lower search costs for jobs, partners, capital.
+{% endhint %}
 
 **Knowledge spillovers**: Ideas spread faster when people interact. Silicon Valley engineers learn from each other across company lines. Wall Street traders share market intelligence. Academic researchers collaborate across institutions. These informal knowledge flows are hard to replicate at a distance.
 

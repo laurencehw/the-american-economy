@@ -10,7 +10,11 @@ This chapter maps these connections: how industries link together, how money flo
 
 ### What Input-Output Tables Show
 
-In 1936, economist Wassily Leontief published the first input-output tables for the U.S. economy, work that would later earn him a Nobel Prize. The idea was elegantly simple: track what each industry buys from every other industry.
+In 1936, economist Wassily Leontief published the first input-output tables for the U.S. economy, work that would later earn him a Nobel Prize. The idea was straightforward: track what each industry buys from every other industry.
+
+{% hint style="info" %}
+**Input-Output Table**: A matrix showing inter-industry purchases and sales. Rows display what each industry sells; columns display what each industry buys. First developed by Wassily Leontief (Nobel Prize, 1973), these tables form the backbone of supply chain analysis.
+{% endhint %}
 
 An input-output table is a matrix. Each row shows what an industry sells---to other industries and to final consumers. Each column shows what an industry buys---from other industries and from primary factors (labor, capital). The whole economy becomes a web of transactions.
 
@@ -35,7 +39,7 @@ Reading this table:
 
 ### Why Input-Output Matters
 
-This framework reveals several insights invisible in standard GDP statistics:
+Standard GDP statistics miss three structural features this framework makes visible:
 
 **Interdependence.** Every industry depends on others. Even "primary" sectors like agriculture require manufactured inputs (tractors, fertilizer) and services (financing, insurance). The economy is not divisible into independent pieces.
 
