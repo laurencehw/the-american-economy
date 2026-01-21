@@ -68,6 +68,7 @@ Where does $27 trillion come from? The answer may surprise you: the largest indu
 | Wholesale Trade | 6% | $1.6T |
 | Construction | 4% | $1.1T |
 | Transportation & Warehousing | 3.5% | $960B |
+| Other | ~10.5% | ~$2.9T |
 
 *Source: Bureau of Economic Analysis, GDP by Industry (Table 1.5.5, 2023 annual data)*
 
@@ -182,8 +183,6 @@ Read that again: 0.3% of firms---about 20,000 large enterprises---employ more th
 {% hint style="warning" %}
 **Common Misconception**: "Small businesses create most jobs." This is true only for *gross* job creation. Small businesses also destroy many jobs through failure. At any given time, most Americans work for large, established firms---not startups or small businesses.
 {% endhint %}
-
-This matters for policy debates. Small businesses are celebrated as the engine of job creation, and it's true that new small businesses create most gross new jobs. But small businesses also destroy lots of jobs (through failure), and most employment at any given time is at large, established firms.
 
 ### The Fortune 500
 
