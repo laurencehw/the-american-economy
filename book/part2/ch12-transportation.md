@@ -318,7 +318,7 @@ The supply chain disruptions of 2021-2022 demonstrated how transportation constr
 
 ### 4. The 2021-2022 Supply Chain Crisis: A Shock Transmission Case Study
 
-The supply chain disruptions of 2021-2022 demonstrated how transportation constraints can propagate through the entire economy. What began as a mismatch between pandemic-shifted demand and logistics capacity became a shock that raised prices, disrupted production, and sparked a fundamental rethinking of global supply chain design.
+What began as a mismatch between pandemic-shifted demand and logistics capacity became a shock that raised prices, disrupted production, and sparked a fundamental rethinking of global supply chain design.
 
 **The Initial Shock: Port Congestion**
 

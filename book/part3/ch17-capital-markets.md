@@ -207,7 +207,7 @@ Normally, longer-term bonds yield more than shorter-term bonds because:
 An inverted yield curve—when short-term rates exceed long-term rates—has preceded every U.S. recession since 1955. The 2022-2023 inversion was the deepest since the early 1980s.
 {% endhint %}
 
-An **inverted yield curve**—when short rates exceed long rates—has preceded every U.S. recession since 1955. The 2022-2023 inversion (2-year yields exceeding 10-year yields) sparked recession warnings, though the timing of subsequent downturns has varied from 6 to 24 months.
+The 2022-2023 inversion (2-year yields exceeding 10-year yields) sparked recession warnings, though the timing of subsequent downturns has historically varied from 6 to 24 months.
 
 The **10-year Treasury yield** is the benchmark rate for the U.S. economy, influencing mortgage rates, corporate borrowing costs, and equity valuations. When 10-year yields rise, other rates follow, tightening financial conditions economy-wide.
 

@@ -198,7 +198,7 @@ Clusters are geographic concentrations of interconnected industries, suppliers, 
 
 ### The Rural Economy
 
-Rural America---roughly 20% of the population spread across 97% of the land---faces persistent economic challenges:
+Rural America faces persistent economic challenges:
 
 {% hint style="info" %}
 **Defining Rural America**

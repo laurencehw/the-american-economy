@@ -26,7 +26,7 @@ Retail is the nation's largest private employer sector, though its dominance is 
 Retail evolves in predictable cycles: new formats enter as low-cost disruptors, gradually add services and raise prices, then become vulnerable to the next wave of discounters. Department stores disrupted general stores; discount stores disrupted department stores; e-commerce now disrupts discount stores.
 {% endhint %}
 
-Retail is not static; it is a relentless evolutionary struggle described by the **"Wheel of Retailing"** concept. New formats enter the market as low-status, low-margin, low-price discounters. As they succeed, they upgrade their facilities and services, adding cost and price, eventually becoming vulnerable to the next wave of lean discounters. Sears rose on mail-order efficiency, added expensive department stores, and was killed by Walmart's warehouse stores. Walmart, in turn, is now fighting Amazon's even leaner e-commerce model.
+This cycle repeats throughout retail history. Sears rose on mail-order efficiency, added expensive department stores, and was killed by Walmart's warehouse stores. Walmart, in turn, is now fighting Amazon's even leaner e-commerce model.
 
 ### Format Evolution
 
