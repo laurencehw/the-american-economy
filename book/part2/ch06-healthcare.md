@@ -1,8 +1,12 @@
 # 6. Healthcare
 
-Americans spend more on healthcare than on anything else except housing. The healthcare sector accounts for nearly $4.5 trillion in annual spending---about 17% of GDP---making it by far the largest healthcare system in the world in absolute terms and one of the largest as a share of the economy. More than 20 million people work in healthcare and social assistance, making it the largest private-sector employer in the country.
+An MRI of your knee costs $3,000 in the United States. The same scan, on the same machine, costs $300 in Japan. That tenfold price gap for an identical service captures everything strange about American healthcare.
 
-Yet healthcare is not a single industry. It's an ecosystem of hospitals, physician practices, insurers, pharmaceutical companies, medical device manufacturers, pharmacies, nursing homes, and home health agencies, all connected through byzantine payment flows involving employers, governments, and individuals. Understanding how this system actually works---where the money comes from and where it goes---is essential to understanding the American economy.
+Americans spend more on healthcare than on anything else except housing: nearly $4.5 trillion in 2022, or 17% of GDP. More than 20 million people work in healthcare and social assistance, making it the largest private-sector employer in the country. By any measure, this is the largest healthcare system in the world.
+
+Yet the money does not buy better outcomes. Americans die younger than citizens of peer countries. Infant mortality runs higher. Chronic disease runs rampant. The dollars flow through a byzantine maze of hospitals, insurers, pharmaceutical companies, and physician practices---each extracting value, each adding complexity.
+
+The core problem is structural. When you visit a doctor, three parties sit at the table: you receive the care, an insurer pays the bill, and the physician decides what happens. None of the three faces the full consequences of their choices. This three-way split---patient, payer, provider---drives the economics of American healthcare.
 
 ## Overview
 
@@ -20,7 +24,7 @@ In healthcare, the person receiving care (patient) differs from the person payin
 - **Share of total employment**: 13%
 - **Establishments**: Over 900,000 healthcare establishments
 
-Healthcare spending in the United States has grown faster than the overall economy for decades. In 1960, healthcare was just 5% of GDP; by 1980 it was 9%; by 2000 it was 13%; today it approaches 18%. This growth reflects an aging population, technological advances in medical care, rising incomes (healthcare is a "normal good"---people want more of it as they get richer), and the peculiar incentive structures of American healthcare finance.
+Healthcare spending has outpaced economic growth for decades. In 1960, healthcare claimed just 5% of GDP; by 1980, 9%; by 2000, 13%; today, nearly 18%. An aging population, technological advances, rising incomes, and perverse payment incentives all fuel this growth.
 
 ### Key Subsectors
 
@@ -54,6 +58,12 @@ Source: CMS National Health Expenditure Accounts
 ## How the Industry Works
 
 This split---patient, payer, provider---drives the economics of American healthcare.
+
+{% hint style="info" %}
+**The Three-Party Problem**
+
+Unlike most markets, healthcare separates the consumer (patient), the payer (insurer or government), and the provider (hospital or physician). This three-party structure breaks normal price signals: patients rarely know costs upfront, providers bill insurers rather than patients, and insurers negotiate rates invisible to consumers.
+{% endhint %}
 
 ### Revenue Streams: Where Does the Money Come From?
 
@@ -160,6 +170,8 @@ Hospital markets have consolidated significantly over the past two decades. The 
 | Trinity Health | 88 | 14,000 | $21B | Livonia, MI |
 | Providence | 52 | 12,000 | $28B | Renton, WA |
 
+*Source: American Hospital Association and company filings, 2023*
+
 Most hospital markets are highly concentrated. A typical metropolitan area has 2-4 major hospital systems competing for patients and contracts with insurers.
 
 ### Health Insurance
@@ -263,6 +275,8 @@ Healthcare and social assistance employs about 20.5 million workers, divided rou
 | Physicians | 1.0 million | $220,000+ |
 | Pharmacists | 320,000 | $128,000 |
 
+*Source: Bureau of Labor Statistics, Occupational Employment and Wage Statistics, 2023*
+
 Healthcare employs workers across the wage spectrum, from low-wage home health aides to high-earning specialist physicians.
 
 ### Workforce Challenges
@@ -305,6 +319,8 @@ Healthcare is one of the most heavily lobbied industries in America. Major trade
 | PhRMA | Brand pharmaceutical companies | Drug pricing, IP protection |
 | AHIP | Health insurers | Insurance regulations, ACA |
 | ANA (American Nurses Association) | Nurses | Staffing ratios, scope of practice |
+
+*Source: Trade association websites and public filings, 2023*
 
 The healthcare sector consistently ranks as the largest lobbying spender in Washington, spending over $700 million annually on federal lobbying.
 

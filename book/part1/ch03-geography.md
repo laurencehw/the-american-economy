@@ -16,6 +16,8 @@ This concentration determines policy, politics, and opportunity. Where you live 
 | Florida | $1.29 trillion | 5% | 22 million |
 | Illinois | $886 billion | 3% | 12 million |
 
+*Source: Bureau of Economic Analysis, Regional Economic Accounts, 2023*
+
 California's economy exceeds that of India or the United Kingdom. It would rank among the world's five largest countries. Texas has grown rapidly, riding oil production and business-friendly policies to become America's second-largest economy. New York punches above its population weight, reflecting the concentration of finance, media, and professional services in Manhattan.
 
 <figure>
@@ -40,6 +42,8 @@ GDP per capita varies enormously across states:
 - Arkansas: roughly $35,000
 - Alabama: roughly $37,000
 - New Mexico: roughly $38,000
+
+*Source: Bureau of Economic Analysis, Regional Economic Accounts, 2023*
 
 The gap is striking: a worker in Massachusetts produces (on average) three times as much value as a worker in Mississippi. This reflects differences in industry mix, educational attainment, capital investment, and agglomeration effects.
 
@@ -87,6 +91,8 @@ At the top, concentration is extreme:
 | Houston | $697 billion | Energy, healthcare, petrochemicals |
 | Boston | $610 billion | Healthcare, biotech, education, finance |
 
+*Source: Bureau of Economic Analysis, Gross Domestic Product by Metropolitan Area, 2023*
+
 The top eight metros produce nearly $8 trillion---about 30% of GDP. Add the next dozen, and you've accounted for half the economy.
 
 <figure>
@@ -122,6 +128,12 @@ Some metros have pulled away from the pack. Economists Enrico Moretti, Chang-Tai
 - In 1980, wages in San Francisco were about 20% above the national average. By 2020, the gap exceeded 50%.
 - Productivity growth has concentrated in a handful of metros; most others have stagnated.
 - The pattern is particularly stark in innovation: a few metros (San Francisco, San Jose, Seattle, Boston) account for most patents and venture capital investment.
+
+{% hint style="warning" %}
+**The Superstar City Divergence**
+
+In 1980, wages in San Francisco were about 20% above the national average. By 2020, the gap exceeded 50%. This divergence reflects the concentration of high-productivity industries in a handful of metros—and the housing constraints that limit who can access these opportunities.
+{% endhint %}
 
 This concentration creates both opportunity and tension. Workers in superstar cities earn high wages but face crushing housing costs. Workers elsewhere enjoy affordability but limited job options. The divergence fuels political polarization between thriving metros and struggling hinterlands.
 
@@ -187,6 +199,12 @@ Clusters are geographic concentrations of interconnected industries, suppliers, 
 ### The Rural Economy
 
 Rural America---roughly 20% of the population spread across 97% of the land---faces persistent economic challenges:
+
+{% hint style="info" %}
+**Defining Rural America**
+
+Rural areas contain 20% of the U.S. population spread across 97% of the land. The economic base varies dramatically: resource extraction in the Mountain West, agriculture in the Plains, manufacturing legacy in Appalachia, and retirement communities in Florida.
+{% endhint %}
 
 **Population decline**: Most rural counties have lost population since 2010. Young people leave for education and opportunity; few return.
 
