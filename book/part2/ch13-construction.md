@@ -74,9 +74,7 @@ Construction is the only major sector where productivity has *declined* since 19
 
 ### The Productivity Puzzle
 
-Goolsbee and Syverson's (2023) research documented a remarkable fact: **construction productivity has declined since approximately 1970**, even as every other major sector has improved. Output per worker-hour in construction is lower today than 50 years ago.
-
-They systematically tested potential explanations:
+Goolsbee and Syverson systematically tested potential explanations for this decline:
 - **Measurement Error:** Rejected. Using multiple data sources and methodologies, the decline persists.
 - **Quality Improvements:** Buildings are better (more code requirements, energy efficiency), but not enough to explain the decline.
 - **Input Shifts:** The industry has shifted toward more intermediate inputs relative to labor, yet efficiency has dropped.

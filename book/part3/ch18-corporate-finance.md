@@ -104,10 +104,6 @@ The loss of a AAA rating rarely matters operationally—borrowing costs for AA c
 The largest segment of the investment-grade bond market is now rated BBB—the lowest investment-grade tier. In a recession, companies downgraded to junk ("fallen angels") face forced selling from investment-grade-only funds, potentially flooding the high-yield market.
 {% endhint %}
 
-**The BBB Cliff:**
-
-The largest segment of the investment-grade market is now rated BBB (the lowest investment-grade tier). This creates systemic risk: in a recession, BBB companies downgraded to junk ("fallen angels") may face forced selling from investment-grade-only funds, potentially flooding the high-yield market and widening spreads.
-
 ### High-Yield (Junk) Bonds
 
 Below investment grade, the high-yield market serves:

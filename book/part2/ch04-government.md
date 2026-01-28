@@ -14,12 +14,6 @@ The division of labor follows a rough pattern. Washington handles defense, Socia
 
 The result: a system that is simultaneously massive and fragmented, powerful and incoherent.
 
-{% hint style="info" %}
-**The Fragmentation Fact**
-
-The United States has approximately 90,000 separate governmental units: 1 federal, 50 states, 3,000+ counties, 19,000+ municipalities, 13,000+ school districts, and 37,000+ special districts. This fragmentation shapes everything from tax policy to infrastructure investment.
-{% endhint %}
-
 ## How Government Works as an Economic Actor
 
 ### Revenue: Where the Money Comes From

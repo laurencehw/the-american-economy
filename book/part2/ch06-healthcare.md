@@ -57,8 +57,6 @@ Source: CMS National Health Expenditure Accounts
 
 ## How the Industry Works
 
-This split---patient, payer, provider---drives the economics of American healthcare.
-
 {% hint style="info" %}
 **The Three-Party Problem**
 
