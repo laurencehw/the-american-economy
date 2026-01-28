@@ -21,6 +21,8 @@ Population tells the story of transition. Illinois has declined from 12.8 millio
 | Minnesota | $440 billion | 12% | Growing |
 | Wisconsin | $400 billion | 18% | Stable |
 
+*Source: Bureau of Economic Analysis, Regional GDP; Bureau of Labor Statistics, 2024*
+
 <figure>
 <img src="../_figures/ch23/ch23_midwest_map.png" alt="Midwest Region and Battery Belt Map" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 23.1: The Midwest and Battery Belt corridor. Major industrial investments from the CHIPS Act and IRA have directed over $50 billion into manufacturing across Michigan, Ohio, Indiana, Kentucky, and Tennessee since 2022. Source: Company announcements, state economic development</figcaption>
@@ -151,6 +153,8 @@ The "Rust Belt to recovery" narrative has shifted from hope to reality---at leas
 | Samsung SDI/Stellantis | Kokomo, IN | $3.1 billion | EV batteries |
 | Gotion | Big Rapids, MI | $2.3 billion | EV batteries |
 
+*Source: Bureau of Economic Analysis; Company Announcements; State Economic Development Offices, 2024*
+
 Combined with state incentives, the CHIPS Act and Inflation Reduction Act have funneled over $50 billion in clean energy and semiconductor investments into the region since 2022.
 
 This represents genuine re-industrialization---but of a different character than the old manufacturing. The new factories are heavily automated, requiring chemical engineers and robotics technicians rather than assembly line workers. Employment per dollar of output is far lower than at the plants these investments replace.
@@ -200,6 +204,8 @@ The Midwest's demographic trajectory presents its greatest long-term challenge. 
 | Minnesota | -40,000 |
 | Indiana | +25,000 |
 | Wisconsin | -30,000 |
+
+*Source: Census Bureau, Population Estimates and Migration Flows, 2024*
 
 International immigration offsets much of this loss, but the "brain drain" of college-educated professionals remains acute. Graduates of the region's excellent universities---Michigan, Ohio State, Northwestern, Wisconsin---frequently relocate to Chicago, the coasts, or the Sunbelt upon graduation.
 

@@ -1,8 +1,8 @@
 # Chapter 17: Capital Markets
 
-Capital markets are where savings become investment. They channel funds from households, institutions, and foreign investors to corporations, governments, and entrepreneurs who need capital for expansion, operations, and innovation. American capital markets are the largest, deepest, and most liquid in the world, a position that confers substantial advantages on the U.S. economy.
+Every day, $1.5 trillion changes hands on American stock exchanges alone. Add in bonds, derivatives, and private markets, and you have a capital allocation machine that dwarfs the rest of the world combined: 42% of global stock market value, 55% of private equity, half of all venture capital. This dominance is not an accident. It is the product of specific institutions—exchanges, clearinghouses, broker-dealers, and regulators—that have evolved over two centuries to do one thing: match people with money to people who need it.
 
-This chapter examines the structure and functioning of American capital markets: the stock exchanges where equities trade, the bond markets where governments and corporations borrow, the derivatives markets that enable risk transfer, and the private markets where venture capital and private equity operate. We focus on institutional structure rather than pricing theory—the practical plumbing of how capital gets allocated.
+This chapter focuses on institutional structure rather than pricing theory—the practical plumbing of how capital gets allocated. We examine the stock exchanges where equities trade, the bond markets where governments and corporations borrow, the derivatives markets that enable risk transfer, and the private markets where venture capital and private equity operate.
 
 ## Size and Scope
 
@@ -56,6 +56,8 @@ NASDAQ Inc. also owns NASDAQ Nordic/Baltic exchanges, The NASDAQ Options Market,
 | NYSE Arca | — | 10% | New York |
 
 *Note: Volume shares approximate. Multiple exchanges may trade same securities.*
+
+*Source: World Federation of Exchanges, 2024*
 
 ### Market Structure and Fragmentation
 
@@ -199,6 +201,12 @@ Normally, longer-term bonds yield more than shorter-term bonds because:
 2. **Term premium**: Investors require compensation for duration risk
 3. **Liquidity preference**: Shorter bonds are generally more liquid
 
+{% hint style="warning" %}
+**The Yield Curve as Recession Indicator**
+
+An inverted yield curve—when short-term rates exceed long-term rates—has preceded every U.S. recession since 1955. The 2022-2023 inversion was the deepest since the early 1980s.
+{% endhint %}
+
 An **inverted yield curve**—when short rates exceed long rates—has preceded every U.S. recession since 1955. The 2022-2023 inversion (2-year yields exceeding 10-year yields) sparked recession warnings, though the timing of subsequent downturns has varied from 6 to 24 months.
 
 The **10-year Treasury yield** is the benchmark rate for the U.S. economy, influencing mortgage rates, corporate borrowing costs, and equity valuations. When 10-year yields rise, other rates follow, tightening financial conditions economy-wide.
@@ -227,6 +235,8 @@ Corporations borrow in bond markets to fund operations, acquisitions, and capita
 | BBB | 150-250 | 650 |
 | BB | 300-400 | 1,200 |
 | B | 500-600 | 2,000 |
+
+*Source: SIFMA, US Bond Market Statistics, 2024*
 
 Corporate bond issuance is underwritten by investment banks, similar to equity IPOs. Large issuers maintain relationships with multiple banks and can tap markets opportunistically when spreads are tight.
 
@@ -267,6 +277,8 @@ Derivatives—contracts whose value derives from an underlying asset—enable ri
 | E-mini NASDAQ 100 | CME | $120 billion |
 
 *Note: SOFR futures replaced Eurodollar futures after LIBOR discontinuation in June 2023.*
+
+*Source: World Federation of Exchanges, 2024*
 
 **Options contracts** give the holder the right (not obligation) to buy or sell. The Chicago Board Options Exchange (CBOE) pioneered listed equity options in 1973. Today, options volume exceeds underlying stock volume by several multiples as traders use options for leverage, hedging, and income generation.
 

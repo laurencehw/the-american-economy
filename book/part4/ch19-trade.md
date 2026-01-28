@@ -1,8 +1,8 @@
 # Chapter 19: America's Trading Relationships
 
-The United States remains the world's largest consumer market and a pivot point for global commerce. Yet America's relationship with the trading system it largely built has undergone a profound transformation. The post-Cold War consensus on free trade—that openness benefits all parties and that markets should determine production location—has fractured. In its place has emerged a world of managed trade, industrial policy, and economic statecraft where tariffs serve strategic as much as economic purposes.
+In 1994, the United States championed NAFTA and pushed China toward WTO membership, betting that free trade would spread prosperity and anchor geopolitical stability. Thirty years later, American tariffs on Chinese goods average 19%—higher than the Smoot-Hawley rates of the 1930s that economics textbooks cite as a cautionary tale. The United States now actively discourages semiconductor investment in China, restricts technology exports, and subsidizes domestic manufacturing. The country that built the postwar trading system is now busily dismantling parts of it.
 
-This chapter examines America's trading relationships: the scale and composition of trade flows, the institutional architecture that governs them, and the dramatic policy shifts of recent years.
+This chapter examines what remains: $5 trillion in annual goods trade, relationships with 200 trading partners, an institutional architecture of treaties and enforcement mechanisms, and the policy shifts reshaping all of it.
 
 ## The Scale of American Trade
 
@@ -22,6 +22,8 @@ The United States trades roughly $5 trillion in goods annually—more than any o
 | Total imports | $3.3 trillion |
 | Trade deficit | $1.2 trillion |
 | Total trade volume | $5.4 trillion |
+
+*Source: Census Bureau, USA Trade Online, 2024*
 
 The persistent trade deficit—America imports far more than it exports—reflects the economy's role as global consumer of last resort and the dollar's status as reserve currency. The deficit is financed by foreign purchases of American assets: Treasury bonds, corporate securities, and real estate.
 
@@ -44,6 +46,8 @@ America's largest trading relationships have shifted significantly, with North A
 | 9 | Vietnam | $165 billion | -$124 billion |
 | 10 | Taiwan | $128 billion | -$48 billion |
 
+*Source: Census Bureau, Foreign Trade Statistics, 2024*
+
 <figure>
 <img src="../_figures/ch19/ch19_top_partners.png" alt="Top U.S. trading partners" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 19.1: Top U.S. trading partners. Mexico surpassed China as America's largest trading partner in 2023, reflecting nearshoring trends and tariff effects. Source: Census Bureau</figcaption>
@@ -65,6 +69,8 @@ While goods trade shows a persistent deficit, services trade runs a surplus. The
 | Transport | $105 billion | $145 billion | -$40 billion |
 | Business services | $220 billion | $140 billion | +$80 billion |
 | **Total services** | **$920 billion** | **$680 billion** | **+$240 billion** |
+
+*Source: Bureau of Economic Analysis, International Services, 2024*
 
 <figure>
 <img src="../_figures/ch19/ch19_trade_balance.png" alt="Trade balance over time" style="width: 100%; max-width: 800px;">
@@ -94,6 +100,8 @@ The shale revolution transformed America's export profile. Energy products—cru
 | Organic chemicals | $58 billion | Petrochemicals |
 | Cereals | $42 billion | Corn, wheat, soybeans |
 
+*Source: Census Bureau, USA Trade Online, 2024*
+
 America exports capital goods (machines that make things), transportation equipment, and commodities (energy, agricultural products). The country runs surpluses in aerospace, agriculture, and energy.
 
 ### Major Imports
@@ -114,6 +122,8 @@ Consumer goods dominate imports, reflecting America's role as the world's larges
 | Toys & games | $48 billion | Consumer products |
 | Footwear | $32 billion | Shoes |
 | Iron & steel | $42 billion | Metal products |
+
+*Source: Census Bureau, USA Trade Online, 2024*
 
 The import profile reveals America's manufacturing gaps. Consumer electronics, apparel, and furniture are overwhelmingly imported. Even in vehicles, where domestic production is substantial, America imports roughly $400 billion worth—a category dominated by parts moving back and forth across the USMCA borders.
 
@@ -161,6 +171,8 @@ From the late 1940s through 2016, American trade policy moved consistently towar
 | 2000 | 4.0% | Uruguay Round |
 | 2017 | 1.5% | Pre-tariff war |
 | 2025 | 3-5% | Section 301/232 on targeted goods |
+
+*Source: USITC, Tariff Database; World Bank WITS, 2024*
 
 *Note: The overall average remains low because most imports face no special tariffs. However, tariffs on Chinese goods average 19%, and specific categories (EVs, steel) face rates of 25-100%.*
 

@@ -1,8 +1,6 @@
 # Chapter 5. Real Estate, Rental, and Leasing
 
-*"Real estate is the bank of the common man, the piggy bank of the wealthy, and the poker chips of the institutional investor."*
-
-Real estate is not merely about buying and selling houses; it constitutes the physical platform for the entire economy. Every business requires a premise, and every worker needs a home. At over $50 trillion in housing wealth alone, the American real estate sector is larger than the entire stock market. Yet unlike stocks, you cannot diversify your housing risk: you live in one place, work in one metro, and your largest asset is quite literally immovable. This chapter examines the industrial organization of space—who owns it, how it is financed, and how value is extracted from it.
+American housing wealth exceeds $50 trillion—more than the entire market capitalization of U.S. stocks. Unlike a stock portfolio, you cannot diversify this asset. You live in one place, work in one metro, and your largest holding sits immovable on a single plot of land. Every business requires premises. Every worker needs a home. For most households, housing plays a triple role—shelter, investment vehicle, retirement plan—creating dynamics found nowhere else in the economy. When prices rise, existing homeowners grow wealthier while aspiring buyers face exclusion. When prices fall, household balance sheets implode, as 2008 demonstrated with devastating clarity.
 
 ## Overview
 
@@ -15,6 +13,12 @@ Real estate is not merely about buying and selling houses; it constitutes the ph
 - **Establishments:** Over 800,000 firms operate in the sector, ranging from accidental sole-proprietor landlords renting out a spare bedroom to multinational Real Estate Investment Trusts (REITs) with properties on four continents.
 
 Real estate sits at the intersection of shelter, investment, and finance. For most American households, their home is simultaneously their largest expense, their primary asset, and their retirement plan. This triple role creates unique dynamics: when housing prices rise, existing homeowners grow wealthier while aspiring buyers are priced out. When they fall, household balance sheets implode, as 2008 demonstrated.
+
+{% hint style="warning" %}
+**Housing as Wealth Engine**
+
+American households hold over $50 trillion in housing wealth—more than the combined value of all U.S. stocks. For most families, their home represents 60-70% of total wealth, making housing policy inseparable from wealth inequality.
+{% endhint %}
 
 ## How the Industry Works
 
@@ -94,6 +98,8 @@ Homebuilding has consolidated dramatically. The 2008 crash wiped out smaller bui
 | 3 | NVR | $10B | roughly 24,000 | Reston, VA |
 | 4 | PulteGroup | $16B | roughly 28,000 | Atlanta, GA |
 | 5 | Toll Brothers | $10B | roughly 10,000 | Fort Washington, PA |
+
+*Source: Company annual reports and investor filings, 2023-2024*
 
 <figure>
 <img src="../_figures/ch05/ch05_top_homebuilders.png" alt="Top homebuilders by homes closed" style="width: 100%; max-width: 800px;">
@@ -228,6 +234,8 @@ Real estate is among the most politically active sectors in America. Property ri
 | **Urban Land Institute (ULI)** | Developers, investors | Research, best practices in development |
 | **NAREIT** | REITs | Tax policy, REIT structure preservation |
 
+*Source: Trade association websites and public filings, 2024*
+
 ### Lobbying Activity
 
 - **NAR:** Consistently among the top five lobbying spenders in Washington. Key priorities include preserving the mortgage interest deduction, protecting the MLS system, and opposing regulations that might reduce transaction volume.
@@ -281,6 +289,16 @@ The housing shock became a financial crisis through the securitization chain exa
 4. **Credit contraction** spread from housing to the entire economy
 
 The result was the deepest recession since the 1930s. Unemployment peaked at 10%. The Federal Reserve cut interest rates to zero and launched unprecedented programs to support credit markets. The federal government bailed out Fannie Mae, Freddie Mac, AIG, and the banking system.
+
+{% hint style="danger" %}
+**The 2008 Collapse by the Numbers**
+
+- Home prices fell 33% nationally (62% in Las Vegas, 56% in Phoenix)
+- $8 trillion in housing wealth destroyed
+- 10 million foreclosures
+- Construction employment: 3.5M (2006) → 2M (2011)
+- Unemployment peaked at 10%
+{% endhint %}
 
 ### The Long Recovery
 

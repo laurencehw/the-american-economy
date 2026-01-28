@@ -20,6 +20,12 @@ Retail is the nation's largest private employer sector, though its dominance is 
 
 ## How the Industry Works
 
+{% hint style="info" %}
+**The Wheel of Retailing**
+
+Retail evolves in predictable cycles: new formats enter as low-cost disruptors, gradually add services and raise prices, then become vulnerable to the next wave of discounters. Department stores disrupted general stores; discount stores disrupted department stores; e-commerce now disrupts discount stores.
+{% endhint %}
+
 Retail is not static; it is a relentless evolutionary struggle described by the **"Wheel of Retailing"** concept. New formats enter the market as low-status, low-margin, low-price discounters. As they succeed, they upgrade their facilities and services, adding cost and price, eventually becoming vulnerable to the next wave of lean discounters. Sears rose on mail-order efficiency, added expensive department stores, and was killed by Walmart's warehouse stores. Walmart, in turn, is now fighting Amazon's even leaner e-commerce model.
 
 ### Format Evolution
@@ -80,6 +86,8 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 | 2 | **Amazon** | $274B | roughly 37.6% of all US e-commerce |
 | 3 | **Costco** | $183B | 54% of warehouse club segment |
 | 4 | **Target** | $107B | "Upscale discount" positioning |
+
+*Source: Company 10-K filings, FY 2024*
 
 <figure>
 <img src="../_figures/ch10/ch10_top_retailers.png" alt="Top retailers by revenue" style="width: 100%; max-width: 800px;">

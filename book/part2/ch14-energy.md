@@ -35,6 +35,8 @@ Electricity is unique among commodities: it cannot be economically stored at sca
 | Solar | 6% | Growing very rapidly |
 | Hydro | 6% | Stable |
 
+*Source: Energy Information Administration, Electric Power Monthly, 2024*
+
 <figure>
 <img src="../_figures/ch14/ch14_generation_mix.png" alt="Electricity generation mix" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 14.1: U.S. electricity generation by source. Natural gas has replaced coal as the dominant fuel, while wind and solar have grown rapidly. Source: EIA (2024)</figcaption>
@@ -179,6 +181,8 @@ The electric utility industry is fragmented but consolidating:
 | 6 | Xcel Energy | 3.8M | MN, CO, TX, WI, etc. | IOU |
 | 7 | TVA | 10M (wholesale) | TN region | Federal |
 
+*Source: Energy Information Administration, Form 861, 2023*
+
 ### Independent System Operators (ISOs/RTOs)
 
 In restructured markets, ISOs/RTOs operate wholesale markets and manage the grid:
@@ -213,6 +217,8 @@ ISOs run day-ahead and real-time energy markets using **locational marginal pric
 | Pioneer Natural Resources | Acquired by Exxon | - | Was largest Permian pure-play |
 | Occidental Petroleum | $50B | 1.2M boe/day | Permian, carbon capture |
 | Devon Energy | $30B | 660K boe/day | Multi-basin shale |
+
+*Source: Energy Information Administration, Petroleum Supply Monthly, 2024*
 
 The Permian Basin has driven consolidation: ExxonMobil acquired Pioneer ($60B, 2024); Chevron acquired PDC Energy and attempted Hess; Occidental acquired Anadarko (2019).
 

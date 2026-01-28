@@ -28,6 +28,8 @@ California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds th
 | Agricultural output | $60 billion | 1st |
 | Tech employment | 1.9 million | 1st |
 
+*Source: Bureau of Economic Analysis, Regional GDP; Bureau of Labor Statistics, 2024*
+
 The state's dominance reflects accumulated advantages: decades of federal investment (defense, aerospace, research universities), unmatched natural amenities (climate, coastline, mountains), and network effects that make success self-reinforcing. Silicon Valley became the technology center because it was the technology center; the density of talent, capital, and ideas created feedback loops that no other region could replicate.
 
 California's population has stabilized at around 39.4 million after unprecedented losses during the pandemic years. The state lost 400,000 residents between 2020 and 2022---the first population decline in recorded history---as remote work enabled professionals to flee astronomical housing costs. International immigration returned California to slight growth in 2023-2024, but net domestic migration remains stubbornly negative.
@@ -181,6 +183,8 @@ The West's economic success has created its most severe challenge: housing costs
 | Seattle | $850,000 | $115,000 | 7.4x |
 | Denver | $610,000 | $93,000 | 6.6x |
 | National | $417,000 | $80,000 | 5.2x |
+
+*Source: Census Bureau; National Association of Realtors; Federal Housing Finance Agency, 2024*
 
 The result is out-migration. California lost population for the first time in recorded history between 2020 and 2023. While international immigration restored modest growth in 2024, net domestic migration remains negative: roughly 200,000 Californians leave for other states annually.
 

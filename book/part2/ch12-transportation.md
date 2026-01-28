@@ -101,6 +101,8 @@ Only seven "Class I" railroads (those with over $500 million in annual revenue) 
 | CSX | $14.7B | Public | Eastern US |
 | Norfolk Southern | $12.2B | Public | Eastern US |
 
+*Source: Association of American Railroads, 2024*
+
 <figure>
 <img src="../_figures/ch12/ch12_class_i_railroads.png" alt="Class I railroads revenue" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 12.4: Class I railroad revenue. Union Pacific and BNSF (Berkshire) dominate the West; CSX and Norfolk Southern split the East. Source: AAR (2023)</figcaption>
@@ -135,6 +137,8 @@ The airline industry that deregulation created in 1978 has consolidated into a s
 | American | 17.5% | Fort Worth | DFW, CLT, PHX, PHL, MIA |
 | Southwest | 17.3% | Dallas | Point-to-point (major: DEN, LAS, PHX) |
 | United | 16.0% | Chicago | ORD, DEN, IAH, SFO, EWR |
+
+*Source: Department of Transportation, T-100 Domestic Market Data, 2024*
 
 <figure>
 <img src="../_figures/ch12/ch12_airline_market_share.png" alt="Airline market share" style="width: 100%; max-width: 800px;">
@@ -305,6 +309,12 @@ Self-driving trucks have been "five years away" for a decade, but the technology
 The likely path is "hub-to-hub" autonomy: self-driving trucks handle the long-haul highway segment while human drivers manage pickup and delivery at each end. This could address the driver shortage on the least attractive long-haul routes while avoiding the complexity of urban driving.
 
 Full autonomy remains distant. Regulatory frameworks are incomplete, edge cases are innumerable, and the trucking industry's fragmentation makes technology adoption slow. But some form of autonomous trucking will likely emerge within the decade.
+
+{% hint style="danger" %}
+**The 2021-2022 Supply Chain Crisis**
+
+The supply chain disruptions of 2021-2022 demonstrated how transportation constraints cascade through the entire economy. At the peak, over 100 container ships anchored off the California coast waiting weeks to unload. Container shipping rates rose 10x. The semiconductor shortage alone cut auto production by 3.5 million units.
+{% endhint %}
 
 ### 4. The 2021-2022 Supply Chain Crisis: A Shock Transmission Case Study
 

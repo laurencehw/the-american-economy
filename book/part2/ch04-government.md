@@ -1,33 +1,24 @@
 # Chapter 4. Government at All Levels
 
-The federal government alone spends $6.5 trillion annually---more than the entire GDP of Japan or Germany. Add state and local governments, and total government spending reaches $10 trillion, roughly 40% of American GDP. Government is the largest purchaser in the economy, the largest employer after the private sector as a whole, and the regulator whose rules shape every other sector. Yet "the government" is not a single entity: it is 90,000 separate governments---one federal, 50 state, and roughly 90,000 local jurisdictions---each with its own budget, workforce, and functions.
-
-## Overview
+The United States has 89,500 governments. One federal. Fifty state. The rest---over 89,000---are local: counties, cities, townships, school districts, fire districts, water authorities, transit agencies. Each levies taxes. Each employs workers. Each writes rules. Americans talk about "the government" as if it were a single actor. It isn't.
 
 {% hint style="info" %}
-**90,000 Governments**
+**89,000+ Governments**
 
-"Government" is not a single entity. The United States has roughly 90,000 separate governments: 1 federal, 50 state, 3,000+ counties, 19,000+ municipalities, 13,000+ school districts, and 37,000+ special districts. Each has its own budget, workforce, and functions. This fragmentation creates both resilience and incoherence.
+The Census Bureau counts 89,500 government units: 1 federal, 50 state, 3,031 counties, 19,502 municipalities, 16,097 townships, 12,957 school districts, and 37,683 special districts. Each has taxing authority, a budget, and employees. No other developed nation fragments public authority so extensively.
 {% endhint %}
 
-**Size and Scope**
-- Total government spending: roughly $10 trillion (40% of GDP)
-  - Federal: roughly $6.5 trillion
-  - State and local: roughly $3.5 trillion (net of federal transfers)
-- Government employment: roughly 23 million workers
-  - Federal civilian: 2.2 million
-  - Military (active duty): 1.3 million
-  - State government: 5.2 million
-  - Local government: 14.5 million
-- Number of governments: roughly 90,000
-  - 1 federal
-  - 50 state
-  - 3,000+ counties
-  - 19,000+ municipalities
-  - 13,000+ school districts
-  - 37,000+ special districts
+Together these governments spend $10 trillion annually---40% of GDP. They employ 23 million workers, more than manufacturing and construction combined. The federal government alone commands $6.5 trillion, exceeding Japan's entire economic output. State and local governments add another $3.5 trillion (net of federal transfers).
 
-Government is simultaneously everywhere and fragmented. The federal government dominates defense, social insurance, and macroeconomic policy. State governments run universities, prisons, and highways. Local governments provide schools, police, fire protection, and water. The layers interact through grants, mandates, and shared programs---creating a system that is powerful but often incoherent.
+The division of labor follows a rough pattern. Washington handles defense, Social Security, Medicare, and macroeconomic stabilization. States run universities, prisons, highways, and Medicaid. Local governments educate children, patrol streets, fight fires, and pump water. But the layers overlap constantly. Federal grants fund state programs. State mandates constrain local budgets. Shared programs blur accountability.
+
+The result: a system that is simultaneously massive and fragmented, powerful and incoherent.
+
+{% hint style="info" %}
+**The Fragmentation Fact**
+
+The United States has approximately 90,000 separate governmental units: 1 federal, 50 states, 3,000+ counties, 19,000+ municipalities, 13,000+ school districts, and 37,000+ special districts. This fragmentation shapes everything from tax policy to infrastructure investment.
+{% endhint %}
 
 ## How Government Works as an Economic Actor
 
@@ -43,6 +34,8 @@ Government is simultaneously everywhere and fragmented. The federal government d
 | Excise taxes | $75B | 2% |
 | Other (customs, estate, fees) | $305B | 7% |
 
+*Source: Office of Management and Budget, FY 2024*
+
 The federal government runs persistent deficits---spending exceeding revenue by $1-2 trillion annually since 2020. The difference is financed by borrowing (Treasury bonds), adding to the $35+ trillion national debt.
 
 **State and Local Revenue** (roughly $4 trillion):
@@ -55,6 +48,8 @@ The federal government runs persistent deficits---spending exceeding revenue by 
 | Individual income taxes | $500B | 13% |
 | Charges and fees | $700B | 18% |
 | Other (corporate tax, lottery, etc.) | $800B | 18% |
+
+*Source: Census Bureau, State and Local Government Finances, 2022*
 
 State and local governments are generally required to balance their operating budgets (most state constitutions prohibit operating deficits), though they can borrow for capital projects.
 
@@ -73,6 +68,8 @@ State and local governments are generally required to balance their operating bu
 | Non-defense discretionary | $800B | 12% | Education, transportation, R&D, etc. |
 | Other | $550B | 8% | |
 
+*Source: Office of Management and Budget, FY 2024*
+
 <figure>
 <img src="../_figures/ch04/ch04_spending_treemap.png" alt="Federal spending by function" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 4.1: Federal spending by function. Mandatory spending (Social Security, Medicare, Medicaid) dominates, while discretionary spending is squeezed. Source: OMB Budget (FY 2024)</figcaption>
@@ -90,6 +87,8 @@ The critical distinction: **mandatory spending** (Social Security, Medicare, Med
 | Police and corrections | 8% | State/Local |
 | Transportation | 8% | State |
 | Other | 19% | Various |
+
+*Source: Census Bureau, State and Local Government Finances, 2022*
 
 Education is by far the largest state/local function, accounting for over a third of spending and employing the largest share of state/local workers.
 
@@ -111,6 +110,8 @@ Government directly employs 23 million Americans---about 14% of total employment
 | HHS | 80,000 | FDA, CDC, NIH |
 | All other | 355,000 | |
 
+*Source: Office of Personnel Management, FedScope, 2023*
+
 The federal civilian workforce has been roughly flat for 50 years despite enormous growth in federal spending---a result of contracting out, automation, and grants to states rather than direct federal employment.
 
 **Military Personnel** (1.3 million active duty):
@@ -123,6 +124,8 @@ The federal civilian workforce has been roughly flat for 50 years despite enormo
 | Marine Corps | 175,000 | 95,000 |
 | Coast Guard | 42,000 | 10,000 |
 | Space Force | 10,000 | - |
+
+*Source: Department of Defense, Defense Manpower Data Center, 2023*
 
 Plus roughly 800,000 civilian DOD employees and millions of contractor employees.
 
@@ -137,6 +140,8 @@ Plus roughly 800,000 civilian DOD employees and millions of contractor employees
 | Public welfare | 5% |
 | Other | 25% |
 
+*Source: Bureau of Labor Statistics, Current Employment Statistics, 2023*
+
 State employment is dominated by higher education---public university faculty, staff, and administrators.
 
 **Local Government Employment** (14.5 million):
@@ -148,6 +153,8 @@ State employment is dominated by higher education---public university faculty, s
 | Fire | 2% |
 | Hospitals | 5% |
 | Other | 31% |
+
+*Source: Bureau of Labor Statistics, Current Employment Statistics, 2023*
 
 Local government employment is dominated by schools: teachers, administrators, and support staff account for over half of all local government workers.
 
@@ -183,6 +190,8 @@ Federal procurement is governed by the Federal Acquisition Regulation (FAR), a d
 | 8 | L3Harris | $8B | Electronics, communications |
 | 9 | BAE Systems | $7B | Vehicles, electronics |
 | 10 | Deloitte | $5B | Consulting, IT |
+
+*Source: USASpending.gov, FY 2023*
 
 <figure>
 <img src="../_figures/ch04/ch04_top_contractors.png" alt="Top federal contractors" style="width: 100%; max-width: 800px;">
@@ -298,6 +307,8 @@ Beyond spending and employment, government shapes the economy through regulation
 | CFPB | Consumer finance | $700M | 1,700 |
 | FAA | Aviation | $20B | 45,000 |
 | FERC | Energy | $500M | 1,500 |
+
+*Source: Agency budget justifications and Office of Management and Budget, 2023*
 
 Regulatory agencies are small relative to their economic impact. The SEC's 5,000 employees oversee capital markets with $50+ trillion in assets. The EPA's 14,000 employees enforce rules affecting virtually every manufacturer.
 

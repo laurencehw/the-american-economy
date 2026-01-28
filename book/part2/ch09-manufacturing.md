@@ -95,6 +95,8 @@ The largest American manufacturers by revenue (excluding pure energy companies):
 | Intel | Semiconductors | $54B | Leading US chip manufacturer |
 | Dow | Chemicals | $45B | Commodity and specialty chemicals |
 
+*Source: Company 10-K filings and annual reports, FY 2023*
+
 <figure>
 <img src="../_figures/ch09/ch09_top_manufacturers.png" alt="Top manufacturers by revenue" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 9.3: Top U.S. manufacturers by revenue. Apple leads by a wide margin, though its manufacturing is contracted out. Source: Company data (2023)</figcaption>

@@ -63,6 +63,16 @@ Economists use spatial metaphors to describe industry linkages:
 
 Some industries are hubs with dense connections in both directions. Energy is the classic example: nearly every industry requires electricity or fuel, making energy disruptions particularly damaging.
 
+{% hint style="info" %}
+**Linkage Terminology Quick Reference**
+
+- **Backward linkages**: An industry's purchases from suppliers (e.g., auto plants buying steel)
+- **Forward linkages**: An industry's sales to customers (e.g., steel mills selling to auto plants)
+- **Direct effects**: Jobs and output in the industry itself
+- **Indirect effects**: Jobs and output in supplier industries
+- **Induced effects**: Spending by workers in all affected industries
+{% endhint %}
+
 ## Following the Money: Circular Flow
 
 ### The Basic Circuit

@@ -2,7 +2,7 @@
 
 Walk into any office tower in Manhattan, Chicago, or San Francisco and you will find floors of lawyers, consultants, accountants, and software engineers. Most Americans never hire an M&A attorney or a management consultant, yet professional services generates $2.3 trillion annually and employs 22 million workers. These firms sell expertise---legal judgment, strategic advice, audited financials---and their concentration in a handful of elite metros shapes the economic geography of American cities.
 
-Professional and business services (NAICS 54-56) encompasses a diverse set of industries united by one feature: they sell expertise rather than physical goods. A law firm sells legal judgment; McKinsey sells strategic advice; Deloitte sells audit opinions and tax planning; advertising agencies sell creative campaigns and media placement. These services are produced by highly educated workers, concentrated in major metropolitan areas, and increasingly central to how the modern economy functions.
+Professional and business services (NAICS 54-56) spans industries united by a single feature: they sell expertise, not physical goods. A law firm sells legal judgment. McKinsey sells strategic advice. Deloitte sells audit opinions and tax planning. Advertising agencies sell creative campaigns and media placement. MBAs, JDs, and CPAs staff these firms, clustered in towers along Park Avenue and Lake Shore Drive, where proximity to clients and competitors drives billion-dollar deals. Since 1980, this sector has added over 12 million jobs while manufacturing shed 6 million.
 
 ## Overview
 

@@ -66,6 +66,12 @@ The 2008-2009 crash saw construction employment fall from 7.7 million to 5.4 mil
 
 ## Industry Structure
 
+{% hint style="info" %}
+**The Construction Productivity Puzzle**
+
+Construction is the only major sector where productivity has *declined* since 1970, even as manufacturing productivity doubled. Goolsbee and Syverson (2023) documented this finding and rejected measurement error as an explanation.
+{% endhint %}
+
 ### The Productivity Puzzle
 
 Goolsbee and Syverson's (2023) research documented a remarkable fact: **construction productivity has declined since approximately 1970**, even as every other major sector has improved. Output per worker-hour in construction is lower today than 50 years ago.
@@ -110,6 +116,8 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 | **Jacobs** | roughly $16B | Buildings, infrastructure, advanced facilities (public) |
 | **AECOM** | roughly $14B | Design and construction management |
 
+*Source: Engineering News-Record Top 400 Contractors, 2024*
+
 **Commercial Building**
 
 | Company | Revenue | Market |
@@ -118,6 +126,8 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 | **Whiting-Turner** | roughly $10B | Commercial, institutional |
 | **Skanska USA** | roughly $8B | Commercial, infrastructure (Swedish parent) |
 | **Clark Construction** | roughly $6B | Government, commercial |
+
+*Source: Engineering News-Record Top 400 Contractors, 2024*
 
 **Homebuilders**
 
@@ -128,6 +138,8 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 | **PulteGroup** | roughly $16B | roughly 28,000 |
 | **NVR** | roughly $10B | roughly 24,000 |
 | **Toll Brothers** | roughly $10B | roughly 10,000 |
+
+*Source: Company 10-K filings; Engineering News-Record Top 400 Contractors, 2024*
 
 <figure>
 <img src="../_figures/ch13/ch13_top_contractors.png" alt="Top contractors by revenue" style="width: 100%; max-width: 800px;">

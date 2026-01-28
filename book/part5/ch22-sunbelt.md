@@ -17,6 +17,8 @@ The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents-
 | Sunbelt states | 1.1% annually | 3.2% |
 | Non-Sunbelt | 0.1% annually | 1.8% |
 
+*Source: Census Bureau, Population Estimates; Bureau of Economic Analysis, Regional GDP, 2024*
+
 <figure>
 <img src="../_figures/ch22/ch22_sunbelt_map.png" alt="Sunbelt Region Map" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 22.1: The Sunbelt region. Major metros in Texas, Florida, Georgia, Arizona, and the Carolinas have captured the majority of U.S. population and economic growth since 2019. Circle size indicates metro GDP. Source: BEA, Census Bureau</figcaption>
@@ -175,6 +177,8 @@ Between 2020 and 2024, home prices in Austin increased 60%. Phoenix, Tampa, and 
 | Tampa | 45% |
 | Dallas | 40% |
 | National average | 30% |
+
+*Source: Census Bureau; Federal Housing Finance Agency, House Price Index, 2024*
 
 Rents tell a similar story. Sunbelt rents increased 24% from 2020 to 2024, compared to just 7% in coastal markets. The convergence isn't complete---Texas and Florida remain cheaper than California and New York---but the gap has narrowed dramatically.
 
