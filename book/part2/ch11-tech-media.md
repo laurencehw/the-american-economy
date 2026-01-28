@@ -49,6 +49,8 @@ Streaming video represents the clearest example of subscription-based media. Net
 - **Paramount+**: 78 million
 - **Peacock**: 36 million
 
+*Source: Company earnings reports and SEC filings, 2024*
+
 <figure>
 <img src="../_figures/ch11/ch11_streaming_subscribers.png" alt="Streaming subscribers by service" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 11.3: Streaming video subscribers by service. Netflix leads globally, but Amazon Prime Video's bundle gives it comparable reach. Source: Company data (2024)</figcaption>

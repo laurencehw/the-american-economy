@@ -14,6 +14,8 @@ Union membership has declined for decades, from roughly 35% of private-sector wo
 | 2000 | 13.4% | 9.0% | 37.5% |
 | 2024 | 9.9% | 5.9% | 32.2% |
 
+*Source: Bureau of Labor Statistics, Union Members Summary, 2024*
+
 <figure>
 <img src="../_figures/ch28/ch28_union_trend.png" alt="Union membership rate over time" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 28.1: Union membership rate, 1983-2024. The long decline from 20% to 10% reflects deindustrialization, employer resistance, and legal changes favoring management. Source: BLS Union Members Summary</figcaption>

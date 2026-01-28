@@ -18,6 +18,8 @@ The Federal Reserve's Financial Accounts (Z.1) reveal the true picture of corpor
 | Net debt issuance | $0.9 trillion | 24% |
 | Net equity issuance | -$0.8 trillion | Negative |
 
+*Source: Federal Reserve Z.1 Financial Accounts, 2024*
+
 <figure>
 <img src="../_figures/ch18/ch18_corp_financing.png" alt="Corporate financing sources" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 18.1: How corporations finance investment. Internal funds dominate; net equity issuance is negative as buybacks exceed new issues. Source: Federal Reserve Z.1</figcaption>
@@ -95,6 +97,12 @@ The largest corporate bond issuers are no longer industrial giants—they're tec
 Only two American corporations maintain AAA credit ratings: **Microsoft** and **Johnson & Johnson**. The club has shrunk from dozens in the 1980s as companies embraced leverage, pursued acquisitions, and prioritized shareholder returns over balance sheet strength.
 
 The loss of a AAA rating rarely matters operationally—borrowing costs for AA companies are only marginally higher—but it symbolizes the shift toward financial optimization and away from fortress balance sheets.
+
+{% hint style="danger" %}
+**The BBB Cliff: Systemic Risk in Investment Grade**
+
+The largest segment of the investment-grade bond market is now rated BBB—the lowest investment-grade tier. In a recession, companies downgraded to junk ("fallen angels") face forced selling from investment-grade-only funds, potentially flooding the high-yield market.
+{% endhint %}
 
 **The BBB Cliff:**
 
@@ -207,6 +215,8 @@ PE ownership transforms corporate finance in several ways:
 | Board meetings | Quarterly | Monthly |
 | CEO equity stake | 0.1-0.5% | 3-10% |
 
+*Source: Federal Reserve Z.1 Financial Accounts, 2024*
+
 ### Dividend Recapitalizations
 
 A controversial PE practice: after improving a company's performance (or simply waiting for conditions to improve), PE firms sometimes have the company issue debt specifically to pay a dividend to owners. This extracts value before exit, but also increases leverage and risk for remaining stakeholders.
@@ -249,6 +259,8 @@ CEO pay has grown dramatically relative to average worker compensation.
 | 2010 | 221:1 | $10.1 million |
 | 2020 | 264:1 | $13.9 million |
 | 2024 | 285:1 | $18.9 million |
+
+*Source: Economic Policy Institute, CEO Compensation Analysis, 2024*
 
 **Compensation Structure:**
 
@@ -338,6 +350,8 @@ Chief Financial Officers face a constant capital allocation question: what to do
 | Debt paydown | Variable | — |
 
 *Note: Percentages exceed 100% as some uses are funded by debt issuance.*
+
+*Source: Federal Reserve Z.1 Financial Accounts, 2024*
 
 ### Buybacks vs. Dividends
 

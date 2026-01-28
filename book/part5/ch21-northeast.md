@@ -24,6 +24,8 @@ The six states that comprise the corridor's core---Massachusetts, Connecticut, N
 | Boston-Cambridge | $641 billion | 4.9 million | Biotech and higher education |
 | Philadelphia | $558 billion | 6.2 million | Healthcare, logistics, pharma |
 
+*Source: Bureau of Economic Analysis, Regional GDP; Bureau of Labor Statistics, 2024*
+
 <figure>
 <img src="../_figures/ch21/ch21_northeast_metros.png" alt="Northeast Corridor Metro Economies" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 21.1: GDP of Northeast Corridor metros (2023). New York dominates at $2.3 trillion, but the combined corridor economy exceeds $4 trillion. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/regional-map.html" target="_blank">View interactive map of top 20 metros</a>. Source: BEA</figcaption>
@@ -174,6 +176,8 @@ All four corridor metros rank among the nation's most expensive housing markets.
 | New York | $3,489/month | $680,000 |
 | Washington, D.C. | $2,195/month | $575,000 |
 | Philadelphia | $1,895/month | $365,000 |
+
+*Source: Bureau of Economic Analysis, Regional GDP; Bureau of Labor Statistics, 2024*
 
 The Boston-New York convergence is particularly striking. Historically, Boston offered a modest cost advantage---enough to attract firms and workers priced out of New York. With that differential eliminated, Boston risks losing mid-career talent to lower-cost alternatives.
 

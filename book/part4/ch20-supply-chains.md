@@ -105,6 +105,8 @@ Semiconductor production has fragmented by function:
 | Fabrication (mature) | 12% | GlobalFoundries, Intel, TI |
 | Assembly/test/packaging | 3% | ASE, Amkor (mostly in Asia) |
 
+*Source: Semiconductor Industry Association; BCG Analysis, 2024*
+
 The United States dominates chip design and manufacturing equipment but has almost no leading-edge fabrication capacity. The most advanced chips—powering AI systems, smartphones, and advanced computing—come from a single company (TSMC) in a single location (Taiwan).
 
 <figure>
@@ -169,6 +171,8 @@ Electric vehicles are reorganizing automotive supply chains. The key battlegroun
 | Anode production | 85% | Japan, limited |
 | Cell manufacturing | 75% | Korea, U.S. (growing) |
 
+*Source: International Energy Agency, Global EV Outlook, 2024*
+
 China dominates battery supply chains more thoroughly than any other country dominates any other critical technology. The Inflation Reduction Act attempts to break this dominance through sourcing requirements for EV tax credits:
 
 - By 2027: 80% of critical minerals from U.S. or FTA partners
@@ -207,6 +211,8 @@ Pharmaceutical manufacturing has concentrated in ways that create national secur
 | Active pharmaceutical ingredients | 70%+ | Critical |
 | Antibiotics (inputs) | 90%+ | Critical |
 | Key starting materials | 80%+ | High |
+
+*Source: FDA; Commerce Department Supply Chain Review, 2024*
 
 The United States imports the vast majority of its generic medicines from India. But India itself imports 70%+ of its active pharmaceutical ingredients (APIs) from China. The ultimate dependency is on Chinese chemical manufacturing.
 

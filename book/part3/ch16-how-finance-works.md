@@ -29,6 +29,8 @@ At the top sits currency—physical dollars issued by the Federal Reserve. If yo
 | Of which: held domestically | roughly $1.1 trillion |
 | Of which: held abroad | roughly $1.2 trillion |
 
+*Source: Federal Reserve Statistical Releases H.4.1, H.6, and Z.1 Financial Accounts, 2024*
+
 Most dollars aren't physical. They're entries on balance sheets.
 
 **Level 2: Reserves (Bank Deposits at the Fed)**
@@ -41,6 +43,8 @@ Banks don't settle with each other using currency. They settle using reserves—
 | Post-QE (2014) | roughly $2.5 trillion |
 | Post-COVID (2022) | roughly $3.5 trillion |
 | Current | roughly $3.2 trillion |
+
+*Source: Federal Reserve Statistical Releases H.4.1, H.6, and Z.1 Financial Accounts, 2024*
 
 The explosion of reserves after 2008 reflects quantitative easing—the Fed buying assets and paying with newly created reserves.
 
@@ -55,6 +59,8 @@ What households and firms call "money" is mostly bank deposits—entries on bank
 | Small time deposits | roughly $0.5 trillion |
 | **Total** | roughly $17.5 trillion |
 
+*Source: Federal Reserve Statistical Releases H.4.1, H.6, and Z.1 Financial Accounts, 2024*
+
 Deposits are promises to pay currency/reserves. They're not currency itself. This distinction matters in a crisis: if everyone tries to convert deposits to currency simultaneously, there isn't enough.
 
 **Level 4: Shadow Money (Private Promises)**
@@ -66,6 +72,8 @@ Below bank deposits sits a vast layer of money-like claims issued by non-banks:
 | Money market fund shares | roughly $6.4 trillion | Asset managers |
 | Repo | roughly $4.5 trillion | Dealers, hedge funds |
 | Commercial paper | roughly $1.2 trillion | Corporations |
+
+*Source: Federal Reserve Statistical Releases H.4.1, H.6, and Z.1 Financial Accounts, 2024*
 
 These instruments function as money for their holders—they're liquid, perceived as safe, and used for transactions. But they're promises to pay bank deposits, which are promises to pay reserves, which are promises to pay currency. In normal times, the hierarchy is invisible. In a crisis, it reveals itself. Lower-level money gets tested against higher-level money, and the promises that can't be kept break.
 

@@ -106,6 +106,8 @@ Education is fragmented on the public side, concentrated on the commercial side:
 | Online Program Management | 2U, Coursera, Noodle | Consolidating |
 | K-12 Virtual | Stride Inc. | Near-monopoly in full-time virtual K-12 |
 
+*Source: National Center for Education Statistics, Digest of Education Statistics, 2023*
+
 ### Major Players
 
 **Public Systems (by enrollment)**
@@ -118,6 +120,8 @@ Education is fragmented on the public side, concentrated on the commercial side:
 | 4 | Texas A&M System | 175,000 | Public 4-year |
 | 5 | University of California | 285,000 | Public 4-year |
 
+*Source: National Center for Education Statistics, Digest of Education Statistics, 2023*
+
 **Commercial Education Companies (by revenue)**
 
 | Rank | Company | Revenue | Business |
@@ -129,6 +133,8 @@ Education is fragmented on the public side, concentrated on the commercial side:
 | 5 | 2U | $950M | Online program management |
 | 6 | Grand Canyon Education | $900M | OPM for Grand Canyon University |
 | 7 | Coursera | $600M | Online courses, degrees |
+
+*Source: National Center for Education Statistics, Digest of Education Statistics, 2023*
 
 ### Competitive Dynamics
 
@@ -154,6 +160,8 @@ Per-pupil spending varies dramatically by state:
 | Connecticut | $21,000 | Oklahoma | $10,500 |
 | Massachusetts | $19,000 | Mississippi | $10,500 |
 
+*Source: National Center for Education Statistics, Digest of Education Statistics, 2023*
+
 These gaps reflect: property wealth, political preferences, cost of living, and school finance litigation history. Court decisions in many states (beginning with *Serrano v. Priest* in California, 1971) forced equalization, but substantial interstate inequality remains.
 
 **Charter School Concentration**
@@ -167,6 +175,8 @@ Charter schools cluster in urban areas and in states with permissive charter law
 | California | 11% | Large absolute numbers |
 | Florida | 11% | Recent rapid growth |
 | Michigan | 10% | Detroit roughly 55% charter |
+
+*Source: National Center for Education Statistics, Digest of Education Statistics, 2023*
 
 Rural states (Montana, West Virginia, Nebraska) have minimal charter presence. Charter schools are rare in the Northeast except in cities.
 
@@ -211,6 +221,8 @@ Education employs roughly 13 million workers---about 8% of total employment:
 | Higher Ed Staff | 2.5 million | $50,000 |
 | Private Education | 1.5 million | $45,000 |
 | Education Services | 800,000 | $60,000 |
+
+*Source: National Center for Education Statistics, Digest of Education Statistics, 2023*
 
 ### The Teacher Labor Market
 
@@ -307,6 +319,8 @@ Education is heavily lobbied from all directions:
 | American Council on Education | 1,700 institutions | Higher education policy |
 | Association of Community College Trustees | 6,500 trustees | Community college interests |
 
+*Source: National Center for Education Statistics, Digest of Education Statistics, 2023*
+
 ### Lobbying Activity
 
 Education lobbying is substantial:
@@ -375,6 +389,12 @@ Standardized testing faces unprecedented challenges:
 - **Alternative credentials**: Skills-based hiring, microcredentials, badges challenging degree monopoly
 
 Yet testing remains entrenched: state accountability laws mandate it; the College Board and ACT adapt and persist.
+
+{% hint style="warning" %}
+**The Enrollment Cliff (2025+)**
+
+Birth rates fell sharply during the 2008-09 recession. Those smaller cohorts are now reaching college age, creating a demographic "enrollment cliff" with 15% fewer high school graduates projected through 2037.
+{% endhint %}
 
 ### 3. The Enrollment Cliff
 

@@ -71,6 +71,8 @@ Beyond the policy-making core, a constellation of regulatory agencies shapes eco
 | CFPB | Consumer financial protection | $750 million | 1,700 |
 | CFTC | Derivatives and futures markets | $400 million | 550 |
 
+*Source: Agency budget justifications and congressional appropriations, FY 2025*
+
 The **Securities and Exchange Commission (SEC)** regulates securities markets, requiring disclosure from public companies and policing fraud. The SEC's jurisdiction has expanded as capital markets have grown, though its budget has not kept pace---leading to persistent complaints about under-enforcement.
 
 The **Commodity Futures Trading Commission (CFTC)** regulates derivatives markets with a staff roughly one-tenth the size of the SEC's. The CFTC's jurisdiction over cryptocurrency remains contested, with ongoing "turf wars" between SEC and CFTC over which agency should regulate digital assets.

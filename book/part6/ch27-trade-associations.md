@@ -72,6 +72,8 @@ While the Big Four represent business generally, industry-specific associations 
 | ABA | Lawyers | $3 million | 400,000 |
 | NAHB | Home builders | $3-4 million | 140,000 |
 
+*Source: OpenSecrets.org, Lobbying Database, 2024*
+
 ### The National Association of Realtors
 
 NAR is the "sleeping giant" of the lobbying world. With 1.49 million members---real estate agents in virtually every congressional district---and $86 million in annual lobbying spending, NAR wields unmatched political influence on housing policy.
@@ -158,6 +160,8 @@ Think tanks provide the intellectual framework that makes lobbying effective. A 
 | Brookings Institution | Centrist/Liberal | $109 million |
 | Cato Institute | Libertarian | $80 million |
 | American Enterprise Institute | Conservative | $68 million |
+
+*Source: OpenSecrets.org, Lobbying Database, 2024*
 
 Heritage has been particularly influential in staffing Republican administrations; "Project 2025" represented an ambitious attempt to pre-plan personnel and policy for a second Trump term. Brookings provides the establishment center-left counterpart, supplying officials and analysis to Democratic administrations.
 
