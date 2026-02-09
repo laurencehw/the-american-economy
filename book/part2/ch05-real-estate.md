@@ -281,7 +281,7 @@ The housing crash transmitted to the broader economy primarily through the **wea
 
 ### Financial Contagion
 
-The housing shock became a financial crisis through the securitization chain examined in Chapter 16:
+The housing shock became a financial crisis through the securitization chain examined in Chapter 18:
 
 1. **Mortgage defaults** caused losses on mortgage-backed securities
 2. **MBS holders** (banks, investment funds, insurance companies) faced writedowns
