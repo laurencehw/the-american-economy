@@ -305,3 +305,31 @@ Economic policy debates---over trade, immigration, climate, taxation---often pit
 - Edward Glaeser, *Triumph of the City* (2011)---Why cities make us richer and happier
 - James Fallows and Deborah Fallows, *Our Towns* (2018)---A journalistic tour of smaller cities finding their way
 - Chang-Tai Hsieh and Enrico Moretti, "Housing Constraints and Spatial Misallocation," *American Economic Journal: Macroeconomics* (2019)
+
+## Exercises
+
+### Review Questions
+
+1. Five states produce roughly half of U.S. GDP. Name them and identify the dominant industry or economic driver in each. Why does economic activity concentrate so heavily rather than spreading evenly?
+
+2. Define "agglomeration economies" and explain three mechanisms through which they operate. Why might a tech firm choose to locate in an expensive city like San Francisco rather than a low-cost city with available workers?
+
+3. The text describes a "spatial mismatch" between jobs and workers. Explain three forms this mismatch takes (within metros, across regions, and by skill). What prevents the labor market from correcting these mismatches naturally?
+
+4. Housing costs in San Francisco are roughly 5x the national average, while wages are roughly 1.5x the national average. Explain why a worker might be worse off moving to a "high-wage" city. What does Hsieh and Moretti's research suggest about the national economic cost of this dynamic?
+
+5. How does the economic geography of the United States map onto its political geography? What economic factors help explain why urban areas tend to vote differently from rural areas?
+
+6. The text distinguishes four types of rural areas: resource-rich, recreational, commuter, and declining. Give an example of each and explain why their economic prospects differ so dramatically.
+
+### Data Exercises
+
+7. **Your metro's economy**: Using the BEA's GDP-by-metropolitan-area data (bea.gov/data/gdp/gdp-metropolitan-area), find the GDP and top industries for the metro area nearest to you. How does its per capita GDP compare to the national average? What are the three largest industries by GDP share, and how do they compare to the national sectoral composition in Chapter 1?
+
+8. **County-level analysis**: Using the BLS Quarterly Census of Employment and Wages (bls.gov/qcew), look up employment data for a rural county and an urban county in the same state. Compare: (a) total employment, (b) the share of employment in the three largest industries, and (c) average weekly wages. What structural differences do you observe?
+
+9. **Population migration**: Using Census Bureau data or the IRS Statistics of Income migration data, find which counties or states gained and lost population in the most recent year. Do the patterns align with the economic geography described in this chapter? Are people moving toward or away from high-productivity areas?
+
+### Deeper Investigation
+
+10. Select a "declining rural area" (e.g., a county in Appalachia, the Great Plains, or the Mississippi Delta). Using Census and BLS data, build an economic profile: population trend, unemployment rate, median household income, top industries, and educational attainment. Based on the concepts in this chapter, what structural factors explain its decline? What, if anything, might reverse the trend?

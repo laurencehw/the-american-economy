@@ -70,7 +70,7 @@ Where does $27 trillion come from? The answer may surprise you: the largest indu
 | Transportation & Warehousing | 3.5% | $960B |
 | Other | ~10.5% | ~$2.9T |
 
-*Source: Bureau of Economic Analysis, GDP by Industry (Table 1.5.5, 2023 annual data)*
+*Source: Bureau of Economic Analysis, GDP by Industry (Table 1.5.5, 2023 annual data). Note: Shares sum to more than 100% due to rounding and the exclusion of some smaller sectors from the "Other" residual.*
 
 Several patterns stand out:
 
@@ -318,3 +318,31 @@ These limitations don't invalidate economic statistics, but they do counsel humi
 - Diane Coyle, *GDP: A Brief but Affectionate History* (2014)---The best accessible history of national income accounting
 - Bureau of Economic Analysis, *Concepts and Methods of the U.S. National Income and Product Accounts*---The technical reference for GDP measurement
 - J. Steven Landefeld, "GDP: One of the Great Inventions of the 20th Century," *Survey of Current Business* (2000)
+
+## Exercises
+
+### Review Questions
+
+1. The United States produces roughly $27 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
+
+2. Manufacturing contributes about 11% of GDP but only 8% of employment. Healthcare contributes about 9% of GDP but 17% of employment. What concept explains this divergence, and what are its implications for wages in each sector?
+
+3. The text states that 0.3% of firms employ 54% of American workers. How does this challenge the common narrative that small businesses are the "backbone" of the economy? In what sense is the narrative still partially correct?
+
+4. GDP measures the market value of final goods and services. List three economically important activities that GDP *fails* to capture, and explain why each omission matters for understanding true economic well-being.
+
+5. Explain the difference between nominal and real GDP. Why would using nominal GDP to compare the economy in 2000 and 2023 be misleading?
+
+6. What is the difference between a "firm" and an "establishment"? Why does this distinction matter when interpreting economic data? Give an example.
+
+### Data Exercises
+
+7. **Exploring NAICS codes**: Go to the Bureau of Labor Statistics Occupational Employment Statistics page (bls.gov/oes). Look up a 3-digit NAICS industry of your choice. What occupations does it include? What is the median annual wage for the industry's largest occupation? How does this compare to the economy-wide median?
+
+8. **GDP by state**: Using the BEA's regional data (bea.gov/data/gdp/gdp-state), find the GDP of your home state. What share of national GDP does it represent? How does your state's per capita GDP compare to the national average? What industries drive the difference?
+
+9. **Tracking revisions**: Go to FRED (fred.stlouisfed.org) and look up the series "GDPC1" (Real GDP). Compare the "advance" estimate for any recent quarter with the most recent revised figure. How large was the revision? What does this tell you about the reliability of first-release economic data?
+
+### Deeper Investigation
+
+10. The text notes that GDP "conflates activity with welfare." Research one alternative measure of economic well-being (such as the Genuine Progress Indicator, the Human Development Index, or the OECD Better Life Index). How does the United States rank on this measure compared to its GDP ranking? What does the gap reveal about the American economy?

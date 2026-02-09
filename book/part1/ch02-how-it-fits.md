@@ -397,3 +397,33 @@ Lower oil prices helped consumers and oil-importing industries. Gasoline savings
 - Wynne Godley & Marc Lavoie, *Monetary Economics: An Integrated Approach to Credit, Money, Income, Production and Wealth* (2007)---The stock-flow consistent framework
 - Claudio Borio, "The Financial Cycle and Macroeconomics: What Have We Learnt?" *Journal of Banking and Finance* (2014)---How balance sheet dynamics drive business cycles
 - Christopher Mims, *Arriving Today* (2021)---A journalist traces a product's journey through modern logistics
+
+## Exercises
+
+### Review Questions
+
+1. Explain the concept of an input-output table. What does a row represent? What does a column represent? Why did Leontief's development of this framework earn a Nobel Prize?
+
+2. The sectoral balance identity states that (S - I) + (T - G) + (M - X) = 0. In plain language, what does this mean? Why is it called an "identity" rather than a "theory"?
+
+3. If the U.S. government reduces its deficit (raises T - G toward zero), what must happen to either the private sector balance or the trade balance? Why does this constraint make fiscal austerity politically difficult?
+
+4. Explain the difference between "backward linkages" and "forward linkages." Give an example of each using the automobile industry.
+
+5. The text describes household net worth of roughly $155 trillion as "the most important number for financial stability." Why? What happened to household net worth in 2008, and how did this affect the broader economy?
+
+6. Why did the 2014-2016 oil price collapse hurt Texas while benefiting consumers in oil-importing states? Use the concepts of backward and forward linkages to explain.
+
+7. Consumer spending on services has grown from about 40% of the total in 1950 to 65% today. Name two factors driving this shift and explain their economic logic.
+
+### Data Exercises
+
+8. **Exploring input-output tables**: Go to the BEA's Input-Output Accounts page (bea.gov/industry/input-output-accounts-data). Find the "Use Table" for the most recent year. Identify the three largest intermediate inputs purchased by the construction industry. What does this tell you about which industries would be most affected by a construction boom or bust?
+
+9. **Tracking the sectoral balances**: Using FRED, find the federal government surplus/deficit as a share of GDP (series: FYFSGDA188S) and the current account balance as a share of GDP (series: NETFI). For the most recent year, what is the approximate private sector balance implied by the identity? Does the private sector appear to be a net saver or net borrower?
+
+10. **Consumer expenditure trends**: Using the BLS Consumer Expenditure Survey (bls.gov/cex), compare household spending on food at home vs. food away from home for the most recent year. How has this ratio changed over the past decade? What economic and social factors might explain the trend?
+
+### Deeper Investigation
+
+11. Choose a product you use daily (a coffee, a piece of clothing, a smartphone app). Trace its value chain as far as you can, identifying at least five distinct industries that contribute to its production and delivery. Which stages occur domestically, and which involve international inputs? Where in the chain is the most value added?

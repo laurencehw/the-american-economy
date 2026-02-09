@@ -23,36 +23,38 @@
 * [13. Construction](part2/ch13-construction.md)
 * [14. Energy](part2/ch14-energy.md)
 * [15. Education](part2/ch15-education.md)
+* [16. Agriculture and Food Production](part2/ch16-agriculture.md)
+* [17. Leisure and Hospitality](part2/ch17-leisure-hospitality.md)
 
 ## Part III: The Financial Architecture
 
-* [16. How American Finance Works](part3/ch16-how-finance-works.md)
-* [17. Capital Markets](part3/ch17-capital-markets.md)
-* [18. Corporate Finance in Practice](part3/ch18-corporate-finance.md)
+* [18. How American Finance Works](part3/ch18-how-finance-works.md)
+* [19. Capital Markets](part3/ch19-capital-markets.md)
+* [20. Corporate Finance in Practice](part3/ch20-corporate-finance.md)
 
 ## Part IV: Trade and Global Linkages
 
-* [19. America's Trading Relationships](part4/ch19-trade.md)
-* [20. Global Supply Chains](part4/ch20-supply-chains.md)
+* [21. America's Trading Relationships](part4/ch21-trade.md)
+* [22. Global Supply Chains](part4/ch22-supply-chains.md)
 
 ## Part V: Regional Economies
 
-* [21. The Northeast Corridor](part5/ch21-northeast.md)
-* [22. The Sunbelt](part5/ch22-sunbelt.md)
-* [23. The Midwest](part5/ch23-midwest.md)
-* [24. The West](part5/ch24-west.md)
-* [25. Rural America](part5/ch25-rural.md)
+* [23. The Northeast Corridor](part5/ch23-northeast.md)
+* [24. The Sunbelt](part5/ch24-sunbelt.md)
+* [25. The Midwest](part5/ch25-midwest.md)
+* [26. The West](part5/ch26-west.md)
+* [27. Rural America](part5/ch27-rural.md)
 
 ## Part VI: Institutions and Governance
 
-* [26. Federal Economic Governance](part6/ch26-federal-governance.md)
-* [27. Trade Associations and Business Organization](part6/ch27-trade-associations.md)
-* [28. Labor Organizations](part6/ch28-labor.md)
+* [28. Federal Economic Governance](part6/ch28-federal-governance.md)
+* [29. Trade Associations and Business Organization](part6/ch29-trade-associations.md)
+* [30. Labor Markets and the Workforce](part6/ch30-labor.md)
 
 ## Part VII: Conclusion
 
-* [29. The American Economy in Perspective](part7/ch29-perspective.md)
-* [30. How Shocks Move Through the Economy](part7/ch30-shock-transmission.md)
+* [31. The American Economy in Perspective](part7/ch31-perspective.md)
+* [32. How Shocks Move Through the Economy](part7/ch32-shock-transmission.md)
 
 ## Appendices
 

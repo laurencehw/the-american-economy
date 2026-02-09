@@ -57,8 +57,8 @@ Throughout this book, you'll find interactive visualizations that let you explor
 - **GDP Treemap** (Chapter 1): Explore GDP composition by industry with hover details and multiple view modes
 - **Employment Chart** (Chapter 1): Compare sectors by employment, GDP share, and productivity
 - **Circular Flow Diagram** (Chapter 2): Animated visualization of how money flows through the economy
-- **Regional Map** (Chapter 21): Interactive map of America's top 20 metro economies
-- **Shock Propagation** (Chapter 30): Explore how economic shocks cascade through industries and regions
+- **Regional Map** (Chapter 23): Interactive map of America's top 20 metro economies
+- **Shock Propagation** (Chapter 32): Explore how economic shocks cascade through industries and regions
 - **Data Explorer**: A full dashboard for comparing any sectors across all metrics
 
 {% hint style="success" %}
