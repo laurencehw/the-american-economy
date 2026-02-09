@@ -106,25 +106,23 @@ These are the changes that address the biggest gaps. Completing Tier 1 would rai
 
 ## Recommended Session Sequence
 
-| Session | Tasks | Expected Score After |
-|---------|-------|---------------------|
-| **1** | Agriculture chapter + Hospitality chapter | 4.2 |
-| **2** | Inequality section + Exercises for Part I (Ch 1-3) | 4.3 |
-| **3** | Exercises for Parts II-III (Ch 4-18) | 4.4 |
-| **4** | Exercises for Parts IV-VII (Ch 19-30) + Data consistency pass | 4.5 |
-| **5** | Case study revision (Ch 2/30) + Positive shock example + Labor chapter expansion | 4.6 |
-| **6** | International comparisons + Print/PDF audit | 4.7 |
-| **7** | Platform economy expansion + Environmental economics | 4.8 |
-| **8** | Utilities + Alt text audit + Glossary | 4.85+ |
+| Session | Tasks | Status |
+|---------|-------|--------|
+| **1** | Agriculture chapter + Hospitality chapter + Part I exercises + Quick wins | **DONE** (Score: ~4.3) |
+| **2** | Inequality section + Exercises for Parts II-III (Ch 4-20) | Next up |
+| **3** | Exercises for Parts IV-VII (Ch 21-32) + Data consistency pass | Pending |
+| **4** | Case study revision (Ch 2/32) + Positive shock example + Labor chapter expansion | Pending |
+| **5** | International comparisons + Print/PDF audit | Pending |
+| **6** | Platform economy expansion + Environmental economics | Pending |
+| **7** | Utilities + Alt text audit + Glossary | Pending |
 
 ---
 
 ## Quick Wins (Can Be Done Anytime)
 
-These small changes could be made in spare time within any session:
-
-- [ ] Fix manufacturing GDP share inconsistency (Ch 1 vs. Ch 9)
-- [ ] Add footnote to Ch 1 Table 1.1 noting rounding
+- [x] Fix manufacturing GDP share inconsistency (Ch 1 vs. Ch 9) — DONE
+- [x] Add footnote to Ch 1 Table 1.1 noting rounding — DONE
 - [ ] Standardize reference year notation across all tables
-- [ ] Add cross-references between Ch 2 and Ch 30 case studies
-- [ ] Review Ch 28 title (rename to "Labor Markets and the Workforce")
+- [ ] Add cross-references between Ch 2 and Ch 32 case studies
+- [x] Rename Ch 30 title to "Labor Markets and the Workforce" — DONE
+- [ ] Renumber chapters 16-30 to 18-32 — DONE (new chapters are 16 and 17)
