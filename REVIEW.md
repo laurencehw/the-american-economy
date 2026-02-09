@@ -1,6 +1,6 @@
 # Textbook Review: The American Economy: A Structural Geography
 
-**Reviewer**: Claude (AI assistant)
+**Reviewer**: Claude (AI assistant), with additional input from Gemini
 **Date**: February 2026
 **Scope**: Full manuscript review (30 chapters, 3 appendices, interactive visualizations)
 
@@ -98,8 +98,9 @@ For a textbook aimed partly at undergraduates, the absence of exercises limits c
 - Discussion questions that require applying concepts to current events
 - Data exercises that point students to the cited sources (BEA, BLS, FRED) to find and interpret data themselves
 - Short analytical exercises (e.g., "Using the input-output framework, trace how a 20% increase in oil prices would affect three industries discussed in Part II")
+- Hands-on data literacy tasks (e.g., in Chapter 1, ask students to look up the 3-digit NAICS code for an industry of their choice using the provided links and describe what it covers)
 
-**Suggestion**: Add 5-8 discussion questions and 2-3 data exercises per chapter.
+**Suggestion**: Add 5-8 discussion questions and 2-3 data exercises per chapter. Tie exercises directly to the data sources documented in Appendix A so students build practical skills alongside conceptual understanding.
 
 ### 6. Minor Data Inconsistencies
 A few statistics appear inconsistent across chapters:
@@ -113,12 +114,12 @@ A few statistics appear inconsistent across chapters:
 ### 7. Some Repetition Across Chapters
 The 2014-2016 oil price collapse is covered in detail in Chapter 2, referenced in Chapter 14 (Energy), and analyzed again in Chapter 30. While some repetition is natural in a reference work, the overlap between Chapters 2 and 30 is substantial. Similarly, the China shock appears in both Chapter 9 and Chapter 30 with overlapping content.
 
-**Suggestion**: Consolidate the detailed case studies in Chapter 30 and use shorter cross-references in earlier chapters, or differentiate the analysis more clearly (e.g., Chapter 2 covers the input-output mechanics, Chapter 30 covers the full multi-channel propagation).
+**Suggestion**: Consolidate the detailed case studies in Chapter 30 and use shorter cross-references in earlier chapters, or differentiate the analysis more clearly (e.g., Chapter 2 covers the input-output mechanics, Chapter 30 covers the full multi-channel propagation). Additionally, consider adding a *positive* shock case study — such as the 2022-2023 infrastructure and CHIPS Act investment boom — directly into Chapter 2 to show the multiplier effect in a growth context. The current case studies are overwhelmingly negative shocks (oil collapse, China shock, 2008 crisis); a positive example would balance the analysis and show students that the same I-O framework explains expansions, not just contractions.
 
 ### 8. International Comparisons Could Be More Systematic
 The book occasionally compares the U.S. to other countries (healthcare costs, robot density, GDP rankings) but lacks a systematic comparative framework. Given the book's audience, a brief treatment of how the American economic model differs from European social market economies or East Asian developmental states would provide valuable context.
 
-**Suggestion**: Expand Chapter 29 (The American Economy in Perspective) with more structured international comparison.
+**Suggestion**: Expand Chapter 29 (The American Economy in Perspective) with more structured international comparison. Also consider adding a "Deep Dive" callout in Chapter 19 (Trade) comparing U.S. labor laws, corporate tax structures, and social insurance systems to peer OECD nations — this would help contextualize the "American" in the book's title and explain why trade patterns and policy debates take the shape they do.
 
 ### 9. The Labor Chapter Could Be Strengthened
 Chapter 28 on labor organizations is the narrowest chapter in the book. It could be expanded to cover:
@@ -139,6 +140,17 @@ The 125 PNG figures and 6 interactive visualizations are a strong feature. Howev
 
 **Suggestion**: Review all figure alt text for accessibility. Add guided prompts to interactive tools.
 
+### 11. Print/PDF Readiness (Visual-Text Parity)
+The book relies heavily on interactive HTML visualizations (circular-flow.html, gdp-treemap.html, shock-propagation.html, etc.) that work well in the GitBook online format but will not function in PDF or print versions. The current figure captions are brief and often point readers to the interactive version rather than standing alone.
+
+For offline and print readership:
+
+- Each interactive visualization needs a high-quality static PNG capture already included in the `_figures/` directory
+- Captions need to be self-sufficient — they should describe the key insight the figure conveys, not just label it and say "view interactive version"
+- Complex visualizations (especially the circular flow and shock propagation) should include extended text descriptions nearby that convey the same information the interactivity provides
+
+**Suggestion**: Audit all interactive figure references and ensure each has a static fallback with a descriptive, standalone caption. This is essential for any future print edition or PDF distribution.
+
 ---
 
 ## Chapter-by-Chapter Notes
@@ -151,7 +163,7 @@ The 125 PNG figures and 6 interactive visualizations are a strong feature. Howev
 | **IV: Trade and Global Linkages** | Ch 19-20 | Good. Supply chains chapter is strong. Trade chapter could use more on services trade. |
 | **V: Regional Economies** | Ch 21-25 | Very good. Northeast and Midwest chapters are particularly strong. |
 | **VI: Institutions and Governance** | Ch 26-28 | Good but uneven. Federal governance chapter is solid; labor chapter is too narrow. |
-| **VII: Conclusion** | Ch 29-30 | Good. Shock transmission chapter is effective but overlaps with Chapter 2. |
+| **VII: Conclusion** | Ch 29-30 | Good. Ch 30 is a masterclass in synthesis, effectively pulling from all earlier parts — but overlaps with Chapter 2's case studies. |
 | **Appendices** | A-C | Very good. Practical and useful for the target audience. |
 
 ---
@@ -160,7 +172,7 @@ The 125 PNG figures and 6 interactive visualizations are a strong feature. Howev
 
 **The American Economy: A Structural Geography** is an ambitious and largely successful attempt to map the American economy as it actually exists. It fills a genuine gap between theoretical economics textbooks and narrow industry reports. The writing is clear, the data is solid, and the emphasis on interconnection and systems thinking distinguishes it from more conventional treatments.
 
-The main areas for improvement are: (1) adding missing sectors (agriculture, hospitality), (2) treating inequality and environmental economics more seriously, (3) adding exercises for classroom use, and (4) tightening some repetitive content across chapters.
+The main areas for improvement are: (1) adding missing sectors (agriculture, hospitality), (2) treating inequality and environmental economics more seriously, (3) adding exercises for classroom use, (4) tightening repetitive content and balancing negative-shock case studies with a positive-shock example, and (5) ensuring print/PDF readiness for all interactive visualizations.
 
 As a reference for journalists, policy professionals, and educated general readers, it works well already. With the additions suggested above, it could become a standard undergraduate text in economic geography or institutional economics.
 
