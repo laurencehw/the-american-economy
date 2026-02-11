@@ -12,7 +12,7 @@ This chapter examines what remains: $5 trillion in annual goods trade, relations
 America's persistent trade deficit—importing $1.2 trillion more than it exports—reflects its role as global consumer of last resort. The deficit is financed by foreign purchases of American assets: Treasury bonds, stocks, and real estate. In effect, the world lends to America so America can buy from the world. The dollar's reserve currency status makes this sustainable.
 {% endhint %}
 
-The United States trades roughly $5 trillion in goods annually—more than any other nation.
+The United States trades $5 trillion in goods annually—more than any other nation.
 
 **Table 21.1: U.S. Goods Trade (2024)**
 
@@ -125,7 +125,7 @@ Consumer goods dominate imports, reflecting America's role as the world's larges
 
 *Source: Census Bureau, USA Trade Online, 2024*
 
-The import profile reveals America's manufacturing gaps. Consumer electronics, apparel, and furniture are overwhelmingly imported. Even in vehicles, where domestic production is substantial, America imports roughly $400 billion worth—a category dominated by parts moving back and forth across the USMCA borders.
+The import profile reveals America's manufacturing gaps. Consumer electronics, apparel, and furniture are overwhelmingly imported. Even in vehicles, where domestic production is substantial, America imports about $400 billion worth—a category dominated by parts moving back and forth across the USMCA borders.
 
 ## Trade Agreements
 
@@ -266,17 +266,17 @@ Trade debates often focus on tariffs and exchange rates, but the deeper structur
 
 The United States is the only advanced economy that maintains "at-will" employment as the default rule—employers can terminate workers for any non-discriminatory reason, with no notice period and no statutory severance. Germany requires 1–7 months of notice depending on tenure, plus works council consultation. Japan's courts have developed a "doctrine of abusive dismissal" that makes layoffs of regular employees extremely difficult in practice. The U.K. mandates 1–12 weeks of statutory notice and provides redundancy pay after two years of service.
 
-Union density reinforces these differences. Roughly 10% of American workers belong to unions (6% in the private sector). In Germany, collective bargaining agreements cover about 52% of workers through sectoral agreements, even at non-union firms. Japan's enterprise unions cover roughly 16% of workers but exert influence through the "spring offensive" (shunto) wage negotiations. The U.K. sits at about 23% union density, down from its postwar peak but still double the U.S. rate.
+Union density reinforces these differences. About 10% of American workers belong to unions (6% in the private sector). In Germany, collective bargaining agreements cover about 52% of workers through sectoral agreements, even at non-union firms. Japan's enterprise unions cover about 16% of workers but exert influence through the "spring offensive" (shunto) wage negotiations. The U.K. sits at about 23% union density, down from its postwar peak but still double the U.S. rate.
 
-On minimum wages, the U.S. federal floor of $7.25/hour has not increased since 2009—the longest stretch without adjustment in the minimum wage's history. Most states set higher floors, but significant regional variation persists. Germany introduced a national minimum wage only in 2015 (now €12.82/hour). Japan sets prefectural minimums averaging roughly ¥1,050/hour (~$7.50). The U.K.'s National Living Wage stands at £12.21/hour (~$15.50).
+On minimum wages, the U.S. federal floor of $7.25/hour has not increased since 2009—the longest stretch without adjustment in the minimum wage's history. Most states set higher floors, but significant regional variation persists. Germany introduced a national minimum wage only in 2015 (now €12.82/hour). Japan sets prefectural minimums averaging about ¥1,050/hour (~$7.50). The U.K.'s National Living Wage stands at £12.21/hour (~$15.50).
 
 **Corporate Tax Structures**
 
-The Tax Cuts and Jobs Act (TCJA) of 2017 cut the U.S. federal corporate rate from 35% to 21%, dropping America from the highest statutory rate in the OECD to slightly below average. Combined with state taxes (averaging 4–5%), the effective U.S. rate is roughly 25–26%. Germany's combined federal/trade tax rate is about 30%. Japan's effective rate is approximately 30%. The U.K. raised its rate to 25% in 2023 after years at 19%.
+The Tax Cuts and Jobs Act (TCJA) of 2017 cut the U.S. federal corporate rate from 35% to 21%, dropping America from the highest statutory rate in the OECD to slightly below average. Combined with state taxes (averaging 4–5%), the effective U.S. rate is about 25–26%. Germany's combined federal/trade tax rate is about 30%. Japan's effective rate is approximately 30%. The U.K. raised its rate to 25% in 2023 after years at 19%.
 
 The TCJA also shifted the U.S. to a modified territorial system for overseas profits, exempting most foreign earnings from domestic tax—aligning with the approach long used by the U.K. and Japan. Germany operates a similar participation exemption. However, the U.S. introduced GILTI (Global Intangible Low-Taxed Income), a minimum tax on foreign earnings designed to discourage profit shifting to tax havens. The OECD's Pillar Two framework (15% global minimum tax), agreed in 2021 and being implemented unevenly, partially converges these regimes.
 
-On R&D incentives, the U.S. offers a federal research tax credit (roughly 6–8% of qualifying expenses), but it ranks below many peers in generosity. The U.K.'s R&D tax relief provides up to 27% for qualifying SME expenditures. Japan and Germany offer direct R&D tax credits alongside government co-investment in applied research through institutions like Fraunhofer and AIST.
+On R&D incentives, the U.S. offers a federal research tax credit (about 6–8% of qualifying expenses), but it ranks below many peers in generosity. The U.K.'s R&D tax relief provides up to 27% for qualifying SME expenditures. Japan and Germany offer direct R&D tax credits alongside government co-investment in applied research through institutions like Fraunhofer and AIST.
 
 **Social Insurance**
 
@@ -284,7 +284,7 @@ The most consequential institutional difference is healthcare. The U.S. is the o
 
 Unemployment insurance in the U.S. typically replaces 30–40% of prior wages for a maximum of 26 weeks (varying by state). Germany's Arbeitslosengeld replaces 60–67% for up to 12 months, with longer durations for older workers. Japan provides 50–80% replacement for 3–11 months. The U.K.'s Universal Credit is less generous in replacement rate but has no fixed duration. The gap matters for trade adjustment: German workers displaced by Chinese competition had a stronger safety net than their American counterparts in the Rust Belt.
 
-Retirement systems diverge similarly. The U.S. relies heavily on employer-sponsored 401(k) plans (defined contribution), shifting investment risk to workers. Germany's three-pillar system includes a pay-as-you-go state pension replacing roughly 48% of earnings. Japan combines a flat-rate National Pension with an earnings-related Employees' Pension. The U.K. blends a state pension with auto-enrolled workplace pensions. In each peer country, the state pension provides a higher baseline than Social Security's roughly 40% replacement rate for median earners.
+Retirement systems diverge similarly. The U.S. relies heavily on employer-sponsored 401(k) plans (defined contribution), shifting investment risk to workers. Germany's three-pillar system includes a pay-as-you-go state pension replacing about 48% of earnings. Japan combines a flat-rate National Pension with an earnings-related Employees' Pension. The U.K. blends a state pension with auto-enrolled workplace pensions. In each peer country, the state pension provides a higher baseline than Social Security's approximately 40% replacement rate for median earners.
 
 **Table: Institutional Comparison—U.S. vs. Key Trading Partners**
 
@@ -350,7 +350,7 @@ The bipartisan consensus: skepticism of China. Both parties support tariffs on C
 
 The twin ports of Los Angeles and Long Beach—collectively the San Pedro Bay Complex—form America's primary gateway to Asia and the largest container port complex in the Western Hemisphere. Together they handle more cargo than all other West Coast ports combined and serve as the entry point for goods from China, Vietnam, Japan, South Korea, and Taiwan.
 
-The ports operate as separate entities—Los Angeles is a city department, Long Beach a city enterprise—but function as a single integrated complex sharing the same bay, similar infrastructure, and common challenges. The Port of Los Angeles handles slightly more volume (roughly 9.5 million TEUs annually), while Long Beach operates the most automated terminals. Major terminal operators include APM Terminals (Maersk), SSA Marine, and Yang Ming.
+The ports operate as separate entities—Los Angeles is a city department, Long Beach a city enterprise—but function as a single integrated complex sharing the same bay, similar infrastructure, and common challenges. The Port of Los Angeles handles slightly more volume (about 9.5 million TEUs annually), while Long Beach operates the most automated terminals. Major terminal operators include APM Terminals (Maersk), SSA Marine, and Yang Ming.
 
 The 2021-22 supply chain crisis exposed the complex's vulnerabilities. At the peak, over 100 container ships anchored offshore waiting weeks to berth. The ports lacked surge capacity, chassis were in short supply, warehouses were full, and trucker availability was limited. The backlog took months to clear. Since then, both ports have invested in automation, extended operating hours, and coordinated with railroads to improve throughput. But fundamental constraints remain: the ports are surrounded by dense urban development, and expansion faces environmental and community opposition. The Panama Canal expansion has shifted some cargo to Gulf and East Coast ports, beginning a long-term diversification of American trade infrastructure away from total dependence on San Pedro Bay.
 
@@ -374,7 +374,7 @@ USTR's small staff punches far above its weight. The agency negotiates bilateral
 
 ### Walmart
 
-Walmart is America's largest importer, bringing in roughly $400 billion in merchandise annually—more than most countries' total imports. The company's supply chain extends to thousands of factories in China, Vietnam, Bangladesh, and Mexico.
+Walmart is America's largest importer, bringing in $400 billion in merchandise annually—more than most countries' total imports. The company's supply chain extends to thousands of factories in China, Vietnam, Bangladesh, and Mexico.
 
 Walmart pioneered the model of using purchasing power to drive down supplier costs, passing savings to consumers. The company's logistics innovations—cross-docking, satellite-linked inventory management, "everyday low prices" enabled by everyday low costs—reshaped American retail.
 
@@ -382,14 +382,14 @@ Trade policy directly affects Walmart's business model. Section 301 tariffs incr
 
 **Key Statistics (2024):**
 - U.S. revenue: $430 billion
-- Imports: roughly $400 billion
+- Imports: $400 billion
 - Suppliers: 100,000+ globally
 - U.S. stores: 4,700+
 - Employees: 1.6 million (U.S.)
 
 ### Boeing
 
-Boeing exemplifies American aerospace's global reach. The company exports roughly $70 billion annually—more than any other U.S. manufacturer—making it the country's largest exporter by company.
+Boeing exemplifies American aerospace's global reach. The company exports about $70 billion annually—more than any other U.S. manufacturer—making it the country's largest exporter by company.
 
 But Boeing also depends on a global supply chain. Major components come from Japan (fuselage sections), France (aircraft systems), and dozens of other countries. The 787 Dreamliner's "global sourcing" strategy—originally designed to reduce costs and spread risk—backfired during production, creating coordination problems that delayed deliveries for years.
 
@@ -397,7 +397,7 @@ Trade policy affects Boeing through export financing (Ex-Im Bank support), techn
 
 **Key Statistics (2024):**
 - Revenue: $78 billion
-- Exports: roughly $70 billion
+- Exports: $70 billion
 - Commercial aircraft delivered: 528
 - Defense revenue: $25 billion
 - Employees: 170,000
@@ -454,7 +454,7 @@ What's clear is that trade is no longer just economics. It has become a tool of 
 
 ### Review Questions
 
-1. The United States runs a persistent goods trade deficit of roughly $1.2 trillion per year, yet this deficit is described as "financed by foreign purchases of American assets." Explain the mechanism by which the trade deficit and capital inflows are connected. Why does the dollar's reserve currency status make this arrangement sustainable in ways it would not be for most other countries?
+1. The United States runs a persistent goods trade deficit of $1.2 trillion per year, yet this deficit is described as "financed by foreign purchases of American assets." Explain the mechanism by which the trade deficit and capital inflows are connected. Why does the dollar's reserve currency status make this arrangement sustainable in ways it would not be for most other countries?
 
 2. Mexico surpassed China as America's largest single-country trading partner in 2023. Identify at least three factors discussed in this chapter that contributed to this shift. How do Section 301 tariffs, USMCA provisions, and the nearshoring trend each play a role?
 

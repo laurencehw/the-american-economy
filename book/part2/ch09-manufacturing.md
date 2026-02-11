@@ -1,18 +1,18 @@
 # Chapter 9: Manufacturing
 
-American manufacturing occupies a paradoxical position in the national imagination. Politicians of both parties invoke factory jobs as the backbone of the middle class, yet manufacturing employment has declined relentlessly for decades. Commentators lament "deindustrialization," yet American factories produce more output than ever before. The manufacturing sector commands policy attention far exceeding its share of employment—roughly 8% of the workforce—because of its perceived strategic importance, its geographic concentration in politically pivotal states, and nostalgia for an era when a high school graduate could support a family on assembly-line wages. This chapter examines manufacturing as it actually exists: a high-productivity sector that generates substantial economic value with an ever-shrinking workforce, concentrated in specific subsectors and regions, and increasingly subject to industrial policy intervention.
+American manufacturing occupies a paradoxical position in the national imagination. Politicians of both parties invoke factory jobs as the backbone of the middle class, yet manufacturing employment has declined relentlessly for decades. Commentators lament "deindustrialization," yet American factories produce more output than ever before. The manufacturing sector commands policy attention far exceeding its share of employment—about 8% of the workforce—because of its perceived strategic importance, its geographic concentration in politically pivotal states, and nostalgia for an era when a high school graduate could support a family on assembly-line wages. This chapter examines manufacturing as it actually exists: a high-productivity sector that generates substantial economic value with an ever-shrinking workforce, concentrated in specific subsectors and regions, and increasingly subject to industrial policy intervention.
 
 ## Overview: Size and Scope
 
 {% hint style="info" %}
 **The Manufacturing Paradox**
 
-American manufacturing presents a paradox: output has roughly doubled since the 1980s, but employment has fallen by a third. The divergence reflects extraordinary productivity growth—automation, computerization, and process improvements enable factories to produce more with fewer workers. This is economically valuable but means manufacturing will not return as a mass employer regardless of trade policy or reshoring efforts.
+American manufacturing presents a paradox: output has nearly doubled since the 1980s, but employment has fallen by a third. The divergence reflects extraordinary productivity growth—automation, computerization, and process improvements enable factories to produce more with fewer workers. This is economically valuable but means manufacturing will not return as a mass employer regardless of trade policy or reshoring efforts.
 {% endhint %}
 
-Manufacturing contributed roughly $3 trillion in value added to GDP in 2023—about 11% of the total economy. This share has declined from roughly 25% in the 1960s, but the decline primarily reflects the faster growth of services, not an absolute contraction of industrial output. Real manufacturing output has roughly doubled since the 1980s. American factories produce more aircraft, pharmaceuticals, chemicals, and vehicles than they did a generation ago.
+Manufacturing contributed $3 trillion in value added to GDP in 2023—about 11% of the total economy. This share has declined from about 25% in the 1960s, but the decline primarily reflects the faster growth of services, not an absolute contraction of industrial output. Real manufacturing output has nearly doubled since the 1980s. American factories produce more aircraft, pharmaceuticals, chemicals, and vehicles than they did a generation ago.
 
-The employment picture tells a different story. Manufacturing employed approximately 12.8 million workers as of early 2024—down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents roughly 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.
+The employment picture tells a different story. Manufacturing employed approximately 12.8 million workers as of early 2024—down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents about 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.
 
 <figure>
 <img src="../_figures/ch09/ch09_manufacturing_annotated.png" alt="U.S. manufacturing employment declining from 19M in 1979 to 13M by 2024 with key events annotated" style="width: 100%; max-width: 800px;">
@@ -45,7 +45,7 @@ Manufacturing business models vary enormously by subsector:
 
 ### Subsector Composition
 
-Manufacturing's roughly $3 trillion GDP contribution distributes unevenly across subsectors:
+Manufacturing's $3 trillion GDP contribution distributes unevenly across subsectors:
 
 <figure>
 <img src="../_figures/ch09/ch09_subsector_value_added.png" alt="Manufacturing value added: chemicals, transportation equipment, food, and computers lead" style="width: 100%; max-width: 800px;">
@@ -68,7 +68,7 @@ Manufacturing's roughly $3 trillion GDP contribution distributes unevenly across
 
 Manufacturing concentration varies dramatically by subsector. Commercial aerospace is essentially a duopoly: Boeing and Airbus divide the large commercial aircraft market, with smaller competitors (Embraer, Bombardier's former operations) serving regional jets. Defense contracting concentrates among five "primes" (Lockheed Martin, RTX, Northrop Grumman, Boeing, General Dynamics) that win major contracts and manage subcontractor networks.
 
-Automobiles exhibit moderate concentration with intense competition. The Detroit Three collectively hold roughly 40% of the American market, competing with Asian (Toyota, Honda, Hyundai-Kia) and European (Volkswagen, BMW, Mercedes) manufacturers. Tesla has disrupted the industry, growing from niche producer to America's most valuable automaker by market capitalization.
+Automobiles exhibit moderate concentration with intense competition. The Detroit Three collectively hold about 40% of the American market, competing with Asian (Toyota, Honda, Hyundai-Kia) and European (Volkswagen, BMW, Mercedes) manufacturers. Tesla has disrupted the industry, growing from niche producer to America's most valuable automaker by market capitalization.
 
 Pharmaceuticals combine brand-name concentration with generic competition. Major pharmaceutical companies possess temporary monopolies through patents, but face generic entry upon expiration. The industry has consolidated through mergers (Pfizer-Warner Lambert-Pharmacia, Bristol-Myers Squibb-Celgene), leaving a handful of large diversified pharmaceutical companies competing with biotechnology specialists.
 
@@ -164,7 +164,7 @@ Manufacturing employment skews male (approximately 70%) and older (median age ab
 
 Manufacturing productivity has grown faster than most other sectors, a trend economists generally celebrate. Higher productivity means more output per worker, enabling higher wages, lower prices, or both. Yet productivity growth has been manufacturing's employment curse: as each worker produces more, fewer workers are needed to meet any given level of demand.
 
-International comparisons reveal that American manufacturing productivity leads most competitors, undermining the narrative that manufacturing decline reflects competitive weakness. American factories produce roughly twice as much output per hour worked as those in China, a gap that persists despite Chinese wage increases. The challenge is not that American manufacturing is unproductive but that productivity reduces labor demand.
+International comparisons reveal that American manufacturing productivity leads most competitors, undermining the narrative that manufacturing decline reflects competitive weakness. American factories produce about twice as much output per hour worked as those in China, a gap that persists despite Chinese wage increases. The challenge is not that American manufacturing is unproductive but that productivity reduces labor demand.
 
 ### Automation and Robots
 
@@ -213,7 +213,7 @@ Manufacturing faces a complex regulatory environment spanning environmental prot
 
 **Environmental regulation** significantly affects manufacturing operations. The Clean Air Act regulates emissions from industrial facilities. The Clean Water Act governs discharges to waterways. The Resource Conservation and Recovery Act controls hazardous waste management. These regulations impose compliance costs but have substantially reduced industrial pollution over the past fifty years. Critics argue regulations disadvantage American manufacturers relative to foreign competitors with weaker environmental standards; advocates counter that environmental protection is worth its cost and that a "race to the bottom" benefits no one.
 
-**Occupational safety** regulation through OSHA establishes workplace safety standards. Manufacturing workplaces have become dramatically safer over time, with injury rates falling roughly 80% since OSHA's 1971 creation, though the sector remains more hazardous than services.
+**Occupational safety** regulation through OSHA establishes workplace safety standards. Manufacturing workplaces have become dramatically safer over time, with injury rates falling about 80% since OSHA's 1971 creation, though the sector remains more hazardous than services.
 
 **Product standards** vary by industry. Food and Drug Administration regulation governs pharmaceuticals and medical devices, imposing lengthy approval processes and manufacturing quality requirements. Consumer product safety standards apply broadly. Industry-specific standards (automotive safety, aviation certification) create additional compliance requirements.
 
@@ -233,7 +233,7 @@ The Biden administration marked a dramatic shift toward active industrial policy
 
 ### The CHIPS and Science Act
 
-The CHIPS Act committed $52.7 billion to semiconductor manufacturing and research, responding to concerns about American dependence on Asian chip fabrication. The United States had invented the integrated circuit but watched fabrication capacity migrate to Taiwan (TSMC), South Korea (Samsung), and increasingly China. By 2020, the U.S. share of global semiconductor manufacturing had fallen to roughly 12%, down from 37% in 1990.
+The CHIPS Act committed $52.7 billion to semiconductor manufacturing and research, responding to concerns about American dependence on Asian chip fabrication. The United States had invented the integrated circuit but watched fabrication capacity migrate to Taiwan (TSMC), South Korea (Samsung), and increasingly China. By 2020, the U.S. share of global semiconductor manufacturing had fallen to about 12%, down from 37% in 1990.
 
 The CHIPS Act provides grants and tax credits for domestic semiconductor fabrication. Major commitments include:
 - **Intel**: $8.5 billion in direct grants supporting expansions in Arizona, Oregon, Ohio, and New Mexico
@@ -265,7 +265,7 @@ Yet supply chain vulnerabilities persist. China dominates critical mineral proce
 
 ### The Manufacturing Construction Boom
 
-Manufacturing construction spending has surged since 2021, roughly doubling to an annualized rate exceeding $225 billion. This boom reflects CHIPS Act semiconductor investments, IRA-supported clean energy manufacturing, and broader reshoring efforts. The construction activity is real: new facilities are rising in Ohio (Intel), Arizona (TSMC, Intel), Georgia (SK Battery, Hyundai), Tennessee (Ford), and elsewhere.
+Manufacturing construction spending has surged since 2021, nearly doubling to an annualized rate exceeding $225 billion. This boom reflects CHIPS Act semiconductor investments, IRA-supported clean energy manufacturing, and broader reshoring efforts. The construction activity is real: new facilities are rising in Ohio (Intel), Arizona (TSMC, Intel), Georgia (SK Battery, Hyundai), Tennessee (Ford), and elsewhere.
 
 Whether this construction translates into sustained manufacturing employment growth is less clear. Semiconductor fabs are highly automated, employing perhaps 3,000 workers in facilities costing $20 billion. Battery plants similarly require fewer workers than historical manufacturing facilities of equivalent investment. The manufacturing employment boost may prove modest relative to the investment scale.
 
@@ -277,7 +277,7 @@ EV manufacturing requires different supply chains than internal combustion vehic
 
 ### The Jobs Question
 
-Manufacturing has regained jobs lost during the pandemic, with employment roughly flat at 12.8 million. The Biden administration cited 700,000 manufacturing jobs added since January 2021, though this substantially reflects pandemic recovery rather than structural employment growth.
+Manufacturing has regained jobs lost during the pandemic, with employment approximately flat at 12.8 million. The Biden administration cited 700,000 manufacturing jobs added since January 2021, though this substantially reflects pandemic recovery rather than structural employment growth.
 
 The fundamental employment trajectory remains downward. Productivity growth, automation, and global competition constrain manufacturing employment regardless of policy intervention. Industrial policy may create or preserve jobs at the margin—semiconductor fabs, battery plants, and reshored production will employ some workers—but manufacturing will not return as a mass employer. The sector's importance lies in its output, its strategic value, and its role in specific communities, not in aggregate employment.
 
@@ -357,7 +357,7 @@ Deere has sparked controversy over its equipment software policies, with farmers
 
 ### Review Questions
 
-1. American manufacturing output has roughly doubled since the 1980s, yet employment has fallen from 19.4 million (1979 peak) to 12.8 million. The chapter calls this the "manufacturing paradox." Is this decline a sign of economic weakness or economic strength? What concept explains how a sector can produce more with fewer workers, and what are the implications for workers displaced by this process?
+1. American manufacturing output has nearly doubled since the 1980s, yet employment has fallen from 19.4 million (1979 peak) to 12.8 million. The chapter calls this the "manufacturing paradox." Is this decline a sign of economic weakness or economic strength? What concept explains how a sector can produce more with fewer workers, and what are the implications for workers displaced by this process?
 
 2. A single automobile contains approximately 30,000 parts sourced from hundreds of suppliers across multiple tiers. Why did manufacturing shift from vertically integrated facilities (where one company made everything) to fragmented production networks? What are the efficiency advantages of this structure? What vulnerabilities did the COVID-19 pandemic and the 2011 Japanese tsunami expose?
 

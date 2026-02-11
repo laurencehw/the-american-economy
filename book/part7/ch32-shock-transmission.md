@@ -44,7 +44,7 @@ The structural features documented in Chapters 23-27 (regional economies) determ
 
 Financial channels amplify shocks through leverage and interconnection:
 
-- **Asset price changes** affect household and corporate balance sheets. The 2006-2012 housing crash destroyed $8 trillion in household wealth, contracting consumption far beyond what direct job losses would have caused.
+- **Asset price changes** affect household and corporate balance sheets. The 2006-2012 housing crash (see Chapter 5 for the role of real estate in the economy) destroyed $8 trillion in household wealth, contracting consumption far beyond what direct job losses would have caused.
 - **Credit conditions** tighten during downturns as banks pull back lending, creating a vicious cycle: economic weakness leads to tighter credit, which deepens the weakness.
 - **Financial institution stress** can cascade through the system. The 2008 crisis showed how losses at one institution—Lehman Brothers—could freeze credit markets globally.
 
@@ -54,7 +54,7 @@ The financial architecture described in Chapters 18-20 determines how these chan
 
 Labor markets are where shocks become personal:
 
-- **Job destruction** affects specific workers in specific places. The China shock didn't eliminate "manufacturing jobs" abstractly—it eliminated jobs at particular plants in particular towns.
+- **Job destruction** affects specific workers in specific places. The China shock didn't eliminate "manufacturing jobs" abstractly—it eliminated jobs at particular plants in particular towns (see Chapter 9 for the geographic concentration of manufacturing employment).
 - **Wage adjustments** spread pain or gain across workers in a sector or region. When an industry contracts, wages fall even for workers who keep their jobs.
 - **Migration** is the traditional adjustment mechanism. Workers are supposed to leave declining regions for growing ones. In practice, migration has slowed dramatically, leaving communities stuck with mismatched labor markets.
 - **Skills mismatch** creates persistent unemployment. A laid-off autoworker can't immediately become a software engineer, even if tech jobs are growing.
@@ -82,7 +82,7 @@ Chapter 2 introduced this episode through the lens of input-output linkages---ba
 
 Brent crude oil prices fell from $115 per barrel in June 2014 to $28 per barrel in January 2016—a 76% decline. The proximate cause was OPEC's decision to defend market share rather than prices, flooding an already oversupplied market.
 
-For the American economy, this was simultaneously a negative supply shock (devastating energy-producing regions) and a positive demand shock (benefiting consumers everywhere else). The net effect was roughly neutral for national GDP, but the geographic distribution was anything but neutral.
+For the American economy, this was simultaneously a negative supply shock (devastating energy-producing regions) and a positive demand shock (benefiting consumers everywhere else). The net effect was approximately neutral for national GDP, but the geographic distribution was anything but neutral.
 
 ### First-Round Effects: The Energy Sector
 
@@ -182,7 +182,7 @@ The China shock—the surge in imports following China's WTO accession—transmi
 
 The housing bust transmitted primarily through balance sheets—the wealth effect on households and the asset quality shock to financial institutions.
 
-**Wealth destruction**: American homeowners lost roughly $8 trillion in home equity between 2006 and 2009. For households whose homes represented their primary asset, this wealth destruction was catastrophic.
+**Wealth destruction**: American homeowners lost $8 trillion in home equity between 2006 and 2009. For households whose homes represented their primary asset, this wealth destruction was catastrophic.
 
 **Consumption collapse**: Mian and Sufi documented that zip codes with larger house price declines experienced larger drops in consumer spending. Households that felt poorer spent less—on cars, appliances, restaurants, and everything else.
 
@@ -208,7 +208,7 @@ Government responses to shocks themselves propagate through the economy. Underst
 
 ### Fiscal Policy: The CHIPS Act and IRA
 
-The CHIPS and Science Act ($52.7 billion for semiconductors) and Inflation Reduction Act (roughly $370 billion for clean energy) represent deliberate positive shocks to specific sectors.
+The CHIPS and Science Act ($52.7 billion for semiconductors) and Inflation Reduction Act (about $370 billion for clean energy) represent deliberate positive shocks to specific sectors.
 
 **Direct effects**: Semiconductor fabs are under construction in Arizona, Ohio, and Texas. Battery plants are rising across the "Battery Belt" from Georgia to Michigan.
 
@@ -325,7 +325,7 @@ This returns us to the book's central premise: the American economy is not an ab
 
 2. Distinguish among direct effects, indirect effects, and induced effects in the input-output framework. Using the 2014--2016 oil price collapse as the example, trace each type of effect: the direct employment losses in oil and gas extraction, the indirect impact on steel pipe manufacturers and oilfield equipment companies, and the induced spending reductions by laid-off energy workers. Why is the combined "multiplier effect" larger for highly connected sectors than for peripheral ones?
 
-3. The chapter describes the 2014--2016 oil price collapse as "simultaneously a negative supply shock (devastating energy-producing regions) and a positive demand shock (benefiting consumers everywhere else)." Explain this duality. Why was the net effect roughly neutral for national GDP even though the geographic distribution was "anything but neutral"? What does this case reveal about the limitations of aggregate national statistics for understanding the real impact of economic shocks?
+3. The chapter describes the 2014--2016 oil price collapse as "simultaneously a negative supply shock (devastating energy-producing regions) and a positive demand shock (benefiting consumers everywhere else)." Explain this duality. Why was the net effect approximately neutral for national GDP even though the geographic distribution was "anything but neutral"? What does this case reveal about the limitations of aggregate national statistics for understanding the real impact of economic shocks?
 
 4. Compare the transmission mechanisms of the China shock (2000--2010) and the housing bust (2006--2012). The chapter argues that the China shock transmitted primarily through "product market competition" and "quantities," while the housing bust transmitted through "balance sheets" and "wealth effects." Explain this distinction. Why did the China shock produce persistent, geographically concentrated damage to specific communities, while the housing bust produced a broader but in some ways more recoverable national recession?
 

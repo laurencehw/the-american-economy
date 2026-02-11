@@ -259,7 +259,7 @@ A haircut increase from 5% to 50% means an institution needs 10x more equity to 
 
 **Securitization**
 
-Securitization pools loans—mortgages, auto loans, credit cards, student loans—and issues securities against the pool. Senior tranches, rated AAA, offer yields above Treasuries with supposed safety; junior tranches absorb losses first. Before 2008, the market assumed that diversification made senior tranches truly safe. When housing prices fell nationally and default correlations approached 100%, AAA tranches that were supposed to be "money good" suffered 30-50% losses.
+Securitization pools loans—mortgages, auto loans, credit cards, student loans—and issues securities against the pool (see Chapter 19 for how these securities trade in capital markets). Senior tranches, rated AAA, offer yields above Treasuries with supposed safety; junior tranches absorb losses first. Before 2008, the market assumed that diversification made senior tranches truly safe. When housing prices fell nationally and default correlations approached 100%, AAA tranches that were supposed to be "money good" suffered 30-50% losses.
 
 ### Why Shadow Banking Grew
 
@@ -334,7 +334,7 @@ This expansion raises hard questions. If the Fed backstops shadow banking during
 
 ## The Credit Channel: How Finance Affects the Real Economy
 
-How does finance affect the real economy? Through the *credit channel*—the availability and cost of credit to firms and households.
+How does finance affect the real economy? Through the *credit channel*—the availability and cost of credit to firms and households. Chapter 20 examines how corporations access and deploy this credit.
 
 ### The Financial Accelerator
 
@@ -484,7 +484,7 @@ Annual stress tests assess whether banks can survive hypothetical crises. The Fe
 | CFPB | Consumer financial products |
 | State regulators | Insurance companies, state-chartered banks |
 
-This fragmented structure reflects historical accidents more than rational design. The 2008 crisis exposed gaps—no one supervised AIG's Financial Products unit adequately—but consolidation has proven politically impossible.
+This fragmented structure reflects historical accidents more than rational design (see Chapter 28 for the broader federal governance framework). The 2008 crisis exposed gaps—no one supervised AIG's Financial Products unit adequately—but consolidation has proven politically impossible.
 
 ## March 2023: Runs in the Modern Era
 

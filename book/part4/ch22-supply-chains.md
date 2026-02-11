@@ -125,7 +125,7 @@ The United States dominates chip design and manufacturing equipment but has almo
 
 **TSMC**: Taiwan Semiconductor Manufacturing Company fabricates over 90% of the world's most advanced logic chips. Apple, NVIDIA, AMD, Qualcomm, and most other leading chip designers depend on TSMC. The concentration creates geopolitical risk—Taiwan sits 100 miles from mainland China—and business risk (a single earthquake or pandemic could halt global electronics production).
 
-**Neon and Specialty Gases**: Semiconductor manufacturing requires ultra-pure specialty gases. Ukraine supplied roughly half of the world's semiconductor-grade neon before Russia's 2022 invasion disrupted production.
+**Neon and Specialty Gases**: Semiconductor manufacturing requires ultra-pure specialty gases. Ukraine supplied about half of the world's semiconductor-grade neon before Russia's 2022 invasion disrupted production.
 
 ### The CHIPS Act Response
 
@@ -268,7 +268,7 @@ This demand surge hit supply chains configured for normal patterns. Factories, s
 
 **Port Congestion**: At the crisis peak in late 2021, over 100 container ships anchored off Los Angeles/Long Beach, waiting weeks to berth. The ports operated 24/7 but couldn't clear the backlog. Chassis (the trailers that carry containers) were in short supply. Warehouses were full. Truck drivers were unavailable.
 
-**Shipping Costs**: Container shipping rates from China to the U.S. West Coast rose from roughly $2,000 pre-pandemic to over $20,000 at the peak—a 10x increase that rippled through the prices of everything from furniture to toys.
+**Shipping Costs**: Container shipping rates from China to the U.S. West Coast rose from about $2,000 pre-pandemic to over $20,000 at the peak—a 10x increase that rippled through the prices of everything from furniture to toys.
 
 **Semiconductor Shortage**: Multiple factors converged:
 - A drought in Taiwan reduced water supply for chip fabs
@@ -391,7 +391,7 @@ Flexport has expanded beyond software into physical operations: chartering aircr
 
 A.P. Moller-Maersk, the Danish shipping conglomerate, operates the world's largest container shipping fleet and has transformed into an integrated logistics company.
 
-Maersk ships carry roughly 17% of global container trade. The company's vessels—including the world's largest container ships, carrying 24,000+ TEUs—form the backbone of transpacific and transatlantic trade.
+Maersk ships carry about 17% of global container trade. The company's vessels—including the world's largest container ships, carrying 24,000+ TEUs—form the backbone of transpacific and transatlantic trade.
 
 Post-2016, Maersk pursued vertical integration, acquiring logistics companies to offer end-to-end supply chain services rather than just ocean shipping. The strategy aims to capture more value and reduce cyclicality.
 

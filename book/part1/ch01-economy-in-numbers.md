@@ -139,7 +139,7 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 Compare these rankings with GDP share, and you'll notice striking divergences:
 
-**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce 9% of GDP as measured by value added in the BEA industry accounts. (Note: total national health expenditure, a broader measure tracked by CMS, is roughly 18% of GDP---the difference reflects how healthcare spending flows through insurance, government programs, and employer contributions that appear in other sectors' value added.) These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
+**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce 9% of GDP as measured by value added in the BEA industry accounts. (Note: total national health expenditure, a broader measure tracked by CMS, is about 18% of GDP---the difference reflects how healthcare spending flows through insurance, government programs, and employer contributions that appear in other sectors' value added.) These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
 
 **Manufacturing** contributes 11% of GDP but employs only 8% of workers. Each manufacturing worker produces about $240,000 in value annually---far above the economy-wide average. Automation, technology, and capital investment have made factories extraordinarily productive.
 
@@ -323,7 +323,7 @@ These limitations don't invalidate economic statistics, but they do counsel humi
 
 ### Review Questions
 
-1. The United States produces roughly $27 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
+1. The United States produces $27 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
 
 2. Manufacturing contributes about 11% of GDP but only 8% of employment. Healthcare contributes about 9% of GDP but 17% of employment. What concept explains this divergence, and what are its implications for wages in each sector?
 

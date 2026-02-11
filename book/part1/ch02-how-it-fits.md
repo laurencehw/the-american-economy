@@ -160,10 +160,10 @@ At any moment, the Z.1 accounts show the accumulated stocks:
 
 | Sector | Assets | Liabilities | Net Worth |
 |--------|--------|-------------|-----------|
-| Households | roughly $175 trillion | roughly $20 trillion | roughly $155 trillion |
-| Nonfinancial Business | roughly $55 trillion | roughly $35 trillion | roughly $20 trillion |
-| Federal Government | roughly $5 trillion | roughly $35 trillion | -$30 trillion |
-| Financial Sector | roughly $130 trillion | roughly $125 trillion | roughly $5 trillion |
+| Households | $175 trillion | $20 trillion | $155 trillion |
+| Nonfinancial Business | $55 trillion | $35 trillion | $20 trillion |
+| Federal Government | $5 trillion | $35 trillion | -$30 trillion |
+| Financial Sector | $130 trillion | $125 trillion | $5 trillion |
 
 Household net worth---about $155 trillion---is the most important number for financial stability. When asset prices rise, households feel wealthier and spend more (the "wealth effect"). When prices crash, as in 2008, consumption collapses.
 
@@ -199,7 +199,7 @@ Abstract input-output tables become concrete when you trace specific value chain
 
 Consider a loaf of bread on a grocery shelf. Its journey:
 
-**Agriculture** (1% of GDP, roughly 2.6 million farm workers): Wheat farmers in Kansas plant, fertilize, irrigate, and harvest. They buy seeds, tractors, fuel, fertilizer---inputs from manufacturing and chemicals. They sell to grain elevators and commodity traders.
+**Agriculture** (1% of GDP, about 2.6 million farm workers): Wheat farmers in Kansas plant, fertilize, irrigate, and harvest. They buy seeds, tractors, fuel, fertilizer---inputs from manufacturing and chemicals. They sell to grain elevators and commodity traders.
 
 **Food processing** (part of manufacturing): Mills grind wheat into flour. Commercial bakeries mix flour with other ingredients, bake, and package. These operations require equipment, energy, packaging materials, and food science expertise.
 
@@ -368,7 +368,7 @@ Lower oil prices helped consumers and oil-importing industries. Gasoline savings
 
 ### Case Study: The CHIPS Act Investment Boom (A Positive Shock)
 
-The I-O framework doesn't just explain how downturns propagate---it also explains booms. The CHIPS and Science Act (2022) and the Inflation Reduction Act (2022) together authorized roughly $400 billion in incentives for semiconductor fabrication, clean energy, and advanced manufacturing. The resulting investment surge illustrates the multiplier in a growth context.
+The I-O framework doesn't just explain how downturns propagate---it also explains booms. The CHIPS and Science Act (2022) and the Inflation Reduction Act (2022) together authorized about $400 billion in incentives for semiconductor fabrication, clean energy, and advanced manufacturing. The resulting investment surge illustrates the multiplier in a growth context.
 
 **The initial shock**: TSMC announced a $65 billion investment in semiconductor fabs near Phoenix, Arizona. Intel committed $20 billion to a new campus in Chandler, Arizona (later expanded). Samsung began a $17 billion facility in Taylor, Texas. These were among the largest industrial investments in American history.
 
@@ -392,7 +392,7 @@ The construction boom rippled through local economies. In Phoenix, the TSMC inve
 
 **Induced effects (the spending multiplier)**:
 
-Construction workers earning $60,000-$100,000 annually spent their wages locally. Once operational, the fabs will employ roughly 10,000-15,000 permanent workers at salaries averaging $100,000+. Their consumer spending---on housing, restaurants, retail, healthcare---sustains additional jobs in the local economy. Regional economists estimated a multiplier of roughly 2.5: each direct fab job supports an additional 1.5 jobs in the surrounding economy.
+Construction workers earning $60,000-$100,000 annually spent their wages locally. Once operational, the fabs will employ about 10,000-15,000 permanent workers at salaries averaging $100,000+. Their consumer spending---on housing, restaurants, retail, healthcare---sustains additional jobs in the local economy. Regional economists estimated a multiplier of about 2.5: each direct fab job supports an additional 1.5 jobs in the surrounding economy.
 
 {% hint style="info" %}
 **Comparing Shocks: Oil Collapse vs. CHIPS Boom**
@@ -444,7 +444,7 @@ The oil shock (2014-2016) and the CHIPS boom (2022-2025) illustrate the same I-O
 
 4. Explain the difference between "backward linkages" and "forward linkages." Give an example of each using the automobile industry.
 
-5. The text describes household net worth of roughly $155 trillion as "the most important number for financial stability." Why? What happened to household net worth in 2008, and how did this affect the broader economy?
+5. The text describes household net worth of $155 trillion as "the most important number for financial stability." Why? What happened to household net worth in 2008, and how did this affect the broader economy?
 
 6. Why did the 2014-2016 oil price collapse hurt Texas while benefiting consumers in oil-importing states? Use the concepts of backward and forward linkages to explain.
 

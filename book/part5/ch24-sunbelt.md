@@ -31,7 +31,7 @@ The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents-
 
 The South alone accounted for 87% of U.S. population growth in 2023. Texas and Florida added nearly 800,000 residents between them in a single year---equivalent to adding a city the size of Seattle.
 
-The Sunbelt's projected growth over the next decade exceeds 7%, adding roughly 11 million people. The rest of the country is projected to grow by 0.3%.
+The Sunbelt's projected growth over the next decade exceeds 7%, adding about 11 million people. The rest of the country is projected to grow by 0.3%.
 
 ### The Economic Composition
 
@@ -145,9 +145,9 @@ Phoenix also serves as a massive retirement and healthcare destination. The popu
 
 The city's water constraints present an existential challenge. The Colorado River, which supplies Phoenix, is in crisis. Groundwater depletion in suburban developments has led to construction moratoriums. The long-term viability of continued growth depends on solving the water problem.
 
-The semiconductor investments create both opportunity and risk. TSMC's fabs require enormous quantities of ultra-pure water---roughly 10 million gallons per day per fab. Arizona has worked to secure water rights and recycling infrastructure, but the fundamental tension between industrial water demand and a drought-stressed region remains unresolved.
+The semiconductor investments create both opportunity and risk. TSMC's fabs require enormous quantities of ultra-pure water---about 10 million gallons per day per fab. Arizona has worked to secure water rights and recycling infrastructure, but the fundamental tension between industrial water demand and a drought-stressed region remains unresolved.
 
-Phoenix's housing market experienced one of the most extreme boom-bust-recovery cycles of the 2020s. Home prices roughly doubled between 2019 and 2022, then declined 15% as rising interest rates cooled demand. By 2024, prices had stabilized but remained unaffordable for many workers at the new semiconductor facilities.
+Phoenix's housing market experienced one of the most extreme boom-bust-recovery cycles of the 2020s. Home prices nearly doubled between 2019 and 2022, then declined 15% as rising interest rates cooled demand. By 2024, prices had stabilized but remained unaffordable for many workers at the new semiconductor facilities.
 
 ### Charlotte: Banking Center
 
@@ -243,7 +243,7 @@ But K-12 education presents challenges. Teacher pay in Texas, Florida, and Georg
 
 ### Immigration
 
-The Sunbelt economy depends heavily on immigrant labor. Texas employs roughly 2 million unauthorized workers; Florida employs over 800,000. These workers concentrate in construction, agriculture, hospitality, and food processing---precisely the sectors where labor shortages are most acute.
+The Sunbelt economy depends heavily on immigrant labor. Texas employs an estimated 2 million unauthorized workers; Florida employs over 800,000. These workers concentrate in construction, agriculture, hospitality, and food processing---precisely the sectors where labor shortages are most acute.
 
 The political tension is obvious: state governments pursue restrictive immigration policies while their economies depend on immigrant labor. The construction boom funding new semiconductor plants and battery factories requires workers that domestic labor markets cannot fully supply.
 
@@ -304,7 +304,7 @@ The relocation also brought Tesla's legal domicile, shifting shareholder lawsuit
 
 Citadel's move from Chicago to Miami in 2022 marked a turning point in the financial industry's geography. Ken Griffin, Citadel's billionaire founder, cited Chicago's crime, taxes, and political environment. Florida offered no income tax, a more favorable regulatory stance, and lifestyle amenities.
 
-The relocation brought not just Citadel's hedge fund but also Citadel Securities, the market-making arm that executes roughly 25% of all U.S. equity trades. Supporting staff, technology infrastructure, and related businesses followed. Griffin's personal philanthropy and civic engagement have increasingly focused on Miami.
+The relocation brought not just Citadel's hedge fund but also Citadel Securities, the market-making arm that executes about 25% of all U.S. equity trades. Supporting staff, technology infrastructure, and related businesses followed. Griffin's personal philanthropy and civic engagement have increasingly focused on Miami.
 
 The move accelerated Miami's transformation into a hedge fund and wealth management hub, attracting other firms seeking similar advantages.
 
@@ -316,7 +316,7 @@ The move accelerated Miami's transformation into a hedge fund and wealth managem
 > - Location: Bryan County, Georgia (near Savannah)
 > - Projected employment: 8,500 direct jobs
 
-Hyundai's Metaplant America represents the new industrial policy in action. The $7.6 billion investment will produce electric vehicles and batteries on a 2,900-acre site near Savannah. Georgia provided roughly $2 billion in incentives; the Inflation Reduction Act's EV tax credits require North American production.
+Hyundai's Metaplant America represents the new industrial policy in action. The $7.6 billion investment will produce electric vehicles and batteries on a 2,900-acre site near Savannah. Georgia provided about $2 billion in incentives; the Inflation Reduction Act's EV tax credits require North American production.
 
 The project illustrates the Sunbelt's advantages for manufacturing: available land, lower costs, proximity to the Port of Savannah (America's fastest-growing container port), and state governments competing aggressively for investment.
 

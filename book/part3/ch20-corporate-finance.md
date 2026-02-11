@@ -76,7 +76,7 @@ The 2017 Tax Cuts and Jobs Act eliminated the repatriation penalty, triggering a
 
 ### Investment Grade Issuers
 
-The corporate bond market totals roughly $10 trillion outstanding, dominated by large investment-grade issuers.
+The corporate bond market totals $10 trillion outstanding, dominated by large investment-grade issuers.
 
 **Who Borrows Most:**
 
@@ -119,7 +119,7 @@ High-yield issuers pay significantly more—spreads of 300-500 basis points over
 
 ### The M&A Market
 
-Mergers and acquisitions represent the highest-profile activity in corporate finance. The U.S. M&A market totaled roughly $2 trillion in announced deals in 2024, representing about 54% of global activity.
+Mergers and acquisitions represent the highest-profile activity in corporate finance. The U.S. M&A market totaled about $2 trillion in announced deals in 2024, representing about 54% of global activity.
 
 **Deal Activity by Type:**
 
@@ -184,7 +184,7 @@ Law firms are essential to deal execution, handling due diligence, contract nego
 | Simpson Thacher | PE, financing | Leveraged buyouts |
 | Paul, Weiss | PE, complex deals | High-stakes litigation |
 
-Wachtell, Lipton, Rosen & Katz occupies a unique position: a small partnership (roughly 250 lawyers) that handles the most complex and contentious public company transactions, charging premium rates and generating the highest revenue per partner in the industry.
+Wachtell, Lipton, Rosen & Katz occupies a unique position: a small partnership (about 250 lawyers) that handles the most complex and contentious public company transactions, charging premium rates and generating the highest revenue per partner in the industry.
 
 ## Private Equity's Role
 
@@ -412,7 +412,7 @@ Corporate finance advisory work concentrates in New York, with secondary hubs:
 
 Traditional bank lending to corporations has declined as a share of financing, replaced by direct lending from non-bank investors—insurance companies, pension funds, and specialized credit funds. This shift accelerated after 2008 as tighter banking regulations (Basel III capital requirements, and the proposed "Basel III Endgame" rules) made holding corporate loans more expensive for traditional banks, clearing the path for private lenders.
 
-Private credit assets under management have grown from roughly $500 billion in 2015 to over $1.7 trillion in 2024. Major players include:
+Private credit assets under management have grown from about $500 billion in 2015 to over $1.7 trillion in 2024. Major players include:
 
 | Firm | Private Credit AUM | Parent/Affiliate |
 |------|-------------------|------------------|
@@ -523,7 +523,7 @@ At 94 (in 2024), Buffett remains active, though succession planning has advanced
 
 ### Elliott Management
 
-Elliott Management, founded by Paul Singer in 1977, has become the world's most active and feared activist investor. The firm manages roughly $65 billion and pursues both corporate activism and distressed debt investing.
+Elliott Management, founded by Paul Singer in 1977, has become the world's most active and feared activist investor. The firm manages about $65 billion and pursues both corporate activism and distressed debt investing.
 
 Elliott's approach is distinctive:
 
@@ -607,7 +607,7 @@ For the American economy, corporate finance practices shape investment patterns,
 
 6. The chapter describes corporate simplification—GE splitting into three companies, Johnson & Johnson spinning off Kenvue, 3M spinning off Solventum—as the reverse of the 1960s-1980s conglomerate era. Explain why the "conglomerate discount" exists (markets value diversified firms below the sum of their parts). Then explain why Berkshire Hathaway and Danaher have avoided this discount. What specific characteristics—Buffett's capital allocation discipline, insurance float as negative-cost leverage, decentralized operations—allow some conglomerates to thrive while others destroy value?
 
-7. Private credit has grown from roughly $500 billion in 2015 to over $1.7 trillion in 2024, as firms like Ares, Apollo, and Blackstone Credit replace traditional bank lending to middle-market companies. The chapter notes this shift was driven by Basel III capital requirements making corporate loans more expensive for banks. Explain how this regulatory arbitrage works: what specific capital charges make bank lending less attractive, and why don't the same constraints apply to private credit funds? What risks arise from moving corporate lending outside the regulated banking system, particularly in a credit downturn?
+7. Private credit has grown from about $500 billion in 2015 to over $1.7 trillion in 2024, as firms like Ares, Apollo, and Blackstone Credit replace traditional bank lending to middle-market companies. The chapter notes this shift was driven by Basel III capital requirements making corporate loans more expensive for banks. Explain how this regulatory arbitrage works: what specific capital charges make bank lending less attractive, and why don't the same constraints apply to private credit funds? What risks arise from moving corporate lending outside the regulated banking system, particularly in a credit downturn?
 
 ### Data Exercises
 

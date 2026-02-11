@@ -140,7 +140,7 @@ The Big 4 audit 99% of S&P 500 companies. If one firm collapsed (as Arthur Ander
 
 **Market concentration**: The Big 4's dominance in audit is extraordinaryâ€”they audit approximately 99% of S&P 500 companies. This concentration raises concerns about systemic risk (what if a Big 4 firm failed?) and competitive dynamics (limited choice for large companies needing auditors).
 
-**Service lines**: The Big 4 are not just auditors. Revenue breaks down roughly as:
+**Service lines**: The Big 4 are not just auditors. Revenue breaks down approximately as:
 - Audit and assurance: 35-40%
 - Tax services: 25-30%
 - Consulting/advisory: 30-40%
@@ -161,15 +161,15 @@ The management consulting industry ($330 billion in the US) advises corporations
 **Market structure**: More fragmented than accounting, but with clear tiers:
 
 **Strategy consulting** (the elite tier):
-- McKinsey & Company (roughly $16B global revenue, roughly 6,000 US consultants)
-- Boston Consulting Group (roughly $12B global, roughly 5,000 US)
-- Bain & Company (roughly $6B global, roughly 3,500 US)
+- McKinsey & Company (about $16B global revenue, around 6,000 US consultants)
+- Boston Consulting Group (about $12B global, around 5,000 US)
+- Bain & Company (about $6B global, around 3,500 US)
 
 **Big 4 consulting arms** (volume and technology):
 - Deloitte Consulting, PwC Advisory, EY-Parthenon, KPMG Advisory
 
 **Technology/implementation consultants**:
-- Accenture (roughly $65B global, massive scale)
+- Accenture (about $65B global, massive scale)
 - IBM Consulting, Capgemini, Cognizant
 
 **Boutiques and specialists**: Thousands of smaller firms focusing on specific industries or functions.
@@ -191,7 +191,7 @@ The largest professional services subsector by revenue ($550 billion) encompasse
 
 **Major players**:
 - Accenture: $65B global revenue, 740,000 employees (the largest)
-- IBM Consulting: roughly $20B (spun from IBM's services arm)
+- IBM Consulting: about $20B (spun from IBM's services arm)
 - Infosys, TCS, Wipro: Indian-headquartered firms with large US operations
 - Cognizant: $19B, US-headquartered but India-delivery model
 - Thousands of smaller system integrators and consultancies
@@ -412,8 +412,8 @@ Professional services firms face pressure to demonstrate social responsibilityâ€
 > **Quick Facts**
 > - Headquarters: New York, NY
 > - Founded: 1926
-> - Revenue: roughly $16 billion (2023, estimated)
-> - Employees: 45,000 globally, roughly 6,000 US consultants
+> - Revenue: $16 billion (2023, estimated)
+> - Employees: 45,000 globally, about 6,000 US consultants
 
 McKinsey is the world's most prestigious management consulting firm, known for advising CEOs on strategy and for producing many corporate and government leaders (current and former clients include numerous Fortune 500 CEOs, cabinet secretaries, and central bank governors).
 
@@ -428,7 +428,7 @@ The firm is a partnership; there are no public financial disclosures. But it is 
 > **Quick Facts**
 > - Headquarters: New York, NY (US entity)
 > - Founded: 1845 (London), US practice established 1890s
-> - Revenue: $65 billion globally, roughly $28 billion US (2023)
+> - Revenue: $65 billion globally, about $28 billion US (2023)
 > - Employees: 175,000 US, 450,000 globally
 
 Deloitte is the largest professional services firm in the world, offering audit, tax, consulting, and advisory services. In the US, it is the largest of the Big 4 by revenue and headcount.
@@ -442,7 +442,7 @@ Deloitte has invested heavily in technology and industry specialization. Its con
 > **Quick Facts**
 > - Headquarters: Dallas, TX
 > - Founded: 1990 (through mergers)
-> - Revenue: roughly $14 billion (2023)
+> - Revenue: $14 billion (2023)
 > - Employees: 50,000
 
 AECOM is the largest architecture and engineering firm in the United States, providing design, construction management, and operations services for infrastructure, buildings, and industrial facilities.

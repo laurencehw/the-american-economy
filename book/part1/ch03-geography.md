@@ -30,18 +30,18 @@ California's economy exceeds that of India or the United Kingdom. It would rank 
 GDP per capita varies enormously across states:
 
 **Highest:**
-- Washington, D.C.: roughly $260,000 (distorted by small population and federal concentration)
+- Washington, D.C.: $260,000 (distorted by small population and federal concentration)
 - New York: $111,000
 - Massachusetts: $105,000
 - Washington State: $95,000
 - California: $83,000
 
 **Lowest:**
-- Mississippi: roughly $30,000
-- West Virginia: roughly $32,000
-- Arkansas: roughly $35,000
-- Alabama: roughly $37,000
-- New Mexico: roughly $38,000
+- Mississippi: $30,000
+- West Virginia: $32,000
+- Arkansas: $35,000
+- Alabama: $37,000
+- New Mexico: $38,000
 
 *Source: Bureau of Economic Analysis, Regional Economic Accounts, 2023*
 
@@ -165,7 +165,7 @@ Different industries have different geographic logic:
 - Agriculture: Great Plains (wheat), Midwest (corn/soybeans), California (fruits/vegetables)
 
 **Market-oriented industries** locate near customers:
-- Retail: distributed roughly proportional to population
+- Retail: distributed approximately proportional to population
 - Hospitals: located in population centers
 - Construction: follows population and investment
 
@@ -310,13 +310,13 @@ Economic policy debates---over trade, immigration, climate, taxation---often pit
 
 ### Review Questions
 
-1. Five states produce roughly half of U.S. GDP. Name them and identify the dominant industry or economic driver in each. Why does economic activity concentrate so heavily rather than spreading evenly?
+1. Five states produce about half of U.S. GDP. Name them and identify the dominant industry or economic driver in each. Why does economic activity concentrate so heavily rather than spreading evenly?
 
 2. Define "agglomeration economies" and explain three mechanisms through which they operate. Why might a tech firm choose to locate in an expensive city like San Francisco rather than a low-cost city with available workers?
 
 3. The text describes a "spatial mismatch" between jobs and workers. Explain three forms this mismatch takes (within metros, across regions, and by skill). What prevents the labor market from correcting these mismatches naturally?
 
-4. Housing costs in San Francisco are roughly 5x the national average, while wages are roughly 1.5x the national average. Explain why a worker might be worse off moving to a "high-wage" city. What does Hsieh and Moretti's research suggest about the national economic cost of this dynamic?
+4. Housing costs in San Francisco are about 5x the national average, while wages are about 1.5x the national average. Explain why a worker might be worse off moving to a "high-wage" city. What does Hsieh and Moretti's research suggest about the national economic cost of this dynamic?
 
 5. How does the economic geography of the United States map onto its political geography? What economic factors help explain why urban areas tend to vote differently from rural areas?
 

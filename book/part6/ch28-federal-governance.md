@@ -18,7 +18,7 @@ Treasury houses several key policy offices:
 - **Office of International Affairs**: Manages relations with IMF, World Bank, and currency policy
 - **Office of Financial Stability**: Created after 2008, monitors systemic risk
 
-With roughly 100,000 employees (80,000+ at the IRS), Treasury is by far the largest economic agency.
+With about 100,000 employees (80,000+ at the IRS), Treasury is by far the largest economic agency.
 
 **The Office of Management and Budget (OMB)** is the implementation and enforcement arm. OMB constructs the President's Budget, oversees agency management, and clears regulations before they take effect. The Office of Information and Regulatory Affairs (OIRA) within OMB serves as the "gatekeeper" that reviews significant regulations for cost-benefit compliance---a chokepoint that gives OMB enormous influence over the regulatory state.
 
@@ -47,7 +47,7 @@ The Fed also serves as the primary regulator of bank holding companies and an im
 
 Economic governance requires data, and the federal statistical system provides it.
 
-**The Bureau of Economic Analysis (BEA)**, housed within the Commerce Department, produces the GDP statistics, trade data, and regional economic accounts that measure the economy. With roughly 370 staff, BEA punches far above its weight---its quarterly GDP releases move markets and shape policy debates worldwide.
+**The Bureau of Economic Analysis (BEA)**, housed within the Commerce Department, produces the GDP statistics, trade data, and regional economic accounts that measure the economy. With about 370 staff, BEA punches far above its weight---its quarterly GDP releases move markets and shape policy debates worldwide.
 
 **The Census Bureau**, also within Commerce, conducts the decennial census and produces continuous economic statistics: the Economic Census, the Survey of Manufacturers, retail sales data, and housing statistics. With 12,000 employees, Census operates the surveys that underpin most economic measurement.
 
@@ -80,7 +80,7 @@ Beyond the policy-making core, a constellation of regulatory agencies shapes eco
 
 The **Securities and Exchange Commission (SEC)** regulates securities markets (see Chapter 19 for how these markets operate in practice), requiring disclosure from public companies and policing fraud. The SEC's jurisdiction has expanded as capital markets have grown, though its budget has not kept pace---leading to persistent complaints about under-enforcement.
 
-The **Commodity Futures Trading Commission (CFTC)** regulates derivatives markets with a staff roughly one-tenth the size of the SEC's. The CFTC's jurisdiction over cryptocurrency remains contested, with ongoing "turf wars" between SEC and CFTC over which agency should regulate digital assets.
+The **Commodity Futures Trading Commission (CFTC)** regulates derivatives markets with a staff about one-tenth the size of the SEC's. The CFTC's jurisdiction over cryptocurrency remains contested, with ongoing "turf wars" between SEC and CFTC over which agency should regulate digital assets.
 
 The **Federal Deposit Insurance Corporation (FDIC)** insures deposits and resolves failed banks. Funded by bank premiums rather than congressional appropriations, the FDIC maintains unusual independence. Its resolution authority proved critical during the March 2023 bank stress, when it seized Silicon Valley Bank and Signature Bank over a single weekend.
 
@@ -95,7 +95,7 @@ The **Office of the Comptroller of the Currency (OCC)**, an independent bureau w
 
 The **Federal Trade Commission (FTC)** enforces antitrust law and consumer protection statutes (see Chapter 4 for how government at all levels shapes the economy), sharing antitrust authority with the Justice Department's Antitrust Division. The FTC's current leadership has pursued an aggressive enforcement agenda against technology platforms and expanded merger scrutiny.
 
-The **Occupational Safety and Health Administration (OSHA)**, within the Labor Department, sets workplace safety standards. With roughly 2,200 employees covering millions of workplaces, OSHA relies heavily on employer self-compliance and targeted enforcement.
+The **Occupational Safety and Health Administration (OSHA)**, within the Labor Department, sets workplace safety standards. With about 2,200 employees covering millions of workplaces, OSHA relies heavily on employer self-compliance and targeted enforcement.
 
 The **Environmental Protection Agency (EPA)**, while not primarily an economic agency, shapes economic activity through environmental regulations affecting energy, manufacturing, transportation, and agriculture.
 
@@ -105,9 +105,9 @@ Federal spending flows through an elaborate process that divides into mandatory 
 
 ### Mandatory vs. Discretionary
 
-**Mandatory spending** (roughly 60-65% of the budget) occurs automatically based on eligibility laws. Social Security, Medicare, Medicaid, and interest on the debt require no annual appropriation---spending continues unless Congress changes the underlying statutes. This category grows on autopilot as the population ages and healthcare costs rise.
+**Mandatory spending** (about 60-65% of the budget) occurs automatically based on eligibility laws. Social Security, Medicare, Medicaid, and interest on the debt require no annual appropriation---spending continues unless Congress changes the underlying statutes. This category grows on autopilot as the population ages and healthcare costs rise.
 
-**Discretionary spending** (roughly 30-35%) requires annual appropriations. Defense spending (roughly $895 billion in FY 2025) and non-defense discretionary ($711 billion) must be enacted each year through the appropriations process.
+**Discretionary spending** (about 30-35%) requires annual appropriations. Defense spending ($895 billion in FY 2025) and non-defense discretionary ($711 billion) must be enacted each year through the appropriations process.
 
 **Net interest** has grown dramatically as debt has accumulated and interest rates have risen, now rivaling defense spending at over $800 billion annually.
 
@@ -126,7 +126,7 @@ In practice, this process rarely functions as designed. Congress routinely misse
 
 Two legislative agencies exercise enormous influence by determining the official cost of legislation.
 
-**The Congressional Budget Office (CBO)** produces the "baseline"---projections of spending and revenue under current law---and "scores" that estimate the cost of proposed legislation. CBO's roughly 275 staff (mostly PhD economists) operate with scrupulous nonpartisanship; their estimates often determine whether legislation is politically viable.
+**The Congressional Budget Office (CBO)** produces the "baseline"---projections of spending and revenue under current law---and "scores" that estimate the cost of proposed legislation. CBO's approximately 275 staff (mostly PhD economists) operate with scrupulous nonpartisanship; their estimates often determine whether legislation is politically viable.
 
 **The Joint Committee on Taxation (JCT)** serves as the official revenue estimator for tax legislation. Its small, elite staff of lawyers and economists calculates how tax changes would affect federal revenue---determinations that shape what tax bills can pass under budget reconciliation rules.
 
@@ -160,7 +160,7 @@ Legislative clarity remains pending, leaving market participants uncertain about
 
 > **Quick Facts**
 > - Established: 1974
-> - Staff: roughly 275
+> - Staff: approximately 275
 > - Director: Phillip Swagel (since 2019)
 > - Location: Ford House Office Building, Capitol Hill
 
@@ -174,8 +174,8 @@ The agency has maintained its nonpartisan reputation through multiple administra
 
 > **Quick Facts**
 > - Established: 1913
-> - Board staff: roughly 3,000
-> - System staff (including regional banks): roughly 23,000
+> - Board staff: about 3,000
+> - System staff (including regional banks): approximately 23,000
 > - Chair: Jerome Powell (appointed 2018, reappointed 2022)
 
 The Federal Reserve's institutional design reflects early-20th-century compromises between those who wanted a central bank and those who feared concentrated financial power. The result---a hybrid of public and private governance, with 12 regional Reserve Banks owned by member banks but supervised by the presidentially appointed Board of Governors---is unlike any other central bank.
@@ -188,7 +188,7 @@ Today's Fed faces expanded responsibilities: monetary policy, bank supervision, 
 
 > **Quick Facts**
 > - Established: 1934
-> - Staff: roughly 5,600
+> - Staff: about 5,600
 > - Chair: Gary Gensler (appointed 2021)
 > - Budget: $2.6 billion
 

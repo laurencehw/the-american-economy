@@ -6,9 +6,9 @@ Every time you order something online and it arrives the next day, you're witnes
 
 **Size and Scope**
 - GDP contribution: $935 billion (Transportation and Warehousing, NAICS 48-49)
-- Broader economic footprint: roughly $1.8 trillion including private trucking fleets
+- Broader economic footprint: $1.8 trillion including private trucking fleets
 - Employment: 6.58 million workers
-- Freight moved: roughly 20 billion tons annually
+- Freight moved: about 20 billion tons annually
 
 The transportation sector is fundamentally shaped by two forces: geography and deregulation. American distances are vast---it's 2,800 miles from Los Angeles to New York, creating natural demand for long-haul freight that doesn't exist in smaller countries. And the regulatory reforms of 1978-1980, which deregulated airlines, trucking, and railroads in rapid succession, unleashed productivity gains that transformed how goods move.
 
@@ -50,7 +50,7 @@ The trucking industry divides into distinct segments:
 
 **Less-than-Truckload (LTL):** Consolidated shipments from multiple shippers sharing trailer space through hub-and-spoke networks. LTL is more concentrated because the network economics create barriers to entry. Old Dominion, XPO, and Saia dominate, with the top ten carriers controlling about 75% of the market.
 
-**Private Fleets:** Many large companies---Walmart, PepsiCo, Sysco---operate their own trucks. Private fleets represent roughly 50% of all trucking activity by some measures, though they don't appear in for-hire trucking statistics.
+**Private Fleets:** Many large companies---Walmart, PepsiCo, Sysco---operate their own trucks. Private fleets represent about 50% of all trucking activity by some measures, though they don't appear in for-hire trucking statistics.
 
 **Owner-Operators:** Independent truckers who own their rigs and either lease to carriers or operate under their own authority. Owner-operators make up 11-16% of the driver workforce and represent the entrepreneurial dream of trucking---and its economic precarity.
 
@@ -80,7 +80,7 @@ The industry's response has been a mix of higher pay (especially signing bonuses
 
 ## Freight Rail: The Duopoly
 
-American freight rail is a remarkable success story hidden in plain sight. After decades of decline, the railroad industry was deregulated by the Staggers Act of 1980, allowing railroads to set market-based rates and abandon unprofitable lines. The result: an industry that went from bankruptcy's edge to consistent profitability, with productivity that roughly tripled over four decades.
+American freight rail is a remarkable success story hidden in plain sight. After decades of decline, the railroad industry was deregulated by the Staggers Act of 1980, allowing railroads to set market-based rates and abandon unprofitable lines. The result: an industry that went from bankruptcy's edge to consistent profitability, with productivity that nearly tripled over four decades.
 
 ### The Class I Railroads
 
@@ -110,7 +110,7 @@ Only seven "Class I" railroads (those with over $500 million in annual revenue) 
 
 <figure>
 <img src="../_figures/ch12/ch12_railroad_map.png" alt="Map of Class I railroad territories: western duopoly BNSF/UP, eastern CSX and Norfolk Southern" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 12.5: Class I railroad territories. The western duopoly (Union Pacific, BNSF) and eastern duopoly (CSX, Norfolk Southern) divide the country roughly at the Mississippi River. Chicago serves as the critical interchange point. Source: STB (2023)</figcaption>
+<figcaption>Figure 12.5: Class I railroad territories. The western duopoly (Union Pacific, BNSF) and eastern duopoly (CSX, Norfolk Southern) divide the country approximately at the Mississippi River. Chicago serves as the critical interchange point. Source: STB (2023)</figcaption>
 </figure>
 
 The Canadian carriers (Canadian National and Canadian Pacific Kansas City) also operate extensively in the US, and Kansas City Southern (now part of CPKC) provides the main rail link to Mexico.
@@ -142,7 +142,7 @@ The airline industry that deregulation created in 1978 has consolidated into a s
 
 <figure>
 <img src="../_figures/ch12/ch12_airline_market_share.png" alt="U.S. airline market share: American, Delta, United, Southwest control 80%+ of domestic flights" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 12.6: Domestic airline market share. The Big Four control roughly 70% of passengers after decades of consolidation. Source: DOT (2024)</figcaption>
+<figcaption>Figure 12.6: Domestic airline market share. The Big Four control about 70% of passengers after decades of consolidation. Source: DOT (2024)</figcaption>
 </figure>
 
 <figure>
@@ -336,7 +336,7 @@ At the peak in late 2021, over 100 container ships anchored off the Southern Cal
 
 **Price Transmission: Container Rates**
 
-The scarcity of shipping capacity sent container rates into orbit. The cost to ship a 40-foot container from Shanghai to Los Angeles rose from roughly $1,500 pre-pandemic to over $15,000 at the peak—a 10x increase. Shipping lines like Maersk and MSC reported record profits while shippers scrambled for capacity at any price.
+The scarcity of shipping capacity sent container rates into orbit. The cost to ship a 40-foot container from Shanghai to Los Angeles rose from about $1,500 pre-pandemic to over $15,000 at the peak—a 10x increase. Shipping lines like Maersk and MSC reported record profits while shippers scrambled for capacity at any price.
 
 These costs passed through supply chains with a lag. The Producer Price Index for transportation and warehousing rose 15% in 2021 alone. Eventually, higher shipping costs contributed to the broader inflation surge, showing up in everything from furniture to electronics to food.
 
@@ -345,7 +345,7 @@ These costs passed through supply chains with a lag. The Producer Price Index fo
 The most economically damaging element was the semiconductor shortage, which revealed the fragility of just-in-time supply chains in auto manufacturing. When COVID shut down chip foundries in early 2020, automakers canceled orders. When demand recovered faster than expected, they found themselves at the back of the queue behind smartphone and electronics companies.
 
 The transmission was devastating for auto production:
-- New vehicle production fell roughly 3.5 million units in 2021 due to chip shortages
+- New vehicle production fell about 3.5 million units in 2021 due to chip shortages
 - Auto plants idled workers for weeks at a time, waiting for semiconductors
 - New car inventory collapsed to historically low levels
 - Used car prices rose 40%+, contributing significantly to measured inflation
@@ -399,7 +399,7 @@ Rail is already relatively efficient (about 4x more fuel-efficient than trucking
 > - Headquarters: Atlanta, Georgia
 > - Founded: 1907
 > - Revenue: $100.3 billion (2023)
-> - Employees: roughly 500,000
+> - Employees: approximately 500,000
 
 UPS began as a Seattle messenger company and grew into the world's largest package delivery company. The "Big Brown" trucks and uniformed drivers are ubiquitous in American life. UPS delivers about 25 million packages daily worldwide.
 
@@ -415,7 +415,7 @@ The 2023 Teamsters contract negotiation nearly resulted in a strike that would h
 > - Headquarters: Omaha, Nebraska
 > - Founded: 1862 (Pacific Railroad Acts)
 > - Revenue: $24.1 billion (2023)
-> - Employees: roughly 32,000
+> - Employees: about 32,000
 
 Union Pacific traces its origins to the transcontinental railroad, completed in 1869 at Promontory Summit, Utah. Today it operates the largest railroad in North America by route miles, serving 23 western states from Chicago to the Pacific.
 
@@ -430,8 +430,8 @@ UP's western duopoly with BNSF creates strong pricing power but limited competit
 > **Quick Facts**
 > - Headquarters: Seattle, Washington (Amazon overall)
 > - Launched: 2015
-> - Parcel Volume: roughly 27% of US market
-> - Employees: roughly 275,000 (delivery operations)
+> - Parcel Volume: about 27% of US market
+> - Employees: approximately 275,000 (delivery operations)
 
 Amazon Logistics isn't a company---it's a division of Amazon that has grown into one of the largest delivery operations in the world. What began as an effort to reduce dependence on UPS and FedEx has become a competitive threat to both.
 
@@ -474,7 +474,7 @@ Amazon's logistics ambitions extend beyond its own packages. The company offers 
 
 5. The Jones Act requires goods shipped between US ports to travel on American-built, American-owned, American-crewed ships. American-built ships cost three to four times as much as foreign-built equivalents, and the law costs Puerto Rico an estimated $1.4 billion annually. What economic concept (protectionism, infant industry, regulatory capture) best explains this cost? Using the chapter's discussion of the law's defenders---domestic shipbuilders, maritime unions, and national security hawks---explain why the law persists despite its well-documented inefficiencies.
 
-6. During the 2021-2022 supply chain crisis, the cost to ship a 40-foot container from Shanghai to Los Angeles rose from roughly $1,500 to over $15,000---a 10x increase. Trace the transmission mechanism described in the chapter: how did this shipping price increase cascade through the logistics chain (port congestion, trucking rates, warehouse capacity) and eventually show up in the Producer Price Index and consumer prices for goods like furniture, electronics, and food?
+6. During the 2021-2022 supply chain crisis, the cost to ship a 40-foot container from Shanghai to Los Angeles rose from about $1,500 to over $15,000---a 10x increase. Trace the transmission mechanism described in the chapter: how did this shipping price increase cascade through the logistics chain (port congestion, trucking rates, warehouse capacity) and eventually show up in the Producer Price Index and consumer prices for goods like furniture, electronics, and food?
 
 7. Amazon Logistics now handles about 27% of US parcel volume, surpassing both UPS (21%) and FedEx (15%). The chapter notes that Amazon has built its own air cargo fleet (90+ aircraft), hundreds of sortation centers, and a network of Delivery Service Partners. How has Amazon's vertical integration into logistics changed the competitive dynamics for UPS and FedEx? What strategic responses have these incumbents adopted?
 

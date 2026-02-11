@@ -59,7 +59,7 @@ The costs are legendary: median home prices exceed $1.3 million; office rents in
 Venture capital (VC) is a form of private equity financing provided to early-stage, high-growth companies in exchange for equity stakes. The Bay Area's VC dominance is self-reinforcing through *network effects*: the more startups, investors, and experienced executives concentrate in one place, the more valuable it becomes for the next startup to locate there. Founders gain access to mentors, talent, and follow-on funding; investors gain access to deal flow and co-investment partners. This creates a winner-take-most dynamic in which the Bay Area captures half of all U.S. venture investment despite housing less than 3% of the population.
 {% endhint %}
 
-The region's venture capital ecosystem remains unmatched. Of the $170 billion invested in U.S. startups in 2023, roughly $85 billion---half---flowed through Bay Area investors into Bay Area companies. This dominance has persisted despite predictions of tech diaspora; if anything, the AI boom has concentrated venture activity even further.
+The region's venture capital ecosystem remains unmatched. Of the $170 billion invested in U.S. startups in 2023, about $85 billion---half---flowed through Bay Area investors into Bay Area companies. This dominance has persisted despite predictions of tech diaspora; if anything, the AI boom has concentrated venture activity even further.
 
 The two metropolitan areas within the Bay Area---San Francisco and San Jose---function as distinct but interconnected economies. San Jose and Silicon Valley proper (Santa Clara and San Mateo counties) host the hardware and established technology companies: Apple, Alphabet, Nvidia, Intel. San Francisco hosts the younger software and AI companies: Salesforce, Uber, Airbnb, OpenAI, Anthropic. The two have different characters---San Jose is suburban, car-dependent, corporate; San Francisco is urban, walkable, startup-oriented---but workers and companies move fluidly between them.
 
@@ -191,7 +191,7 @@ The West's economic success has created its most severe challenge: housing costs
 
 *Source: Census Bureau; National Association of Realtors; Federal Housing Finance Agency, 2024*
 
-The result is out-migration. California lost population for the first time in recorded history between 2020 and 2023. While international immigration restored modest growth in 2024, net domestic migration remains negative: roughly 200,000 Californians leave for other states annually.
+The result is out-migration. California lost population for the first time in recorded history between 2020 and 2023. While international immigration restored modest growth in 2024, net domestic migration remains negative: about 200,000 Californians leave for other states annually.
 
 The destinations reveal the calculus: Texas, Arizona, Nevada, Utah. Middle-class families seeking homeownership, retirees seeking lower taxes and costs, and businesses seeking lower operating expenses all make similar decisions.
 
@@ -239,7 +239,7 @@ The competition is direct: California companies establishing Texas operations, w
 
 ## Workforce and Immigration
 
-The West's economy depends on immigration to a degree unmatched elsewhere in the country. California alone is home to 10 million immigrants---roughly one-quarter of all immigrants in the United States. Foreign-born workers constitute over 30% of California's labor force.
+The West's economy depends on immigration to a degree unmatched elsewhere in the country. California alone is home to 10 million immigrants---about one-quarter of all immigrants in the United States. Foreign-born workers constitute over 30% of California's labor force.
 
 ### The Tech Workforce
 
@@ -277,7 +277,7 @@ CHIPS Act and Inflation Reduction Act funding has flowed substantially to the We
 > - Headquarters: Mountain View, CA
 > - Revenue: $350 billion (2024)
 > - Employees: 180,000 worldwide; 50,000+ in Bay Area
-> - Market cap: roughly $4 trillion
+> - Market cap: $4 trillion
 
 Alphabet exemplifies the Bay Area's innovation machine. From a Stanford research project to a company worth more than most countries' GDP, Google's trajectory demonstrates the region's capacity to scale ideas into global enterprises.
 
@@ -291,7 +291,7 @@ Alphabet's advertising business remains dominant, but cloud computing and AI inv
 > - Headquarters: Santa Clara, CA
 > - Revenue: $130 billion (FY 2025)
 > - Employees: 30,000
-> - Market cap: roughly $4.5 trillion
+> - Market cap: $4.5 trillion
 
 Nvidia's journey from video game graphics to the world's most valuable company illustrates the West's capacity for reinvention. The company's GPUs, originally designed for gaming, proved ideal for machine learning. When the AI boom arrived, Nvidia controlled the essential hardware.
 
@@ -355,7 +355,7 @@ The West also demonstrates how wealth effects propagate through the housing mark
 
 6. Water is described as "the existential constraint" on the Western economy. The Colorado River serves 40 million people across seven states, yet average annual flow has declined 20% since 2000. Using the chapter's data on Lake Mead and Lake Powell (both below 35% capacity), explain how water scarcity constrains future growth in Phoenix, Las Vegas, and Southern California. Who bears the costs of cutbacks---agricultural users (70% of consumption) or urban residents---and what political dynamics shape this allocation?
 
-7. The chapter profiles Nvidia, whose market capitalization of roughly $4.5 trillion makes it the world's most valuable company, driven by demand for its AI-training GPUs. Compare Nvidia's trajectory with that of Intel, which maintained Oregon manufacturing operations but lost its leading-edge position to TSMC. What does this contrast suggest about whether designing chips (Nvidia's model) or manufacturing them (Intel's model) captures more value in the semiconductor industry? How does this relate to the broader geographic pattern of Bay Area design dominance and Asian fabrication?
+7. The chapter profiles Nvidia, whose market capitalization of $4.5 trillion makes it the world's most valuable company, driven by demand for its AI-training GPUs. Compare Nvidia's trajectory with that of Intel, which maintained Oregon manufacturing operations but lost its leading-edge position to TSMC. What does this contrast suggest about whether designing chips (Nvidia's model) or manufacturing them (Intel's model) captures more value in the semiconductor industry? How does this relate to the broader geographic pattern of Bay Area design dominance and Asian fabrication?
 
 ### Data Exercises
 

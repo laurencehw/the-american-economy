@@ -15,7 +15,7 @@ The Office of Management and Budget (OMB) uses a county-based classification tha
 - **Micropolitan counties**: Contains an urban cluster of 10,000-49,999
 - **Noncore counties**: No urban cluster of 10,000+
 
-By the OMB definition, roughly 46 million Americans---14% of the population---live in nonmetropolitan counties. These populations spread across 72% of the nation's land area, at densities that make many urban economic activities unfeasible.
+By the OMB definition, about 46 million Americans---14% of the population---live in nonmetropolitan counties. These populations spread across 72% of the nation's land area, at densities that make many urban economic activities unfeasible.
 
 The distinction matters economically. Urban economies benefit from agglomeration: the density of workers, employers, and infrastructure that enables specialization, reduces transaction costs, and generates knowledge spillovers. Rural economies operate without these advantages. A worker in a rural county may have one or two realistic employers; a business may have one or two realistic suppliers. The "thickness" of urban markets is unavailable.
 
@@ -258,7 +258,7 @@ The phenomenon's durability remains uncertain. Some remote workers have returned
 
 ### The Rural Rebound
 
-Between 2020 and 2024, nonmetropolitan counties experienced a population rebound driven by net migration of over 650,000 people---sufficient to offset natural decrease (more deaths than births) and break a decade-long pattern of losses. Domestic migration accounts for roughly 70% of this gain; international immigration accounts for the remainder.
+Between 2020 and 2024, nonmetropolitan counties experienced a population rebound driven by net migration of over 650,000 people---sufficient to offset natural decrease (more deaths than births) and break a decade-long pattern of losses. Domestic migration accounts for about 70% of this gain; international immigration accounts for the remainder.
 
 **Caveats:**
 - Growth concentrates in the South and amenity-rich Mountain West

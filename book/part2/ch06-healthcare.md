@@ -71,7 +71,7 @@ Healthcare spending flows through four main channels:
 
 Most working-age Americans get health insurance through their employers. Employers contract with insurers (UnitedHealth, Anthem, Cigna, Aetna, Humana, and others) who negotiate rates with healthcare providers. The employer typically pays most of the premium, with employees contributing through payroll deductions.
 
-Employer-sponsored insurance covers about 155 million Americans. The average annual premium for family coverage is over $23,000, with employers paying roughly 73% and employees 27%.
+Employer-sponsored insurance covers about 155 million Americans. The average annual premium for family coverage is over $23,000, with employers paying about 73% and employees 27%.
 
 **2. Medicare (21%)**
 
@@ -95,7 +95,7 @@ Patients pay directly for some services---deductibles, copays, services not cove
 
 <figure>
 <img src="../_figures/ch06/ch06_payer_mix.png" alt="Healthcare payment sources: private insurance, Medicare, and Medicaid each covering 20-30%" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 6.3: Who pays for healthcare. Private insurance, Medicare, and Medicaid each cover roughly 20-30% of spending, with out-of-pocket and other sources making up the rest. Source: CMS NHE (2022)</figcaption>
+<figcaption>Figure 6.3: Who pays for healthcare. Private insurance, Medicare, and Medicaid each cover 20-30% of spending, with out-of-pocket and other sources making up the rest. Source: CMS NHE (2022)</figcaption>
 </figure>
 
 Other payers include the Veterans Administration, workers' compensation, charitable care, and other government programs.
@@ -143,12 +143,12 @@ Newer payment models tie reimbursement to quality metrics and outcomes rather th
 
 ### Hospitals
 
-The hospital sector includes roughly 6,100 hospitals in the United States:
+The hospital sector includes about 6,100 hospitals in the United States:
 
-- **Community hospitals**: roughly 5,100 (non-federal, short-term general hospitals)
-- **Federal hospitals**: roughly 200 (VA, military, Indian Health Service)
-- **Psychiatric hospitals**: roughly 400
-- **Long-term care hospitals**: roughly 350
+- **Community hospitals**: approximately 5,100 (non-federal, short-term general hospitals)
+- **Federal hospitals**: about 200 (VA, military, Indian Health Service)
+- **Psychiatric hospitals**: about 400
+- **Long-term care hospitals**: about 350
 
 **Ownership**
 
@@ -179,7 +179,7 @@ The health insurance market divides into several segments (see Chapter 8 for a b
 **Employer-sponsored insurance**
 
 The largest segment by enrollment. Major national carriers include:
-- UnitedHealth Group (largest by revenue, roughly $370B)
+- UnitedHealth Group (largest by revenue, $370B)
 - Elevance Health (formerly Anthem)
 - Cigna
 - Aetna (owned by CVS Health)
@@ -221,13 +221,13 @@ Drug dispensing occurs through retail pharmacies (CVS, Walgreens, Walmart), mail
 
 The United States has approximately 1 million active physicians. Physician practices have consolidated significantly:
 
-- **Hospital-employed physicians**: Now the majority (>50%) of physicians work for hospitals or health systems, up from roughly 25% in 2000
+- **Hospital-employed physicians**: Now the majority (>50%) of physicians work for hospitals or health systems, up from about 25% in 2000
 - **Large physician groups**: Multi-specialty groups and private equity-backed practices have grown
 - **Solo/small practices**: Declining but still significant, particularly in primary care in some regions
 
 ## Geographic Distribution
 
-Healthcare employment is distributed across the country roughly in proportion to population, but with notable variations.
+Healthcare employment is distributed across the country approximately in proportion to population, but with notable variations.
 
 ### Regional Patterns
 
@@ -255,7 +255,7 @@ These differences partly reflect regional price variation---healthcare is much m
 
 ### Employment
 
-Healthcare and social assistance employs about 20.5 million workers, divided roughly as:
+Healthcare and social assistance employs about 20.5 million workers, divided approximately as:
 
 - **Hospitals**: 5.3 million
 - **Ambulatory care (physician offices, outpatient centers)**: 8.5 million
@@ -394,7 +394,7 @@ HCA's for-profit model remains controversial. Critics argue that profit motive c
 > - Retail locations: 9,000+
 
 CVS exemplifies healthcare's vertical integration trend. What began as a retail pharmacy chain has become a diversified healthcare company combining:
-- **CVS Pharmacy**: roughly 9,000 retail pharmacies
+- **CVS Pharmacy**: about 9,000 retail pharmacies
 - **CVS Caremark**: One of the three largest PBMs
 - **Aetna**: Major health insurer (acquired 2018)
 - **MinuteClinic**: Retail health clinics
@@ -429,7 +429,7 @@ CVS's strategy bets that integrating pharmacy, insurance, and primary care can i
 
 4. The three largest Pharmacy Benefit Managers---CVS Caremark, Express Scripts (Cigna), and OptumRx (UnitedHealth)---control about 80% of the market. What role do PBMs play between drug manufacturers, insurers, and pharmacies? Why has this level of concentration drawn antitrust and regulatory scrutiny?
 
-5. Over 50% of physicians now work for hospitals or health systems, up from roughly 25% in 2000. What economic forces drive this consolidation? What are the implications for healthcare costs (hospital "facility fees" on previously independent practices), physician autonomy, and the availability of care in rural areas?
+5. Over 50% of physicians now work for hospitals or health systems, up from about 25% in 2000. What economic forces drive this consolidation? What are the implications for healthcare costs (hospital "facility fees" on previously independent practices), physician autonomy, and the availability of care in rural areas?
 
 6. The chapter describes three payment models: fee-for-service, capitation, and value-based care. Fee-for-service incentivizes volume; capitation incentivizes limiting care; value-based care ties payment to outcomes. Why has the transition away from fee-for-service been so slow, despite decades of policy support for alternatives?
 

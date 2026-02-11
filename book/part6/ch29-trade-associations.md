@@ -35,7 +35,7 @@ The Chamber's influence derives from its scale and staying power. While individu
 
 ### National Association of Manufacturers (NAM)
 
-NAM represents the industrial sector (see Chapter 9 for the structure of American manufacturing), with 14,000 member companies (roughly 85% small and medium enterprises). Its focus on manufacturing gives it particular credibility on trade, energy, and labor policy.
+NAM represents the industrial sector (see Chapter 9 for the structure of American manufacturing), with 14,000 member companies (about 85% small and medium enterprises). Its focus on manufacturing gives it particular credibility on trade, energy, and labor policy.
 
 **Key Statistics:**
 - Revenue: $62 million (2024)
@@ -46,10 +46,10 @@ NAM's strength is grassroots mobilization. Factory owners in congressional distr
 
 ### Business Roundtable
 
-The Business Roundtable takes a different approach: exclusive membership limited to CEOs of leading companies. With roughly 200 members, it offers high-level access rather than grassroots scale.
+The Business Roundtable takes a different approach: exclusive membership limited to CEOs of leading companies. With about 200 members, it offers high-level access rather than grassroots scale.
 
 **Key Statistics:**
-- Membership: roughly 200 CEOs
+- Membership: about 200 CEOs
 - Lobbying spending: $24 million (first nine months of 2024---a record)
 - Focus: Corporate governance, trade, workforce development
 
@@ -95,7 +95,7 @@ PhRMA's core mission is maintaining the pricing environment that funds pharmaceu
 
 ### The American Medical Association
 
-The AMA represents physicians, though its membership has declined from near-universal to roughly one-third of practicing doctors. The association's primary policy focus is maintaining adequate Medicare reimbursement rates and advocating on scope-of-practice issues.
+The AMA represents physicians, though its membership has declined from near-universal to about one-third of practicing doctors. The association's primary policy focus is maintaining adequate Medicare reimbursement rates and advocating on scope-of-practice issues.
 
 The AMA also plays significant roles in medical education (accrediting medical schools), specialty board certification, and clinical guidelines. The organization argues these functions protect patient safety and maintain professional standards. Critics contend that some activities---particularly restrictions on medical school capacity and scope-of-practice limitations on nurse practitioners---restrict competition and contribute to physician shortages and high healthcare costs. As with most professional associations, the line between quality assurance and occupational protection is contested.
 
@@ -186,7 +186,7 @@ The Washington suburbs---particularly Northern Virginia and suburban Maryland---
 > - Headquarters: 1615 H Street NW, Washington (across from the White House)
 > - Founded: 1912
 > - Revenue: $226 million
-> - Staff: roughly 500
+> - Staff: about 500
 
 The Chamber's location---directly across Lafayette Square from the White House---symbolizes its centrality to American business politics. The building itself, completed in 1925, was designed to project permanence and authority.
 

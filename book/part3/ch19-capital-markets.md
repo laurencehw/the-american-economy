@@ -28,7 +28,7 @@ American capital markets dwarf those of any other nation.
 <figcaption>Figure 19.1: U.S. stock market capitalization dwarfs all other markets. The "Big Three" exchanges (NYSE, NASDAQ, and their affiliates) account for over 40% of global equity market value. Source: World Federation of Exchanges</figcaption>
 </figure>
 
-The dominance is no accident. Deep capital markets require legal infrastructure (property rights, contract enforcement, bankruptcy procedures), sophisticated intermediaries, large pools of domestic savings, and network effects that attract foreign capital. The United States developed these advantages over more than a century, and they compound: liquidity attracts liquidity.
+The dominance is no accident. Deep capital markets require legal infrastructure (property rights, contract enforcement, bankruptcy procedures—see Chapter 8 for the broader financial services industry), sophisticated intermediaries, large pools of domestic savings, and network effects that attract foreign capital. The United States developed these advantages over more than a century, and they compound: liquidity attracts liquidity.
 
 ## Equity Markets
 
@@ -298,7 +298,7 @@ Post-2008 reforms pushed OTC derivatives toward central clearing. The Dodd-Frank
 
 ### Private Equity
 
-Private equity (PE) firms raise capital from institutional investors (pension funds, endowments, sovereign wealth funds) and acquire companies—either taking public companies private or buying private companies—with the goal of improving operations and selling at a profit.
+Private equity (PE) firms raise capital from institutional investors (pension funds, endowments, sovereign wealth funds) and acquire companies—either taking public companies private or buying private companies—with the goal of improving operations and selling at a profit (see Chapter 20 for how PE reshapes corporate finance and governance).
 
 **The PE model:**
 1. Raise a fund with committed capital from limited partners (LPs)
@@ -322,7 +322,7 @@ Private equity now manages more assets than hedge funds. Supporters argue PE imp
 
 ### Venture Capital
 
-Venture capital (VC) funds early-stage companies with high growth potential in exchange for equity stakes. The VC ecosystem is concentrated in a few geographic clusters, particularly Silicon Valley.
+Venture capital (VC) funds early-stage companies with high growth potential in exchange for equity stakes. The VC ecosystem is concentrated in a few geographic clusters, particularly Silicon Valley, fueling the technology sector examined in Chapter 11.
 
 **The VC model:**
 1. Raise fund from LPs (endowments, foundations, wealthy individuals)
