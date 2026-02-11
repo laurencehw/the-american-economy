@@ -84,7 +84,7 @@ Other major land crossings include El Paso-Juarez (second largest), Detroit-Wind
 ## Semiconductor Supply Chains
 
 <figure>
-<img src="../_figures/ch22/ch22_iphone_supply_chain.png" alt="iPhone supply chain" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch22/ch22_iphone_supply_chain.png" alt="iPhone supply chain spanning dozens of countries from U.S. design through Asian manufacturing" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 22.1: The iPhone supply chain spans dozens of countries. Components designed in the U.S. are manufactured across Asia, assembled in China, and shipped worldwide. Source: Author compilation from company data</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Semiconductor production has fragmented by function:
 The United States dominates chip design and manufacturing equipment but has almost no leading-edge fabrication capacity. The most advanced chips—powering AI systems, smartphones, and advanced computing—come from a single company (TSMC) in a single location (Taiwan).
 
 <figure>
-<img src="../_figures/ch22/ch22_semiconductor_supply_chain.png" alt="Semiconductor supply chain" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch22/ch22_semiconductor_supply_chain.png" alt="Semiconductor supply chain: U.S. design, TSMC fabrication, Asian packaging, global distribution" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 22.1: The semiconductor supply chain's geographic concentration risk. TSMC in Taiwan produces 90% of the world's most advanced chips. ASML in the Netherlands is the sole supplier of critical EUV lithography equipment. Source: Author analysis</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ The CHIPS and Science Act (2022) committed $52 billion to rebuild domestic semic
 Whether these investments can restore U.S. competitiveness remains uncertain. Building costs are 4-5x higher than Asia. The workforce barely exists. And the subsidies, while large, are small relative to what Asian governments have provided for decades.
 
 <figure>
-<img src="../_figures/ch22/ch22_critical_dependencies.png" alt="Critical supply chain dependencies map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch22/ch22_critical_dependencies.png" alt="Map of critical U.S. supply chain dependencies: semiconductors, rare earths, pharmaceuticals, and batteries" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 22.2: Critical U.S. supply chain dependencies. Red markers indicate single-point-of-failure chokepoints (TSMC, ASML); orange indicates high concentration risk (China for rare earths and pharmaceutical precursors); green indicates nearshoring destinations (Mexico, Vietnam). Source: Commerce Department Supply Chain Review (2024)</figcaption>
 </figure>
 
@@ -249,7 +249,7 @@ Progress has been slow. Pharmaceutical manufacturing is capital-intensive, heavi
 The COVID-19 pandemic exposed fragilities across global supply chains, creating disruptions that took years to resolve.
 
 <figure>
-<img src="../_figures/ch22/ch22_supply_chain_crisis.png" alt="Supply chain crisis 2021-22" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch22/ch22_supply_chain_crisis.png" alt="2021-2022 supply chain crisis: container ship backlogs, port congestion, and semiconductor shortages" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 22.2: The cascade of supply chain disruptions in 2021-22. Sequential shocks—the Texas freeze, Suez blockage, Vietnam lockdowns, port congestion, and Ukraine war—created compounding disruptions that drove inflation to 9.1%. Source: Author analysis</figcaption>
 </figure>
 

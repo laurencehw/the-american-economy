@@ -13,7 +13,7 @@ Not all money is equal. Money exists in layers, with each level a *promise to pa
 {% endhint %}
 
 <figure>
-<img src="../_figures/ch18/ch18_hierarchy_of_money.png" alt="Hierarchy of money" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch18/ch18_hierarchy_of_money.png" alt="Pyramid showing hierarchy from Federal Reserve currency at top to shadow banking instruments at base" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 18.1: The hierarchy of money. Currency sits at the top; reserves, deposits, and shadow money form progressively lower levels, each a promise to pay the level above. In a crisis, lower-level money gets tested against higher-level money. Source: Author illustration based on Mehrling</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Below bank deposits sits a vast layer of money-like claims issued by non-banks:
 These instruments function as money for their holders—they're liquid, perceived as safe, and used for transactions. But they're promises to pay bank deposits, which are promises to pay reserves, which are promises to pay currency. In normal times, the hierarchy is invisible. In a crisis, it reveals itself. Lower-level money gets tested against higher-level money, and the promises that can't be kept break.
 
 <figure>
-<img src="../_figures/ch18/ch18_flow_of_funds.png" alt="Flow of funds diagram" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch18/ch18_flow_of_funds.png" alt="Flow diagram showing money between households, businesses, banks, capital markets, and government" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 18.2: The flow of funds: how savings become investment. Money flows from sources (households, corporations, government, rest of world) through financial intermediaries (banks, shadow banks, capital markets) to ultimate uses (mortgages, business loans, consumer credit). The Fed sits at the bottom, providing reserves that lubricate the entire system. Source: Federal Reserve Z.1 Financial Accounts</figcaption>
 </figure>
 
@@ -380,7 +380,7 @@ The Federal Reserve's rapid rate increases from 2022 to 2023 provide a vivid cas
 Beginning in March 2022, the Fed raised the federal funds rate from near zero to 5.25-5.50%—the fastest tightening cycle in 40 years. The goal was to combat inflation that had reached 9%, the highest since 1981. But the transmission of this shock through the economy revealed both expected channels and unanticipated vulnerabilities.
 
 <figure>
-<img src="../_figures/shock_analysis/mortgage_rate_shock.png" alt="Mortgage rate shock" style="width: 100%; max-width: 800px;">
+<img src="../_figures/shock_analysis/mortgage_rate_shock.png" alt="30-year fixed mortgage rates rising from 3% to over 7% between 2021 and 2023" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 18.2: The 30-year fixed mortgage rate doubled from 3% to over 7% in just 18 months, the most rapid increase since the Volcker disinflation of 1981-82. Source: FRED</figcaption>
 </figure>
 
@@ -393,7 +393,7 @@ The most visible transmission occurred through mortgage rates. The 30-year fixed
 - **Transaction freeze**: Existing homeowners locked into 3% mortgages refused to sell, since moving meant taking on a 7% mortgage. Existing home sales fell 35% from 2021 to 2023.
 
 <figure>
-<img src="../_figures/shock_analysis/housing_starts_shock.png" alt="Housing starts shock" style="width: 100%; max-width: 800px;">
+<img src="../_figures/shock_analysis/housing_starts_shock.png" alt="Housing starts declining sharply as mortgage rates doubled from 2021 to 2023" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 18.3: Housing starts fell sharply as mortgage rates rose, demonstrating the Fed's primary transmission mechanism to the real economy. Source: Census Bureau</figcaption>
 </figure>
 

@@ -74,7 +74,7 @@ Congress created **Real Estate Investment Trusts (REITs)** in 1960 to democratiz
 REITs trade like stocks but behave like bonds—their dividends are relatively stable, and their values fluctuate with interest rates. When rates rise, REIT prices typically fall, as their yields become less attractive relative to bonds.
 
 <figure>
-<img src="../_figures/ch05/ch05_top_reits.png" alt="Top REITs by market cap" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch05/ch05_top_reits.png" alt="Top REITs by market cap: digital infrastructure now commands higher valuations than traditional property" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 5.2: Top REITs by market capitalization. Digital infrastructure (data centers, cell towers) now commands higher valuations than traditional property types. Source: NAREIT (2024)</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Homebuilding has consolidated dramatically. The 2008 crash wiped out smaller bui
 *Source: Company annual reports and investor filings, 2023-2024*
 
 <figure>
-<img src="../_figures/ch05/ch05_top_homebuilders.png" alt="Top homebuilders by homes closed" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch05/ch05_top_homebuilders.png" alt="Top U.S. homebuilders by units with D.R. Horton leading at 90,000 homes annually" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 5.1: Top 10 homebuilders by homes closed. D.R. Horton dominates the market, closing nearly 90,000 homes annually. Source: Company data (2024)</figcaption>
 </figure>
 
@@ -251,7 +251,7 @@ Real estate's role in household wealth makes housing price collapses uniquely de
 ### The Boom and Bust
 
 <figure>
-<img src="../_figures/shock_analysis/housing_price_crash.png" alt="House price crash 2006-2012" style="width: 100%; max-width: 800px;">
+<img src="../_figures/shock_analysis/housing_price_crash.png" alt="Case-Shiller index showing 27% national home price decline from 2006 peak, some markets falling 50-60%" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 5.4: The Case-Shiller Home Price Index fell 27% nationally from its 2006 peak, with some markets (Phoenix, Las Vegas, Miami) experiencing declines of 50-60%. Source: S&P/Case-Shiller</figcaption>
 </figure>
 
@@ -318,7 +318,7 @@ The scars remain visible in policy—the conservatorship of Fannie and Freddie, 
 ### 1. The Affordability Crisis and "Lock-In" Effect
 
 <figure>
-<img src="../_figures/ch05/ch05_house_price_trends.png" alt="House price trends" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch05/ch05_house_price_trends.png" alt="Case-Shiller home prices 2000-2024: boom, bust, recovery, then 40% post-COVID surge" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 5.3: Case-Shiller Home Price Index, 2000-2024. Prices surged 40% during the post-COVID boom, then stabilized at elevated levels as mortgage rates rose. Source: S&P/Case-Shiller (2024)</figcaption>
 </figure>
 

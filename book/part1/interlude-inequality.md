@@ -32,7 +32,7 @@ The mean (average) household income is roughly $115,000---44% higher than the me
 {% endhint %}
 
 <figure>
-<img src="../_figures/interlude/interlude_income_distribution.png" alt="U.S. household income distribution" style="width: 100%; max-width: 800px;">
+<img src="../_figures/interlude/interlude_income_distribution.png" alt="U.S. household income distribution showing long right tail with median at $75,000 and mean pulled higher" style="width: 100%; max-width: 800px;">
 <figcaption>Figure I.1: U.S. household income distribution (2023). The distribution is sharply right-skewed: most households cluster between $30,000 and $120,000, while a long tail extends into the millions. The mean (average) is pulled far above the median by top earners. Source: Census Bureau CPS ASEC</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ The most important distributional trend of the past 50 years is the divergence a
 These shifts are not the result of population growth or demographic change. They reflect a genuine reallocation of economic gains from the broad middle to the top of the distribution.
 
 <figure>
-<img src="../_figures/interlude/interlude_top_income_shares.png" alt="Top income shares over time" style="width: 100%; max-width: 800px;">
+<img src="../_figures/interlude/interlude_top_income_shares.png" alt="Top 1% income share rising from 10% in 1980 to over 20% by 2020, returning to 1920s levels" style="width: 100%; max-width: 800px;">
 <figcaption>Figure I.2: Share of pre-tax national income going to the top 1% and bottom 50%, 1970-2023. The two lines crossed in the mid-1990s---the top 1% now receives a larger share of income than the entire bottom half of the population. Source: World Inequality Database (WID.world)</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ The Federal Reserve's Survey of Consumer Finances (SCF) provides the most compre
 The bottom 50% of American households---roughly 65 million families---own 2.5% of the nation's wealth. The top 1%---about 1.3 million families---own 30%. This concentration is more extreme than at any point since the 1920s.
 
 <figure>
-<img src="../_figures/interlude/interlude_wealth_distribution.png" alt="Wealth distribution in the United States" style="width: 100%; max-width: 800px;">
+<img src="../_figures/interlude/interlude_wealth_distribution.png" alt="U.S. wealth distribution: top 1% owns 32%, top 10% owns 69%, bottom 50% owns just 2.6%" style="width: 100%; max-width: 800px;">
 <figcaption>Figure I.3: Distribution of household wealth in the United States (2022). The top 10% own two-thirds of all wealth; the bottom 50% own just 2.5%. Source: Federal Reserve, Distributional Financial Accounts</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ As Chapter 3 documented, economic activity concentrates geographically. So do in
 **Rural-urban divergence**: Rural workers earn roughly 70% of urban wages. The gap has widened over time as knowledge-economy jobs concentrate in metros while rural areas depend on lower-productivity sectors (agriculture, extraction, government services).
 
 <figure>
-<img src="../_figures/interlude/interlude_geographic_income.png" alt="Per capita income by metro area" style="width: 100%; max-width: 800px;">
+<img src="../_figures/interlude/interlude_geographic_income.png" alt="Per capita income map showing coastal metros far above interior, with San Francisco and New York leading" style="width: 100%; max-width: 800px;">
 <figcaption>Figure I.4: Per capita income across U.S. metro areas. The highest-income metros (San Jose, San Francisco, New York) earn 3-4x more per capita than the lowest-income metros (McAllen, Brownsville). Source: BEA, Regional Economic Accounts</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ Economist Raj Chetty and colleagues, using IRS tax records for millions of Ameri
 - Mobility has declined over time: roughly 90% of children born in 1940 earned more than their parents; for children born in 1980, the figure is roughly 50%.
 
 <figure>
-<img src="../_figures/interlude/interlude_mobility_map.png" alt="Intergenerational mobility by county" style="width: 100%; max-width: 800px;">
+<img src="../_figures/interlude/interlude_mobility_map.png" alt="Map of upward mobility rates by county showing highest mobility in Great Plains and lowest in Southeast" style="width: 100%; max-width: 800px;">
 <figcaption>Figure I.5: Intergenerational income mobility by commuting zone. Darker areas indicate higher upward mobility (greater chance of a child born to low-income parents reaching high income). Mobility is highest in the Upper Midwest and Mountain West; lowest in the Southeast and Rust Belt. Source: Opportunity Insights (opportunityinsights.org)</figcaption>
 </figure>
 

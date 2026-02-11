@@ -57,7 +57,7 @@ Beyond the policy-making core, a constellation of regulatory agencies shapes eco
 ### Financial Regulators
 
 <figure>
-<img src="../_figures/ch28/ch28_agency_budgets.png" alt="Regulatory agency budgets" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch28/ch28_agency_budgets.png" alt="Key financial regulatory agency budgets with FDIC dwarfing SEC and other agencies" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 28.1: Key financial regulatory agency budgets. The FDIC, funded by bank premiums, dwarfs the SEC and other agencies that rely on congressional appropriations. Source: Agency budget documents</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ The **Federal Deposit Insurance Corporation (FDIC)** insures deposits and resolv
 The **Office of the Comptroller of the Currency (OCC)**, an independent bureau within Treasury, supervises national banks. The **Consumer Financial Protection Bureau (CFPB)**, created after 2008, regulates consumer financial products with funding from Federal Reserve transfers that insulate it from congressional appropriations pressure.
 
 <figure>
-<img src="../_figures/ch28/ch28_regulatory_structure.png" alt="U.S. financial regulatory structure" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch28/ch28_regulatory_structure.png" alt="U.S. financial regulatory structure showing overlapping jurisdictions of Fed, FDIC, SEC, OCC, and CFTC" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 28.2: U.S. financial regulatory structure. Congress creates agencies with overlapping jurisdictions. The Treasury and Fed share bank supervision with the FDIC and OCC. Securities and derivatives are split between SEC and CFTC. State regulators add another layer. Source: Author synthesis</figcaption>
 </figure>
 

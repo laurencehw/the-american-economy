@@ -38,7 +38,7 @@ Electricity is unique among commodities: it cannot be economically stored at sca
 *Source: Energy Information Administration, Electric Power Monthly, 2024*
 
 <figure>
-<img src="../_figures/ch14/ch14_generation_mix.png" alt="Electricity generation mix" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch14/ch14_generation_mix.png" alt="U.S. electricity generation by source: natural gas 43%, nuclear 18%, coal 16%, wind 11%, solar 6%" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 14.1: U.S. electricity generation by source. Natural gas has replaced coal as the dominant fuel, while wind and solar have grown rapidly. Source: EIA (2024)</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ The US operates three largely separate electrical grids with limited interconnec
 Limited transmission between these interconnections constrains the ability to balance supply and demand across regions.
 
 <figure>
-<img src="../_figures/ch14/ch14_grid_map.png" alt="U.S. electric grid map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch14/ch14_grid_map.png" alt="Map of three U.S. electrical grids (Eastern, Western, ERCOT/Texas) and ISO/RTO operating territories" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 14.2: U.S. electric grid: ISO/RTO territories. Wholesale electricity markets are managed by Independent System Operators in restructured regions (colored), while traditional utilities operate in gray areas. Texas (ERCOT) is the only state with its own isolated grid. Source: FERC, EIA</figcaption>
 </figure>
 
@@ -251,7 +251,7 @@ NextEra is the dominant player, having built more wind and solar than any other 
 America's energy geography creates a fundamental divide between **producing states** and **consuming states**:
 
 <figure>
-<img src="../_figures/ch14/ch14_energy_basins_map.png" alt="Energy production basins map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch14/ch14_energy_basins_map.png" alt="Map of major U.S. energy production regions: Permian Basin, Appalachian Basin, Bakken, and Gulf Coast" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 14.2: Major energy production regions. The Permian Basin (oil) and Appalachian Basin (natural gas) dominate U.S. production. Source: EIA</figcaption>
 </figure>
 
@@ -419,6 +419,44 @@ Key lobbying issues: Tax treatment, permitting, environmental regulation, grid r
 
 The industry contributes heavily to campaigns, particularly in energy-producing states. Texas, Louisiana, Oklahoma, and Wyoming politics are shaped by oil and gas interests.
 
+## Beyond Electricity: Water, Gas, and Broadband Utilities
+
+The electricity system dominates energy policy debates, but Americans depend on several other networked utility systems that share the same fundamental economics: natural monopoly structure, heavy capital requirements, regulated pricing, and aging infrastructure. These systems are less visible precisely because they work---until they fail.
+
+### Water and Wastewater Systems
+
+The United States has roughly 50,000 community water systems, but the sector's structure could hardly be more different from electricity. Most water systems are small and municipally owned: over 80% serve fewer than 3,300 people, and private ownership accounts for only about 15% of systems. This extreme fragmentation---tens of thousands of independent operators, many run by local governments with limited technical capacity---creates persistent challenges for maintenance, compliance, and capital investment.
+
+The infrastructure gap is staggering. The American Society of Civil Engineers estimates a $600+ billion shortfall in water infrastructure investment over the next two decades. Pipes installed in the early twentieth century are reaching end of life simultaneously across thousands of systems. The crisis in Flint, Michigan, which exposed widespread lead contamination in 2014, was not an anomaly---the EPA estimates that 9.2 million lead service lines remain in use nationwide. The Bipartisan Infrastructure Law (2021) allocated $15 billion specifically for lead pipe replacement, but that covers only a fraction of the estimated $45-60 billion total cost.
+
+PFAS contamination has emerged as the next major water crisis. These "forever chemicals," found in firefighting foam, nonstick coatings, and industrial processes, contaminate drinking water supplies serving an estimated 100+ million Americans. The EPA finalized enforceable PFAS limits in 2024, but compliance will cost water systems billions---costs that ultimately flow to ratepayers in a sector where many customers already struggle with affordability.
+
+### Natural Gas Distribution
+
+While electricity debates focus on generation and transmission, natural gas has its own "last mile" problem. Roughly 77 million residential, commercial, and industrial customers receive gas through local distribution companies (LDCs)---the regulated utilities that operate the low-pressure pipeline networks running under streets and into buildings. These systems represent enormous sunk capital, and their future is increasingly contested.
+
+The electrification movement poses an existential question for gas distribution. Several cities---including New York, San Francisco, and Seattle---have restricted or banned new natural gas hookups in buildings, arguing that electrification (heat pumps, induction stoves) is necessary to meet climate goals. The gas industry has responded by promoting hydrogen blending and "renewable natural gas" from landfills and dairy operations as pathways to decarbonize existing infrastructure. Critics argue these alternatives are expensive and unproven at scale.
+
+Meanwhile, methane leaks from aging distribution infrastructure represent both a climate problem and a safety hazard. The EPA estimates that gas distribution systems leak roughly 0.6 million metric tons of methane annually. Since methane is roughly 80 times more potent than CO2 as a greenhouse gas over a 20-year horizon, these leaks substantially undercut natural gas's climate advantage over coal for electricity generation.
+
+### Broadband as Essential Utility
+
+Broadband internet increasingly functions as essential infrastructure, yet it remains the least regulated major networked service. The FCC's broadband deployment data shows that roughly 24 million Americans---disproportionately in rural areas and on Tribal lands---lack access to broadband meeting the current 100/20 Mbps standard. The digital divide is not purely a rural problem: low-income urban neighborhoods also face gaps in affordability and adoption.
+
+The Broadband Equity, Access, and Deployment (BEAD) program, funded at $42.5 billion through the Bipartisan Infrastructure Law, represents the largest single investment in broadband infrastructure in American history. Each state received an allocation to fund last-mile deployment to unserved and underserved locations. Whether this investment closes the gap depends on execution---and on resolving the tension between municipal broadband advocates and incumbent providers.
+
+Over 750 communities have built some form of municipal broadband network, often in response to inadequate private-sector service. The incumbent industry has fought back aggressively: roughly 18 states have laws restricting or prohibiting municipal broadband, passed largely through industry lobbying. The policy question---whether broadband should be regulated as a common-carrier utility, similar to electricity or water---remains unresolved, though the pandemic-era experience of remote work and school reinforced the argument that internet access is no longer optional.
+
+### Common Themes Across Utility Systems
+
+{% hint style="info" %}
+**Natural Monopoly Theory**
+
+Water, gas, electricity, and broadband networks all exhibit natural monopoly characteristics: high fixed costs (pipes, wires, towers), low marginal costs of serving additional customers, and network duplication that is wasteful or physically impractical. This is why most utility services are provided by a single supplier in each territory, subject to price regulation rather than competition. The core regulatory bargain is simple: the utility gets an exclusive service territory (and protection from competition), and in exchange accepts an obligation to serve all customers at rates approved by a public commission. Rate cases---formal proceedings where regulators set prices---are the mechanism through which this bargain is enforced.
+{% endhint %}
+
+Several structural patterns recur across all utility sectors. Cross-subsidization is pervasive: urban customers, who are cheaper to serve due to density, effectively subsidize rural customers who require more infrastructure per connection. This cross-subsidy is a deliberate policy choice---universal service at uniform rates---but it creates tensions as costs rise and some customers seek alternatives (rooftop solar, private wells, satellite internet). Aging infrastructure is a shared crisis: the American Society of Civil Engineers gives the nation's infrastructure a C- overall, with water (C-), energy (C-), and broadband (C) all reflecting decades of deferred maintenance. And the political economy of rate-setting---where regulators must balance utility profitability, consumer affordability, and infrastructure investment---produces the same difficult tradeoffs whether the commodity flowing through the network is water, electrons, gas, or data.
+
 ## Oil Price Volatility and Regional Economies
 
 Energy prices fluctuate more dramatically than prices in most sectors, and these fluctuations transmit directly to producing regions. No episode illustrates this better than the 2014-2016 oil price collapse—a shock that devastated energy-dependent communities while benefiting consumers everywhere else.
@@ -426,7 +464,7 @@ Energy prices fluctuate more dramatically than prices in most sectors, and these
 ### The 2014-2016 Oil Shock
 
 <figure>
-<img src="../_figures/shock_analysis/oil_price_collapse.png" alt="Oil price collapse" style="width: 100%; max-width: 800px;">
+<img src="../_figures/shock_analysis/oil_price_collapse.png" alt="Brent crude oil price collapsing 76% from $115 to $28 per barrel between 2014 and 2016" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 14.3: Brent crude oil collapsed from $115/barrel in June 2014 to $28/barrel in January 2016—a 76% decline in 19 months. Source: FRED</figcaption>
 </figure>
 
@@ -444,7 +482,7 @@ The immediate impact devastated oil-dependent industries:
 - **Bankruptcies surged**: Over 100 North American oil and gas producers filed for bankruptcy in 2015-2016
 
 <figure>
-<img src="../_figures/shock_analysis/oil_shock_unemployment.png" alt="Oil shock and energy state unemployment" style="width: 100%; max-width: 800px;">
+<img src="../_figures/shock_analysis/oil_shock_unemployment.png" alt="Unemployment rates spiking in oil-producing states during 2014-2016 price collapse, with North Dakota tripling" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 14.4: Unemployment in oil-producing states spiked during the 2014-2016 oil shock. Texas unemployment rose modestly given its diversified economy; North Dakota unemployment tripled. Source: BLS</figcaption>
 </figure>
 
@@ -495,6 +533,106 @@ The oil price shock illustrates several principles of how disturbances propagate
 - **Structural change may follow**: The industry that emerged from 2016 was fundamentally different from the one that entered 2014—more efficient, more consolidated, and less labor-intensive.
 
 These dynamics recur in energy-dependent regions during every price cycle. The current boom may create another bust; the question is not whether but when.
+
+## Environmental Economics and the Energy Transition
+
+The energy sector's economic geography cannot be separated from its environmental consequences. Climate change has moved from a scientific debate to an economic force---reshaping insurance markets, stranding capital, redirecting investment, and creating new industries. Understanding these dynamics requires treating environmental costs and policies as structural economic variables, not externalities to be footnoted.
+
+For most of the 20th century, energy economics and environmental economics operated as separate fields. Energy economists studied markets, prices, and resource extraction; environmental economists studied pollution externalities, regulation, and valuation of non-market goods. The climate crisis has collapsed this distinction. Every major energy investment decision now incorporates---or must incorporate---assumptions about carbon constraints, regulatory trajectories, and physical climate risk. The result is a structural transformation that extends well beyond the energy sector into finance, real estate, agriculture, and public budgeting.
+
+### Climate Risk as Economic Force
+
+Climate-related economic losses have escalated sharply. NOAA counted 28 separate billion-dollar weather disasters in the US in 2023 alone, with total costs exceeding $90 billion. These are not abstract projections---they are balance sheet events that show up in insurance premiums, municipal bond ratings, mortgage risk models, and corporate capital allocation decisions.
+
+**Physical risks** manifest through several channels:
+
+- **Extreme weather costs**: Hurricane, wildfire, and flood damages now routinely exceed $100 billion annually. Insurers have withdrawn from entire markets: State Farm and Allstate stopped writing new homeowner policies in California; multiple carriers have exited Florida and Louisiana. When private insurance retreats, state-backed insurers of last resort absorb risk---effectively socializing climate costs. Florida's Citizens Property Insurance Corporation, originally designed as a backstop, has become the state's largest property insurer.
+- **Agricultural disruption**: Drought in the West and Midwest, heat stress on crops, and shifting growing seasons impose direct costs on the $200+ billion agricultural sector. The federal crop insurance program paid out $19 billion in 2022. Longer-term, changing precipitation patterns threaten the viability of irrigated agriculture across the Colorado River Basin and the Ogallala Aquifer region.
+- **Infrastructure degradation**: Extreme heat buckles roads and rail lines; rising sea levels threaten coastal infrastructure worth trillions; permafrost thaw undermines Arctic pipelines and foundations. The Army Corps of Engineers estimates that adapting US flood control infrastructure alone could cost $100+ billion over the next two decades.
+
+The economic significance of these physical risks is increasingly priced into financial markets. The Federal Reserve has begun incorporating climate scenarios into bank stress tests. Municipal bond markets now assign risk premiums to coastal communities with high exposure. Real estate valuations in flood-prone and fire-prone areas have begun to diverge from comparable inland properties---a repricing that could accelerate as insurance costs rise further.
+
+**Transition risks** arise from the shift away from fossil fuels. The central concern is **stranded assets**---capital investments in fossil fuel infrastructure that may lose value as the energy system decarbonizes.
+
+{% hint style="info" %}
+**Stranded Assets**
+
+Stranded assets are investments that lose value prematurely due to regulatory, market, or technological shifts. Estimates of fossil fuel assets at risk of stranding range from $1 trillion to $4 trillion globally, including oil reserves that may never be extracted, pipelines that may lose throughput, and refineries that may become uneconomic. Coal has already demonstrated this dynamic: the market capitalization of US coal companies fell over 90% between 2011 and 2020, destroying billions in shareholder value and pension assets. The question is whether---and how quickly---a similar repricing extends to oil and gas assets.
+
+For producing regions like the Permian Basin or Appalachian coal country, stranded assets represent not just corporate losses but threats to regional tax bases, employment, and public services built around extraction revenue.
+{% endhint %}
+
+### Carbon Pricing: The Policy the US Hasn't Adopted
+
+Economists across the political spectrum broadly agree that pricing carbon emissions is the most efficient way to reduce them. The logic is straightforward: if emitters pay for the damage their emissions cause, they will find the cheapest ways to reduce those emissions, and the market will allocate abatement effort more efficiently than any regulator could. In practice, the US has largely avoided explicit carbon pricing at the federal level---a choice that distinguishes it from virtually every other advanced economy.
+
+Two mechanisms exist for pricing carbon:
+
+**Cap-and-trade programs** set an emissions cap and let firms trade allowances:
+
+- **Regional Greenhouse Gas Initiative (RGGI)**: Covers power plants in 12 Northeast and Mid-Atlantic states. Allowance prices have traded at $10-15/ton---low enough to avoid political backlash but too low to drive major fuel switching.
+- **California Cap-and-Trade**: Broader in scope, covering roughly 80% of state emissions. Allowance prices have reached $30-40/ton. Linked with Quebec's system, it is the most ambitious North American program.
+
+**Carbon taxes** have been proposed repeatedly at the federal level---by both conservative economists (the Climate Leadership Council) and progressive legislators---but none has been enacted. Political opposition from fossil fuel interests and consumer price sensitivity have blocked every proposal.
+
+The contrast with peer economies is stark:
+
+| Jurisdiction | Mechanism | Price/ton CO2 (2024) | Coverage |
+|-------------|-----------|---------------------|----------|
+| EU ETS | Cap-and-trade | $50-100 | Power, industry, aviation |
+| Canada | Carbon tax + cap-and-trade | $50+ (rising to $135 by 2030) | Economy-wide |
+| California | Cap-and-trade | $30-40 | ~80% of state emissions |
+| RGGI (Northeast) | Cap-and-trade | $10-15 | Power sector only |
+| US federal | None (tax credits via IRA) | N/A | N/A |
+
+The **EU Emissions Trading System** prices carbon high enough to drive real changes in power generation and industrial processes. **Canada** has implemented a national carbon tax with a scheduled escalation to $135/ton by 2030---a price designed to make fossil fuels progressively uncompetitive. The US has instead opted for the **Inflation Reduction Act's** approach: tax credits and subsidies rather than explicit pricing. This is economically less efficient---subsidies cost the Treasury revenue while a carbon price raises it---but proved politically achievable where pricing could not. The IRA's production tax credit for wind (roughly $26/MWh) and investment tax credit for solar (30%) function as implicit subsidies for low-carbon generation rather than penalties on high-carbon generation.
+
+{% hint style="warning" %}
+**The Hidden Carbon Price**
+
+The absence of a formal carbon price does not mean carbon is unpriced in the US. Renewable portfolio standards, vehicle emissions rules, methane regulations, and IRA tax credits all impose implicit costs on carbon-intensive activities. Researchers estimate the effective implicit carbon price created by this patchwork ranges from $5 to $50/ton depending on sector and state---but it applies unevenly, creating economic distortions that a uniform price would avoid.
+{% endhint %}
+
+### Environmental Regulation as Economic Force
+
+Environmental regulation has been a significant economic force since the 1970s, though its costs and benefits are often debated in ideological rather than empirical terms. The reality is more nuanced than either side acknowledges: environmental rules impose real compliance costs on energy producers while generating quantifiable public health and economic benefits that typically exceed those costs.
+
+**The Clean Air Act** is the most studied case. EPA estimates that the Act's benefits from 1990 to 2020---reduced mortality, fewer hospitalizations, improved agricultural yields---totaled roughly $2 trillion per year by 2020, against compliance costs of roughly $65 billion per year. The roughly 30:1 benefit-cost ratio reflects the enormous health costs of air pollution, particularly fine particulate matter (PM2.5) and ground-level ozone. Critics argue these estimates overstate benefits by using high valuations for statistical lives saved, but even conservative recalculations show benefits exceeding costs by large margins. The Clean Air Act also demonstrates how regulation can drive innovation: the sulfur dioxide cap-and-trade program established in 1990 achieved its emissions targets at roughly one-quarter of projected costs, as utilities found cheaper abatement methods than regulators had anticipated.
+
+**NEPA permitting** has become a critical infrastructure bottleneck. The National Environmental Policy Act (1970) requires environmental impact statements for major federal actions. Average completion time for an EIS now exceeds 4.5 years. This affects energy projects of all types: pipelines, transmission lines, wind farms, and solar installations all face NEPA review. The irony is acute: NEPA delays now impede both fossil fuel projects (pipelines, LNG terminals) and the clean energy infrastructure (transmission lines, offshore wind) needed to reduce emissions. Permitting reform has bipartisan support in principle but stalls over specifics---Democrats worry about weakening environmental protections; Republicans focus on fossil fuel project approvals. The Fiscal Responsibility Act of 2023 included modest NEPA reforms, but the fundamental bottleneck remains.
+
+**EPA's evolving climate role** was constrained by the Supreme Court's 2022 decision in *West Virginia v. EPA*, which limited the agency's authority to impose sector-wide emissions caps on power plants. The ruling applied the "major questions doctrine," requiring clear Congressional authorization for regulations of vast economic significance. This effectively shifted climate policy power from EPA rulemaking to Congressional legislation---making the IRA's tax credit approach not just politically convenient but legally necessary. The decision left EPA with authority over individual source standards and technology-based rules, but removed the agency's most powerful lever for system-wide emissions reduction.
+
+### The Green Transition as Structural Economic Shift
+
+The Inflation Reduction Act's roughly $370 billion in climate and energy spending is producing a geographically concentrated investment wave. This is not a gradual diffusion---it is a place-based industrial policy reshaping specific regions. The scale of capital reallocation is historically unusual: private sector clean energy investment in the US exceeded $300 billion in 2023, more than double the 2019 level.
+
+The transition also has a supply chain dimension. The IRA includes domestic content requirements and manufacturing credits designed to build American clean energy supply chains. Solar panel, battery cell, and critical mineral processing facilities are being built or expanded domestically---reversing a decade-long trend of offshoring clean energy manufacturing to China. Whether these facilities remain competitive without subsidies is an open question.
+
+**The "Battery Belt"**: Battery, EV, and solar manufacturing investments have clustered heavily in the Southeast and lower Midwest---Georgia, Tennessee, Kentucky, South Carolina, and Michigan. Since the IRA's passage, over $150 billion in announced clean energy manufacturing investments have targeted these states, drawn by right-to-work laws, lower costs, available land, existing automotive supply chains, and IRA bonus credits for energy communities. Georgia alone has attracted $20+ billion in battery and EV investments from Hyundai, Rivian, and SK Innovation. This geographic pattern is politically significant: much of the IRA's investment is flowing into Republican-represented districts, creating a constituency for clean energy subsidies even among legislators who voted against the law.
+
+**Job creation vs. job displacement**: The clean energy economy already employs roughly 3.3 million workers across several categories:
+
+- Energy efficiency (building retrofits, insulation, HVAC): roughly 2.1 million
+- Renewable energy generation (solar, wind, hydro): roughly 500,000
+- Clean vehicles (EV manufacturing, charging infrastructure): roughly 300,000
+- Grid modernization and storage: roughly 400,000
+
+By comparison, traditional fossil fuel extraction, generation, and refining employ roughly 1.1 million. But these numbers obscure a geographic mismatch: clean energy jobs are growing in the Sun Belt and industrial Midwest, while fossil fuel job losses concentrate in Appalachia, Wyoming's Powder River Basin, and parts of the Gulf Coast. A solar installer in Georgia does not help a displaced coal miner in West Virginia. Moreover, clean energy jobs on average pay less than the unionized fossil fuel positions they notionally replace---median solar installation wages run $25/hour versus $35-45/hour for experienced oil field or utility workers.
+
+The **"just transition"** concept---ensuring that fossil fuel workers and communities are not left behind---has become a federal policy goal. The IRA includes bonus tax credits for projects in "energy communities" (areas with closed coal mines, retired coal plants, or high fossil fuel employment). The Appalachian Regional Commission and similar bodies administer transition funding. But the scale of federal investment in transition assistance remains modest relative to the economic disruption in affected communities. Historical precedent is not encouraging: Appalachian coal communities that began losing jobs in the 1980s still have not recovered economically, despite decades of federal and state aid programs.
+
+### Environmental Justice
+
+Environmental burdens are not distributed equally. Decades of industrial siting decisions, highway construction, and zoning practices have concentrated pollution exposure in low-income communities and communities of color. This pattern is not incidental---it reflects the political economy of facility siting, where communities with less political power bear disproportionate environmental costs.
+
+The data is well-documented: communities near refineries, chemical plants, power plants, and waste facilities are disproportionately Black, Hispanic, and low-income. A 2021 EPA analysis found that Black Americans are 36% more likely to live in areas with high levels of particulate matter pollution, and Hispanic Americans are 39% more likely to live in counties that fail to meet air quality standards. In Louisiana's industrial corridor between Baton Rouge and New Orleans---commonly known as "Cancer Alley"---cancer rates in some census tracts are 50 times the national average, and the population is predominantly Black and low-income.
+
+EPA's environmental justice initiatives---formalized through Executive Order 12898 (1994) and expanded under the Biden administration's Justice40 initiative (directing 40% of certain federal investment benefits to disadvantaged communities)---intersect directly with industrial permitting. New petrochemical facilities in Louisiana's Cancer Alley, LNG export terminals along the Gulf Coast, and pipeline projects through Indigenous lands all face heightened scrutiny under environmental justice frameworks. This creates real tensions: these projects bring jobs and tax revenue to economically distressed areas while imposing health and environmental costs on residents.
+
+The energy transition itself raises environmental justice concerns. Lithium mining, battery manufacturing, and large-scale solar and wind installations create new siting conflicts. Tribal nations have raised concerns about mineral extraction on or near reservation lands. Rural communities in the Midwest and West have pushed back against large-scale wind and solar projects that alter landscapes and concentrate benefits with distant developers.
+
+Ensuring that the clean energy economy does not replicate the environmental inequities of the fossil fuel era is a stated federal policy goal---but implementation depends on permitting decisions made at the project level, often under intense pressure from competing economic and political interests.
 
 ## Recent Trends
 

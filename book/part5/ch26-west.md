@@ -7,12 +7,12 @@ The American West---the Pacific Coast states plus the Mountain West---represents
 ## California: The Colossus
 
 <figure>
-<img src="../_figures/ch26/ch26_west_map.png" alt="Western States Map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch26/ch26_west_map.png" alt="Map of western U.S. states highlighting major economic centers from Seattle to Phoenix" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 26.1: The American West. California alone generates $4.1 trillion in GDP—the world's 5th largest economy if independent. Major tech hubs cluster along the coast, while the Colorado River Basin faces existential water constraints. Source: BEA, Bureau of Reclamation</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch26/ch26_west_gdp.png" alt="Western State Economies" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch26/ch26_west_gdp.png" alt="GDP comparison of western states with California dominating at $3.9 trillion" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 26.2: GDP of Western states (2023). California dominates, producing more than all other Western states combined. Source: BEA</figcaption>
 </figure>
 

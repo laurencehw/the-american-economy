@@ -44,12 +44,12 @@ Farm cash receipts---the gross revenue farmers receive for crops and livestock--
 *Source: USDA Economic Research Service, Farm Income and Wealth Statistics, 2023*
 
 <figure>
-<img src="../_figures/ch16/ch16_farm_output_treemap.png" alt="Farm output by commodity" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch16/ch16_farm_output_treemap.png" alt="U.S. farm output treemap: cattle/calves lead, followed by corn, dairy, soybeans, and broilers" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 16.1: U.S. farm cash receipts by commodity. Cattle, corn, and soybeans dominate, but the sector is remarkably diverse. Source: USDA ERS (2023)</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch16/ch16_farm_receipts_over_time.png" alt="Farm cash receipts over time" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch16/ch16_farm_receipts_over_time.png" alt="Total U.S. farm cash receipts rising to $500 billion with increasing crop vs. livestock share volatility" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 16.2: Total farm cash receipts, 2000-2023. Receipts surged after 2020 due to commodity price spikes, then partially retreated. Source: USDA ERS</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ The USDA counts roughly 2 million farms, but this number is misleading. The vast
 *Source: USDA Census of Agriculture, 2022*
 
 <figure>
-<img src="../_figures/ch16/ch16_farm_size_distribution.png" alt="Farm size distribution" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch16/ch16_farm_size_distribution.png" alt="U.S. farm size distribution showing many small farms but large farms producing most output" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 16.3: The 7% of U.S. farms with annual sales above $1 million produce 73% of all agricultural output. Most farms are small, part-time operations. Source: USDA Census of Agriculture (2022)</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ The seed and chemical market was transformed by a wave of megamergers: Dow and D
 American agriculture is organized by geography as rigidly as any sector in the economy. Climate, soil, water, and topography dictate what grows where, creating distinct agricultural regions that have persisted for over a century.
 
 <figure>
-<img src="../_figures/ch16/ch16_ag_regions_map.png" alt="U.S. agricultural regions" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch16/ch16_ag_regions_map.png" alt="Map of U.S. agricultural regions: Corn Belt, Great Plains wheat, Central Valley produce, and Delta cotton" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 16.4: Major U.S. agricultural regions. Each region specializes in commodities suited to its climate, soil, and water resources. Source: USDA ERS</figcaption>
 </figure>
 

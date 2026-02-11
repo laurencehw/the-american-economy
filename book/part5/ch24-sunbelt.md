@@ -20,12 +20,12 @@ The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents-
 *Source: Census Bureau, Population Estimates; Bureau of Economic Analysis, Regional GDP, 2024*
 
 <figure>
-<img src="../_figures/ch24/ch24_sunbelt_map.png" alt="Sunbelt Region Map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch24/ch24_sunbelt_map.png" alt="Map of Sunbelt states from Florida to Arizona showing population and economic growth centers" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 24.1: The Sunbelt region. Major metros in Texas, Florida, Georgia, Arizona, and the Carolinas have captured the majority of U.S. population and economic growth since 2019. Circle size indicates metro GDP. Source: BEA, Census Bureau</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch24/ch24_sunbelt_gdp_growth.png" alt="Sunbelt GDP Growth" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch24/ch24_sunbelt_gdp_growth.png" alt="GDP growth rates in Sunbelt states consistently outpacing the national average since 2019" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 24.2: Sunbelt state GDP growth since 2019, indexed to 100. All Sunbelt states have outpaced national growth, with Texas and Florida leading. Source: BEA</figcaption>
 </figure>
 

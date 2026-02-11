@@ -30,7 +30,7 @@ Professional services has been a major engine of employment growth since the 198
 *Sources: Census Service Annual Survey, BLS QCEW, IBISWorld estimates*
 
 <figure>
-<img src="../_figures/ch07/ch07_prof_services_gdp.png" alt="Professional services GDP breakdown" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch07/ch07_prof_services_gdp.png" alt="Professional services GDP: computer systems design leads, followed by legal and consulting" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 7.1: Professional services GDP by subsector. Computer systems design leads, followed by legal services and management consulting. Source: BEA (2023)</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ PPP measures a law firm's profitability by dividing total partner profits by num
 **Geographic concentration**: Legal services concentrate in major business centers. New York (especially Midtown Manhattan) hosts the largest cluster, followed by Washington DC (regulatory/government work), Chicago, Los Angeles, and San Francisco/Silicon Valley.
 
 <figure>
-<img src="../_figures/ch07/ch07_professional_hubs.png" alt="Professional services hub map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch07/ch07_professional_hubs.png" alt="Map showing professional services concentrated in New York and Washington DC mega-hubs" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 7.2: Professional services concentration by metro. NYC and DC dominate as "mega-hubs," hosting the majority of AmLaw 100 firms and Big Four offices. Source: American Lawyer, Vault rankings</figcaption>
 </figure>
 

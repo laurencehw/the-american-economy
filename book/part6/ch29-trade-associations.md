@@ -7,7 +7,7 @@ Walk down K Street in Washington and you pass the headquarters of organized busi
 Trade associations exist to solve a collective action problem. Individual firms have interests in common---favorable tax treatment, light regulation, access to markets---but each firm would prefer to free-ride on others' political efforts. Associations pool resources, coordinate strategy, and speak with a unified voice that commands attention.
 
 <figure>
-<img src="../_figures/ch29/ch29_lobbying_spending.png" alt="Lobbying spending over time" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch29/ch29_lobbying_spending.png" alt="Federal lobbying expenditures tripling from $1.4 billion in 2000 to over $4.5 billion by 2024" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 29.1: Federal lobbying spending has tripled since 2000. Industry groups, trade associations, and corporations compete for political influence. Source: OpenSecrets</figcaption>
 </figure>
 

@@ -49,7 +49,7 @@ America's largest trading relationships have shifted significantly, with North A
 *Source: Census Bureau, Foreign Trade Statistics, 2024*
 
 <figure>
-<img src="../_figures/ch21/ch21_top_partners.png" alt="Top U.S. trading partners" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch21/ch21_top_partners.png" alt="Bar chart of top U.S. trading partners with Mexico surpassing China in 2023" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 21.1: Top U.S. trading partners. Mexico surpassed China as America's largest trading partner in 2023, reflecting nearshoring trends and tariff effects. Source: Census Bureau</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ While goods trade shows a persistent deficit, services trade runs a surplus. The
 *Source: Bureau of Economic Analysis, International Services, 2024*
 
 <figure>
-<img src="../_figures/ch21/ch21_trade_balance.png" alt="Trade balance over time" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch21/ch21_trade_balance.png" alt="U.S. trade balance showing persistent goods deficit partially offset by services surplus" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 21.2: U.S. trade balance. The persistent goods deficit (imports > exports) is partially offset by a services surplus. Source: BEA</figcaption>
 </figure>
 
@@ -256,6 +256,54 @@ Domestic industrial policy now explicitly discriminates based on supply chain ge
 - No components from "Foreign Entities of Concern" (primarily Chinese companies)
 
 The CHIPS Act similarly restricts recipients from expanding advanced manufacturing in China. Trade compliance has become a prerequisite for domestic subsidies.
+
+{% hint style="info" %}
+**Deep Dive: How U.S. Economic Institutions Compare to Trading Partners**
+
+Trade debates often focus on tariffs and exchange rates, but the deeper structural differences between the U.S. and its trading partners lie in labor law, corporate taxation, and social insurance. These institutional differences shape production costs, firm behavior, and the political feasibility of trade liberalization. A workforce with universal healthcare and generous unemployment benefits can absorb trade shocks that would devastate workers dependent on employer-provided coverage and minimal safety nets.
+
+**Labor Laws**
+
+The United States is the only advanced economy that maintains "at-will" employment as the default rule—employers can terminate workers for any non-discriminatory reason, with no notice period and no statutory severance. Germany requires 1–7 months of notice depending on tenure, plus works council consultation. Japan's courts have developed a "doctrine of abusive dismissal" that makes layoffs of regular employees extremely difficult in practice. The U.K. mandates 1–12 weeks of statutory notice and provides redundancy pay after two years of service.
+
+Union density reinforces these differences. Roughly 10% of American workers belong to unions (6% in the private sector). In Germany, collective bargaining agreements cover about 52% of workers through sectoral agreements, even at non-union firms. Japan's enterprise unions cover roughly 16% of workers but exert influence through the "spring offensive" (shunto) wage negotiations. The U.K. sits at about 23% union density, down from its postwar peak but still double the U.S. rate.
+
+On minimum wages, the U.S. federal floor of $7.25/hour has not increased since 2009—the longest stretch without adjustment in the minimum wage's history. Most states set higher floors, but significant regional variation persists. Germany introduced a national minimum wage only in 2015 (now €12.82/hour). Japan sets prefectural minimums averaging roughly ¥1,050/hour (~$7.50). The U.K.'s National Living Wage stands at £12.21/hour (~$15.50).
+
+**Corporate Tax Structures**
+
+The Tax Cuts and Jobs Act (TCJA) of 2017 cut the U.S. federal corporate rate from 35% to 21%, dropping America from the highest statutory rate in the OECD to slightly below average. Combined with state taxes (averaging 4–5%), the effective U.S. rate is roughly 25–26%. Germany's combined federal/trade tax rate is about 30%. Japan's effective rate is approximately 30%. The U.K. raised its rate to 25% in 2023 after years at 19%.
+
+The TCJA also shifted the U.S. to a modified territorial system for overseas profits, exempting most foreign earnings from domestic tax—aligning with the approach long used by the U.K. and Japan. Germany operates a similar participation exemption. However, the U.S. introduced GILTI (Global Intangible Low-Taxed Income), a minimum tax on foreign earnings designed to discourage profit shifting to tax havens. The OECD's Pillar Two framework (15% global minimum tax), agreed in 2021 and being implemented unevenly, partially converges these regimes.
+
+On R&D incentives, the U.S. offers a federal research tax credit (roughly 6–8% of qualifying expenses), but it ranks below many peers in generosity. The U.K.'s R&D tax relief provides up to 27% for qualifying SME expenditures. Japan and Germany offer direct R&D tax credits alongside government co-investment in applied research through institutions like Fraunhofer and AIST.
+
+**Social Insurance**
+
+The most consequential institutional difference is healthcare. The U.S. is the only OECD nation where health insurance is primarily employer-provided, adding $10,000–$25,000 per employee in annual costs depending on plan generosity. Germany, Japan, and the U.K. all provide universal coverage funded through taxes or social insurance contributions—costs that fall on the general budget rather than individual employers' balance sheets. This difference directly affects labor mobility, firm formation, and the ability of workers to weather job transitions caused by trade displacement.
+
+Unemployment insurance in the U.S. typically replaces 30–40% of prior wages for a maximum of 26 weeks (varying by state). Germany's Arbeitslosengeld replaces 60–67% for up to 12 months, with longer durations for older workers. Japan provides 50–80% replacement for 3–11 months. The U.K.'s Universal Credit is less generous in replacement rate but has no fixed duration. The gap matters for trade adjustment: German workers displaced by Chinese competition had a stronger safety net than their American counterparts in the Rust Belt.
+
+Retirement systems diverge similarly. The U.S. relies heavily on employer-sponsored 401(k) plans (defined contribution), shifting investment risk to workers. Germany's three-pillar system includes a pay-as-you-go state pension replacing roughly 48% of earnings. Japan combines a flat-rate National Pension with an earnings-related Employees' Pension. The U.K. blends a state pension with auto-enrolled workplace pensions. In each peer country, the state pension provides a higher baseline than Social Security's roughly 40% replacement rate for median earners.
+
+**Table: Institutional Comparison—U.S. vs. Key Trading Partners**
+
+| Dimension | United States | Germany | Japan | United Kingdom |
+|-----------|--------------|---------|-------|----------------|
+| **Employment protection** | At-will (minimal) | Strong; 1–7 months notice, works councils | Very strong; abusive dismissal doctrine | Moderate; 1–12 weeks notice, redundancy pay |
+| **Union density** | 10% (6% private) | 16% (52% covered by bargaining) | 16% | 23% |
+| **Minimum wage** | $7.25 federal (varies by state) | €12.82/hr (~$14.25) | ~¥1,050/hr (~$7.50) | £12.21/hr (~$15.50) |
+| **Corporate tax rate (combined)** | ~25–26% (21% federal + state) | ~30% | ~30% | 25% |
+| **Overseas profit treatment** | Territorial + GILTI minimum | Participation exemption | Territorial exemption | Territorial exemption |
+| **R&D tax incentive** | 6–8% credit | Direct grants + tax allowance | Tax credit + co-investment | Up to 27% relief (SMEs) |
+| **Healthcare** | Employer-provided (no universal system) | Universal (statutory insurance) | Universal (social insurance) | Universal (NHS, tax-funded) |
+| **Unemployment replacement** | 30–40%, up to 26 weeks | 60–67%, up to 12 months | 50–80%, 3–11 months | Lower rate, no fixed duration |
+| **Retirement system** | Social Security + 401(k) | State pension (~48%) + occupational | National + Employees' Pension | State pension + auto-enroll workplace |
+
+*Sources: OECD Employment Outlook 2024; OECD Tax Database; OECD Social Expenditure Database; national statistical agencies*
+
+These institutional gaps explain why trade adjustment is harder in the United States than in peer economies. An American autoworker displaced by imports may simultaneously lose wages, health insurance, and retirement contributions. A German autoworker in the same situation retains healthcare, receives more generous unemployment benefits for a longer period, and keeps accruing state pension credits. The political backlash against trade in the U.S. is partly a backlash against the absence of institutional buffers that other advanced economies take for granted.
+{% endhint %}
 
 ## The Political Economy of Trade
 
