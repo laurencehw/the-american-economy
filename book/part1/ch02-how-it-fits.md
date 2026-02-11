@@ -364,7 +364,41 @@ Texas unemployment rose from 4.2% to 5.4%; North Dakota's unemployment tripled f
 **Offsetting effects (forward linkages)**:
 Lower oil prices helped consumers and oil-importing industries. Gasoline savings left households with more to spend elsewhere. Airlines' fuel costs dropped. Chemical manufacturers using oil as feedstock saw input costs fall. These positive effects partially offset the damage to oil-producing regions---but the geography was different. Oil states lost while consuming states gained.
 
-**The lesson**: I-O analysis reveals that a shock to one sector doesn't stay contained. The 2014-2016 oil collapse was an "oil sector" event, but its effects propagated through steel, trucking, hospitality, real estate, state governments, and ultimately into household spending patterns across energy-dependent regions.
+**The lesson**: I-O analysis reveals that a shock to one sector doesn't stay contained. The 2014-2016 oil collapse was an "oil sector" event, but its effects propagated through steel, trucking, hospitality, real estate, state governments, and ultimately into household spending patterns across energy-dependent regions. (For a fuller treatment of how this shock moved through financial markets, labor markets, and geographic channels beyond I-O linkages, see Chapter 32.)
+
+### Case Study: The CHIPS Act Investment Boom (A Positive Shock)
+
+The I-O framework doesn't just explain how downturns propagate---it also explains booms. The CHIPS and Science Act (2022) and the Inflation Reduction Act (2022) together authorized roughly $400 billion in incentives for semiconductor fabrication, clean energy, and advanced manufacturing. The resulting investment surge illustrates the multiplier in a growth context.
+
+**The initial shock**: TSMC announced a $65 billion investment in semiconductor fabs near Phoenix, Arizona. Intel committed $20 billion to a new campus in Chandler, Arizona (later expanded). Samsung began a $17 billion facility in Taylor, Texas. These were among the largest industrial investments in American history.
+
+**Direct effects (backward linkages)**:
+
+Constructing a semiconductor fab requires enormous quantities of specialized inputs. A single advanced fab employs 3,000-6,000 construction workers during peak construction, typically lasting 3-4 years. This creates direct demand for:
+
+- Structural steel, concrete, and ultra-pure piping systems
+- Clean room construction specialists (a niche labor market)
+- Electrical infrastructure upgrades (a modern fab consumes as much electricity as a small city)
+- Water treatment systems (fabs use millions of gallons daily)
+
+**Indirect effects (the supply chain ripple)**:
+
+The construction boom rippled through local economies. In Phoenix, the TSMC investment triggered:
+
+- Housing development: apartment construction surged as thousands of workers relocated
+- Equipment suppliers: companies manufacturing semiconductor tools opened regional offices
+- Support services: food service, cleaning, and transportation companies expanded to serve the new workforce
+- Education: Arizona State University and community colleges launched training programs for semiconductor technicians
+
+**Induced effects (the spending multiplier)**:
+
+Construction workers earning $60,000-$100,000 annually spent their wages locally. Once operational, the fabs will employ roughly 10,000-15,000 permanent workers at salaries averaging $100,000+. Their consumer spending---on housing, restaurants, retail, healthcare---sustains additional jobs in the local economy. Regional economists estimated a multiplier of roughly 2.5: each direct fab job supports an additional 1.5 jobs in the surrounding economy.
+
+{% hint style="info" %}
+**Comparing Shocks: Oil Collapse vs. CHIPS Boom**
+
+The oil shock (2014-2016) and the CHIPS boom (2022-2025) illustrate the same I-O mechanisms working in opposite directions. Both concentrated their direct effects geographically (Texas/North Dakota for oil; Arizona/Ohio/Texas for chips). Both propagated through backward linkages to suppliers and forward through induced consumer spending. The key difference: the oil shock was market-driven and caught communities by surprise, while the CHIPS investment was policy-driven and gave communities time to prepare. Both demonstrate why understanding the production network matters---the same multiplier that amplifies contraction also amplifies expansion.
+{% endhint %}
 
 ## Key Takeaways
 

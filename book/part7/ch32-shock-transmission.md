@@ -66,7 +66,7 @@ Shocks unfold over multiple time horizons:
 
 ## Case Study: The 2014-2016 Oil Price Collapse
 
-The oil price collapse of 2014-2016 illustrates every transmission channel in action. Tracing it in detail shows how the economy's structure shapes shock propagation.
+Chapter 2 introduced this episode through the lens of input-output linkages---backward linkages to suppliers, forward linkages to consumers, and the resulting multiplier effects. Here we return to the same shock but trace it through *all four* transmission channels: production networks, geographic concentration, financial amplification, and labor market adjustment. The difference in scope shows why the I-O framework alone, while powerful, tells only part of the story.
 
 <figure>
 <img src="../_figures/ch32/ch32_oil_shock_timeline.png" alt="Oil price shock timeline 2014-2016" style="width: 100%; max-width: 800px;">
