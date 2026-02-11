@@ -18,12 +18,12 @@ Union membership has declined for decades, from roughly 35% of private-sector wo
 
 <figure>
 <img src="../_figures/ch30/ch30_union_trend.png" alt="Union membership rate over time" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 28.1: Union membership rate, 1983-2024. The long decline from 20% to 10% reflects deindustrialization, employer resistance, and legal changes favoring management. Source: BLS Union Members Summary</figcaption>
+<figcaption>Figure 30.1: Union membership rate, 1983-2024. The long decline from 20% to 10% reflects deindustrialization, employer resistance, and legal changes favoring management. Source: BLS Union Members Summary</figcaption>
 </figure>
 
 <figure>
 <img src="../_figures/ch30/ch30_union_by_sector.png" alt="Union membership by industry" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 28.2: Union membership rate by industry (2024). Education and public administration remain heavily unionized; private-sector services like retail and finance have minimal union presence. Source: BLS</figcaption>
+<figcaption>Figure 30.2: Union membership rate by industry (2024). Education and public administration remain heavily unionized; private-sector services like retail and finance have minimal union presence. Source: BLS</figcaption>
 </figure>
 
 The divergence between sectors tells the story. Public-sector workers---teachers, firefighters, government employees---maintain union representation at six times the private-sector rate. Private-sector decline reflects deindustrialization, employer resistance, and legal changes that have made organizing increasingly difficult.
@@ -275,3 +275,33 @@ The union's political positioning is less predictably Democratic than other majo
 **Word count:** roughly 2,300 words
 
 *Note: For treatment of specific industries and their labor markets, see relevant sector chapters in Part II.*
+
+## Exercises
+
+### Review Questions
+
+1. Union membership in the private sector has fallen from 16.8% in 1983 to 5.9% in 2024, while public-sector unionization has remained above 32%. Identify and explain at least three structural factors that account for this divergence. Why are public-sector workers easier to organize and harder to replace than their private-sector counterparts?
+
+2. The UAW's 2023 "Stand Up Strike" employed a novel sequential targeting strategy rather than striking all plants simultaneously. Explain the tactical logic of this approach: how did uncertainty about which plants would be struck next give the union leverage? Why were tight labor markets, strong consumer demand, and record corporate profits essential preconditions for the strike's success? Could this strategy succeed in a recession?
+
+3. The chapter describes the Starbucks Workers United campaign as having organized over 500 stores but reached no first contract. Explain why there is a "gap between winning an election and achieving a contract" under current labor law. What specific employer tactics---contesting elections, challenging certification, slow bargaining---exploit weaknesses in the NLRA framework? How does the Amazon Labor Union's experience reinforce this pattern?
+
+4. Distinguish between economic strikes and unfair labor practice (ULP) strikes in terms of legal protections for workers. Why does the employer's right to hire permanent replacement workers in economic strikes dramatically alter the balance of power in collective bargaining? How does this legal framework compare to labor law in other developed nations where permanent replacement is prohibited?
+
+5. Explain why worker classification as "independent contractor" versus "employee" has become a central labor policy battleground. What specific protections (minimum wage, overtime, unemployment insurance, NLRA organizing rights) are lost when workers are classified as 1099 contractors? Why did ride-share companies spend $200 million on California's Proposition 22, and what does the resulting special category of "app-based workers" reveal about the political economy of classification?
+
+6. The chapter describes "alt-labor" organizations such as worker centers (ROC-United, NDLON, Fight for $15) as filling gaps in the labor movement. How do worker centers differ legally from unions under the NLRA? What tactics can they employ that unions cannot (such as secondary boycotts), and what core union functions (collective bargaining, contract enforcement) can they not perform? Evaluate whether worker centers represent a viable long-term alternative to traditional unionism or a supplement to it.
+
+7. The Teamsters' political positioning is described as "less predictably Democratic" than other major unions, with President O'Brien speaking at the 2024 Republican National Convention. What does this bipartisan engagement reveal about the political tensions within the labor movement? How does the reality that "many Teamster members vote Republican" complicate the assumption that unions are uniformly aligned with one party? What policy areas might create cross-partisan appeal for organized labor?
+
+### Data Exercises
+
+1. **Union Wage Premium by Industry.** Using the BLS Union Members Summary (https://www.bls.gov/news.release/union2.toc.htm) and the Current Population Survey data available through FRED, compare median weekly earnings for union and non-union workers across at least five industries (e.g., construction, manufacturing, healthcare, retail, transportation). Calculate the "union wage premium" (percentage difference) for each industry. Then retrieve the FRED series for real median weekly earnings (LES1252881600Q) and plot the long-run trend. Write a one-page analysis discussing whether the declining union membership rate documented in the chapter has coincided with stagnation in median real wages, and what other factors might explain the correlation (or lack thereof).
+
+2. **Mapping Right-to-Work and Union Density.** Using BLS data on union membership rates by state (https://www.bls.gov/news.release/union2.t05.htm), create a table comparing union membership rates in right-to-work states versus non-right-to-work states. Then retrieve state-level median household income data from the Census Bureau's American Community Survey (https://data.census.gov). Calculate the average union membership rate and median household income for each group. Does the data support or complicate the argument that right-to-work laws weaken unions and reduce worker earnings? Discuss confounding factors (regional cost of living, industry mix, state demographics) that would need to be controlled for in a rigorous analysis.
+
+3. **Gig Economy Scale and Growth.** The chapter notes that "roughly 36% of American workers participate in some form of gig work." Using BLS data on contingent and alternative employment arrangements (https://www.bls.gov/cps/contingent-and-alternative-arrangements-faqs.htm) and FRED series for the number of unincorporated self-employed workers (LNS12032192), track how non-traditional employment has changed over the past two decades. Supplement with data from the Census Bureau's Nonemployer Statistics (https://www.census.gov/programs-surveys/nonemployer-statistics.html), which counts businesses with no paid employees. Write a brief report (500--750 words) evaluating whether official statistics adequately capture the gig economy or whether measurement gaps make it difficult to assess the true scale of independent contracting.
+
+### Deeper Investigation
+
+1. The chapter describes Michigan's 2024 repeal of its right-to-work law as "the first such repeal in decades." Research the political and economic context of this repeal: What political conditions made it possible? What arguments did proponents and opponents make? Drawing on BLS union membership data, economic performance indicators from FRED (state employment growth, wage growth, GDP growth), and academic research on right-to-work laws' effects, evaluate the likely economic impact of the repeal on Michigan's labor market. Compare Michigan's experience with that of states that recently enacted right-to-work legislation (e.g., Indiana in 2012, Wisconsin in 2015). Does the available evidence support clear conclusions about the economic effects of right-to-work laws, or does the research remain contested? Write a research paper (1,500--2,000 words) that engages with evidence on both sides.

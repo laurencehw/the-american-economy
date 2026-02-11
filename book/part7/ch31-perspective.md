@@ -18,7 +18,7 @@ Throughout this book, we have encountered features that make the American econom
 
 <figure>
 <img src="../_figures/ch31/ch31_distinctive_features.png" alt="Distinctive features of the US economy" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 29.1: What makes the American economy distinctive. Finance is woven into daily life; services dominate; geographic diversity creates regional economies; innovation infrastructure remains the global standard. Source: Author analysis</figcaption>
+<figcaption>Figure 31.1: What makes the American economy distinctive. Finance is woven into daily life; services dominate; geographic diversity creates regional economies; innovation infrastructure remains the global standard. Source: Author analysis</figcaption>
 </figure>
 
 ### The Financialization of Daily Life
@@ -47,7 +47,7 @@ Three simultaneous transformations are reshaping the economic landscape.
 
 <figure>
 <img src="../_figures/ch31/ch31_three_transformations.png" alt="Three transformations reshaping the economy" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 29.2: Three simultaneous transformations: the return of industrial policy (CHIPS Act, IRA), the dual-track energy transition, and the emergence of the AI-driven intelligence economy. Source: Author analysis</figcaption>
+<figcaption>Figure 31.2: Three simultaneous transformations: the return of industrial policy (CHIPS Act, IRA), the dual-track energy transition, and the emergence of the AI-driven intelligence economy. Source: Author analysis</figcaption>
 </figure>
 
 ### The Return of Industrial Policy
@@ -80,7 +80,7 @@ For all its dynamism, the American economy faces structural tensions that are no
 
 <figure>
 <img src="../_figures/ch31/ch31_persistent_tensions.png" alt="Persistent tensions in the economy" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 29.3: Three interconnected structural tensions: geographic divergence between superstar metros and left-behind places; cost disease in healthcare, housing, and education; and fiscal sustainability concerns as deficits persist at 6%+ of GDP. Source: Author analysis</figcaption>
+<figcaption>Figure 31.3: Three interconnected structural tensions: geographic divergence between superstar metros and left-behind places; cost disease in healthcare, housing, and education; and fiscal sustainability concerns as deficits persist at 6%+ of GDP. Source: Author analysis</figcaption>
 </figure>
 
 ### Geographic Divergence
@@ -112,6 +112,36 @@ What distinguishes the American economy is not that it solves problems cleanly b
 Yet the machine keeps running. The question for the coming decades is not whether the American economy will grow---it almost certainly will---but whether its gains can be shared more broadly across people and places, or whether the tensions documented in this book will eventually overwhelm its capacity for adaptation.
 
 That question cannot be answered by economic analysis alone. It depends on political choices, institutional reforms, and social solidarities that lie beyond the scope of GDP statistics. Economics can illuminate the trade-offs; it cannot make the choices. Those remain the work of democratic politics in an unfinished republic.
+
+## Exercises
+
+### Review Questions
+
+1. The chapter describes the "vibecession" of 2023--2024 as revealing a "persistent gap between aggregate statistics and lived experience." Explain why households may feel worse off even when GDP is growing and unemployment is low. How does the distinction between the *rate of change* and the *level* of prices help explain consumer dissatisfaction? What does this imply about the limitations of standard macroeconomic indicators as measures of well-being?
+
+2. The 30-year fixed-rate mortgage is described as "an American anomaly" that effectively turns homeowners into "leveraged real estate investors." Explain why this instrument is rare in other developed nations (where adjustable-rate or shorter-term fixed mortgages dominate). How does the government-backed mortgage system---through Fannie Mae, Freddie Mac, and FHA---make the 30-year fixed rate possible? What are the advantages and disadvantages of this arrangement compared to the mortgage systems of countries like Canada (5-year terms), the UK (2--5 year fixes), or Germany (10-year fixes)?
+
+3. The chapter identifies a "lock-in" effect from the gap between existing 3% mortgages and current 7% rates. Trace the consequences of this lock-in through multiple dimensions of the economy: housing market liquidity, labor mobility, generational equity, and local government tax revenue. Why does the chapter call this "the defining microeconomic distortion of our time"? Compare this to situations in other countries where adjustable-rate mortgages transmit monetary policy changes directly to household budgets.
+
+4. The United States is described as simultaneously leading the energy transition and remaining the world's largest oil and gas producer. How has this "dual-track" approach provided the U.S. with competitive advantages over European nations that pursued a faster fossil fuel phase-out? What are the long-term risks of this strategy? Compare the U.S. approach to Germany's *Energiewende* or Norway's sovereign wealth fund model for managing petroleum revenues.
+
+5. Explain the concept of "cost disease" as the chapter uses it. Why do prices fall in globally traded goods (electronics, apparel) but rise in locally consumed services (healthcare, housing, education, childcare)? How does this asymmetry affect the lived experience of middle-class households even as aggregate real incomes rise? Compare U.S. healthcare costs at 18% of GDP to those of peer nations (10--12% of GDP in most OECD countries) and discuss what structural factors---not just policy choices---account for the difference.
+
+6. The chapter argues that American economic institutions "differ markedly" from those of peer nations---citing federalism, weak labor unions, employer-tied health insurance, and fragmented zoning authority. Select two of these institutional features and compare them to the arrangements in a European or East Asian peer economy. For each, evaluate whether the American arrangement produces superior dynamism, greater inequality, or both. Are these institutional differences "choices" that could be reversed, or are they path-dependent features that resist reform?
+
+7. The chapter describes three simultaneous transformations: the return of industrial policy, the energy transition, and the emergence of the AI-driven "intelligence economy." For each transformation, identify one way it might reduce geographic divergence (by bringing investment to left-behind regions) and one way it might increase it (by further concentrating gains in already-prosperous areas). On balance, do you expect these transformations to narrow or widen the gap between "superstar metros" and "left-behind places"?
+
+### Data Exercises
+
+1. **Cross-Country Economic Comparison.** Using FRED and the OECD Data Explorer (https://data-explorer.oecd.org), compile the following indicators for the United States, Germany, Japan, the United Kingdom, and France: (a) GDP per capita in PPP terms, (b) the Gini coefficient for income inequality, (c) healthcare spending as a percentage of GDP, (d) life expectancy at birth, and (e) labor force participation rate. Present the data in a table and write a one-page analysis. Which countries outperform the U.S. on which metrics? Does the data support the chapter's claim that the American economy is "uniquely capable of reinvention and uniquely tolerant of the disruption that reinvention leaves in its wake"?
+
+2. **Mapping Geographic Divergence.** Using BEA regional economic accounts (https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas) and Census Bureau data, compare GDP per capita, median household income, and population growth across (a) the five largest metropolitan areas and (b) five non-metropolitan or small-metro areas in regions the chapter identifies as "left behind" (e.g., Appalachia, the rural Great Plains, the Mississippi Delta). Calculate the ratio of top-metro to left-behind-area incomes. Then retrieve the FRED series for labor force participation rates by state or metro (where available) to examine whether labor market engagement also diverges. Write a brief report (500--750 words) assessing whether the "two Americas" framing is supported by the most recent data.
+
+3. **Industrial Policy Investment Tracker.** Using data from the White House "Investing in America" tracker (https://www.whitehouse.gov/invest/) and Treasury Department reports on IRA tax credit uptake, compile a list of at least fifteen major manufacturing investments (semiconductor fabs, battery plants, clean energy facilities) announced since 2022. For each, record the location, investment amount, projected employment, and the federal incentive involved (CHIPS grant, IRA tax credit, etc.). Map these investments geographically. Are they concentrated in particular states or regions? Do the locations align with the chapter's description of the "Battery Belt" and "semiconductor archipelago"? Write an analysis (500--750 words) evaluating whether industrial policy is directing investment toward economically distressed areas or toward regions that were already growing.
+
+### Deeper Investigation
+
+1. The chapter states that the American economy's fiscal trajectory---deficits exceeding 6% of GDP, interest costs rivaling defense spending---"cannot be avoided indefinitely," yet the political system has "successfully avoided" making hard choices. Research the current state of federal fiscal sustainability. Using CBO long-term budget projections (https://www.cbo.gov/topics/long-term-budget-projections), FRED data on federal debt as a share of GDP (FYGFGDQ188S), and comparative data on sovereign debt from the IMF Fiscal Monitor, write a research paper (1,500--2,000 words) that addresses: (a) What makes the U.S. fiscal position different from that of other high-debt nations like Japan or Italy---particularly the dollar's reserve currency status? (b) At what point might rising debt service costs begin to crowd out other federal spending or raise borrowing costs? (c) What combination of spending cuts and revenue increases would stabilize the debt-to-GDP ratio, and why has neither party been willing to propose them? Engage with arguments from both deficit hawks and those who argue that sovereign debt in a reserve currency nation poses less risk than conventional analysis suggests.
 
 ---
 

@@ -14,7 +14,7 @@ America's persistent trade deficit—importing $1.2 trillion more than it export
 
 The United States trades roughly $5 trillion in goods annually—more than any other nation.
 
-**Table 19.1: U.S. Goods Trade (2024)**
+**Table 21.1: U.S. Goods Trade (2024)**
 
 | Measure | Value |
 |---------|-------|
@@ -31,7 +31,7 @@ The persistent trade deficit—America imports far more than it exports—reflec
 
 America's largest trading relationships have shifted significantly, with North American neighbors gaining share as China's position has declined.
 
-**Table 19.2: Top U.S. Trading Partners (Goods, 2024)**
+**Table 21.2: Top U.S. Trading Partners (Goods, 2024)**
 
 | Rank | Partner | Total Trade | Trade Balance |
 |------|---------|-------------|---------------|
@@ -50,7 +50,7 @@ America's largest trading relationships have shifted significantly, with North A
 
 <figure>
 <img src="../_figures/ch21/ch21_top_partners.png" alt="Top U.S. trading partners" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 19.1: Top U.S. trading partners. Mexico surpassed China as America's largest trading partner in 2023, reflecting nearshoring trends and tariff effects. Source: Census Bureau</figcaption>
+<figcaption>Figure 21.1: Top U.S. trading partners. Mexico surpassed China as America's largest trading partner in 2023, reflecting nearshoring trends and tariff effects. Source: Census Bureau</figcaption>
 </figure>
 
 Mexico surpassed China as America's largest single-country trading partner in 2023—a milestone reflecting both the "nearshoring" trend and the cumulative effect of tariffs on Chinese goods. Vietnam has emerged as a major beneficiary of supply chain diversification, its trade with the U.S. growing from $50 billion in 2015 to $165 billion in 2024.
@@ -59,7 +59,7 @@ Mexico surpassed China as America's largest single-country trading partner in 20
 
 While goods trade shows a persistent deficit, services trade runs a surplus. The United States exports more services—financial, professional, intellectual property, travel—than it imports.
 
-**Table 19.3: U.S. Services Trade (2024)**
+**Table 21.3: U.S. Services Trade (2024)**
 
 | Category | Exports | Imports | Balance |
 |----------|---------|---------|---------|
@@ -74,7 +74,7 @@ While goods trade shows a persistent deficit, services trade runs a surplus. The
 
 <figure>
 <img src="../_figures/ch21/ch21_trade_balance.png" alt="Trade balance over time" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 19.2: U.S. trade balance. The persistent goods deficit (imports > exports) is partially offset by a services surplus. Source: BEA</figcaption>
+<figcaption>Figure 21.2: U.S. trade balance. The persistent goods deficit (imports > exports) is partially offset by a services surplus. Source: BEA</figcaption>
 </figure>
 
 The services surplus partially offsets the goods deficit. American dominance in finance, technology, entertainment, and professional services generates enormous foreign earnings—though these are invisible in the shipping containers that dominate trade imagery.
@@ -85,7 +85,7 @@ The services surplus partially offsets the goods deficit. American dominance in 
 
 The shale revolution transformed America's export profile. Energy products—crude oil, refined petroleum, natural gas—have become the largest export category.
 
-**Table 19.4: Top U.S. Exports (2024)**
+**Table 21.4: Top U.S. Exports (2024)**
 
 | Category | Value | Key Products |
 |----------|-------|--------------|
@@ -108,7 +108,7 @@ America exports capital goods (machines that make things), transportation equipm
 
 Consumer goods dominate imports, reflecting America's role as the world's largest consumer market.
 
-**Table 19.5: Top U.S. Imports (2024)**
+**Table 21.5: Top U.S. Imports (2024)**
 
 | Category | Value | Key Products |
 |----------|-------|--------------|
@@ -161,7 +161,7 @@ The United States has free trade agreements with 20 countries, including Austral
 
 From the late 1940s through 2016, American trade policy moved consistently toward lower tariffs and greater openness. That trajectory reversed sharply.
 
-**Table 19.6: Average U.S. Tariff Rates**
+**Table 21.6: Average U.S. Tariff Rates**
 
 | Period | Trade-Weighted Average | Note |
 |--------|------------------------|------|
@@ -401,3 +401,33 @@ What's clear is that trade is no longer just economics. It has become a tool of 
 - **Bown, Chad.** Trade policy analysis at Peterson Institute
 - **Baldwin, Richard.** *The Great Convergence* (2016)—how global value chains changed trade
 - **Klein, Matthew & Pettis, Michael.** *Trade Wars Are Class Wars* (2020)—macroeconomic view of imbalances
+
+## Exercises
+
+### Review Questions
+
+1. The United States runs a persistent goods trade deficit of roughly $1.2 trillion per year, yet this deficit is described as "financed by foreign purchases of American assets." Explain the mechanism by which the trade deficit and capital inflows are connected. Why does the dollar's reserve currency status make this arrangement sustainable in ways it would not be for most other countries?
+
+2. Mexico surpassed China as America's largest single-country trading partner in 2023. Identify at least three factors discussed in this chapter that contributed to this shift. How do Section 301 tariffs, USMCA provisions, and the nearshoring trend each play a role?
+
+3. While the United States runs a large goods trade deficit, it runs a $240 billion surplus in services trade. Using Table 21.3, identify the two largest categories contributing to this surplus. Why are services exports less visible in public debate about trade than goods exports, and what does this imbalance in attention mean for trade policy design?
+
+4. USMCA raised the regional value content requirement for automobiles from 62.5% to 75% and introduced a labor value content requirement of $16 per hour. Explain the economic logic behind each provision. Who benefits and who bears the costs of these stricter rules of origin?
+
+5. The chapter describes a shift from "free trade" to "managed trade" as the dominant intellectual framework for American trade policy. Compare the two frameworks across three dimensions: how each views the distributional consequences of trade, the role of "strategic" industries, and the appropriate balance between efficiency and resilience.
+
+6. Section 301, Section 232, and the de minimis exemption closure represent three distinct trade policy instruments. For each, identify the legal authority, the stated policy rationale, and at least one specific sector or product category affected. How do these instruments differ in scope and purpose?
+
+7. The chapter profiles four firms or institutions with very different relationships to trade: the Port of Los Angeles/Long Beach, USTR, Walmart, and Boeing. For any two of these, explain how a 25% across-the-board tariff on all imports would affect their operations, revenues, and strategic decisions differently.
+
+### Data Exercises
+
+1. Using the USTR's National Trade Estimate Report (available at https://ustr.gov/about-us/policy-offices/press-office/reports-and-publications) and the Census Bureau's USA Trade Online database (https://usatrade.census.gov/), construct a profile of U.S. trade with Vietnam for the most recent available year. Report total exports, total imports, the bilateral trade balance, and the top three product categories in each direction. Compare the current figures to the $50 billion total trade figure cited for 2015 in this chapter. What does the growth trajectory suggest about Vietnam's role in the "China Plus One" strategy?
+
+2. Using the FRED database, retrieve the series "BOPGSTB" (U.S. Trade Balance on Goods and Services) for the period 2000 to present. Plot the quarterly data and identify the periods of widening and narrowing deficits. Annotate your chart with at least three major policy or economic events discussed in this chapter (e.g., China's WTO accession effects, the 2018 tariff escalation, the 2021-22 supply chain crisis). How do these events correlate with movements in the trade balance?
+
+3. The USITC maintains a Tariff Database and the DataWeb tool (https://dataweb.usitc.gov/) that allows users to look up applied tariff rates by product. Select three product categories mentioned in this chapter's discussion of Section 301 tariffs---electric vehicles (HTS 8703.80), semiconductors (HTS 8541/8542), and steel (HTS 7206-7229)---and find the current applied tariff rates for imports from China versus imports from a U.S. FTA partner (e.g., South Korea). Summarize the tariff differential and discuss what incentives this creates for supply chain decisions.
+
+### Deeper Investigation
+
+1. The chapter describes a "partisan realignment" on trade, in which Republicans have become more protectionist and Democrats are internally divided. Select one specific trade policy action taken since 2017---such as the Section 301 tariffs on China, the USMCA renegotiation, or the de minimis closure---and trace its political history across administrations. Which interest groups supported and opposed it? How did the policy's stated rationale shift between administrations even as the policy itself persisted? What does this continuity suggest about whether the "new trade policy" represents a durable structural shift or a temporary political alignment?

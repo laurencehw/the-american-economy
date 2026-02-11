@@ -199,7 +199,7 @@ Abstract input-output tables become concrete when you trace specific value chain
 
 Consider a loaf of bread on a grocery shelf. Its journey:
 
-**Agriculture** (1% of GDP, 2 million workers): Wheat farmers in Kansas plant, fertilize, irrigate, and harvest. They buy seeds, tractors, fuel, fertilizer---inputs from manufacturing and chemicals. They sell to grain elevators and commodity traders.
+**Agriculture** (1% of GDP, roughly 2.6 million farm workers): Wheat farmers in Kansas plant, fertilize, irrigate, and harvest. They buy seeds, tractors, fuel, fertilizer---inputs from manufacturing and chemicals. They sell to grain elevators and commodity traders.
 
 **Food processing** (part of manufacturing): Mills grind wheat into flour. Commercial bakeries mix flour with other ingredients, bake, and package. These operations require equipment, energy, packaging materials, and food science expertise.
 

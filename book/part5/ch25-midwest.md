@@ -25,12 +25,12 @@ Population tells the story of transition. Illinois has declined from 12.8 millio
 
 <figure>
 <img src="../_figures/ch25/ch25_midwest_map.png" alt="Midwest Region and Battery Belt Map" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 23.1: The Midwest and Battery Belt corridor. Major industrial investments from the CHIPS Act and IRA have directed over $50 billion into manufacturing across Michigan, Ohio, Indiana, Kentucky, and Tennessee since 2022. Source: Company announcements, state economic development</figcaption>
+<figcaption>Figure 25.1: The Midwest and Battery Belt corridor. Major industrial investments from the CHIPS Act and IRA have directed over $50 billion into manufacturing across Michigan, Ohio, Indiana, Kentucky, and Tennessee since 2022. Source: Company announcements, state economic development</figcaption>
 </figure>
 
 <figure>
 <img src="../_figures/ch25/ch25_midwest_unemployment.png" alt="Midwest Unemployment Trends" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 23.2: Midwest state unemployment rates have converged post-pandemic. The regional labor market remains tight despite manufacturing automation. Source: BLS</figcaption>
+<figcaption>Figure 25.2: Midwest state unemployment rates have converged post-pandemic. The regional labor market remains tight despite manufacturing automation. Source: BLS</figcaption>
 </figure>
 
 The region's challenge is structural: manufacturing output grows through automation while manufacturing employment shrinks. Ohio ranks third nationally in manufacturing jobs (687,000), but that figure has fallen by half since 1979.
@@ -276,3 +276,33 @@ For Ohio, the investment anchors broader ambitions. The state is recruiting semi
 **Word count:** roughly 4,100 words
 
 *Note: For detailed treatment of manufacturing, automotive, and agriculture, see the relevant chapters in Part II.*
+
+## Exercises
+
+### Review Questions
+
+1. The chapter identifies a central paradox of the Midwest economy: "the region produces more industrial output than ever" while manufacturing employment has "collapsed from its 1979 peak." Using Indiana's 28% manufacturing share of GDP and Ohio's 687,000 manufacturing jobs (down by half since 1979) as examples, explain how automation and productivity growth can increase output while reducing employment. What does this mean for communities whose identities and social structures were built around factory work?
+
+2. Chicago is described as "the only Midwestern metropolitan area with true global status," yet the chapter documents population loss, corporate headquarters departures (Caterpillar, Boeing, Citadel), and office vacancy rates exceeding 20%. Evaluate whether Chicago's assets---CME Group's derivatives exchange, the freight rail convergence, world-class universities, and cultural institutions---are sufficient to sustain its position, or whether the departures signal a structural decline. What factors distinguish Chicago's challenges from those of smaller Rust Belt cities like Cleveland or Detroit?
+
+3. Detroit is "betting on electric vehicles," with General Motors' Factory ZERO and Ford's Michigan investments representing tens of billions in capital expenditure. But the chapter warns that EVs "require fewer workers to assemble---no transmissions, fewer parts, simpler systems." Analyze the workforce implications of the EV transition for the Detroit region. How did the 2023 UAW strike address this tension, and is the union's strategy of extending representation to battery plant workers likely to preserve middle-class manufacturing employment?
+
+4. The "eds and meds" model adopted by Cleveland (Cleveland Clinic) and Pittsburgh (Carnegie Mellon, UPMC) represents "the most successful version of post-industrial reinvention." But the chapter identifies limits: healthcare and education "don't generate the supplier networks that manufacturing did" and create a "bimodal distribution" of wages. Compare the "eds and meds" model to manufacturing as an economic base. What is lost when a city's anchor employer shifts from a factory to a hospital?
+
+5. Columbus is described as the "Rust Belt's growth story," with 18% population growth since 2010 and Intel's $20 billion chip fabrication investment. What combination of factors---Ohio State University, demographic representativeness, unified governance through annexation, and CHIPS Act funding---explains Columbus's divergence from Cleveland, Detroit, and other Midwest metros? Is the "Silicon Heartland" branding likely to attract a self-sustaining semiconductor cluster, or does it depend on continued federal subsidies?
+
+6. The chapter describes a "Battery Belt" forming from Michigan through Ohio, Indiana, and Kentucky, where every major automaker is building EV battery capacity. Using the Major Industrial Policy Investments table, calculate the total investment and explain the strategic logic: why is this corridor attracting battery plants rather than the Sunbelt or the coasts? What role do existing automotive supply chains, workforce skills, and proximity to vehicle assembly plants play?
+
+7. Illinois lost 340,000 residents to net domestic migration between 2020 and 2024, while Indiana gained 25,000. The chapter attributes the Midwest's "brain drain" to college-educated professionals relocating to the coasts and the Sunbelt after graduating from the region's "excellent universities." What policies or conditions have allowed Columbus, Indianapolis, and Madison to retain young professionals where other Midwest cities have failed?
+
+### Data Exercises
+
+1. Using BEA Regional GDP data (https://www.bea.gov/data/gdp/gdp-state), download annual GDP for the six Midwest states discussed in this chapter (Illinois, Ohio, Michigan, Indiana, Minnesota, Wisconsin) from 2010 to the most recent year. Calculate each state's manufacturing share of GDP using the NAICS sector breakdowns. Which states have seen manufacturing's share grow versus shrink? Plot the results alongside the national manufacturing share (FRED series "VAPGDPMA" or equivalent). Does the data support the chapter's claim that the Midwest "remains America's manufacturing core"?
+
+2. The Federal Reserve Bank of Chicago publishes the Midwest Economy Index (available via FRED series "CFNAIMA3"). Retrieve this monthly index from 2015 to present and plot it alongside the national CFNAI. Identify periods when the Midwest economy outperformed and underperformed the nation. How does the index behave during the pandemic recession and the subsequent recovery? Does the manufacturing investment boom described in this chapter appear in the data yet?
+
+3. Using the Census Bureau's population estimates and migration flow data (https://www.census.gov/topics/population/migration.html), construct a table showing net domestic migration for each of the six Midwest states for the most recent five years. Which states are losing population, which are gaining, and which are stable? Compare these flows to the chapter's net migration table. For one state that is losing population, identify the top three destination states. What does the migration pattern reveal about the Midwest's competitive position?
+
+### Deeper Investigation
+
+1. Intel's $20 billion investment in semiconductor fabrication near Columbus, Ohio, is described as "the largest single private investment in the state's history" and a test case for whether CHIPS Act industrial policy can create a self-sustaining technology cluster in the Midwest. Investigate the historical precedents for cluster formation around a single anchor investment. Did the original semiconductor cluster in Silicon Valley, the automotive cluster in Detroit, or the biotech cluster in Boston begin with a comparable catalytic investment? What supporting conditions---university research, supplier ecosystems, venture capital, workforce training---were necessary for the cluster to become self-sustaining? Using Ohio State University's engineering program expansion plans, the Ohio Department of Development's project tracking, and Semiconductor Industry Association data, assess whether the "Silicon Heartland" has the preconditions for success or whether Intel's fabs risk becoming an isolated outpost of advanced manufacturing in a region that otherwise lacks the supporting ecosystem.

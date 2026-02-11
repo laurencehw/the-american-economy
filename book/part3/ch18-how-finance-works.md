@@ -14,7 +14,7 @@ Not all money is equal. Money exists in layers, with each level a *promise to pa
 
 <figure>
 <img src="../_figures/ch18/ch18_hierarchy_of_money.png" alt="Hierarchy of money" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 16.1: The hierarchy of money. Currency sits at the top; reserves, deposits, and shadow money form progressively lower levels, each a promise to pay the level above. In a crisis, lower-level money gets tested against higher-level money. Source: Author illustration based on Mehrling</figcaption>
+<figcaption>Figure 18.1: The hierarchy of money. Currency sits at the top; reserves, deposits, and shadow money form progressively lower levels, each a promise to pay the level above. In a crisis, lower-level money gets tested against higher-level money. Source: Author illustration based on Mehrling</figcaption>
 </figure>
 
 The first insight is that not all money is equal. Money exists in a hierarchy, with each level a promise to pay the level above.
@@ -79,7 +79,7 @@ These instruments function as money for their holders—they're liquid, perceive
 
 <figure>
 <img src="../_figures/ch18/ch18_flow_of_funds.png" alt="Flow of funds diagram" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 16.2: The flow of funds: how savings become investment. Money flows from sources (households, corporations, government, rest of world) through financial intermediaries (banks, shadow banks, capital markets) to ultimate uses (mortgages, business loans, consumer credit). The Fed sits at the bottom, providing reserves that lubricate the entire system. Source: Federal Reserve Z.1 Financial Accounts</figcaption>
+<figcaption>Figure 18.2: The flow of funds: how savings become investment. Money flows from sources (households, corporations, government, rest of world) through financial intermediaries (banks, shadow banks, capital markets) to ultimate uses (mortgages, business loans, consumer credit). The Fed sits at the bottom, providing reserves that lubricate the entire system. Source: Federal Reserve Z.1 Financial Accounts</figcaption>
 </figure>
 
 ## How Banks Actually Work
@@ -381,7 +381,7 @@ Beginning in March 2022, the Fed raised the federal funds rate from near zero to
 
 <figure>
 <img src="../_figures/shock_analysis/mortgage_rate_shock.png" alt="Mortgage rate shock" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 16.2: The 30-year fixed mortgage rate doubled from 3% to over 7% in just 18 months, the most rapid increase since the Volcker disinflation of 1981-82. Source: FRED</figcaption>
+<figcaption>Figure 18.2: The 30-year fixed mortgage rate doubled from 3% to over 7% in just 18 months, the most rapid increase since the Volcker disinflation of 1981-82. Source: FRED</figcaption>
 </figure>
 
 ### The Primary Transmission Channel: Mortgage Rates
@@ -394,7 +394,7 @@ The most visible transmission occurred through mortgage rates. The 30-year fixed
 
 <figure>
 <img src="../_figures/shock_analysis/housing_starts_shock.png" alt="Housing starts shock" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 16.3: Housing starts fell sharply as mortgage rates rose, demonstrating the Fed's primary transmission mechanism to the real economy. Source: Census Bureau</figcaption>
+<figcaption>Figure 18.3: Housing starts fell sharply as mortgage rates rose, demonstrating the Fed's primary transmission mechanism to the real economy. Source: Census Bureau</figcaption>
 </figure>
 
 Housing starts declined by roughly 20% as builders faced both higher financing costs and reduced buyer demand. Construction employment, which had boomed during the pandemic housing surge, contracted modestly.

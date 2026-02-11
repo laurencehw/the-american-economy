@@ -10,7 +10,7 @@ This chapter examines how corporate finance actually works: the pecking order of
 
 The Federal Reserve's Financial Accounts (Z.1) reveal the true picture of corporate financing:
 
-**Table 18.1: Sources of Corporate Funds (2023)**
+**Table 20.1: Sources of Corporate Funds (2023)**
 
 | Source | Amount | Share |
 |--------|--------|-------|
@@ -22,7 +22,7 @@ The Federal Reserve's Financial Accounts (Z.1) reveal the true picture of corpor
 
 <figure>
 <img src="../_figures/ch20/ch20_corp_financing.png" alt="Corporate financing sources" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 18.1: How corporations finance investment. Internal funds dominate; net equity issuance is negative as buybacks exceed new issues. Source: Federal Reserve Z.1</figcaption>
+<figcaption>Figure 20.1: How corporations finance investment. Internal funds dominate; net equity issuance is negative as buybacks exceed new issues. Source: Federal Reserve Z.1</figcaption>
 </figure>
 
 The negative equity figure means corporations bought back more stock than they issued—a pattern that has persisted for most of the past two decades. American corporations are not tapping equity markets for expansion capital; they're returning equity capital to shareholders.
@@ -37,7 +37,7 @@ This pattern confirms the **pecking order theory** of corporate finance: firms p
 
 Different industries have systematically different capital structures, reflecting their asset bases and cash flow patterns.
 
-**Table 18.2: Typical Capital Structure by Industry**
+**Table 20.2: Typical Capital Structure by Industry**
 
 | Industry | Debt/Capital | Characteristics |
 |----------|--------------|-----------------|
@@ -132,7 +132,7 @@ Mergers and acquisitions represent the highest-profile activity in corporate fin
 
 <figure>
 <img src="../_figures/ch20/ch20_ma_activity.png" alt="M&A activity over time" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 18.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv</figcaption>
+<figcaption>Figure 20.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv</figcaption>
 </figure>
 
 **The Largest Deals (Recent History):**
@@ -202,7 +202,7 @@ PE ownership transforms corporate finance in several ways:
 
 **Management incentives**: Executives receive significant equity stakes, aligning their interests with owners.
 
-**Table 18.3: Public vs. PE-Owned Capital Structure**
+**Table 20.3: Public vs. PE-Owned Capital Structure**
 
 | Metric | Public Company | PE-Owned |
 |--------|----------------|----------|
@@ -246,7 +246,7 @@ American corporate boards have evolved significantly in recent decades.
 
 CEO pay has grown dramatically relative to average worker compensation.
 
-**Table 18.4: CEO-to-Worker Pay Ratio (S&P 500)**
+**Table 20.4: CEO-to-Worker Pay Ratio (S&P 500)**
 
 | Year | Ratio | Average CEO Pay |
 |------|-------|-----------------|
@@ -334,7 +334,7 @@ Chief Financial Officers face a constant capital allocation question: what to do
 3. **Pursue M&A**: Acquisitions for growth or synergies
 4. **Return capital**: Buybacks, dividends, or debt paydown
 
-**Table 18.5: S&P 500 Capital Allocation (2023)**
+**Table 20.5: S&P 500 Capital Allocation (2023)**
 
 | Use of Funds | Amount | Share |
 |--------------|--------|-------|
@@ -371,7 +371,7 @@ Critics argue buybacks represent short-termism—returning cash rather than inve
 
 Fortune 500 headquarters cluster in a few metropolitan areas:
 
-**Table 18.6: Fortune 500 Headquarters by Metro (2024)**
+**Table 20.6: Fortune 500 Headquarters by Metro (2024)**
 
 | Metro Area | Fortune 500 HQs | Major Companies |
 |------------|-----------------|-----------------|

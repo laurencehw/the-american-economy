@@ -10,7 +10,7 @@ This chapter examines how American companies organize international production: 
 
 Most trade today involves intermediate goods—components used to make other products—rather than finished consumer items.
 
-**Table 20.1: Composition of U.S. Goods Imports (2024)**
+**Table 22.1: Composition of U.S. Goods Imports (2024)**
 
 | Category | Share | Examples |
 |----------|-------|----------|
@@ -85,7 +85,7 @@ Other major land crossings include El Paso-Juarez (second largest), Detroit-Wind
 
 <figure>
 <img src="../_figures/ch22/ch22_iphone_supply_chain.png" alt="iPhone supply chain" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 20.1: The iPhone supply chain spans dozens of countries. Components designed in the U.S. are manufactured across Asia, assembled in China, and shipped worldwide. Source: Author compilation from company data</figcaption>
+<figcaption>Figure 22.1: The iPhone supply chain spans dozens of countries. Components designed in the U.S. are manufactured across Asia, assembled in China, and shipped worldwide. Source: Author compilation from company data</figcaption>
 </figure>
 
 No industry better illustrates the complexity and vulnerability of global supply chains than semiconductors.
@@ -94,7 +94,7 @@ No industry better illustrates the complexity and vulnerability of global supply
 
 Semiconductor production has fragmented by function:
 
-**Table 20.2: Semiconductor Value Chain Geography**
+**Table 22.2: Semiconductor Value Chain Geography**
 
 | Stage | U.S. Share | Dominant Players |
 |-------|------------|------------------|
@@ -111,7 +111,7 @@ The United States dominates chip design and manufacturing equipment but has almo
 
 <figure>
 <img src="../_figures/ch22/ch22_semiconductor_supply_chain.png" alt="Semiconductor supply chain" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 20.1: The semiconductor supply chain's geographic concentration risk. TSMC in Taiwan produces 90% of the world's most advanced chips. ASML in the Netherlands is the sole supplier of critical EUV lithography equipment. Source: Author analysis</figcaption>
+<figcaption>Figure 22.1: The semiconductor supply chain's geographic concentration risk. TSMC in Taiwan produces 90% of the world's most advanced chips. ASML in the Netherlands is the sole supplier of critical EUV lithography equipment. Source: Author analysis</figcaption>
 </figure>
 
 ### The Chokepoints
@@ -135,7 +135,7 @@ Whether these investments can restore U.S. competitiveness remains uncertain. Bu
 
 <figure>
 <img src="../_figures/ch22/ch22_critical_dependencies.png" alt="Critical supply chain dependencies map" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 20.2: Critical U.S. supply chain dependencies. Red markers indicate single-point-of-failure chokepoints (TSMC, ASML); orange indicates high concentration risk (China for rare earths and pharmaceutical precursors); green indicates nearshoring destinations (Mexico, Vietnam). Source: Commerce Department Supply Chain Review (2024)</figcaption>
+<figcaption>Figure 22.2: Critical U.S. supply chain dependencies. Red markers indicate single-point-of-failure chokepoints (TSMC, ASML); orange indicates high concentration risk (China for rare earths and pharmaceutical precursors); green indicates nearshoring destinations (Mexico, Vietnam). Source: Commerce Department Supply Chain Review (2024)</figcaption>
 </figure>
 
 ## Automotive Supply Chains
@@ -146,7 +146,7 @@ The North American automotive industry functions as a single integrated producti
 
 The United States-Mexico-Canada Agreement tightened regional content requirements:
 
-**Table 20.3: USMCA Automotive Content Requirements**
+**Table 22.3: USMCA Automotive Content Requirements**
 
 | Requirement | Level | Purpose |
 |-------------|-------|---------|
@@ -203,7 +203,7 @@ Pharmaceutical manufacturing has concentrated in ways that create national secur
 
 ### The Dependency
 
-**Table 20.4: Pharmaceutical Supply Chain Geography**
+**Table 22.4: Pharmaceutical Supply Chain Geography**
 
 | Category | China/India Share | Risk Level |
 |----------|-------------------|------------|
@@ -250,7 +250,7 @@ The COVID-19 pandemic exposed fragilities across global supply chains, creating 
 
 <figure>
 <img src="../_figures/ch22/ch22_supply_chain_crisis.png" alt="Supply chain crisis 2021-22" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 20.2: The cascade of supply chain disruptions in 2021-22. Sequential shocks—the Texas freeze, Suez blockage, Vietnam lockdowns, port congestion, and Ukraine war—created compounding disruptions that drove inflation to 9.1%. Source: Author analysis</figcaption>
+<figcaption>Figure 22.2: The cascade of supply chain disruptions in 2021-22. Sequential shocks—the Texas freeze, Suez blockage, Vietnam lockdowns, port congestion, and Ukraine war—created compounding disruptions that drove inflation to 9.1%. Source: Author analysis</figcaption>
 </figure>
 
 ### The Demand Shock
@@ -274,7 +274,7 @@ This demand surge hit supply chains configured for normal patterns. Factories, s
 
 The result: automakers parked tens of thousands of unfinished vehicles, waiting for chips. Ford, GM, Toyota, and others lost billions in production.
 
-**Table 20.5: Supply Chain Crisis Metrics**
+**Table 22.5: Supply Chain Crisis Metrics**
 
 | Metric | Pre-Crisis | Peak Crisis | Resolution |
 |--------|------------|-------------|------------|
@@ -332,7 +332,7 @@ Most companies are not abandoning China entirely. The market is too large (1.4 b
 
 Instead, the dominant strategy is "China Plus One": maintaining China operations while adding capacity elsewhere. Vietnam, India, Indonesia, and Mexico are primary beneficiaries.
 
-**Table 20.6: Alternative Manufacturing Destinations**
+**Table 22.6: Alternative Manufacturing Destinations**
 
 | Country | Strengths | Limitations |
 |---------|-----------|-------------|
@@ -455,3 +455,33 @@ The supply chain of the future will be more regional, more redundant, and more e
 - **Miller, Chris.** *Chip War* (2022)—semiconductor supply chain history
 - **Levinson, Marc.** *The Box* (2006)—containerization revolution
 - **Dingel, Jonathan.** International trade course materials (econ35101)
+
+## Exercises
+
+### Review Questions
+
+1. The chapter states that 43% of U.S. goods trade ($2.2 trillion) consists of related-party transactions---companies shipping goods to themselves across borders. Explain why intra-firm trade complicates the conventional understanding of trade deficits. When Ford ships engines from a Mexican plant to a Michigan assembly line, how should policymakers think about this "import" differently from an arm's-length purchase of a finished consumer good from an unrelated foreign supplier?
+
+2. The semiconductor supply chain exhibits extreme geographic fragmentation: the United States controls 85% of EDA design tools and 50% of chip design, yet holds 0% of leading-edge fabrication capacity. Using the Semiconductor Value Chain Geography table, explain why each stage of the supply chain has concentrated in different locations. What does TSMC's dominance in fabrication imply about the vulnerability of American technology companies that depend on its output?
+
+3. ASML's EUV lithography machines are described as a critical chokepoint---$200 million machines with 100,000+ components from hundreds of suppliers, manufactured exclusively in the Netherlands. Explain how a single company can become an irreplaceable node in a global supply chain. What conditions created this monopoly, and why hasn't a competitor emerged?
+
+4. The Inflation Reduction Act requires that by 2029, 100% of battery components for EV tax credits must be manufactured in North America, with no components from "Foreign Entities of Concern." Given China's dominance in battery supply chains (65-85% control across key stages from lithium refining to cell manufacturing), evaluate whether this timeline is realistic. What are the costs and benefits of attempting to build an entirely non-Chinese battery supply chain?
+
+5. The 2021-22 supply chain crisis saw container shipping rates from China to the U.S. West Coast rise from $2,000 to over $20,000---a tenfold increase. Trace the cascade of disruptions described in this chapter, from the pandemic demand shock through port congestion, semiconductor shortages, and the Texas freeze. Why did "just-in-time" inventory management amplify rather than dampen these shocks?
+
+6. The chapter describes a strategic shift from "efficiency to resilience" and from "offshore to nearshore." Using the Mexico nearshoring example, explain why proximity offers advantages beyond lower shipping costs---consider time zone alignment, USMCA access, and geopolitical risk reduction. What limitations does the chapter identify that prevent Mexico from simply absorbing all production leaving China?
+
+7. Compare the supply chain strategies of Apple and Walmart as described in the firm profiles. Both companies source extensively from China, and both face Section 301 tariffs. How do their diversification strategies differ? Why might Apple's approach (moving 14% of iPhone production to India) be harder to replicate than Walmart's supplier shifts?
+
+### Data Exercises
+
+1. The Bureau of Transportation Statistics publishes freight data through its Freight Analysis Framework (https://www.bts.gov/faf). Using the FAF data or the Port of Los Angeles monthly container statistics (https://www.portoflosangeles.org/business/statistics/container-statistics), chart monthly TEU volumes at the Port of Los Angeles from January 2019 through the most recent available month. Identify the pre-pandemic baseline, the 2021-22 crisis peak, and the post-crisis normalization. How does the current volume compare to the pre-pandemic trend line? What does this suggest about whether trade patterns have permanently shifted?
+
+2. The FRED database maintains several series relevant to supply chain conditions. Retrieve the Global Supply Chain Pressure Index from the New York Fed (FRED series "GSCPI") and the ISM Manufacturing PMI Supplier Deliveries Index for 2019 to present. Plot them on a common timeline. Identify the period of maximum supply chain stress and the timeline for normalization. How long did it take for conditions to return to pre-pandemic levels?
+
+3. Using the Semiconductor Industry Association's annual Factbook (https://www.semiconductors.org/) and the CHIPS Act project tracker maintained by the Commerce Department, compile a table of all major CHIPS Act-funded manufacturing projects announced to date, including TSMC Arizona, Intel Ohio, Samsung Taylor, and Micron New York. For each, record the company, location, investment amount, federal subsidy, projected direct jobs, and expected production start date. Calculate the total federal subsidy per projected direct job. Is the CHIPS Act primarily a jobs program or a national security program?
+
+### Deeper Investigation
+
+1. The chapter identifies pharmaceutical supply chains as a critical national security vulnerability, with China and India controlling 70-80% of generic drug production and 90%+ of antibiotic inputs. Yet reshoring progress has been described as "slow," with economics favoring continued offshoring. Investigate the specific case of one essential medicine category---antibiotics, blood pressure medications, or chemotherapy drugs. Map the current supply chain from raw materials to the finished product reaching an American pharmacy, identifying points of geographic concentration. Assess the policy interventions attempted so far (Essential Medicines List, API manufacturing incentives, strategic reserves) using FDA facility inspection data (https://www.fda.gov/drugs) and Commerce Department supply chain review reports. Can the United States realistically reduce its pharmaceutical dependency on China within a decade, and at what cost to drug prices for consumers?

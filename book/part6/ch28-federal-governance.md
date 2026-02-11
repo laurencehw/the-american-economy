@@ -58,7 +58,7 @@ Beyond the policy-making core, a constellation of regulatory agencies shapes eco
 
 <figure>
 <img src="../_figures/ch28/ch28_agency_budgets.png" alt="Regulatory agency budgets" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 26.1: Key financial regulatory agency budgets. The FDIC, funded by bank premiums, dwarfs the SEC and other agencies that rely on congressional appropriations. Source: Agency budget documents</figcaption>
+<figcaption>Figure 28.1: Key financial regulatory agency budgets. The FDIC, funded by bank premiums, dwarfs the SEC and other agencies that rely on congressional appropriations. Source: Agency budget documents</figcaption>
 </figure>
 
 **Key Financial Regulatory Agencies (2025)**
@@ -83,7 +83,7 @@ The **Office of the Comptroller of the Currency (OCC)**, an independent bureau w
 
 <figure>
 <img src="../_figures/ch28/ch28_regulatory_structure.png" alt="U.S. financial regulatory structure" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 26.2: U.S. financial regulatory structure. Congress creates agencies with overlapping jurisdictions. The Treasury and Fed share bank supervision with the FDIC and OCC. Securities and derivatives are split between SEC and CFTC. State regulators add another layer. Source: Author synthesis</figcaption>
+<figcaption>Figure 28.2: U.S. financial regulatory structure. Congress creates agencies with overlapping jurisdictions. The Treasury and Fed share bank supervision with the FDIC and OCC. Securities and derivatives are split between SEC and CFTC. State regulators add another layer. Source: Author synthesis</figcaption>
 </figure>
 
 ### Other Economic Regulators
@@ -214,3 +214,33 @@ The SEC's effectiveness is perpetually debated. Critics argue its disclosure-bas
 **Word count:** roughly 2,200 words
 
 *Note: For treatment of specific policy areas (taxation, monetary policy, financial regulation), see relevant chapters in Parts II and III.*
+
+## Exercises
+
+### Review Questions
+
+1. Identify the three agencies that compose the executive branch's economic policy-making "Troika." For each, explain its primary function and how it differs from the other two. Why does the Office of Information and Regulatory Affairs (OIRA) within OMB serve as a particularly powerful "chokepoint" in the regulatory process?
+
+2. The Federal Reserve's independence is described as "institutional rather than constitutional." What does this distinction mean in practice? Trace the evolution of Fed independence from the pre-1951 Treasury-Fed Accord era through the Volcker period to the present. Why has the norm of independence become so entrenched despite having no explicit constitutional basis?
+
+3. The chapter describes the federal statistical agencies---BEA, the Census Bureau, and BLS---as operating with "unusual independence for executive branch entities." Why is statistical independence important for economic governance? What risks would arise if political appointees could influence the timing or methodology of GDP releases or jobs reports?
+
+4. Explain the difference between mandatory and discretionary spending. Why has mandatory spending grown as a share of the federal budget, and what does this imply for Congress's annual control over fiscal policy? How does the rising share of net interest payments further constrain budgetary flexibility?
+
+5. The CBO and JCT serve as legislative "scorekeepers." How does a CBO cost estimate determine whether legislation is politically viable, particularly under budget reconciliation rules? What incentives does the scoring process create for legislators to design provisions that minimize official costs even when "real-world effects may differ"?
+
+6. Describe the jurisdictional overlap among the SEC, CFTC, FDIC, OCC, and CFPB in financial regulation. Why has the rapid growth of cryptocurrency exposed gaps and "turf wars" in this structure? What are the advantages and disadvantages of having multiple agencies with overlapping authority versus a single consolidated financial regulator?
+
+7. The CHIPS Act and Inflation Reduction Act represent what the chapter calls "a significant departure from the market-neutral posture" of recent decades. What new institutional capacities does implementing industrial policy at scale require? Why does the chapter suggest these capacities had "atrophied," and what coordination challenges arise when agencies accustomed to operating independently must work together on targeted investments?
+
+### Data Exercises
+
+1. **Federal Reserve Balance Sheet and Interest Rates.** Using the FRED database (https://fred.stlouisfed.org), retrieve the following series: the effective federal funds rate (FEDFUNDS), the Federal Reserve's total assets (WALCL), and the 10-year Treasury constant maturity rate (DGS10). Plot all three from 2006 to the present. Identify the periods corresponding to quantitative easing, the 2022--2023 tightening cycle, and any rate cuts. Write a one-page memo explaining how the Fed's balance sheet expansion and contraction relate to its interest rate decisions, and why the 10-year rate does not always move in lockstep with the federal funds rate.
+
+2. **Regulatory Output Over Time.** Visit the Federal Register's search tool (https://www.federalregister.gov) and search for "final rule" documents published by (a) the SEC, (b) the CFPB, and (c) the EPA over the past ten years. Tabulate the number of final rules by agency and by year. Do you observe variation across presidential administrations? Write a brief analysis (300--500 words) discussing whether regulatory output---measured by rule counts---is a good proxy for regulatory impact, and what other metrics might be more informative.
+
+3. **Comparing Scorekeeper Projections.** Download the most recent CBO Budget and Economic Outlook (available at https://www.cbo.gov/topics/budget) and compare its 10-year deficit projections to those published five years earlier. How much have projected deficits changed? Identify the major factors CBO cites for the revision---legislative changes, economic assumptions, or technical adjustments. Using FRED series for federal debt held by the public as a percentage of GDP (FYGFGDQ188S), plot the historical trajectory and overlay CBO's projected path. Discuss whether the trend appears sustainable.
+
+### Deeper Investigation
+
+1. The chapter notes that the IRS received $80 billion for modernization and enforcement under the Inflation Reduction Act but faced a "strategic pause" and political controversy. Research the current status of IRS modernization efforts: How has the funding been allocated? What technology upgrades have been implemented? How have enforcement priorities shifted across administrations? Drawing on GAO reports (https://www.gao.gov), Treasury Inspector General for Tax Administration (TIGTA) audits, and IRS strategic operating plans, write a research paper (1,500--2,000 words) evaluating whether the investment is achieving its stated goals of closing the "tax gap" and improving taxpayer service. Consider both the administrative evidence and the political constraints on sustained implementation.

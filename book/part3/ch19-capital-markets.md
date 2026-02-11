@@ -8,7 +8,7 @@ This chapter focuses on institutional structure rather than pricing theory—the
 
 American capital markets dwarf those of any other nation.
 
-**Table 17.1: U.S. Capital Markets Overview (2023)**
+**Table 19.1: U.S. Capital Markets Overview (2023)**
 
 | Market | Size | Global Share |
 |--------|------|--------------|
@@ -25,7 +25,7 @@ American capital markets dwarf those of any other nation.
 
 <figure>
 <img src="../_figures/ch19/ch19_stock_market_cap.png" alt="Stock market capitalization" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 17.1: U.S. stock market capitalization dwarfs all other markets. The "Big Three" exchanges (NYSE, NASDAQ, and their affiliates) account for over 40% of global equity market value. Source: World Federation of Exchanges</figcaption>
+<figcaption>Figure 19.1: U.S. stock market capitalization dwarfs all other markets. The "Big Three" exchanges (NYSE, NASDAQ, and their affiliates) account for over 40% of global equity market value. Source: World Federation of Exchanges</figcaption>
 </figure>
 
 The dominance is no accident. Deep capital markets require legal infrastructure (property rights, contract enforcement, bankruptcy procedures), sophisticated intermediaries, large pools of domestic savings, and network effects that attract foreign capital. The United States developed these advantages over more than a century, and they compound: liquidity attracts liquidity.
@@ -44,7 +44,7 @@ The NYSE is owned by Intercontinental Exchange (ICE), an Atlanta-based exchange 
 
 NASDAQ Inc. also owns NASDAQ Nordic/Baltic exchanges, The NASDAQ Options Market, and several data businesses. The company is headquartered in Times Square.
 
-**Table 17.2: Major U.S. Stock Exchanges (2023)**
+**Table 19.2: Major U.S. Stock Exchanges (2023)**
 
 | Exchange | Market Cap Listed | Share Volume | Headquarters |
 |----------|-------------------|--------------|--------------|
@@ -99,7 +99,7 @@ The IPO process typically involves:
 
 Underwriters typically receive 5-7% of gross proceeds as fees. Goldman Sachs, Morgan Stanley, and JPMorgan dominate IPO underwriting, with boutiques handling smaller deals.
 
-**Table 17.3: U.S. IPO Activity**
+**Table 19.3: U.S. IPO Activity**
 
 | Year | Number of IPOs | Gross Proceeds |
 |------|----------------|----------------|
@@ -121,7 +121,7 @@ While IPOs channel capital *into* corporations, established companies increasing
 
 **Stock buybacks** allow companies to repurchase their own shares on the open market. When a company buys back stock, the shares are retired, reducing shares outstanding and increasing earnings per share (EPS) for remaining shareholders. Buybacks have become the dominant form of capital return, surpassing dividends for most large companies.
 
-**Table 17.3a: S&P 500 Capital Return (billions)**
+**Table 19.3a: S&P 500 Capital Return (billions)**
 
 | Year | Buybacks | Dividends | Total |
 |------|----------|-----------|-------|
@@ -215,7 +215,7 @@ The **10-year Treasury yield** is the benchmark rate for the U.S. economy, influ
 
 <figure>
 <img src="../_figures/ch19/ch19_bond_market.png" alt="Bond market breakdown" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 17.2: U.S. bond markets by segment. Treasury securities dominate, followed by mortgage-backed securities and corporate bonds. The $50+ trillion market dwarfs equities by outstanding value. Source: SIFMA</figcaption>
+<figcaption>Figure 19.2: U.S. bond markets by segment. Treasury securities dominate, followed by mortgage-backed securities and corporate bonds. The $50+ trillion market dwarfs equities by outstanding value. Source: SIFMA</figcaption>
 </figure>
 
 Corporations borrow in bond markets to fund operations, acquisitions, and capital expenditures. The corporate bond market totals roughly $10 trillion outstanding.
@@ -226,7 +226,7 @@ Corporations borrow in bond markets to fund operations, acquisitions, and capita
 
 **Credit spreads**—the yield difference between corporate bonds and Treasuries—widen during economic stress and narrow during expansions. The ICE BofA High Yield Spread, tracking the average spread over Treasuries for high-yield bonds, ranges from roughly 300 basis points (3%) in good times to 1,000+ basis points (10%) during crises.
 
-**Table 17.4: Corporate Bond Spreads (basis points over Treasuries)**
+**Table 19.4: Corporate Bond Spreads (basis points over Treasuries)**
 
 | Rating | Normal Spread | Crisis Spread (2008) |
 |--------|---------------|---------------------|
@@ -266,7 +266,7 @@ Derivatives—contracts whose value derives from an underlying asset—enable ri
 
 - **CBOE Global Markets** (Chicago): Dominates equity options, trades VIX futures, and operates stock exchanges.
 
-**Table 17.5: Major U.S. Futures Contracts (2023)**
+**Table 19.5: Major U.S. Futures Contracts (2023)**
 
 | Contract | Exchange | Notional Value/Day |
 |----------|----------|-------------------|
@@ -343,7 +343,7 @@ Venture capital (VC) funds early-stage companies with high growth potential in e
 
 VC investment totaled $170 billion in 2021 (a record driven by zero interest rates) before falling to $67 billion in 2023 as monetary tightening reduced risk appetite.
 
-**Table 17.6: U.S. Venture Capital Investment**
+**Table 19.6: U.S. Venture Capital Investment**
 
 | Year | Deal Value | Deal Count |
 |------|------------|------------|
@@ -373,7 +373,7 @@ Capital markets activity concentrates heavily in a few locations.
 
 **Charlotte** hosts major bank operations (Bank of America, Wells Fargo, Truist) but relatively little capital markets activity.
 
-**Table 17.7: Financial Services Employment by Metro (2023)**
+**Table 19.7: Financial Services Employment by Metro (2023)**
 
 | Metro Area | Finance Employment | Specialization |
 |------------|-------------------|----------------|
