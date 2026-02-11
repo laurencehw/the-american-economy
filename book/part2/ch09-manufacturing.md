@@ -352,3 +352,33 @@ Deere has sparked controversy over its equipment software policies, with farmers
 - Vaclav Smil, *Made in the USA: The Rise and Retreat of American Manufacturing*. Cambridge: MIT Press, 2013.
 - Louis Uchitelle, *The Disposable American: Layoffs and Their Consequences*. New York: Knopf, 2006.
 - Steven Rattner, *Overhaul: An Insider's Account of the Obama Administration's Emergency Rescue of the Auto Industry*. Boston: Houghton Mifflin, 2010.
+
+## Exercises
+
+### Review Questions
+
+1. American manufacturing output has roughly doubled since the 1980s, yet employment has fallen from 19.4 million (1979 peak) to 12.8 million. The chapter calls this the "manufacturing paradox." Is this decline a sign of economic weakness or economic strength? What concept explains how a sector can produce more with fewer workers, and what are the implications for workers displaced by this process?
+
+2. A single automobile contains approximately 30,000 parts sourced from hundreds of suppliers across multiple tiers. Why did manufacturing shift from vertically integrated facilities (where one company made everything) to fragmented production networks? What are the efficiency advantages of this structure? What vulnerabilities did the COVID-19 pandemic and the 2011 Japanese tsunami expose?
+
+3. Apple is listed as the largest American manufacturer by revenue ($383 billion) yet owns none of its factories---Foxconn's Zhengzhou facility alone employs over 200,000 workers assembling iPhones. Is Apple a "manufacturer"? What does its position at the top of the revenue table reveal about where value is captured in modern manufacturing? How does this complicate the narrative about "bringing manufacturing back"?
+
+4. The "China shock" (2000--2010) displaced an estimated 2 to 2.4 million manufacturing jobs directly. The chapter notes that displaced workers did not smoothly transition to other sectors or regions as economic theory predicted---many withdrew from the labor force, took lower-paying service jobs, or applied for disability benefits. What factors prevented the adjustment mechanisms that had worked for earlier trade shocks? What were the political consequences?
+
+5. The CHIPS Act committed $52.7 billion to semiconductor manufacturing, with major grants to Intel ($8.5B), TSMC ($6.6B), Samsung ($6.4B), and Micron ($6.1B). The U.S. share of global semiconductor production fell from 37% in 1990 to 12% in 2020. Will subsidies alone reverse this decline? What challenges beyond funding---the ecosystem of equipment suppliers, materials providers, and skilled workers that developed in Asia---must be addressed?
+
+6. Four companies (Tyson, JBS, Cargill, National Beef) control over 80% of U.S. beef processing. What are the consequences of this oligopoly for cattle ranchers (who have fewer buyers for their livestock), consumers (who face less price competition), and food supply chain resilience (concentration in a small number of large facilities)?
+
+7. The United States has approximately 295 industrial robots per 10,000 manufacturing workers, below South Korea (1,000), Germany (above 400), and China (470). What factors explain the relatively lower U.S. robot density? Does lagging behind in automation represent a competitive disadvantage, or does it reflect different industry composition and labor market conditions?
+
+### Data Exercises
+
+8. Go to FRED (fred.stlouisfed.org) and pull the series "IPMAN" (Industrial Production: Manufacturing) and "MANEMP" (All Employees: Manufacturing). Plot both from 1980 to the present, using an index or normalizing to a common base year. In what decade was the divergence between rising output and falling employment most dramatic? What events (identified in Figure 9.1 of the chapter) drove the sharpest employment declines?
+
+9. Using the BEA's GDP by Industry data (bea.gov/data/gdp/gdp-industry), find the value added for three manufacturing subsectors: chemicals (NAICS 325), computer and electronic products (NAICS 334), and transportation equipment (NAICS 336). Compare their growth trajectories since 2000. Which has grown fastest? How does the relative performance of these subsectors relate to the industrial policy priorities of the CHIPS Act and the Inflation Reduction Act?
+
+10. Visit the Census Bureau's Annual Survey of Manufactures (census.gov/programs-surveys/asm) and find total manufacturing employment and total value of shipments for two states---one from the traditional Manufacturing Belt (e.g., Michigan, Ohio, Indiana) and one from the Southern growth corridor (e.g., South Carolina, Alabama, Tennessee). Calculate the value of shipments per manufacturing worker for each state. Which state has higher productivity per worker? What might explain the difference?
+
+### Deeper Investigation
+
+11. Research the electric vehicle transition's impact on a specific manufacturing region: the Detroit Three's operations in Michigan, the emerging "Battery Belt" in Georgia and Tennessee, or Tesla's manufacturing footprint in Texas and Nevada. How is the transition from internal combustion to electric powertrains reshaping employment, supply chains, and community economics in your chosen region? The chapter notes that EV manufacturing may require fewer workers than traditional auto manufacturing. Assess whether the new investments (Ford's BlueOval City, Hyundai's Georgia plant, SK Battery's facilities) will create enough jobs to offset losses in engine and transmission production, and evaluate what the transition means for the region's long-term economic trajectory.

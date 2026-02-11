@@ -322,3 +322,33 @@ Costco's treatment of workers is famously generous by retail standards. Average 
 - **Goldmanis, Maris, et al.** "E-commerce and the Market Structure of Retail Industries." *NBER Working Paper* 14166 (2008). [How e-commerce forces high-cost producers out while shifting share to efficient giants.]
 - **Basker, Emek.** "The Causes and Consequences of Wal-Mart's Growth." *Journal of Economic Perspectives* 21, no. 3 (2007): 177–198. [Comprehensive overview of Walmart's economic impact.]
 - **Stone, Brad.** *The Everything Store: Jeff Bezos and the Age of Amazon.* Little, Brown, 2013. [The definitive journalistic account of Amazon's rise.]
+
+## Exercises
+
+### Review Questions
+
+1. Wholesale revenue ($11.4 trillion) exceeds retail revenue ($7.26 trillion), even though consumers think of retail as the larger sector. Using the aspirin example from the chapter---manufacturer to pharmaceutical wholesaler to drugstore distribution center to individual store---explain why this accounting produces higher wholesale than retail totals. What does this tell you about the depth of the supply chain for everyday consumer products?
+
+2. The "wheel of retailing" theory predicts that new retail formats enter as low-cost disruptors, gradually add services and raise prices, then become vulnerable to the next wave of discounters. Trace this pattern through three successive retail formats discussed in the chapter (e.g., general stores, department stores, discount stores, e-commerce). Where does Amazon currently sit in the cycle, and is there evidence that Amazon itself is becoming vulnerable to a newer, leaner competitor?
+
+3. Costco stocks roughly 4,000 SKUs compared to Walmart's 100,000+. Explain how limiting selection can be a competitive advantage, drawing on the chapter's discussion of inventory turnover (Costco turns inventory 12 times per year versus 3-4 for department stores), the Kirkland Signature private label ($60+ billion in sales), and the membership model (90%+ renewal rates). Why can't Walmart simply copy this approach?
+
+4. Amazon's Third-Party Marketplace now accounts for 60% of units sold on the platform, with Amazon collecting fees averaging 15-20% of sale price plus fulfillment fees. How does Amazon's dual role as both a platform (landlord of commerce) and a retailer (selling its own Amazon Basics products) create potential conflicts of interest? Connect your answer to the FTC's ongoing antitrust case mentioned in the chapter.
+
+5. The FTC blocked the $24.6 billion Kroger-Albertsons merger in December 2024. Using the chapter's discussion of grocery market structure---including the dominance of Walmart (37% of online grocery), the 1-2% net margins typical in grocery, and the regional nature of grocery competition---explain two arguments for blocking the merger and one argument for allowing it.
+
+6. E-commerce has plateaued at roughly 16% of Census-defined retail sales, far below early predictions of physical retail's demise. Retail vacancy remains at historic lows (4.1%) and almost no new retail space has been built since 2008. What structural factors does the chapter identify that explain why physical stores have proven more resilient than predicted? Are there categories where online penetration is likely to remain low?
+
+7. Amazon raised its minimum wage to $15/hour in 2018, and research found this created 2.3-4.7% wage spillovers at nearby non-Amazon employers. Drawing on the chapter's discussion of retail wages and the competitive retail labor market, explain the mechanism by which a single firm's wage decision can force wage increases at competing businesses. Is this a case of monopsony power being broken, or something else?
+
+### Data Exercises
+
+8. Using the U.S. Census Bureau's Monthly Retail Trade Survey (https://www.census.gov/retail/index.html), download the most recent 12 months of total retail sales data and e-commerce sales data. Calculate e-commerce's share of total retail for each month. Has the roughly 16% plateau described in the chapter continued, increased, or declined? Present your findings in a line chart and discuss any seasonal patterns you observe.
+
+9. Using the Bureau of Labor Statistics Quarterly Census of Employment and Wages (https://www.bls.gov/cew/), compare average weekly wages in NAICS 44-45 (Retail Trade) and NAICS 42 (Wholesale Trade) for the most recent year available. How large is the wage gap between retail and wholesale workers? How does this differential help explain the different business models described in the chapter---high-volume, low-margin merchandising in retail versus logistics-focused operations with 1-3% net margins in wholesale?
+
+10. Visit the SEC's EDGAR database (https://www.sec.gov/cgi-bin/browse-edgar) and locate the most recent 10-K filings for Walmart, Costco, and Target. For each company, calculate the inventory turnover ratio (Cost of Goods Sold divided by Average Inventory). How do the differences you find relate to the chapter's discussion of inventory management as a competitive weapon? Which company's model most effectively minimizes capital trapped on shelves?
+
+### Deeper Investigation
+
+11. The chapter describes Dollar General as "de facto essential infrastructure" in rural communities, often the only retail presence within 30 miles, while critics note these stores offer limited fresh food options and potentially exacerbate "food desert" problems. Research the expansion of dollar stores in rural America over the past two decades. Using county-level data from the USDA's Food Access Research Atlas (https://www.ers.usda.gov/data-products/food-access-research-atlas/) and Dollar General's store location data, investigate whether dollar store expansion has correlated with the closure of full-service grocers in rural counties. What are the implications for food access and public health in these communities? Does Dollar General function more as a lifeline or as a barrier to better retail options?

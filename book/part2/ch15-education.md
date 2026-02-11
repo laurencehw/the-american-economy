@@ -518,6 +518,36 @@ UC remains a remarkable institution---world-class research combined with genuine
 - Marcus, Jon. Coverage in The Hechinger Report. Best ongoing education journalism.
 - Chronicle of Higher Education. Essential trade publication for higher ed.
 
+## Exercises
+
+### Review Questions
+
+1. K-12 public education is funded roughly 45% from local property taxes, 47% from state sources, and 8% from federal sources. The chapter notes that New York spends $29,000 per pupil while Utah spends $9,000---a ratio exceeding 2:1 even after cost-of-living adjustment. Explain how the reliance on local property taxes creates this inequality. Why have state equalization formulas and court decisions (beginning with *Serrano v. Priest* in 1971) not fully closed the interstate spending gap?
+
+2. The chapter describes a bifurcated higher education labor market: roughly 30% tenure-track faculty earning median salaries around $100,000 and roughly 70% contingent faculty paid $3,000-5,000 per course with no benefits or job security. Explain the economic incentives that led universities to shift toward contingent labor since the 1990s. What are the consequences for teaching quality, faculty welfare, and the attractiveness of academic careers to talented graduates?
+
+3. The for-profit higher education sector boomed in the 2000s, enrolling 2+ million students by 2010, then collapsed under Obama-era regulations, lawsuits, and bad publicity. The chapter notes that many for-profit colleges clustered at 89% federal revenue---just below the 90/10 rule threshold. What does this clustering reveal about the sector's underlying business model and its dependence on federal financial aid rather than labor market value of its credentials?
+
+4. The College Board is technically a nonprofit but generates $1.5 billion in annual revenue, has no competitor for AP exams (5 million test-takers), and charges $60 per SAT and $60 per AP exam. Using economic concepts (monopoly power, barriers to entry, regulatory capture), explain how a nonprofit organization can exercise market power comparable to a for-profit monopolist. Does the College Board's position serve students' interests, or does it exploit a captive market?
+
+5. Chetty, Friedman, and Rockoff (2014) found that replacing a bottom-5% teacher with an average teacher raises students' lifetime earnings by roughly $250,000 per classroom. Yet teacher salaries show extreme wage compression: a stellar teacher earns perhaps 20% more than a mediocre colleague, compared to 2:1 or 3:1 ratios in the private sector. What economic and institutional factors---union contracts, public sector pay scales, difficulty measuring teacher effectiveness---explain why the labor market does not reward teacher quality more strongly?
+
+6. The chapter describes a demographic "enrollment cliff" arriving around 2025, with 15% fewer high school graduates projected through 2037 as smaller cohorts born during the 2008-09 recession reach college age. The chapter predicts 500-1,000 college closures or mergers over 15 years. Which types of institutions will be most affected, and why are elite universities (with strong demand and large endowments) and community colleges (with local service missions and open access) relatively insulated?
+
+7. Administrative positions in K-12 grew 88% from 1992-2019, while teachers grew 60% and enrollment grew only 19%. In higher education, administrative positions grew 60% from 1993-2009 while faculty grew 10%. The chapter attributes this to regulatory compliance (special education, Title IX, accreditation), student services expansion, and revenue-generating activities. Evaluate whether this "administrative bloat" represents wasteful cost growth or a necessary response to increasingly complex student needs and accountability requirements.
+
+### Data Exercises
+
+8. Using the NCES Digest of Education Statistics (https://nces.ed.gov/programs/digest/), download per-pupil expenditure data by state for the most recent year available. Create a ranked bar chart or choropleth map showing spending variation. Then, using NAEP (Nation's Report Card) 8th-grade mathematics scores from the same source, test whether higher per-pupil spending correlates with higher state-level test scores. What confounding factors---cost of living, student demographics, state education policies---might explain your findings? Does money "matter" for educational outcomes?
+
+9. Using the College Scorecard (https://collegescorecard.ed.gov/) downloadable data files, compare median earnings 10 years after enrollment for graduates of for-profit institutions versus public community colleges within the same state. Select three states with significant for-profit enrollment (e.g., Arizona, Florida, California). Control for field of study where possible. Do the data support the chapter's skepticism about for-profit college outcomes, or do some for-profit programs deliver competitive returns?
+
+10. Using IPEDS data (https://nces.ed.gov/ipeds/), track the ratio of full-time faculty to full-time-equivalent enrollment at public four-year universities from 2002 to the most recent year available. Has the shift toward contingent faculty described in the chapter continued? Compare this ratio for R1 research universities (Carnegie classification) versus regional comprehensive universities. Which type of institution has relied more heavily on adjunct and non-tenure-track instructors?
+
+### Deeper Investigation
+
+11. The chapter presents the Mincer equation and estimates a 7-10% wage increase per year of schooling. Using microdata from the Current Population Survey (available through IPUMS-CPS at https://cps.ipums.org/cps/), estimate your own Mincer equation ($\ln W_i = \alpha + \beta S_i + \gamma_1 X_i + \gamma_2 X_i^2 + \varepsilon_i$) for the most recent year of data. Then extend the analysis: estimate separate returns to education by gender, race/ethnicity, and Census region. Do the returns to a bachelor's degree vary significantly across these categories? What does this heterogeneity tell you about the universality of the "college premium" described in the chapter? Discuss potential sources of bias in your estimates and how instrumental variable approaches might improve identification.
+
 ---
 
 *Chapter 15 | Education*

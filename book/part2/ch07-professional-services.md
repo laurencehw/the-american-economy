@@ -479,3 +479,31 @@ AECOM's business is heavily tied to government infrastructure spending. It ranks
 **Industry:**
 - American Lawyer, "Am Law 100" (annual) — Law firm rankings and financials
 - Vault Guide to Consulting (annual) — Consulting firm profiles and rankings
+
+## Exercises
+
+### Review Questions
+
+1. The chapter describes the "leverage model" in professional services: partners bill at $1,000--2,000/hour while associates bill at $300--600/hour, and partners capture the spread. Explain why a law firm with a leverage ratio of 4 associates per partner is more profitable per partner than one with 2 associates per partner, assuming similar billing rates. What are the risks of pursuing ever-higher leverage?
+
+2. Kirkland & Ellis generates $7.2 billion in revenue with 3,600 lawyers and Profits Per Partner (PPP) of $7.5 million. DLA Piper generates $3.7 billion with 4,500 lawyers and PPP of $2.1 million. What differences in specialization, leverage ratio, billing rates, or client mix explain this gap? Why does the AmLaw PPP ranking create competitive pressure among firms?
+
+3. The Big 4 accounting firms (Deloitte, PwC, EY, KPMG) audit 99% of S&P 500 companies. The chapter warns this is a potential systemic risk. What happened when Arthur Andersen collapsed after the Enron scandal? Why couldn't the remaining firms simply absorb a failed Big 4 firm's clients? What structural reforms have regulators considered?
+
+4. The chapter argues that when a company hires McKinsey, it is "partly buying analysis but also buying legitimacy." Explain how this credentialing function relates to the information asymmetry problem in professional services. Why might a CEO pay $5--10 million for a consulting project whose recommendations they could have developed internally?
+
+5. Professional services employment more than doubled from 1980 to 2023 while manufacturing shed 6 million jobs over the same period. What does this shift reveal about the transformation from a goods-producing to a knowledge-based economy? Is a professional services job a direct substitute for a manufacturing job in terms of skills, geography, or wages?
+
+6. Google and Meta now capture over 50% of U.S. digital ad spending, disintermediating traditional media buying by advertising agencies. How has the rise of programmatic, algorithm-driven advertising changed the role of agencies like WPP, Omnicom, and Publicis? What services can agencies still provide that platforms cannot?
+
+### Data Exercises
+
+7. Using the BEA's GDP by Industry data (bea.gov/data/gdp/gdp-industry), compare the value added of "Professional, Scientific, and Technical Services" (NAICS 54) with "Manufacturing" (NAICS 31-33) from 2000 to the most recent year available. In what year did professional services value added surpass manufacturing? What has been the growth rate differential between the two sectors?
+
+8. Go to the BLS Quarterly Census of Employment and Wages (data.bls.gov/cew) and look up employment in NAICS 5411 (Legal Services) for the New York-Newark-Jersey City metro area and for the nation as a whole. What share of national legal services employment is concentrated in New York? Compare this to New York's share of total nonfarm employment. What does the difference tell you about the geographic concentration of legal services?
+
+9. Using FRED (fred.stlouisfed.org), pull the series "CES6000000001" (All Employees: Professional and Business Services) and "MANEMP" (All Employees: Manufacturing). Plot both from 1990 to the present. Identify the crossover point. How did the 2008 recession and the COVID-19 pandemic affect each series differently? What does the relative resilience of professional services employment suggest about its business cycle sensitivity?
+
+### Deeper Investigation
+
+10. Research the potential impact of large language models and generative AI on one professional services subsector: legal services, accounting and audit, management consulting, or advertising. Identify specific tasks within that subsector that are most susceptible to automation (e.g., document review in law, data analysis in consulting, copywriting in advertising). What tasks require human judgment, client relationships, or creativity that current AI cannot replicate? Drawing on the chapter's discussion of the leverage model and tournament structure, assess whether AI will primarily eliminate junior positions, augment senior productivity, or fundamentally restructure how the subsector delivers value.

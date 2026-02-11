@@ -440,6 +440,36 @@ Tyson has faced recurring controversies: antitrust investigations into price-fix
 - Ted Genoways, *The Chain: Farm, Factory, and the Fate of Our Food* (2014) --- Inside the meatpacking industry and the human costs of consolidation
 - Nathan Rosenberg, *Inside the California Food Revolution* (2017) --- The economic and agricultural transformation of the Central Valley
 
+## Exercises
+
+### Review Questions
+
+1. The chapter states that 7% of farms with annual sales above $1 million produce 73% of all agricultural output, while 55% of farms with sales under $10,000 produce just 1% of output. The USDA counts roughly 2 million farms, but most are "rural residences with some agricultural activity." What does this extreme bifurcation reveal about the gap between the USDA's statistical definition of a "farm" (any place producing or selling $1,000+ of agricultural products) and the commercial reality of American agriculture?
+
+2. The "ABCD" grain traders (ADM, Bunge, Cargill, Louis Dreyfus) dominate global grain flows, while four meat packers (Tyson, JBS, Cargill, National Beef) control over 80% of US beef slaughter. Farmers, meanwhile, are price-takers selling interchangeable commodities on the Chicago Board of Trade. Using the chapter's framework of market structure, explain how this arrangement affects the distribution of value in the food supply chain. During 2020-2021, meatpacker margins surged while cattle ranchers saw little benefit from rising retail prices---what structural feature made this possible?
+
+3. The Farm Bill allocates roughly 76% of spending to nutrition programs (primarily SNAP), 11% to crop insurance, and only 5% to commodity programs. The chapter explains the bundling of farm subsidies with nutrition assistance as a political coalition between farm-state and urban legislators. Why can't each group pass its priorities separately? What would likely happen to farm subsidies if the coalition broke apart and farm-state legislators had to assemble a majority for commodity programs alone?
+
+4. The chapter describes a "cost-price squeeze" in which input prices (fertilizer, seed, equipment, land) tend to rise steadily while commodity prices fluctuate and are roughly flat in real terms over the long run. Explain how this persistent squeeze drives farm consolidation---specifically, why mid-size farms ($250,000-$999,999 in annual sales) are being squeezed out while both very small farms (supplemented by off-farm income) and very large operations (achieving scale economies) survive.
+
+5. In the poultry integrator model, companies like Tyson own the birds, supply the feed, and process the meat, while contract growers invest $500,000-$1 million in chicken houses and provide the labor. Growers are paid per pound of weight gain, with bonuses and penalties based on relative performance. The chapter states that "the grower bears the capital risk; the integrator controls the margins." Evaluate whether this arrangement represents a fair division of risk and reward, or whether the grower's sunk costs in specialized facilities create a hold-up problem that the integrator exploits.
+
+6. The Ogallala Aquifer underlies portions of eight Great Plains states and is being depleted faster than it recharges. Using the chapter's discussion of regional agricultural geography, identify the specific crops and livestock operations that depend on Ogallala irrigation (irrigated corn, cotton in the Texas Panhandle, cattle feedlots). What would be the economic consequences for the Great Plains if significant portions of the aquifer become uneconomical to pump within the next 20-30 years?
+
+7. John Deere commands roughly 60% of the US large agricultural equipment market and has built a digital ecosystem of sensors, software, GPS guidance, and data analytics. The "right to repair" movement targets Deere's software locks that prevent independent repair. Using economic concepts---monopoly power, network effects, switching costs, and the installed base of Deere equipment and dealer relationships---explain why farmers face high barriers to switching to competitors despite their complaints about repair restrictions and data ownership.
+
+### Data Exercises
+
+8. Using the USDA Economic Research Service's Farm Income and Wealth Statistics (https://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/), download annual net farm income and government payments data from 2000 to the present. Plot both on the same chart. Identify boom years (2012-2013, 2021-2022) and bust years (2009, 2015-2016). How do government payments behave during income downturns---do they act as an effective countercyclical stabilizer? Calculate government payments as a share of net farm income for each year.
+
+9. Using the USDA Census of Agriculture (https://www.nass.usda.gov/AgCensus/), compare the number of farms and average farm size (in acres) across the 2002, 2012, and 2022 censuses for one Corn Belt state (Iowa or Illinois) and one Great Plains state (Kansas or North Dakota). Has consolidation---fewer farms, larger average size---proceeded at different rates in these two regions? What differences in crop mix, land values, and farm structure might explain any divergence?
+
+10. Using the USDA Foreign Agricultural Service's Global Agricultural Trade System (https://apps.fas.usda.gov/gats/), download US agricultural export data by commodity and destination country for the most recent 5 years. Identify the three largest export commodities by value and the three largest destination countries. How concentrated are US agricultural exports by commodity and by trading partner? How vulnerable would US farmers be to a trade disruption with China or Mexico, given the export patterns you observe?
+
+### Deeper Investigation
+
+11. The chapter describes the meatpacking industry as controlled by four firms handling over 80% of beef slaughter, with meatpacker profit margins surging during 2020-2021 while cattle rancher prices stagnated. The Biden administration announced enforcement actions targeting meatpacking concentration. Using USDA Livestock, Dairy, and Poultry Outlook data, Agricultural Marketing Service cattle price reports, and academic research on meatpacking market power (particularly studies using the Lerner index or conduct parameter approaches), investigate whether increased concentration in beef packing has reduced the share of the retail beef dollar going to cattle ranchers over the past two decades. Present your findings graphically and evaluate what structural reforms---mandatory price reporting, captive supply limits, packer ownership restrictions, or new entrant incentives---could increase rancher bargaining power.
+
 ---
 
 *Chapter 16 | Agriculture and Food Production*

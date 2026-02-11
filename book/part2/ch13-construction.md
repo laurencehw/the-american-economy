@@ -407,3 +407,33 @@ The contrast with commercial construction is stark. D.R. Horton achieves product
 - **Glaeser, Edward L., and Joseph Gyourko.** "The Economic Implications of Housing Supply." *Journal of Economic Perspectives* 32, no. 1 (2018): 3-30. [How supply constraints in construction create housing affordability problems.]
 - **McKinsey Global Institute.** "Modular Construction: From Projects to Products." (2019). [The potential—and barriers—of off-site construction.]
 - **Bernstein, Shai, Emanuele Colonnelli, Davide Malacrino, and Tim McQuade.** "Who Creates New Firms When Local Opportunities Arise?" *Journal of Financial Economics* (2022). [On construction entrepreneurship and local opportunity.]
+
+## Exercises
+
+### Review Questions
+
+1. Construction is the only major sector where productivity has declined since 1970. The chapter cites Goolsbee and Syverson (2023) systematically testing and rejecting measurement error as an explanation. What three structural factors does the chapter identify as causes of this decline? Drawing on D'Amico, Glaeser, et al. (2024), explain which factor---regulation and fragmentation, de-skilling, or input shifts---the evidence suggests is most important, and why.
+
+2. D'Amico, Glaeser, et al. (2024) estimate that if homebuilding firms had manufacturing's size distribution, productivity could be 60% higher. Explain the mechanism: how does the fragmentation of 800,000 firms (most with fewer than 10 employees) reduce productivity? What specific barriers---land-use regulation, local building codes, bonding requirements, the project-based nature of construction---prevent consolidation in construction the way it has occurred in manufacturing?
+
+3. The chapter distinguishes three project delivery methods: Design-Bid-Build (DBB), Design-Build (DB), and Construction Manager at Risk (CMAR). For each, explain the allocation of risk between the project owner and the contractor, the advantages and disadvantages, and the type of project each method is best suited for. Why does the traditional DBB model tend to create adversarial relationships between owners and contractors?
+
+4. Construction employment fell 30% (from 7.7 million to 5.4 million) during the 2008-2009 crash and took a decade to recover. Why is construction more cyclical than other sectors? Trace the specific mechanisms: how do rising interest rates reduce housing starts, how does credit tightening prevent new project starts, and how do the 1-3 year lag effects mean that activity today reflects decisions made years ago?
+
+5. The chapter notes that approximately 30% of construction workers are foreign-born, rising to 50%+ in specific trades (drywall, roofing, concrete) in Texas and California, while the Associated General Contractors estimates the industry needs 500,000+ additional workers. How does immigration policy interact with the construction labor shortage? What would happen to construction costs and project timelines if immigration restrictions significantly reduced the available workforce?
+
+6. The CHIPS Act triggered massive semiconductor fab construction---Intel's $20 billion Ohio project, TSMC's $40 billion Arizona commitment---while the IRA spurred battery plant and EV factory construction across the Southeast. The chapter notes this boom is "straining labor markets" and "pulling workers from housing construction." Using the concept of opportunity cost, explain how industrial policy spending on manufacturing construction can exacerbate the housing affordability crisis.
+
+7. Katerra raised $2 billion to disrupt construction through modular and prefabricated building, then collapsed in 2021. The chapter identifies specific barriers to modular construction in the United States: building codes written for site-built construction, lender unfamiliarity, transportation constraints, and union resistance. Why have countries like Sweden and Japan succeeded with modular construction while the US has not? What would need to change for off-site construction to achieve McKinsey's estimated 50% timeline reduction and 20% cost savings?
+
+### Data Exercises
+
+8. Using the Census Bureau's Construction Spending survey (https://www.census.gov/construction/c30/c30index.html), download monthly construction spending data for the three major categories: residential, nonresidential (private), and public. Create a chart showing all three from 2018 to the present. Identify the manufacturing construction supercycle described in the chapter. Compare the timing of the manufacturing spending surge to the passage of the CHIPS Act and IRA (both August 2022). How quickly did legislative action translate into actual construction spending?
+
+9. Using the BLS Occupational Employment and Wage Statistics (https://www.bls.gov/oes/), compare median wages for electricians (SOC 47-2111), carpenters (SOC 47-2031), and construction laborers (SOC 47-2061) across three states: New York, Texas, and California. Calculate the ratio of electrician wages to laborer wages in each state. How do the interstate and inter-occupation wage differences relate to the chapter's discussion of union density (high in New York, low in Texas) and the 20-30% union wage premium?
+
+10. Using the FRED series for New Residential Construction (Housing Starts, series HOUST) and the 30-Year Fixed Rate Mortgage Average (MORTGAGE30US), plot both from 2018 to the present on a dual-axis chart. How closely do housing starts respond to mortgage rate changes? Estimate the lag (in months) between a rate increase and a decline in starts. Does this support the chapter's claim that "residential construction is directly tied to mortgage rates"?
+
+### Deeper Investigation
+
+11. The chapter argues that land-use regulation is the dominant constraint on residential construction and a major driver of the construction productivity puzzle. Select two metropolitan areas---one with restrictive zoning (e.g., San Francisco or Boston) and one with permissive zoning (e.g., Houston or Dallas-Fort Worth)---and compare their housing construction rates (permits per capita), median home prices, average permitting timelines, and construction employment growth over the past two decades. Use the Wharton Residential Land Use Regulatory Index and local permitting data to quantify regulatory burden. Do your findings support the chapter's claim that "housing construction in high-demand coastal cities is a fraction of what market prices would suggest is needed"? What specific regulatory reforms would be most effective at increasing housing supply?

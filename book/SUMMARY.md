@@ -8,6 +8,7 @@
 * [1. The American Economy in Numbers](part1/ch01-economy-in-numbers.md)
 * [2. How It All Fits Together](part1/ch02-how-it-fits.md)
 * [3. The Geography of Production](part1/ch03-geography.md)
+* [Interlude: Who Benefits — Distribution and Inequality](part1/interlude-inequality.md)
 
 ## Part II: The Sectors
 

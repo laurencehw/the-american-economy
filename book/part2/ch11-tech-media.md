@@ -388,3 +388,33 @@ The company's challenges remain significant. Content costs continue rising. Comp
 - United States v. Google LLC, Case No. 1:20-cv-03010 (D.D.C. 2024).
 - Epic Games, Inc. v. Apple Inc., Case No. 4:20-cv-05640 (N.D. Cal. 2021).
 - Federal Trade Commission v. Amazon.com, Inc., Case No. 2:23-cv-01495 (W.D. Wash. 2023).
+
+## Exercises
+
+### Review Questions
+
+1. The chapter notes that Big Tech's five largest companies employ fewer than 2 million workers but are worth over $10 trillion---roughly 25% of the entire S&P 500. What structural features of technology business models (advertising, cloud infrastructure, platform fees, ecosystem lock-in) explain how these firms generate enormous market value with relatively few employees? How does this contrast with the retail sector discussed in Chapter 10, where Walmart alone employs 2.1 million people?
+
+2. Google and Meta together capture roughly 50% of all digital advertising spending in the United States---over $150 billion annually. Explain the key differences between Google's search advertising model (pay-per-click keyword auctions where legal terms can cost $50+ per click) and Meta's social media advertising model (targeted by demographics, interests, and "lookalike audiences" from detailed user data). Why might a personal injury law firm choose Google while a direct-to-consumer clothing brand might choose Meta?
+
+3. The DOJ found that Google illegally maintained its search monopoly partly through approximately $20 billion in annual payments to Apple to be the default search engine on iPhones and Safari. Using the concept of "default effects" in consumer behavior, explain why being the default search engine is so valuable that Google would pay this amount. What does this imply about consumer willingness to switch away from preinstalled options?
+
+4. Section 230 of the Communications Decency Act provides that platforms cannot be treated as publishers of user-generated content. The chapter notes that this "twenty-six-word provision enables the modern internet." Explain how Section 230 makes social media, search engines, and review sites legally viable. Then explain why both conservatives (who argue platforms suppress right-wing viewpoints) and progressives (who argue platforms fail to moderate harmful content) have criticized the law, albeit for different reasons.
+
+5. The newspaper industry has lost over 75% of its employment since 2000, falling from 455,000 workers to under 100,000. The chapter identifies classified advertising's migration to Craigslist and display advertising's migration to Google and Facebook as the causes. Explain the economic mechanism by which digital platforms captured this revenue. Why couldn't newspapers successfully transition their advertising business online?
+
+6. The streaming video market has evolved from a "cord-cutting" promise of lower costs to a situation where households subscribing to multiple services approach or exceed cable costs. The industry has responded with password-sharing crackdowns, ad-supported tiers, and bundling (Disney offers Disney+, Hulu, and ESPN+ together). Explain how this outcome is consistent with economic theory about bundling, and evaluate whether the streaming industry is effectively recreating the cable bundle it promised to replace.
+
+7. The wireless industry consolidated from four national carriers to three when T-Mobile acquired Sprint in 2020, approved over DOJ objections. T-Mobile has since become the market share leader at 35%, narrowly ahead of Verizon (34%) and AT&T (27%). Using the chapter's discussion, evaluate whether this consolidation has led to the reduced competition that merger opponents feared or the network investment gains that proponents promised. Has T-Mobile's behavior been more consistent with the predictions of critics or supporters of the merger?
+
+### Data Exercises
+
+8. Using FRED (Federal Reserve Economic Data, https://fred.stlouisfed.org/), search for the GDP contribution of NAICS 51 (Information sector) and compare its growth rate over the past 10 years to overall GDP growth. Create a chart showing information sector GDP as a share of total GDP over time. Does this official measure support the chapter's claim that NAICS classifications "dramatically understate" the technology sector's economic footprint? What companies that are functionally technology firms (e.g., Amazon classified as retail) are excluded from NAICS 51?
+
+9. Using the FCC's Communications Marketplace Report (available at https://www.fcc.gov/reports-research), find the most recent data on fixed broadband deployment by speed tier and geographic area (urban vs. rural). What percentage of rural Americans lack access to broadband at 100/20 Mbps? How does this "digital divide" relate to the chapter's discussion of Comcast and Charter controlling more than half the wireline broadband market and concentrating investment in areas "where the economics are favorable"?
+
+10. Visit the SEC EDGAR database and download the most recent 10-K filings for Alphabet (Google) and Meta Platforms. Calculate what percentage of each company's total revenue comes from advertising. Compare these percentages to the figures cited in the chapter (78% for Alphabet, virtually 100% for Meta). Has advertising concentration increased or decreased? What non-advertising revenue sources have grown, and do they meaningfully diversify these companies' business models?
+
+### Deeper Investigation
+
+11. The chapter describes a "local news crisis" in which over 130 newspapers closed between 2020 and 2024, creating "information deserts" where research has documented lower voter turnout, less competitive local elections, and higher municipal borrowing costs. Select a state and use data from the UNC Hussman School of Journalism's "news desert" database (https://www.usnewsdeserts.com/) to map which counties have lost newspapers since 2004. Then, using municipal bond data from the MSRB's EMMA system (https://emma.msrb.org/) and voter turnout data from your state's election board, test whether the loss of local news correlates with measurable changes in municipal borrowing costs or civic participation. What policy interventions---nonprofit newsrooms, public subsidies, philanthropic models like The Texas Tribune---might address the information gap?

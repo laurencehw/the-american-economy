@@ -451,3 +451,33 @@ Amazon's logistics ambitions extend beyond its own packages. The company offers 
 - Clifford Winston, "U.S. Industry Adjustment to Economic Deregulation," *Journal of Economic Perspectives* (1998)---Analysis of deregulation effects across industries
 - Holmes and Singer, "The Logistics Revolution and Transportation System Efficiency" (2018)---Academic analysis of logistics transformation
 - David Hummels, "Transportation Costs and International Trade in the Second Era of Globalization," *Journal of Economic Perspectives* (2007)---How falling transport costs enabled globalization
+
+## Exercises
+
+### Review Questions
+
+1. The chapter states that transportation is a "derived demand"---goods move because someone wants them somewhere else. Explain what this means and how it makes the transportation sector acutely cyclical. Use the 2021-2022 pandemic boom (when consumers shifted spending to goods and freight rates soared) and the subsequent 2023 softening (when inventory normalized and rates collapsed) to illustrate this relationship.
+
+2. Trucking has over 900,000 registered motor carriers while freight rail operates as a geographic duopoly (Union Pacific and BNSF in the West; CSX and Norfolk Southern in the East). What structural factors---entry barriers, capital requirements, network economics---explain this dramatic difference in market concentration? How does the difference affect pricing power and profit margins in each mode?
+
+3. The Staggers Rail Act of 1980 allowed railroads to set market-based rates, enter contracts with shippers, and abandon unprofitable lines. The chapter states this "saved an industry on the brink of collapse." Explain the economic logic: how did these specific deregulatory changes improve the railroads' financial position? What trade-off did deregulation create for shippers located on routes served by only one railroad?
+
+4. Precision Scheduled Railroading (PSR) has delivered "stunning financial results"---operating ratios fell from the 80s to the low 60s---while the railroad workforce shrank by about 30% since 2011. Yet critics argue PSR "degraded service reliability and cut safety margins," and the Surface Transportation Board held hearings on declining rail service. Explain the tension between financial optimization and service quality in a duopoly market where many shippers have access to only one railroad.
+
+5. The Jones Act requires goods shipped between US ports to travel on American-built, American-owned, American-crewed ships. American-built ships cost three to four times as much as foreign-built equivalents, and the law costs Puerto Rico an estimated $1.4 billion annually. What economic concept (protectionism, infant industry, regulatory capture) best explains this cost? Using the chapter's discussion of the law's defenders---domestic shipbuilders, maritime unions, and national security hawks---explain why the law persists despite its well-documented inefficiencies.
+
+6. During the 2021-2022 supply chain crisis, the cost to ship a 40-foot container from Shanghai to Los Angeles rose from roughly $1,500 to over $15,000---a 10x increase. Trace the transmission mechanism described in the chapter: how did this shipping price increase cascade through the logistics chain (port congestion, trucking rates, warehouse capacity) and eventually show up in the Producer Price Index and consumer prices for goods like furniture, electronics, and food?
+
+7. Amazon Logistics now handles about 27% of US parcel volume, surpassing both UPS (21%) and FedEx (15%). The chapter notes that Amazon has built its own air cargo fleet (90+ aircraft), hundreds of sortation centers, and a network of Delivery Service Partners. How has Amazon's vertical integration into logistics changed the competitive dynamics for UPS and FedEx? What strategic responses have these incumbents adopted?
+
+### Data Exercises
+
+8. Using the Bureau of Transportation Statistics Freight Analysis Framework (https://www.bts.gov/faf), download the most recent data on freight flows by mode (truck, rail, water, air, pipeline) measured in both ton-miles and value. Calculate each mode's share of ton-miles versus its share of value. Which mode shows the largest gap between these two measures? What does this gap reveal about the types of goods each mode carries (bulk commodities versus high-value, time-sensitive products)?
+
+9. Using FRED, download the Producer Price Index for General Freight Trucking, Long-Distance (series ID: PCU484121484121). Plot this index from 2019 to the present. Identify the pandemic freight boom and subsequent "freight recession" discussed in the chapter. How closely does the timing of rate changes correspond to the supply chain crisis narrative? What was the approximate peak-to-trough decline in trucking rates after the boom?
+
+10. Visit the American Association of Port Authorities website (https://www.aapa-ports.org/) or individual port authority websites and compile container throughput (in TEUs) for the top 5 US ports (Los Angeles, Long Beach, New York/New Jersey, Savannah, Houston) for 2019, 2021, and the most recent year available. Has the shift away from the San Pedro Bay ports (LA/Long Beach) toward East Coast and Gulf ports---particularly Savannah---that the chapter describes as a response to the 2021-2022 congestion crisis continued?
+
+### Deeper Investigation
+
+11. The chapter identifies Chicago as "the crucial interchange point for transcontinental freight," where all major Class I railroads either serve directly or connect. Research the history and current state of freight rail operations through Chicago, including the CREATE (Chicago Region Environmental and Transportation Efficiency) program launched in 2003. What are the estimated economic costs of rail congestion in Chicago (measured in delay hours, fuel waste, and supply chain inefficiency)? How would improving rail throughput in the Chicago region affect national freight efficiency? What political, financial, and engineering obstacles have slowed infrastructure investment, and what progress has the CREATE program made after two decades?

@@ -466,3 +466,33 @@ New York City operates the largest municipal government in the United States, wi
 *Chapter 4 | Government at All Levels*
 *The American Economy: A Structural Geography*
 *Draft v1 --- January 2026*
+
+## Exercises
+
+### Review Questions
+
+1. The United States has 89,500 governments---more than any other developed nation. What are the consequences of this fragmentation for accountability, efficiency, and citizen experience? Give a specific example of how overlapping federal, state, and local authority creates confusion in a policy area discussed in the chapter.
+
+2. Mandatory spending (Social Security, Medicare, Medicaid, interest on debt) constitutes roughly 70% of the federal budget and grows automatically, while discretionary spending requires annual appropriations. Explain why this structure makes it increasingly difficult for Congress to fund priorities like infrastructure, education, and R&D. What would have to change for discretionary spending to grow?
+
+3. The federal civilian workforce has been roughly flat at 2.2 million for 50 years, even as federal spending has grown enormously. The chapter attributes this to the rise of the "contractor state." What are the advantages of delivering government services through contractors rather than federal employees? What accountability problems does contracting create?
+
+4. The F-35 fighter program involves 1,500+ suppliers across 46 states---a distribution the chapter describes as "deliberately structured to create Congressional support." Explain how this geographic dispersion functions as a political strategy. What are the consequences for cost control and program management?
+
+5. California's state government relies heavily on income tax (especially capital gains), while local governments nationwide depend on property taxes capped in California by Proposition 13. What are the consequences of these different revenue structures for budget stability? Why does California experience more revenue volatility than states that rely on sales or property taxes?
+
+6. Local government employment is dominated by K-12 education, which accounts for 55% of all local government workers. If the school-age population in a community declines due to demographic shifts, what fiscal pressures does this create? Why might local governments struggle to reduce education spending even as enrollment falls?
+
+7. The chapter presents the debt sustainability framework: if the interest rate on government debt (r) exceeds the rate of economic growth (g), primary surpluses are required to stabilize debt-to-GDP. With interest costs now exceeding $700 billion annually---larger than defense spending---and rising interest rates since 2022 shifting the r-g calculus unfavorably, what policy options exist to restore fiscal sustainability?
+
+### Data Exercises
+
+8. Go to USASpending.gov and select "Spending Explorer." Choose a state of your choice and examine federal spending by category (contracts, grants, direct payments, loans). What is the largest category of federal spending in that state? Who are the top five federal contractors? How does the composition compare to the national pattern described in the chapter?
+
+9. Using FRED (fred.stlouisfed.org), pull the series "USGOVT" (All Employees: Government) and compare it with "MANEMP" (All Employees: Manufacturing) from 1990 to the present. In what year did government employment surpass manufacturing employment? What does this crossover tell you about the changing structure of the American economy?
+
+10. The Congressional Budget Office publishes annual budget projections at cbo.gov. Find the most recent "Budget and Economic Outlook" report. What does CBO project for mandatory spending, discretionary spending, and interest costs as shares of GDP over the next 10 years? How does the projected growth in mandatory spending compare to projected revenue growth?
+
+### Deeper Investigation
+
+11. Select a state or major city facing significant unfunded pension liabilities (examples include Illinois, New Jersey, California, Chicago, or New York City). Research the size of the unfunded liability, the annual required pension contribution as a share of the budget, and the assumptions underlying the pension fund's projected returns. What policy options exist---benefit reductions, contribution increases, investment changes, legal constraints? Assess whether the pension obligations are sustainable and what trade-offs any reform would entail.
