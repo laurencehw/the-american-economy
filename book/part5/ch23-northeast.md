@@ -3,7 +3,7 @@
 The Acela train leaves Penn Station in New York at 6:00 AM, and by 8:30 it has deposited passengers at Union Station in Washington. In between, the train passes through Newark, Philadelphia, Wilmington, and Baltimore---a continuous metropolitan fabric housing 50 million people generating over $4 trillion in annual output. If the Northeast Corridor were a country, it would rank among the world's five largest economies.
 
 <figure>
-<img src="../_figures/ch23/ch23_corridor_map.png" alt="Northeast Corridor Map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch23/ch23_corridor_map.png" alt="Map of the Northeast Corridor from Boston to Washington DC showing major metro areas" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 23.0: The Northeast Corridor mega-region. Four major metros---Boston, New York, Philadelphia, and Washington---form a continuous economic zone generating over $4 trillion annually, linked by the Acela rail corridor. Source: Author analysis</figcaption>
 </figure>
 
@@ -27,14 +27,14 @@ The six states that comprise the corridor's core---Massachusetts, Connecticut, N
 *Source: Bureau of Economic Analysis, Regional GDP; Bureau of Labor Statistics, 2024*
 
 <figure>
-<img src="../_figures/ch23/ch23_northeast_metros.png" alt="Northeast Corridor Metro Economies" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch23/ch23_northeast_metros.png" alt="GDP of Northeast Corridor metro areas with New York dominating at $2.3 trillion" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 23.1: GDP of Northeast Corridor metros (2023). New York dominates at $2.3 trillion, but the combined corridor economy exceeds $4 trillion. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/regional-map.html" target="_blank">View interactive map of top 20 metros</a>. Source: BEA</figcaption>
 </figure>
 
 Together, the corridor accounts for roughly 17% of U.S. GDP on less than 2% of its land area. This concentration of economic output in such a small geographic footprint is unmatched anywhere in the world outside of city-states like Singapore. The density creates both extraordinary productivity and extraordinary vulnerability: the corridor's economic output depends on infrastructure that was largely built a century ago.
 
 <figure>
-<img src="../_figures/regional/regional_gdp_small_multiples.png" alt="Regional GDP growth comparison" style="width: 100%; max-width: 800px;">
+<img src="../_figures/regional/regional_gdp_small_multiples.png" alt="Regional GDP growth trajectories indexed to 2010 showing Sunbelt outpacing Northeast" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 23.2: Regional economic growth trajectories (indexed to 2010). The Sunbelt and West have grown faster than the Northeast and Midwest over the past decade, though the COVID recession hit all regions. The dashed line shows the national average. Source: BEA Regional GDP</figcaption>
 </figure>
 

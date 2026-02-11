@@ -15,7 +15,7 @@ The Bureau of Economic Analysis classifies the information sector as NAICS 51, e
 A more revealing metric is market capitalization. As of late 2024, the five largest American companies by market value were all technology firms: Apple ($3.0 trillion), Microsoft ($2.8 trillion), Alphabet ($1.8 trillion), Amazon ($1.6 trillion), and Meta ($900 billion). Together, these five companies—sometimes called "Big Tech" or the "Magnificent Seven" (adding Nvidia and Tesla)—account for roughly 25% of the S&P 500's total value. No other sector comes close to this concentration of market power in so few hands.
 
 <figure>
-<img src="../_figures/ch11/ch11_big_tech_market_cap.png" alt="Big Tech market capitalization" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch11/ch11_big_tech_market_cap.png" alt="Big Tech market cap: Apple $3T, Microsoft $2.8T, totaling 25% of S&P 500" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 11.1: Big Tech market capitalization, 2024. Apple, Microsoft, and the rest of the "Magnificent Seven" account for roughly 25% of S&P 500 market value. Source: Company data</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Google's search advertising works on a pay-per-click model: advertisers bid on k
 Meta's advertising model relies on the detailed user data collected through Facebook and Instagram. Advertisers can target users by demographics, interests, behaviors, and "lookalike audiences" similar to existing customers. Meta generated $132 billion in advertising revenue in 2023, virtually all of its total revenue.
 
 <figure>
-<img src="../_figures/ch11/ch11_digital_ad_revenue.png" alt="Digital advertising revenue by platform" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch11/ch11_digital_ad_revenue.png" alt="Digital ad revenue: Google and Meta capture 50% of $300 billion U.S. market" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 11.2: Digital advertising revenue by platform. Google and Meta together capture roughly 50% of the $300+ billion market. Source: eMarketer (2023)</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Streaming video represents the clearest example of subscription-based media. Net
 *Source: Company earnings reports and SEC filings, 2024*
 
 <figure>
-<img src="../_figures/ch11/ch11_streaming_subscribers.png" alt="Streaming subscribers by service" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch11/ch11_streaming_subscribers.png" alt="Streaming subscribers: Netflix 302M, Amazon Prime 230M, Disney+ and Max following" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 11.3: Streaming video subscribers by service. Netflix leads globally, but Amazon Prime Video's bundle gives it comparable reach. Source: Company data (2024)</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Cloud computing is capital-intensive—data centers cost billions to build—but
 Telecommunications remains a capital-intensive network business. Wireless carriers invest tens of billions annually in spectrum licenses, cell towers, and network equipment. The business model is straightforward: charge monthly fees for voice, data, and increasingly, bundled services like streaming video.
 
 <figure>
-<img src="../_figures/ch11/ch11_telecom_market_share.png" alt="Telecom market share" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch11/ch11_telecom_market_share.png" alt="Wireless carrier share: T-Mobile 35%, Verizon 34%, AT&T 27% post-Sprint merger" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 11.4: Wireless carrier market share. T-Mobile narrowly leads after its Sprint acquisition. Source: Company data (2024)</figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ The "local news crisis" has created information deserts in many communities. Cou
 The technology industry is extraordinarily concentrated geographically. Five metropolitan areas—San Francisco-San Jose, Seattle, New York, Boston, and Austin—account for roughly half of all software development employment.
 
 <figure>
-<img src="../_figures/ch11/ch11_tech_hubs_map.png" alt="Tech hubs map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch11/ch11_tech_hubs_map.png" alt="Map of U.S. tech centers: Silicon Valley, Seattle, Austin, Boston, and New York" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 11.5: Major technology employment hubs. Silicon Valley dominates, but Seattle, Austin, and Boston have grown as secondary centers. Source: BLS QCEW</figcaption>
 </figure>
 
@@ -249,6 +249,78 @@ Telecommunications lobbying is dominated by industry-specific groups:
 Media lobbying groups include the **National Association of Broadcasters (NAB)**, the **Motion Picture Association (MPA)**, and the **Recording Industry Association of America (RIAA)**.
 
 Technology lobbying has become controversial as public attitudes toward Big Tech have soured. Companies that once enjoyed bipartisan goodwill now face skepticism from both parties—Democrats concerned about market power and misinformation, Republicans concerned about perceived anti-conservative bias. Yet lobbying spending continues to grow as regulatory threats intensify.
+
+## Platform Economics and Network Effects
+
+The dominance of Big Tech cannot be understood without grasping platform economics—the set of dynamics that allow a handful of companies to intermediate vast portions of economic activity. Platforms are not merely large companies; they are market structures with self-reinforcing properties that distinguish them from traditional firms.
+
+### Network Effects
+
+{% hint style="info" %}
+**Network Effects**
+
+A network effect exists when a product or service becomes more valuable as more people use it. The telephone is the classic example: a single telephone is useless, but a telephone connected to a million others is indispensable. Network effects create powerful feedback loops—growth begets growth—and explain why digital markets tend toward concentration rather than fragmentation.
+{% endhint %}
+
+Network effects come in two varieties, each with distinct economic implications.
+
+**Direct network effects** occur when each additional user directly increases value for existing users. Social media platforms exhibit this most clearly: Facebook is valuable because your friends are on it, and your presence makes it more valuable for your friends. Messaging apps (iMessage, WhatsApp), communication platforms (Zoom), and payment networks (Venmo) all depend on direct network effects. The strength of direct network effects varies—a social network with 10 million users is not merely ten times more valuable than one with 1 million, because users interact with a limited subset of the total network—but the competitive advantage is real.
+
+**Indirect network effects** operate through a complementary market. Apple's iOS is valuable to consumers because developers build apps for it; developers build apps for iOS because consumers use it. This two-sided dynamic creates a virtuous cycle that is extremely difficult for competitors to replicate. Microsoft's Windows dominated personal computing for decades through indirect network effects: businesses wrote software for Windows because employees used it, and employees used it because businesses had software for it. Android and iOS now enjoy the same self-reinforcing logic in mobile, which is why no third mobile operating system has gained traction despite repeated attempts (Windows Phone, BlackBerry 10, Firefox OS).
+
+### Multi-Sided Platforms
+
+The most consequential business model of the twenty-first century is the multi-sided platform—a company that creates value by connecting two or more distinct user groups who need each other but cannot efficiently connect on their own.
+
+**Amazon Marketplace** connects buyers with over 2 million active third-party sellers, taking fees averaging 15–20% of each transaction plus fulfillment charges. Amazon subsidizes the buyer side through Prime's fast shipping and easy returns, making the platform irresistible to consumers, which in turn forces sellers to be present on the platform regardless of fee levels. Over 60% of Amazon's retail unit sales now come from third-party sellers.
+
+**Uber** connects riders with drivers. Uber initially subsidized riders with below-cost fares to build the network density required for short wait times, which attracted more drivers, which further reduced wait times. The company lost billions during this growth phase—a rational strategy if the resulting network effects create durable market power.
+
+**Airbnb** connects travelers with hosts, taking a service fee from both sides (typically 3% from hosts, under 15% from guests). The platform's value lies in aggregating supply that would otherwise be invisible: a spare bedroom in Lisbon has no market without a global discovery platform.
+
+The common pattern is subsidize one side to attract the other. Credit card companies pay rewards to cardholders (subsidizing consumers) so that merchants must accept the card (the side that pays). Google gives away Android for free to phone manufacturers (subsidizing the device side) to control the search and advertising pipeline (the side that pays).
+
+### Platform Competition Dynamics
+
+Platform markets exhibit consistent structural features that push toward concentration.
+
+**Winner-take-most outcomes.** In markets with strong network effects, the leading platform captures a disproportionate share of value. Google holds roughly 90% of search. Meta's platforms account for the majority of social media engagement time. These are not 60/40 markets; they are 90/10 markets. Second-place platforms survive only by occupying distinct niches (LinkedIn for professional networking, Pinterest for visual discovery) rather than competing head-to-head.
+
+**Switching costs and lock-in.** Users accumulate data, social connections, purchase histories, and learned behaviors on platforms that do not transfer to competitors. An iPhone user with years of iCloud photos, a library of purchased apps, and an Apple Watch is unlikely to switch to Android regardless of price. Enterprise customers running workloads on AWS face significant migration costs to move to Azure or Google Cloud. These switching costs are not incidental—they are deliberately engineered into platform design.
+
+**Data moats.** Platforms improve through usage data. Google's search algorithm improves with every query. Uber's routing and pricing algorithms improve with every ride. New entrants face a cold-start problem: without users they cannot generate the data needed to match incumbents' service quality, and without matching service quality they cannot attract users.
+
+**Multihoming costs.** When users or suppliers participate in multiple platforms simultaneously—"multihoming"—it weakens any single platform's market power. Restaurants listing on both DoorDash and Uber Eats, or sellers listing on both Amazon and eBay, can comparison-shop across platforms. Platforms actively discourage multihoming through exclusive contracts, bundled services, and algorithmic penalties for suppliers who list elsewhere.
+
+These dynamics explain why platform markets tend toward natural monopoly or tight oligopoly. The policy question is whether this concentration reflects genuine efficiency or market power that harms consumers and suppliers.
+
+### The Gig Economy as Platform Economics
+
+The gig economy is platform economics applied to labor markets. Companies including Uber, Lyft, DoorDash, and Instacart use platform architecture to connect consumers with workers who perform tasks—driving, delivering food, shopping for groceries—on demand.
+
+Approximately 7 million Americans work in the gig economy as a primary or significant income source, a figure that has grown steadily since the mid-2010s and now represents a meaningful share of the labor force. Tens of millions more have performed gig work at least once.
+
+{% hint style="info" %}
+**The Classification Battle**
+
+The central regulatory question in the gig economy is whether workers are employees or independent contractors. Employees receive minimum wage protections, overtime pay, unemployment insurance, workers' compensation, and employer-provided benefits. Independent contractors receive none of these but retain flexibility over when and how much to work. Gig platforms classify workers as independent contractors, arguing that flexibility is the product's core value proposition. Labor advocates counter that platforms exercise sufficient control over work conditions—setting prices, rating workers, deactivating accounts—to make the "independent" label a legal fiction that shifts costs from companies to workers and taxpayers.
+{% endhint %}
+
+Platform architecture determines worker conditions in ways that blur the line between marketplace and employer. Uber sets fares, Uber's algorithm assigns rides, and Uber can deactivate drivers whose ratings fall below a threshold. DoorDash penalizes drivers who decline too many deliveries. These platforms argue they merely facilitate connections; critics argue the algorithmic management constitutes de facto employment.
+
+California's AB5 (2020) attempted to reclassify gig workers as employees, but Proposition 22—backed by $200 million in spending from Uber, Lyft, and DoorDash—created a carve-out for app-based transportation and delivery workers. Other states have considered similar legislation, but the federal framework remains unsettled. The Department of Labor issued a rule in 2024 tightening the criteria for independent contractor classification, though its enforcement impact remains unclear.
+
+The gig economy's financial results tell their own story. Uber did not report a full-year operating profit until 2023, a decade after launch. Lyft has never been consistently profitable. DoorDash swings between narrow profits and losses. The platforms' business models depend on maintaining contractor classification—reclassifying workers as employees would increase labor costs by an estimated 20–30%, erasing already-thin margins.
+
+### Platform Regulation
+
+The United States and the European Union have taken divergent approaches to regulating platform power.
+
+The EU's **Digital Markets Act (DMA)**, which took effect in 2023, represents the most comprehensive platform regulation in any major economy. The DMA designates large platforms as "gatekeepers" based on revenue, market capitalization, and user thresholds, then imposes specific obligations: gatekeepers must allow third-party app stores (targeting Apple), cannot self-preference their own services in search results (targeting Google), must enable interoperability with messaging services (targeting Meta's WhatsApp), and must allow users to uninstall pre-loaded apps. Violations carry fines of up to 10% of global revenue.
+
+The U.S. approach, by contrast, relies primarily on antitrust enforcement through case-by-case litigation—the Google search case, the Amazon marketplace case, the failed Meta divestiture case. Congress has considered but not passed legislation comparable to the DMA. The American Open App Markets Act and the Platform Competition and Opportunity Act both stalled despite bipartisan support. The result is that European consumers now have rights—sideloading apps, choosing default browsers, accessing interoperable messaging—that American consumers do not.
+
+The regulatory divergence reflects different legal traditions: the EU favors ex ante rules that define prohibited conduct in advance, while the U.S. favors ex post enforcement that punishes anticompetitive behavior after the fact. Both approaches have weaknesses. The DMA's prescriptive rules risk becoming outdated as technology evolves. The U.S. litigation approach moves too slowly—the Google search case took four years to reach a liability finding, during which Google's dominance only deepened.
 
 ## Recent Trends
 

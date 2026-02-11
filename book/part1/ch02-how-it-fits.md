@@ -29,7 +29,7 @@ Consider a simplified example:
 | **Total Input** | 100 | 300 | 300 | 460 | - |
 
 <figure>
-<img src="../_figures/ch02/ch02_io_simplified_flow.png" alt="Simplified input-output flow" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch02/ch02_io_simplified_flow.png" alt="Diagram showing how industries purchase inputs from each other through supply chains" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 2.1: A simplified representation of inter-industry flows. Every sector buys from and sells to other sectors; the economy is a network, not isolated silos. Source: BEA I-O Accounts</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Money circulates through the economy in predictable patterns. The simplest model
 Money flows in a circle: businesses pay wages and profits to households; households spend on goods and services from businesses. GDP equals total spending equals total income---different ways of measuring the same circular flow.
 
 <figure>
-<img src="../_figures/ch02/ch02_circular_flow.png" alt="Circular flow of the economy" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch02/ch02_circular_flow.png" alt="Circular flow diagram showing money flowing between households, businesses, government, and financial markets" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 2.2: The circular flow of income and spending. Money flows from businesses to households as wages and profits, and from households to businesses as consumer spending. Government, finance, and foreign trade add complexity. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/circular-flow.html" target="_blank">View interactive version</a>. Source: Author illustration</figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ American households spend about $18 trillion annually. The breakdown reveals pri
 | Other | 12% | $2.2 trillion |
 
 <figure>
-<img src="../_figures/ch02/ch02_consumer_expenditure_treemap.png" alt="Consumer expenditure breakdown" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch02/ch02_consumer_expenditure_treemap.png" alt="Treemap of U.S. consumer spending with housing, transportation, and food as largest categories" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 2.3: Where household spending goes. Housing dominates, followed by transportation and food. Source: BLS Consumer Expenditure Survey (2023)</figcaption>
 </figure>
 
@@ -335,7 +335,7 @@ The total impact---direct plus indirect plus induced---is the **multiplier**. Fo
 The oil price collapse of 2014-2016 provides a textbook example of shock propagation through I-O linkages.
 
 <figure>
-<img src="../_figures/shock_analysis/oil_price_collapse.png" alt="Oil price collapse" style="width: 100%; max-width: 800px;">
+<img src="../_figures/shock_analysis/oil_price_collapse.png" alt="Brent crude oil price collapsing from $115 to $28 per barrel between June 2014 and January 2016" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 2.4: Brent crude oil fell from $115/barrel in June 2014 to $28/barrel in January 2016---a 75% collapse. Source: FRED</figcaption>
 </figure>
 
@@ -355,7 +355,7 @@ The oil price collapse of 2014-2016 provides a textbook example of shock propaga
 **Third-round effects (regional economies)**:
 
 <figure>
-<img src="../_figures/shock_analysis/oil_shock_unemployment.png" alt="Energy state unemployment" style="width: 100%; max-width: 800px;">
+<img src="../_figures/shock_analysis/oil_shock_unemployment.png" alt="Unemployment rates spiking in oil-producing states during the 2014-2016 price collapse" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 2.5: Texas, North Dakota, and Oklahoma unemployment rose sharply during the oil collapse while the national rate continued falling. Source: BLS via FRED</figcaption>
 </figure>
 

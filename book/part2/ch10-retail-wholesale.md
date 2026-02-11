@@ -40,7 +40,7 @@ The trajectory of American retail is a history of disruption, each wave driven b
 6. **E-commerce (1995–):** The digital iteration of mail order, turbocharged by search costs approaching zero. Why drive to three stores when you can compare prices in seconds?
 
 <figure>
-<img src="../_figures/ch10/ch10_format_evolution.png" alt="Retail format evolution" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch10/ch10_format_evolution.png" alt="Timeline of retail evolution from general stores through department stores, big box, to e-commerce" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 10.3: The wheel of retailing: format evolution over a century. Each wave entered as low-cost disruptor before maturing and becoming vulnerable to the next innovation. Source: Author compilation</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 *Source: Company 10-K filings, FY 2024*
 
 <figure>
-<img src="../_figures/ch10/ch10_top_retailers.png" alt="Top retailers by revenue" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch10/ch10_top_retailers.png" alt="Top U.S. retailers: Walmart at $430B, followed by Amazon, Costco, and Kroger" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 10.1: Top 10 retailers by US revenue. Walmart dominates, with nearly twice Amazon's retail revenue. Source: Company data (2024)</figcaption>
 </figure>
 
@@ -230,7 +230,7 @@ NADA deserves special mention as one of the most effective state-level lobbies i
 ### 1. The E-commerce Plateau
 
 <figure>
-<img src="../_figures/ch10/ch10_ecommerce_share.png" alt="E-commerce share of retail" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch10/ch10_ecommerce_share.png" alt="E-commerce growing from 5% to 16% of total retail sales between 2012 and 2024" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 10.2: E-commerce as a share of retail sales, 2010-2024. Growth has plateaued near 16%, far below predictions of physical retail's demise. Source: Census Bureau</figcaption>
 </figure>
 

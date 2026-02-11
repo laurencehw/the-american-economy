@@ -46,12 +46,12 @@ The healthcare sector divides into several distinct segments, each with its own 
 Source: CMS National Health Expenditure Accounts
 
 <figure>
-<img src="../_figures/ch06/ch06_spending_treemap.png" alt="Healthcare spending by category" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch06/ch06_spending_treemap.png" alt="Treemap of $4.5 trillion healthcare spending: hospitals, physicians, drugs, and administration" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 6.1: Healthcare spending by category. Hospital care dominates, followed by physician services and prescription drugs. Source: CMS NHE (2022)</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch06/ch06_spending_over_time.png" alt="Healthcare spending over time" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch06/ch06_spending_over_time.png" alt="U.S. healthcare spending rising from 5% of GDP in 1960 to nearly 18% by 2023" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 6.2: Healthcare spending as share of GDP, 1960-2023. Healthcare has grown from 5% to nearly 18% of the economy over six decades. Source: CMS NHE</figcaption>
 </figure>
 
@@ -94,14 +94,14 @@ Patients pay directly for some services---deductibles, copays, services not cove
 **5. Other (21%)**
 
 <figure>
-<img src="../_figures/ch06/ch06_payer_mix.png" alt="Healthcare payer mix" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch06/ch06_payer_mix.png" alt="Healthcare payment sources: private insurance, Medicare, and Medicaid each covering 20-30%" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 6.3: Who pays for healthcare. Private insurance, Medicare, and Medicaid each cover roughly 20-30% of spending, with out-of-pocket and other sources making up the rest. Source: CMS NHE (2022)</figcaption>
 </figure>
 
 Other payers include the Veterans Administration, workers' compensation, charitable care, and other government programs.
 
 <figure>
-<img src="../_figures/ch06/ch06_payment_flow.png" alt="Healthcare payment flows" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch06/ch06_payment_flow.png" alt="Diagram tracing healthcare dollars from employers and government through insurers to providers" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 6.4: Healthcare payment flows: who pays whom. Money flows from employers and households through insurers (private, Medicare, Medicaid) to providers (hospitals, physicians, pharmacies). The complexity of these flows drives significant administrative costs. Source: CMS NHE</figcaption>
 </figure>
 

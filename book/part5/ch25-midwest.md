@@ -24,12 +24,12 @@ Population tells the story of transition. Illinois has declined from 12.8 millio
 *Source: Bureau of Economic Analysis, Regional GDP; Bureau of Labor Statistics, 2024*
 
 <figure>
-<img src="../_figures/ch25/ch25_midwest_map.png" alt="Midwest Region and Battery Belt Map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch25/ch25_midwest_map.png" alt="Map of Midwest showing traditional manufacturing centers and emerging Battery Belt investments" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 25.1: The Midwest and Battery Belt corridor. Major industrial investments from the CHIPS Act and IRA have directed over $50 billion into manufacturing across Michigan, Ohio, Indiana, Kentucky, and Tennessee since 2022. Source: Company announcements, state economic development</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch25/ch25_midwest_unemployment.png" alt="Midwest Unemployment Trends" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch25/ch25_midwest_unemployment.png" alt="Midwest unemployment trends showing post-pandemic convergence and tight labor markets" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 25.2: Midwest state unemployment rates have converged post-pandemic. The regional labor market remains tight despite manufacturing automation. Source: BLS</figcaption>
 </figure>
 

@@ -21,7 +21,7 @@ The Federal Reserve's Financial Accounts (Z.1) reveal the true picture of corpor
 *Source: Federal Reserve Z.1 Financial Accounts, 2024*
 
 <figure>
-<img src="../_figures/ch20/ch20_corp_financing.png" alt="Corporate financing sources" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch20/ch20_corp_financing.png" alt="How corporations finance investment: internal funds 76%, debt 24%, net equity issuance negative" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 20.1: How corporations finance investment. Internal funds dominate; net equity issuance is negative as buybacks exceed new issues. Source: Federal Reserve Z.1</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Mergers and acquisitions represent the highest-profile activity in corporate fin
 | SPAC/de-SPAC | 5% | Down from 20%+ in 2021 |
 
 <figure>
-<img src="../_figures/ch20/ch20_ma_activity.png" alt="M&A activity over time" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch20/ch20_ma_activity.png" alt="M&A deal volume showing cyclical waves peaking in 2000, 2007, and 2021 during bull markets" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 20.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv</figcaption>
 </figure>
 

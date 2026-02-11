@@ -16,7 +16,7 @@ The four largest American banks hold more assets than the annual GDP of Japan. B
 Finance and insurance is the fifth-largest sector of the American economy by GDP, smaller than real estate, healthcare, or professional services, but wielding influence far beyond its size. The sector intermediates the flow of funds from savers to borrowers, transforms risk through insurance, and operates the payment infrastructure that enables economic activity.
 
 <figure>
-<img src="../_figures/ch08/ch08_finance_gdp_treemap.png" alt="Finance and insurance GDP breakdown" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch08/ch08_finance_gdp_treemap.png" alt="Finance and insurance GDP treemap: banking dominates, followed by insurance and securities" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 8.1: Finance and insurance GDP by subsector. Banking dominates, followed by insurance and securities. Source: BEA (2023)</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ The US banking system is simultaneously concentrated and fragmented:
 | 4 | Wells Fargo | $1.9 trillion | $1.4T | 4,600 |
 
 <figure>
-<img src="../_figures/ch08/ch08_top_banks.png" alt="Top banks by assets" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch08/ch08_top_banks.png" alt="Big Four banks by total assets with JPMorgan Chase approaching $4 trillion" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 8.2: The Big Four banks by total assets. JPMorgan Chase dominates, with assets approaching $4 trillion. Source: FDIC (2024)</figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of Amer
 | 5 | Humana | $100B | 20M |
 
 <figure>
-<img src="../_figures/ch08/ch08_insurance_premiums.png" alt="Insurance premiums by segment" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch08/ch08_insurance_premiums.png" alt="Insurance premiums by segment: health insurance dominates, followed by life and property/casualty" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 8.3: Insurance premiums by segment. Health insurance dominates, followed by life and property/casualty. Source: NAIC, company data (2023)</figcaption>
 </figure>
 
@@ -164,7 +164,7 @@ Asset management has been transformed by the shift from active to passive (index
 The "Big Three" (BlackRock, Vanguard, State Street) collectively manage roughly $23 trillion and are the largest shareholders in most S&P 500 companies. This concentration raises governance questions: these firms vote the shares they manage, giving them enormous influence over corporate decisions.
 
 <figure>
-<img src="../_figures/ch08/ch08_asset_managers.png" alt="Top asset managers by AUM" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch08/ch08_asset_managers.png" alt="BlackRock and Vanguard together manage nearly $20 trillion in assets under management" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 8.4: Largest U.S. asset managers by assets under management. BlackRock and Vanguard together manage nearly $20 trillion—more than the GDP of every country except the U.S. and China. Source: Company reports, Pensions & Investments (2024)</figcaption>
 </figure>
 

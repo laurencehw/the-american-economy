@@ -65,7 +65,7 @@ State and local governments are generally required to balance their operating bu
 *Source: Office of Management and Budget, FY 2024*
 
 <figure>
-<img src="../_figures/ch04/ch04_spending_treemap.png" alt="Federal spending by function" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch04/ch04_spending_treemap.png" alt="Federal spending treemap: Social Security, Medicare, and defense as largest categories" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 4.1: Federal spending by function. Mandatory spending (Social Security, Medicare, Medicaid) dominates, while discretionary spending is squeezed. Source: OMB Budget (FY 2024)</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ State employment is dominated by higher education---public university faculty, s
 Local government employment is dominated by schools: teachers, administrators, and support staff account for over half of all local government workers.
 
 <figure>
-<img src="../_figures/ch04/ch04_govt_employment_level.png" alt="Government employment by level" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch04/ch04_govt_employment_level.png" alt="Government employment: local dominates at 14.7M workers, mostly in education, vs 2.9M federal" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 4.2: Government employment by level. Local governments employ far more workers than federal or state, with education dominating local payrolls. Source: BLS CES (2023)</figcaption>
 </figure>
 
@@ -188,7 +188,7 @@ Federal procurement is governed by the Federal Acquisition Regulation (FAR), a d
 *Source: USASpending.gov, FY 2023*
 
 <figure>
-<img src="../_figures/ch04/ch04_top_contractors.png" alt="Top federal contractors" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch04/ch04_top_contractors.png" alt="Top federal contractors by award value led by Lockheed Martin at $75 billion annually" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 4.3: Top 10 federal contractors by contract value. Defense dominates federal procurement, with Lockheed Martin alone receiving $75 billion annually. Source: USASpending.gov (FY 2023)</figcaption>
 </figure>
 
@@ -228,7 +228,7 @@ Federal civilian employment is concentrated in several clusters:
 States with military bases, federal lands, or proximity to DC have high federal employment; Midwest manufacturing states have low federal presence.
 
 <figure>
-<img src="../_figures/ch04/ch04_federal_employment_map.png" alt="Federal employment by state" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch04/ch04_federal_employment_map.png" alt="Map of federal civilian employment concentrated in DC metro, military bases, and federal lands" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 4.4: Federal civilian employment by state. The Washington, DC metro dominates, with additional concentrations around military bases and federal lands. Source: OPM (2023)</figcaption>
 </figure>
 

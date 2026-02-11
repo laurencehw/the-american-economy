@@ -24,7 +24,7 @@ American capital markets dwarf those of any other nation.
 *Sources: World Federation of Exchanges; SIFMA; Preqin*
 
 <figure>
-<img src="../_figures/ch19/ch19_stock_market_cap.png" alt="Stock market capitalization" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch19/ch19_stock_market_cap.png" alt="U.S. stock market capitalization growth to $51 trillion, dwarfing all other national markets" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 19.1: U.S. stock market capitalization dwarfs all other markets. The "Big Three" exchanges (NYSE, NASDAQ, and their affiliates) account for over 40% of global equity market value. Source: World Federation of Exchanges</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ The **10-year Treasury yield** is the benchmark rate for the U.S. economy, influ
 ### Corporate Bonds
 
 <figure>
-<img src="../_figures/ch19/ch19_bond_market.png" alt="Bond market breakdown" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch19/ch19_bond_market.png" alt="U.S. bond market: Treasuries, mortgage-backed securities, and corporate bonds totaling $50+ trillion" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 19.2: U.S. bond markets by segment. Treasury securities dominate, followed by mortgage-backed securities and corporate bonds. The $50+ trillion market dwarfs equities by outstanding value. Source: SIFMA</figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ Manufacturing contributed roughly $3 trillion in value added to GDP in 2023—ab
 The employment picture tells a different story. Manufacturing employed approximately 12.8 million workers as of early 2024—down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents roughly 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.
 
 <figure>
-<img src="../_figures/ch09/ch09_manufacturing_annotated.png" alt="Manufacturing employment with key turning points" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch09/ch09_manufacturing_annotated.png" alt="U.S. manufacturing employment declining from 19M in 1979 to 13M by 2024 with key events annotated" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 9.1: Manufacturing employment with key turning points, 1980-2024. Key events—NAFTA, China's WTO accession, the financial crisis, and the CHIPS Act—mark turning points in the sector's long employment decline. Source: BLS CES</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Manufacturing business models vary enormously by subsector:
 Manufacturing's roughly $3 trillion GDP contribution distributes unevenly across subsectors:
 
 <figure>
-<img src="../_figures/ch09/ch09_subsector_value_added.png" alt="Manufacturing subsector value added" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch09/ch09_subsector_value_added.png" alt="Manufacturing value added: chemicals, transportation equipment, food, and computers lead" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 9.2: Manufacturing value added by subsector. Chemicals (including pharmaceuticals) lead, followed by computers/electronics and food products. Source: BEA (2023)</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ The largest American manufacturers by revenue (excluding pure energy companies):
 *Source: Company 10-K filings and annual reports, FY 2023*
 
 <figure>
-<img src="../_figures/ch09/ch09_top_manufacturers.png" alt="Top manufacturers by revenue" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch09/ch09_top_manufacturers.png" alt="Top U.S. manufacturers by revenue led by Apple, ExxonMobil, and General Motors" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 9.3: Top U.S. manufacturers by revenue. Apple leads by a wide margin, though its manufacturing is contracted out. Source: Company data (2023)</figcaption>
 </figure>
 
@@ -173,7 +173,7 @@ Industrial robots represent the most visible face of manufacturing automation. T
 Automotive manufacturing has the highest robot penetration, with welding, painting, and material handling extensively automated. Electronics assembly increasingly uses robots, though the dexterity required for complex assembly still exceeds robot capabilities for many tasks. Pharmaceutical manufacturing is highly automated but with specialized equipment rather than general-purpose robots.
 
 <figure>
-<img src="../_figures/ch09/ch09_robot_density.png" alt="Robot density by country" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch09/ch09_robot_density.png" alt="Industrial robot density: South Korea and Germany lead, U.S. in middle tier globally" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 9.4: Industrial robot density (robots per 10,000 manufacturing workers). The U.S. lags South Korea and Germany; China has surpassed U.S. density. Source: IFR (2023)</figcaption>
 </figure>
 
@@ -184,7 +184,7 @@ The automation trajectory suggests continued manufacturing employment pressure. 
 While automation provided steady pressure on manufacturing employment, the period from 2000 to 2010 delivered a concentrated blow that economists now call "the China shock." China's accession to the World Trade Organization in December 2001 provided permanent normal trade relations with the United States, eliminating the annual uncertainty over tariff renewal that had constrained Chinese exports. What followed was an import surge of unprecedented speed and scale.
 
 <figure>
-<img src="../_figures/shock_analysis/manufacturing_employment.png" alt="U.S. manufacturing employment decline" style="width: 100%; max-width: 800px;">
+<img src="../_figures/shock_analysis/manufacturing_employment.png" alt="Long-term decline in manufacturing as share of total nonfarm employment" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 9.5: Manufacturing employment fell sharply from 17.3 million in 2000 to 11.5 million in 2010—a loss of 5.8 million jobs in a single decade. The China shock contributed substantially to this decline. Source: BLS</figcaption>
 </figure>
 

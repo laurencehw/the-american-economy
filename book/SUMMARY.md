@@ -62,3 +62,4 @@
 * [A. Data Sources Guide](appendices/appendix-a-data-sources.md)
 * [B. BEA Industry Accounts Reference](appendices/appendix-b-bea-reference.md)
 * [C. NAICS Codes Quick Reference](appendices/appendix-c-naics-codes.md)
+* [D. Glossary of Key Terms](appendices/appendix-d-glossary.md)

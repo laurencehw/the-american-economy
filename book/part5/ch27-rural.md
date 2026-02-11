@@ -24,7 +24,7 @@ The geographic distribution of rural America is uneven. The Great Plains and Mou
 ## The Rural Economies
 
 <figure>
-<img src="../_figures/ch27/ch27_rural_map.png" alt="Rural America Economic Regions Map" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch27/ch27_rural_map.png" alt="Map classifying rural counties by economic type: farming, mining, energy, recreation, and government" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 27.1: Rural America's diverse economies. The Great Plains Corn Belt depends on agriculture; Appalachia faces coal decline; the Mountain West attracts recreation and remote workers; the Permian Basin booms from energy extraction; and the Wind Belt emerges with renewable energy. Source: USDA ERS, Census Bureau</figcaption>
 </figure>
 
@@ -117,12 +117,12 @@ Since the 2008 financial crisis, metropolitan areas have captured over 90% of ne
 *Source: USDA Economic Research Service; Bureau of Economic Analysis, 2024*
 
 <figure>
-<img src="../_figures/ch27/ch27_income_disparity.png" alt="State Per Capita Income Disparity" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch27/ch27_income_disparity.png" alt="Per capita income by state showing coastal states significantly above interior and southern states" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 27.1: Per capita income by state (2023). The highest-income states exceed the lowest by more than $40,000 per person. Source: BEA</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch27/ch27_rural_types.png" alt="Rural Economic Typologies" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch27/ch27_rural_types.png" alt="Distribution of rural counties by economic type with farming and energy as largest categories" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 27.2: Economic typologies of rural America. Different regions face distinct economic dynamics: agriculture in the Corn Belt, energy extraction in the Permian, coal decline in Appalachia, recreation economies in the Mountain West, and resource depletion in the Ogallala region. Source: USDA ERS, Census Bureau</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ Economic shocks are perturbations that disrupt normal patterns of production, em
 Economic shocks transmit through multiple channels simultaneously. Understanding these channels helps explain why some shocks spread broadly while others remain contained, why some communities recover quickly while others never do.
 
 <figure>
-<img src="../_figures/ch32/ch32_transmission_channels.png" alt="Shock transmission channels" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch32/ch32_transmission_channels.png" alt="Four channels of economic shock propagation: input-output linkages, financial channels, labor markets, and geographic transmission" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 32.1: The four primary channels through which economic shocks propagate: input-output linkages (supply chain cascades), financial channels (credit and balance sheets), labor markets (jobs, wages, migration), and geographic transmission (regional concentration). <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/shock-propagation.html" target="_blank">View interactive version</a>. Source: Author illustration</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ Shocks unfold over multiple time horizons:
 Chapter 2 introduced this episode through the lens of input-output linkages---backward linkages to suppliers, forward linkages to consumers, and the resulting multiplier effects. Here we return to the same shock but trace it through *all four* transmission channels: production networks, geographic concentration, financial amplification, and labor market adjustment. The difference in scope shows why the I-O framework alone, while powerful, tells only part of the story.
 
 <figure>
-<img src="../_figures/ch32/ch32_oil_shock_timeline.png" alt="Oil price shock timeline 2014-2016" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch32/ch32_oil_shock_timeline.png" alt="Timeline of 2014-2016 oil price collapse showing Brent crude falling from $115 to $28 per barrel" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 32.2: The 2014-2016 oil price collapse. Brent crude fell from $115 to $28 per barrel; the U.S. rig count collapsed 80% from 1,600 to 316. The shock devastated energy-producing regions while benefiting consumers elsewhere. Source: EIA, Baker Hughes</figcaption>
 </figure>
 

@@ -36,14 +36,14 @@ The sector's employment footprint is enormous relative to its economic output. F
 *Source: Bureau of Labor Statistics, National Restaurant Association, American Hotel & Lodging Association, American Gaming Association (2023)*
 
 <figure>
-<img src="../_figures/ch17/ch17_subsector_employment.png" alt="Leisure and hospitality employment by subsector" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch17/ch17_subsector_employment.png" alt="Hospitality employment breakdown: restaurants 8.3M, accommodation 2M, arts/entertainment 2.5M, recreation 2M" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 17.1: Leisure and hospitality employment by subsector. Restaurants dominate, accounting for nearly three-quarters of all jobs in the sector. Source: BLS (2023)</figcaption>
 </figure>
 
 Restaurants are the gravitational center. With over 12 million workers, food service alone employs more people than the entire manufacturing sector. Hotels, arts and entertainment, and gaming fill out the rest, but the economics of this industry are overwhelmingly the economics of restaurants.
 
 <figure>
-<img src="../_figures/ch17/ch17_employment_vs_gdp.png" alt="Employment share vs. GDP share across sectors" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch17/ch17_employment_vs_gdp.png" alt="Hospitality provides 11% of jobs but only 4% of GDP, showing its low-productivity position" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 17.2: Employment share vs. GDP share across major sectors. Leisure and hospitality has the largest gap---11% of workers producing 4% of output. Source: BLS and BEA (2023)</figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ Leisure and hospitality is the most cyclical major sector. Consumer spending on 
 Seasonality compounds the problem. Ski resorts operate five months a year. Beach hotels see 60-70% of annual revenue between Memorial Day and Labor Day. Even urban restaurants face predictable seasonal swings, with December peaks and January troughs. This unevenness forces operators to staff up temporarily and manage cash flow across lean months.
 
 <figure>
-<img src="../_figures/ch17/ch17_employment_cycle.png" alt="Leisure and hospitality employment through recessions" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch17/ch17_employment_cycle.png" alt="Hospitality employment showing extreme pandemic collapse in 2020, losing 8 million jobs in two months" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 17.3: Leisure and hospitality employment through recessions. The sector consistently suffers deeper losses and slower recoveries than the overall economy. The COVID-19 shock dwarfed all prior downturns. Source: BLS (2000-2024)</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ Many hospitality markets are radically seasonal:
 These seasonal economies face acute labor challenges---they need workers for four months, but workers need jobs for twelve.
 
 <figure>
-<img src="../_figures/ch17/ch17_hotel_concentration.png" alt="Hotel room concentration by metro area" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch17/ch17_hotel_concentration.png" alt="Hotel room inventory concentrated in Las Vegas, Orlando, New York, and other tourism destinations" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 17.4: Hotel room concentration by metro area. Las Vegas, Orlando, and New York dominate, with room inventories far exceeding other cities. Source: STR (2023)</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ The leisure and hospitality workforce is younger, more diverse, and less formall
 The pandemic permanently altered labor supply dynamics. When 8 million hospitality workers were laid off in spring 2020, many found employment in warehousing, delivery, healthcare, and other sectors---and did not return. The resulting labor shortage forced the fastest wage increases in the sector's history: average hourly earnings in leisure and hospitality rose over 25% between 2020 and 2023, far outpacing economy-wide wage growth.
 
 <figure>
-<img src="../_figures/ch17/ch17_wage_growth.png" alt="Leisure and hospitality wage growth vs. all sectors" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch17/ch17_wage_growth.png" alt="Hospitality wages rising faster than other sectors post-pandemic but still lowest in absolute terms" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 17.5: Average hourly earnings growth in leisure and hospitality vs. all private-sector workers, 2019-2024. Hospitality wages surged post-pandemic as labor shortages forced employers to compete for workers. Source: BLS Current Employment Statistics</figcaption>
 </figure>
 

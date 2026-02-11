@@ -82,7 +82,7 @@ Goolsbee and Syverson systematically tested potential explanations for this decl
 **Why has this happened?**
 
 <figure>
-<img src="../_figures/ch13/ch13_productivity_puzzle.png" alt="Construction productivity puzzle" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch13/ch13_productivity_puzzle.png" alt="Construction labor productivity flat since 1970 while manufacturing productivity tripled over same period" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 13.2: The construction productivity puzzle. Output per worker has declined since 1970, unlike every other major sector. Source: Goolsbee and Syverson (2023)</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 *Source: Company 10-K filings; Engineering News-Record Top 400 Contractors, 2024*
 
 <figure>
-<img src="../_figures/ch13/ch13_top_contractors.png" alt="Top contractors by revenue" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch13/ch13_top_contractors.png" alt="Top U.S. construction contractors by revenue: Bechtel, Fluor, Turner, and Kiewit lead" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 13.3: Top U.S. construction companies by revenue. Engineering giants (Bechtel, Fluor) differ from commercial builders (Turner, Whiting-Turner). Source: ENR (2024)</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ Infrastructure spending attracts bipartisan support—everyone likes ribbon-cutt
 ### 1. The Manufacturing Supercycle
 
 <figure>
-<img src="../_figures/ch13/ch13_construction_spending.png" alt="Construction spending over time" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch13/ch13_construction_spending.png" alt="Total U.S. construction spending trends across residential, commercial, and public infrastructure categories" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 13.1: Construction spending by category. Manufacturing construction has tripled since 2021 due to CHIPS Act and IRA investments. Source: Census Bureau</figcaption>
 </figure>
 
@@ -288,7 +288,7 @@ Construction spending on manufacturing facilities has **tripled** since 2021, dr
   - Solar and wind manufacturing facilities
 
 <figure>
-<img src="../_figures/ch13/ch13_construction_annotated.png" alt="Manufacturing construction supercycle with annotations" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch13/ch13_construction_annotated.png" alt="Manufacturing construction spending tripling from 2021-2024 driven by CHIPS Act and IRA investments" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 13.4: The manufacturing construction supercycle. CHIPS Act (August 2022) and IRA triggered a 3.5x increase in manufacturing construction spending, with major projects including Intel Ohio ($20B) and TSMC Arizona ($40B). Source: Census Bureau</figcaption>
 </figure>
 

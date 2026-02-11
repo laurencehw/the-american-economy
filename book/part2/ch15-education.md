@@ -15,7 +15,7 @@ Americans spend over $1.5 trillion annually on education, making it one of the l
 - Key subsectors: K-12 public, K-12 private, higher education, for-profit education, testing and assessment, textbooks and curriculum, education technology
 
 <figure>
-<img src="../_figures/ch15/ch15_enrollment_by_sector.png" alt="Education enrollment by sector" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch15/ch15_enrollment_by_sector.png" alt="Student enrollment distribution across public K-12, private K-12, public universities, and private universities" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 15.1: U.S. educational enrollment by sector. K-12 public schools enroll the vast majority of students, with higher education and private K-12 as secondary segments. Source: NCES</figcaption>
 </figure>
 
@@ -192,17 +192,17 @@ Higher education is more geographically concentrated than K-12:
 The geography of higher education shapes regional economies. Universities anchor innovation ecosystems; student spending supports college-town retail; alumni networks facilitate hiring. The absence of a major research university can limit a region's economic development options.
 
 <figure>
-<img src="../_figures/ch15/ch15_research_clusters.png" alt="Research university clusters" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch15/ch15_research_clusters.png" alt="Map of major research university clusters: Boston, Bay Area, Research Triangle, and Big Ten corridor" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 15.2: Major research university clusters (R1 institutions). Knowledge economy hubs concentrate around elite research universities, with Boston/Cambridge, the Bay Area, and NYC hosting the largest clusters. Source: Carnegie Classification (2024)</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch15/ch15_endowments_top20.png" alt="Top 20 university endowments" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch15/ch15_endowments_top20.png" alt="Top university endowments: Harvard $50B, Yale $41B, Stanford $36B, and other elite institutions" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 15.3: Top 20 university endowments (FY 2024). Harvard leads with over $50 billion, followed by the University of Texas System. Endowments fund financial aid, research, and operations at wealthy institutions. Source: NACUBO-Commonfund Study of Endowments</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch15/ch15_foreign_students.png" alt="International students in US higher education" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch15/ch15_foreign_students.png" alt="International student enrollment trends showing growth to 1.1 million students led by India and China" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 15.4: International students in U.S. higher education. Enrollment peaked at 1.09 million before COVID, crashed during the pandemic, and has since recovered. International students contribute $40+ billion annually to the U.S. economy. Source: IIE Open Doors Report</figcaption>
 </figure>
 

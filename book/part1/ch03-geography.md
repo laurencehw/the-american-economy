@@ -21,7 +21,7 @@ This concentration determines policy, politics, and opportunity. Where you live 
 California's economy exceeds that of India or the United Kingdom. It would rank among the world's five largest countries. Texas has grown rapidly, riding oil production and business-friendly policies to become America's second-largest economy. New York punches above its population weight, reflecting the concentration of finance, media, and professional services in Manhattan.
 
 <figure>
-<img src="../_figures/ch03/ch03_state_gdp.png" alt="State GDP choropleth" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch03/ch03_state_gdp.png" alt="Choropleth: California, Texas, New York, and Florida produce 40% of national GDP" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 3.0: State GDP (2023). California dominates at nearly $4 trillion, followed by Texas and New York. The top five states produce half of national output. Source: BEA Regional GDP</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Broad regions show distinct economic characters:
 **The Mountain West**: Low population density, resource extraction (mining, energy), tourism, and increasingly remote workers fleeing coastal costs. Colorado and Utah have diversified; Wyoming and Montana remain resource-dependent.
 
 <figure>
-<img src="../_figures/ch03/ch03_regional_dominance_map.png" alt="Regional economic dominance by state" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch03/ch03_regional_dominance_map.png" alt="Map showing each state's dominant industry sector by GDP share" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 3.1: The dominant economic sector varies across states. Coastal states rely heavily on professional services and finance, while interior states depend more on manufacturing, energy, or government. Source: BEA (2023)</figcaption>
 </figure>
 
@@ -96,12 +96,12 @@ At the top, concentration is extreme:
 The top eight metros produce nearly $8 trillion---about 30% of GDP. Add the next dozen, and you've accounted for half the economy.
 
 <figure>
-<img src="../_figures/ch03/ch03_top_metros_gdp.png" alt="Top metros by GDP" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch03/ch03_top_metros_gdp.png" alt="Top metros by GDP: New York $2.3T, Los Angeles $1.3T, Chicago $800B" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 3.2: The top 20 metropolitan areas by GDP. New York alone produces more than most countries. Source: BEA Metropolitan GDP (2023)</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch03/ch03_metro_job_density.png" alt="Metro employment density" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch03/ch03_metro_job_density.png" alt="Metro employment density concentrated in coastal and Great Lakes metro areas" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 3.3: Job concentration in major metros. Bubble size represents total employment. Economic activity clusters intensely in a handful of urban centers. Source: BLS QCEW (2023)</figcaption>
 </figure>
 
@@ -215,7 +215,7 @@ Rural areas contain 20% of the U.S. population spread across 97% of the land. Th
 **Service deserts**: As population thins, services consolidate. Hospitals close. Schools consolidate. Main streets empty.
 
 <figure>
-<img src="../_figures/ch03/ch03_urban_rural_employment.png" alt="Urban vs rural employment" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch03/ch03_urban_rural_employment.png" alt="Urban areas hold 86% of employment while rural areas have 14% across all sectors" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 3.4: The urban-rural divide in employment. Urban areas have diversified economies; rural areas depend more heavily on agriculture, mining, and government. Source: BLS (2023)</figcaption>
 </figure>
 

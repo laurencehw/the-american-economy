@@ -75,7 +75,7 @@ Where does $27 trillion come from? The answer may surprise you: the largest indu
 Several patterns stand out:
 
 <figure>
-<img src="../_figures/ch01/ch01_gdp_treemap.png" alt="GDP composition by industry" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch01/ch01_gdp_treemap.png" alt="GDP treemap: services dominate, with professional services, real estate, and government exceeding manufacturing" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 1.1: U.S. GDP composition by industry (2023). Services dominate, with professional services, real estate, and government each exceeding manufacturing. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/gdp-treemap.html" target="_blank">View interactive version</a>. Source: BEA</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 *Source: Bureau of Labor Statistics, Current Employment Statistics (CES), December 2023*
 
 <figure>
-<img src="../_figures/ch01/ch01_employment_bar.png" alt="Employment by sector" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch01/ch01_employment_bar.png" alt="Employment bar chart: education/healthcare leads, followed by government and professional services" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 1.2: Employment by sector. Education and healthcare employ the most Americans, followed by government and professional services. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/employment-chart.html" target="_blank">View interactive version</a>. Source: BLS CES (2023)</figcaption>
 </figure>
 
@@ -148,7 +148,7 @@ Compare these rankings with GDP share, and you'll notice striking divergences:
 **Information/tech** shows the reverse: 2% of employment but 6% of GDP. Tech workers are among the most productive (and highly paid) in the economy.
 
 <figure>
-<img src="../_figures/ch01/ch01_gdp_vs_employment.png" alt="GDP share vs employment share by sector" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch01/ch01_gdp_vs_employment.png" alt="GDP vs employment share: finance and tech produce high GDP per worker, hospitality the reverse" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 1.3: The GDP-employment gap by sector. Manufacturing and tech produce far more output per worker than healthcare or leisure services. This divergence drives wage inequality and shapes automation's impact. Source: BEA, BLS (2023)</figcaption>
 </figure>
 

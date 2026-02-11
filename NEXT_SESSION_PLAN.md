@@ -112,9 +112,9 @@ These are the changes that address the biggest gaps. Completing Tier 1 would rai
 | **2** | Inequality interlude + Exercises for Parts II-III (Ch 4-20) | **DONE** |
 | **3** | Exercises for Parts IV-VII (Ch 21-32) + Data consistency pass + figure number fixes | **DONE** |
 | **4** | Case study revision (Ch 2/32) + Positive shock example + Labor chapter expansion | **DONE** (Score: ~4.6) |
-| **5** | International comparisons + Print/PDF audit | Next up |
-| **6** | Platform economy expansion + Environmental economics | Pending |
-| **7** | Utilities + Alt text audit + Glossary | Pending |
+| **5** | International comparisons + Print/PDF audit | **DONE** (Score: ~4.75) |
+| **6** | Platform economy expansion + Environmental economics | **DONE** |
+| **7** | Utilities + Alt text audit + Glossary | **DONE** (Score: ~4.9) |
 
 ---
 
@@ -123,6 +123,6 @@ These are the changes that address the biggest gaps. Completing Tier 1 would rai
 - [x] Fix manufacturing GDP share inconsistency (Ch 1 vs. Ch 9) — DONE
 - [x] Add footnote to Ch 1 Table 1.1 noting rounding — DONE
 - [ ] Standardize reference year notation across all tables
-- [ ] Add cross-references between Ch 2 and Ch 32 case studies
+- [x] Add cross-references between Ch 2 and Ch 32 case studies — DONE
 - [x] Rename Ch 30 title to "Labor Markets and the Workforce" — DONE
-- [ ] Renumber chapters 16-30 to 18-32 — DONE (new chapters are 16 and 17)
+- [x] Renumber chapters 16-30 to 18-32 — DONE (new chapters are 16 and 17)

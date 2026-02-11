@@ -17,12 +17,12 @@ Union membership has declined for decades, from roughly 35% of private-sector wo
 *Source: Bureau of Labor Statistics, Union Members Summary, 2024*
 
 <figure>
-<img src="../_figures/ch30/ch30_union_trend.png" alt="Union membership rate over time" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch30/ch30_union_trend.png" alt="Union membership declining from 20% in 1983 to under 10% by 2024, driven by private sector losses" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 30.1: Union membership rate, 1983-2024. The long decline from 20% to 10% reflects deindustrialization, employer resistance, and legal changes favoring management. Source: BLS Union Members Summary</figcaption>
 </figure>
 
 <figure>
-<img src="../_figures/ch30/ch30_union_by_sector.png" alt="Union membership by industry" style="width: 100%; max-width: 800px;">
+<img src="../_figures/ch30/ch30_union_by_sector.png" alt="Union membership rates by industry: public sector 32% vs private services under 6%" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 30.2: Union membership rate by industry (2024). Education and public administration remain heavily unionized; private-sector services like retail and finance have minimal union presence. Source: BLS</figcaption>
 </figure>
 
@@ -510,14 +510,6 @@ It is tempting to categorize childcare and eldercare as "social" issues distinct
 6. The chapter describes "alt-labor" organizations such as worker centers (ROC-United, NDLON, Fight for $15) as filling gaps in the labor movement. How do worker centers differ legally from unions under the NLRA? What tactics can they employ that unions cannot (such as secondary boycotts), and what core union functions (collective bargaining, contract enforcement) can they not perform? Evaluate whether worker centers represent a viable long-term alternative to traditional unionism or a supplement to it.
 
 7. The Teamsters' political positioning is described as "less predictably Democratic" than other major unions, with President O'Brien speaking at the 2024 Republican National Convention. What does this bipartisan engagement reveal about the political tensions within the labor movement? How does the reality that "many Teamster members vote Republican" complicate the assumption that unions are uniformly aligned with one party? What policy areas might create cross-partisan appeal for organized labor?
-
-### Data Exercises
-
-1. **Union Wage Premium by Industry.** Using the BLS Union Members Summary (https://www.bls.gov/news.release/union2.toc.htm) and the Current Population Survey data available through FRED, compare median weekly earnings for union and non-union workers across at least five industries (e.g., construction, manufacturing, healthcare, retail, transportation). Calculate the "union wage premium" (percentage difference) for each industry. Then retrieve the FRED series for real median weekly earnings (LES1252881600Q) and plot the long-run trend. Write a one-page analysis discussing whether the declining union membership rate documented in the chapter has coincided with stagnation in median real wages, and what other factors might explain the correlation (or lack thereof).
-
-2. **Mapping Right-to-Work and Union Density.** Using BLS data on union membership rates by state (https://www.bls.gov/news.release/union2.t05.htm), create a table comparing union membership rates in right-to-work states versus non-right-to-work states. Then retrieve state-level median household income data from the Census Bureau's American Community Survey (https://data.census.gov). Calculate the average union membership rate and median household income for each group. Does the data support or complicate the argument that right-to-work laws weaken unions and reduce worker earnings? Discuss confounding factors (regional cost of living, industry mix, state demographics) that would need to be controlled for in a rigorous analysis.
-
-3. **Gig Economy Scale and Growth.** The chapter notes that "roughly 36% of American workers participate in some form of gig work." Using BLS data on contingent and alternative employment arrangements (https://www.bls.gov/cps/contingent-and-alternative-arrangements-faqs.htm) and FRED series for the number of unincorporated self-employed workers (LNS12032192), track how non-traditional employment has changed over the past two decades. Supplement with data from the Census Bureau's Nonemployer Statistics (https://www.census.gov/programs-surveys/nonemployer-statistics.html), which counts businesses with no paid employees. Write a brief report (500--750 words) evaluating whether official statistics adequately capture the gig economy or whether measurement gaps make it difficult to assess the true scale of independent contracting.
 
 8. The chapter describes monopsony---employer market power---as widespread in American labor markets. Explain the concept of monopsony using the example of a nurse in a rural area with one hospital. How does the Azar, Marinescu, and Steinbaum research on labor market concentration (using the Herfindahl-Hirschman Index) demonstrate that monopsony is not limited to company towns? How do noncompete agreements, no-poach agreements, and wage-fixing reinforce employer power even in markets that appear competitive? Why does monopsony provide a coherent explanation for Card and Krueger's finding that moderate minimum wage increases do not reduce employment?
 
