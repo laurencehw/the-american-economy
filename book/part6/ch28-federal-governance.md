@@ -30,6 +30,11 @@ The **National Economic Council (NEC)**, created by President Clinton in 1993, c
 
 Unlike the CEA's analytical focus, the NEC is process-oriented: convening meetings, resolving interagency disputes, and ensuring the president receives clear choices. The NEC's influence depends heavily on the director's relationship with the president and willingness to enforce coordination.
 
+{% hint style="info" %}
+**Fiscal Policy vs. Monetary Policy**
+These are the two primary tools of macroeconomic management, wielded by different institutions. *Fiscal policy*---taxing and spending decisions made by Congress and the President---directly affects government budgets, transfer payments, and public investment. *Monetary policy*---setting interest rates and managing the money supply---is conducted by the Federal Reserve independently of elected officials. Fiscal policy works through the government's budget; monetary policy works through the cost and availability of credit. The two can reinforce or counteract each other: during COVID-19, both expansionary fiscal policy (stimulus checks, PPP loans) and expansionary monetary policy (near-zero rates, asset purchases) pushed in the same direction, fueling the recovery---and, critics argue, the subsequent inflation.
+{% endhint %}
+
 ## The Independent Fed
 
 The **Federal Reserve** operates outside the executive branch's policy apparatus, conducting monetary policy independently of political direction. The Fed Chair---currently Jerome Powell, whose term extends through May 2026---is arguably the most influential individual economic actor in the country.
@@ -52,7 +57,7 @@ These agencies operate with unusual independence for executive branch entities, 
 
 ## Regulatory Agencies
 
-Beyond the policy-making core, a constellation of regulatory agencies shapes economic activity through rule-making and enforcement.
+Beyond the policy-making core, a constellation of regulatory agencies shapes economic activity through rule-making and enforcement. These agencies interact extensively with the trade associations and industry lobbying groups examined in Chapter 29.
 
 ### Financial Regulators
 
@@ -73,7 +78,7 @@ Beyond the policy-making core, a constellation of regulatory agencies shapes eco
 
 *Source: Agency budget justifications and congressional appropriations, FY 2025*
 
-The **Securities and Exchange Commission (SEC)** regulates securities markets, requiring disclosure from public companies and policing fraud. The SEC's jurisdiction has expanded as capital markets have grown, though its budget has not kept pace---leading to persistent complaints about under-enforcement.
+The **Securities and Exchange Commission (SEC)** regulates securities markets (see Chapter 19 for how these markets operate in practice), requiring disclosure from public companies and policing fraud. The SEC's jurisdiction has expanded as capital markets have grown, though its budget has not kept pace---leading to persistent complaints about under-enforcement.
 
 The **Commodity Futures Trading Commission (CFTC)** regulates derivatives markets with a staff roughly one-tenth the size of the SEC's. The CFTC's jurisdiction over cryptocurrency remains contested, with ongoing "turf wars" between SEC and CFTC over which agency should regulate digital assets.
 
@@ -88,7 +93,7 @@ The **Office of the Comptroller of the Currency (OCC)**, an independent bureau w
 
 ### Other Economic Regulators
 
-The **Federal Trade Commission (FTC)** enforces antitrust law and consumer protection statutes, sharing antitrust authority with the Justice Department's Antitrust Division. The FTC's current leadership has pursued an aggressive enforcement agenda against technology platforms and expanded merger scrutiny.
+The **Federal Trade Commission (FTC)** enforces antitrust law and consumer protection statutes (see Chapter 4 for how government at all levels shapes the economy), sharing antitrust authority with the Justice Department's Antitrust Division. The FTC's current leadership has pursued an aggressive enforcement agenda against technology platforms and expanded merger scrutiny.
 
 The **Occupational Safety and Health Administration (OSHA)**, within the Labor Department, sets workplace safety standards. With roughly 2,200 employees covering millions of workplaces, OSHA relies heavily on employer self-compliance and targeted enforcement.
 

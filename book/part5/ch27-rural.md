@@ -19,6 +19,11 @@ By the OMB definition, roughly 46 million Americans---14% of the population---li
 
 The distinction matters economically. Urban economies benefit from agglomeration: the density of workers, employers, and infrastructure that enables specialization, reduces transaction costs, and generates knowledge spillovers. Rural economies operate without these advantages. A worker in a rural county may have one or two realistic employers; a business may have one or two realistic suppliers. The "thickness" of urban markets is unavailable.
 
+{% hint style="info" %}
+**Monopsony in Thin Labor Markets**
+When a labor market has very few employers, the result is *monopsony*---market power on the buying side of labor. In a rural county where the hospital, the school district, and one factory are the only significant employers, workers have limited outside options. This gives employers power to set wages below what a competitive market would produce, because workers cannot easily switch jobs or relocate. Research has shown that labor market concentration is substantially higher in rural areas, and that this concentration depresses wages by 5--15% relative to otherwise comparable urban workers. The "agglomeration shadow"---the absence of the thick, competitive labor markets that cities provide---is one of the deepest structural disadvantages of rural economies.
+{% endhint %}
+
 The geographic distribution of rural America is uneven. The Great Plains and Mountain West are overwhelmingly rural by land area but contain relatively few people. The Upper Midwest, Appalachia, and the Deep South combine rural landscapes with meaningful population. The Northeast and West Coast have few rural counties because their land areas are small.
 
 ## The Rural Economies

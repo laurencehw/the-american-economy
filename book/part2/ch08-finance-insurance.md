@@ -1,16 +1,16 @@
-# Chapter 8. Finance and Insurance
+# Chapter 8: Finance and Insurance
 
 The four largest American banks hold more assets than the annual GDP of Japan. BlackRock manages $10 trillion---more than the GDP of every country except the United States and China. The finance and insurance sector accounts for only 8% of GDP but touches every transaction in the economy: mortgages that fund housing, loans that capitalize businesses, insurance that makes risk manageable, and the payment systems that enable commerce. American finance is both remarkably concentrated at the top and remarkably fragmented at the bottom, with a handful of global giants coexisting with 4,500 community banks serving small towns across the country.
 
 ## Overview
 
 **Size and Scope**
-- GDP contribution: roughly $1.8 trillion (8% of GDP)
-  - Banking: roughly $900 billion
-  - Insurance: roughly $600 billion
-  - Securities and investment: roughly $300 billion
-- Employment: roughly 6.5 million workers
-- Establishments: roughly 500,000 (including insurance agencies, bank branches, investment offices)
+- GDP contribution: $1.8 trillion (8% of GDP)
+  - Banking: $900 billion
+  - Insurance: $600 billion
+  - Securities and investment: $300 billion
+- Employment: 6.5 million workers
+- Establishments: about 500,000 (including insurance agencies, bank branches, investment offices)
 - Key subsectors: Commercial banking, investment banking, insurance (life, property/casualty, health), asset management, private equity, payments
 
 Finance and insurance is the fifth-largest sector of the American economy by GDP, smaller than real estate, healthcare, or professional services, but wielding influence far beyond its size. The sector intermediates the flow of funds from savers to borrowers, transforms risk through insurance, and operates the payment infrastructure that enables economic activity.
@@ -70,7 +70,7 @@ Banks make money on the **net interest margin (NIM)**---the spread between what 
 
 ### The Shadow Banking System
 
-Beyond traditional banks, a parallel system of credit intermediation operates with less regulation and no deposit insurance. Money market funds (roughly $6 trillion), repo markets (roughly $5 trillion), and private credit (roughly $1.5 trillion) perform bank-like functions without bank-like protections. The 2008 crisis was fundamentally a run on shadow banking. For detailed treatment of how shadow banking works and its role in financial crises, see Chapter 18.
+Beyond traditional banks, a parallel system of credit intermediation operates with less regulation and no deposit insurance. Money market funds ($6 trillion), repo markets ($5 trillion), and private credit ($1.5 trillion) perform bank-like functions without bank-like protections. The 2008 crisis was fundamentally a run on shadow banking. For detailed treatment of how shadow banking works and its role in financial crises, see Chapter 18.
 
 ## Industry Structure
 
@@ -95,11 +95,11 @@ The US banking system is simultaneously concentrated and fragmented:
 These four banks hold approximately 45% of all US banking assets. Add the next four (Goldman Sachs, Morgan Stanley, US Bancorp, PNC), and eight banks control over 60%.
 
 **The long tail**: Below the giants:
-- roughly 20 "super-regional" banks ($100B-$500B assets): Truist, Capital One, TD Bank, Fifth Third
-- roughly 100 regional banks ($10B-$100B): Huntington, Regions, M&T, Zions
-- roughly 4,500 community banks (<$10B): Serving local markets, often focused on small business and agricultural lending
+- about 20 "super-regional" banks ($100B-$500B assets): Truist, Capital One, TD Bank, Fifth Third
+- around 100 regional banks ($10B-$100B): Huntington, Regions, M&T, Zions
+- some 4,500 community banks (<$10B): Serving local markets, often focused on small business and agricultural lending
 
-Community banks hold only roughly 12% of industry assets but operate roughly 30% of branches and provide the majority of small business loans in rural areas.
+Community banks hold only about 12% of industry assets but operate some 30% of branches and provide the majority of small business loans in rural areas.
 
 ### Investment Banking: The Bulge Bracket
 
@@ -117,7 +117,7 @@ The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of Amer
 
 ### Insurance: Three Distinct Markets
 
-**Life Insurance** (roughly $900 billion in premiums):
+**Life Insurance** ($900 billion in premiums):
 
 | Rank | Company | Premiums | Business Focus |
 |------|---------|----------|----------------|
@@ -127,7 +127,7 @@ The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of Amer
 | 4 | Northwestern Mutual | $33B | Mutual, wealth management |
 | 5 | Lincoln Financial | $18B | Annuities, life |
 
-**Property & Casualty Insurance** (roughly $800 billion in premiums):
+**Property & Casualty Insurance** ($800 billion in premiums):
 
 | Rank | Company | Premiums | Business Focus |
 |------|---------|----------|----------------|
@@ -137,7 +137,7 @@ The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of Amer
 | 4 | Allstate | $55B | Auto, home |
 | 5 | Liberty Mutual | $50B | Commercial, personal |
 
-**Health Insurance** (roughly $1.3 trillion in premiums):
+**Health Insurance** ($1.3 trillion in premiums):
 
 | Rank | Company | Premiums | Enrollment |
 |------|---------|----------|------------|
@@ -166,7 +166,7 @@ Asset management has been transformed by the shift from active to passive (index
 | 4 | State Street | $4.1T | ETFs (SPDRs), institutional |
 | 5 | Capital Group | $2.5T | Active (American Funds) |
 
-The "Big Three" (BlackRock, Vanguard, State Street) collectively manage roughly $23 trillion and are the largest shareholders in most S&P 500 companies. This concentration raises governance questions: these firms vote the shares they manage, giving them enormous influence over corporate decisions.
+The "Big Three" (BlackRock, Vanguard, State Street) collectively manage about $23 trillion and are the largest shareholders in most S&P 500 companies. This concentration raises governance questions: these firms vote the shares they manage, giving them enormous influence over corporate decisions.
 
 <figure>
 <img src="../_figures/ch08/ch08_asset_managers.png" alt="BlackRock and Vanguard together manage nearly $20 trillion in assets under management" style="width: 100%; max-width: 800px;">
@@ -222,8 +222,8 @@ Most fintechs operate through bank partnerships (chime uses Bancorp Bank's chart
 New York is the undisputed capital of American finance:
 - Headquarters of JPMorgan, Citigroup, Goldman Sachs, Morgan Stanley, BlackRock
 - NYSE and NASDAQ (though NASDAQ is technically in DC)
-- roughly 330,000 finance and insurance employees in NYC metro
-- roughly $70 billion in annual wages in finance
+- about 330,000 finance and insurance employees in NYC metro
+- $70 billion in annual wages in finance
 
 The concentration reflects agglomeration economics: proximity to clients, counterparties, regulators, and talent. Despite remote work, New York's dominance has persisted.
 
@@ -233,7 +233,7 @@ The concentration reflects agglomeration economics: proximity to clients, counte
 - Bank of America headquarters
 - Truist headquarters (BB&T + SunTrust merger)
 - Wells Fargo East Coast hub
-- roughly 75,000 banking employees
+- about 75,000 banking employees
 
 Charlotte's rise reflects deliberate strategy: North Carolina's banking laws were permissive, allowing NCNB (later NationsBank, then Bank of America) to grow through acquisition.
 
@@ -251,7 +251,7 @@ Charlotte's rise reflects deliberate strategy: North Carolina's banking laws wer
 **Des Moines, IA**: Life insurance hub
 - Principal Financial headquarters
 - Major operations for Athene, Sammons
-- roughly 25,000 insurance employees
+- about 25,000 insurance employees
 
 ### State-Level Variation
 
@@ -304,9 +304,9 @@ Delaware and South Dakota host major credit card operations due to favorable usu
 ### Compensation Patterns
 
 Finance is notorious for extreme compensation:
-- Average Goldman Sachs comp: roughly $400,000 (including bonus)
-- Average JPMorgan comp: roughly $160,000
-- Average community bank comp: roughly $65,000
+- Average Goldman Sachs comp: about $400,000 (including bonus)
+- Average JPMorgan comp: about $160,000
+- Average community bank comp: about $65,000
 
 The gap reflects both skill premiums and rent extraction. Top performers in trading and investment banking can earn $1-10 million annually; back-office workers earn middle-class wages.
 
@@ -384,7 +384,7 @@ The 2008 crisis revealed that some institutions are "too big to fail"---their fa
 ### Lobbying Activity
 
 Financial services is among the largest lobbying spenders:
-- roughly $600 million annually in federal lobbying
+- $600 million annually in federal lobbying
 - Major issues: Capital requirements, CFPB oversight, cryptocurrency regulation, ESG requirements
 - Finance PACs are major campaign contributors to both parties
 
@@ -439,8 +439,8 @@ This has implications for housing markets, migration patterns, and government di
 > **Quick Facts**
 > - Headquarters: New York, NY
 > - Founded: 2000 (merger); predecessor firms date to 1799
-> - Revenue: roughly $160 billion (2023)
-> - Employees: roughly 300,000
+> - Revenue: $160 billion (2023)
+> - Employees: about 300,000
 > - CEO: Jamie Dimon (since 2005)
 
 JPMorgan Chase is the largest bank in the United States and among the largest in the world. The firm resulted from a series of mergers: Chemical Bank and Manufacturers Hanover (1991), Chemical and Chase Manhattan (1996), Chase and J.P. Morgan (2000), and JPMorgan Chase and Bank One (2004). The 2008 crisis added Bear Stearns (fire-sale purchase arranged by the Fed) and Washington Mutual (largest bank failure in history, acquired from FDIC).
@@ -449,7 +449,7 @@ The firm operates across all major financial services:
 - **Consumer and Community Banking**: 4,700 branches, 85 million customers, Chase credit cards
 - **Corporate and Investment Bank**: Top-3 in M&A advisory, securities underwriting, trading
 - **Commercial Banking**: Middle-market lending
-- **Asset and Wealth Management**: roughly $3 trillion in client assets
+- **Asset and Wealth Management**: about $3 trillion in client assets
 
 JPMorgan's scale creates advantages (cheap funding, technology investment capacity) and challenges (regulatory intensity, "too big to manage" risk). Under CEO Jamie Dimon, the bank has generally outperformed peers, navigating the 2008 crisis and 2020 pandemic better than competitors.
 
@@ -460,8 +460,8 @@ The bank exemplifies the "universal bank" model that emerged after Glass-Steagal
 > **Quick Facts**
 > - Headquarters: Omaha, NE
 > - Founded: 1839 (as textile company); insurance from 1967
-> - Insurance Revenue: roughly $85 billion in premiums
-> - Float: roughly $165 billion
+> - Insurance Revenue: $85 billion in premiums
+> - Float: $165 billion
 > - CEO: Warren Buffett (since 1965)
 
 Berkshire Hathaway is technically a conglomerate, but insurance is its engine. Warren Buffett's insight was that insurance generates "float"---premiums collected before claims are paid---that can be invested for decades. If underwriting breaks even, the float is essentially free leverage.
@@ -472,7 +472,7 @@ Berkshire's insurance operations include:
 - **Berkshire Hathaway Reinsurance**: One of the world's largest reinsurers, insuring other insurance companies against catastrophic losses
 - **General Re**: Global reinsurance
 
-The combined float (roughly $165 billion) funds Berkshire's investments in stocks, entire companies (BNSF railroad, Precision Castparts, Dairy Queen), and cash reserves. This structure is difficult to replicate: it requires exceptional underwriting discipline and investment skill sustained over decades.
+The combined float ($165 billion) funds Berkshire's investments in stocks, entire companies (BNSF railroad, Precision Castparts, Dairy Queen), and cash reserves. This structure is difficult to replicate: it requires exceptional underwriting discipline and investment skill sustained over decades.
 
 Succession planning is underway: Greg Abel (non-insurance operations) is designated as Buffett's successor, with Ajit Jain running insurance. How Berkshire's unique culture survives Buffett's eventual departure is one of corporate America's most-watched questions.
 
@@ -481,13 +481,13 @@ Succession planning is underway: Greg Abel (non-insurance operations) is designa
 > **Quick Facts**
 > - Headquarters: New York, NY
 > - Founded: 1988
-> - AUM: roughly $10 trillion
-> - Employees: roughly 20,000
+> - AUM: $10 trillion
+> - Employees: about 20,000
 > - CEO: Larry Fink (co-founder)
 
 BlackRock is the world's largest asset manager, having grown from a fixed-income shop in 1988 to a financial industry titan. Key growth drivers:
 
-**iShares acquisition (2009)**: BlackRock bought Barclays Global Investors, gaining the iShares ETF platform. iShares is now the largest ETF provider (roughly $3 trillion), making BlackRock the primary beneficiary of the passive investing revolution.
+**iShares acquisition (2009)**: BlackRock bought Barclays Global Investors, gaining the iShares ETF platform. iShares is now the largest ETF provider (about $3 trillion), making BlackRock the primary beneficiary of the passive investing revolution.
 
 **Aladdin platform**: BlackRock's risk management technology, originally built for internal use, is now licensed to other asset managers, insurers, and pensions. Over $20 trillion in assets are analyzed on Aladdin, giving BlackRock unparalleled visibility into global financial markets.
 
@@ -535,11 +535,11 @@ The firm also advises governments: BlackRock helped the Fed design its corporate
 
 1. Banks perform "maturity transformation"---borrowing short (demand deposits) and lending long (30-year mortgages). Explain why this is socially valuable and why it is inherently fragile. How did Silicon Valley Bank's failure in March 2023 illustrate this fragility? What role did held-to-maturity accounting, uninsured deposits, and social media play in accelerating the bank run?
 
-2. The four largest banks (JPMorgan Chase, Bank of America, Citigroup, Wells Fargo) hold approximately 45% of all U.S. banking assets, yet roughly 4,500 community banks still operate. What functions do community banks perform that the Big Four cannot or do not? Why haven't community banks been consolidated entirely despite their small scale?
+2. The four largest banks (JPMorgan Chase, Bank of America, Citigroup, Wells Fargo) hold approximately 45% of all U.S. banking assets, yet about 4,500 community banks still operate. What functions do community banks perform that the Big Four cannot or do not? Why haven't community banks been consolidated entirely despite their small scale?
 
-3. The "Big Three" asset managers (BlackRock, Vanguard, State Street) collectively manage roughly $23 trillion and are the largest shareholders in most S&P 500 companies. What governance concerns does this concentration of ownership create? How does passive index investing---where a single fund owns shares in competing companies like Delta and United Airlines---raise "common ownership" antitrust questions?
+3. The "Big Three" asset managers (BlackRock, Vanguard, State Street) collectively manage about $23 trillion and are the largest shareholders in most S&P 500 companies. What governance concerns does this concentration of ownership create? How does passive index investing---where a single fund owns shares in competing companies like Delta and United Airlines---raise "common ownership" antitrust questions?
 
-4. Berkshire Hathaway's insurance operations generate roughly $165 billion in "float"---premiums collected before claims are paid---which Warren Buffett invests for decades. The chapter describes this as "essentially free leverage." Why is this model difficult for competitors to replicate? What combination of underwriting discipline and investment skill is required?
+4. Berkshire Hathaway's insurance operations generate $165 billion in "float"---premiums collected before claims are paid---which Warren Buffett invests for decades. The chapter describes this as "essentially free leverage." Why is this model difficult for competitors to replicate? What combination of underwriting discipline and investment skill is required?
 
 5. Private credit has grown from under $500 billion in 2015 to over $1.5 trillion in 2024, as companies that previously borrowed from banks now borrow from alternative managers like Apollo and Ares. What are the implications for systemic risk when credit intermediation moves outside the regulated banking system? How does this relate to the "shadow banking" vulnerabilities that contributed to the 2008 crisis?
 

@@ -1,4 +1,4 @@
-# Chapter 5. Real Estate, Rental, and Leasing
+# Chapter 5: Real Estate, Rental, and Leasing
 
 American housing wealth exceeds $50 trillion—more than the entire market capitalization of U.S. stocks. Unlike a stock portfolio, you cannot diversify this asset. You live in one place, work in one metro, and your largest holding sits immovable on a single plot of land. Every business requires premises. Every worker needs a home. For most households, housing plays a triple role—shelter, investment vehicle, retirement plan—creating dynamics found nowhere else in the economy. When prices rise, existing homeowners grow wealthier while aspiring buyers face exclusion. When prices fall, household balance sheets implode, as 2008 demonstrated with devastating clarity.
 
@@ -93,11 +93,11 @@ Homebuilding has consolidated dramatically. The 2008 crash wiped out smaller bui
 
 | Rank | Company | Revenue | Homes Closed | Headquarters |
 |------|---------|---------|--------------|--------------|
-| 1 | D.R. Horton | $35B+ | roughly 90,000 | Arlington, TX |
-| 2 | Lennar | $34B | roughly 73,000 | Miami, FL |
-| 3 | NVR | $10B | roughly 24,000 | Reston, VA |
-| 4 | PulteGroup | $16B | roughly 28,000 | Atlanta, GA |
-| 5 | Toll Brothers | $10B | roughly 10,000 | Fort Washington, PA |
+| 1 | D.R. Horton | $35B+ | 90,000 | Arlington, TX |
+| 2 | Lennar | $34B | 73,000 | Miami, FL |
+| 3 | NVR | $10B | 24,000 | Reston, VA |
+| 4 | PulteGroup | $16B | 28,000 | Atlanta, GA |
+| 5 | Toll Brothers | $10B | 10,000 | Fort Washington, PA |
 
 *Source: Company annual reports and investor filings, 2023-2024*
 
@@ -112,7 +112,7 @@ The industry remains geographically fragmented—homebuilding is fundamentally l
 
 Commercial owners are highly specialized. A warehouse operator has nothing in common with a hotel company except that both own buildings.
 
-- **Industrial/Logistics:** **Prologis** dominates, owning nearly 1.2 billion square feet of logistics space globally—roughly 5% of the entire U.S. warehouse market. E-commerce has made Prologis a critical infrastructure provider; Amazon is among its largest tenants.
+- **Industrial/Logistics:** **Prologis** dominates, owning nearly 1.2 billion square feet of logistics space globally—about 5% of the entire U.S. warehouse market. E-commerce has made Prologis a critical infrastructure provider; Amazon is among its largest tenants.
 - **Office:** Fragmented and struggling post-COVID. Major owners include Boston Properties, SL Green (Manhattan-focused), and Brookfield.
 - **Retail:** The "retail apocalypse" killed some REITs (CBL, Washington Prime went bankrupt) while leaders like Simon Property Group survived by owning Class A malls.
 - **Digital Infrastructure:** **Equinix** (data centers) and **American Tower** (cell towers) now have higher market capitalizations than most traditional real estate companies. They are classified as REITs but function as technology infrastructure.
@@ -194,7 +194,7 @@ The home purchase transaction requires a small army:
 
 **Fannie Mae** (Federal National Mortgage Association) and **Freddie Mac** (Federal Home Loan Mortgage Corporation) effectively nationalize the risk of the U.S. housing market.
 
-- **Scale:** Together they guarantee roughly $7.5 trillion in mortgages—about half of all outstanding mortgage debt.
+- **Scale:** Together they guarantee $7.5 trillion in mortgages—about half of all outstanding mortgage debt.
 - **Conservatorship:** Since September 2008, both GSEs have operated under federal conservatorship. They are technically private corporations but effectively government agencies.
 - **Standard Setting:** They establish "conforming loan" standards: maximum loan sizes (currently around $750,000 in most markets, higher in expensive areas), credit score minimums, debt-to-income ratios. If a bank wants to sell a loan to Fannie, it must meet Fannie's rules. This makes the GSEs the de facto regulators of mortgage underwriting.
 
@@ -217,7 +217,7 @@ The cumulative effect is to make housing supply inelastic in precisely the place
 
 The Fair Housing Act of 1968 prohibits discrimination in housing based on race, color, national origin, religion, sex, familial status, and disability.
 
-- **Legacy of Redlining:** Federal mortgage programs from the 1930s–1960s explicitly refused to insure mortgages in Black neighborhoods ("redlined" areas). Although illegal since 1968, the wealth gap persists: median white household wealth is roughly 8–10 times median Black household wealth, largely due to differential homeownership and home appreciation.
+- **Legacy of Redlining:** Federal mortgage programs from the 1930s–1960s explicitly refused to insure mortgages in Black neighborhoods ("redlined" areas). Although illegal since 1968, the wealth gap persists: median white household wealth is 8–10 times median Black household wealth, largely due to differential homeownership and home appreciation.
 - **Ongoing Discrimination:** Audit studies continue to find discrimination against Black and Hispanic renters and buyers—shown fewer properties, quoted higher prices, steered to certain neighborhoods.
 
 ## Trade Associations and Lobbying
@@ -261,9 +261,9 @@ Real estate's role in household wealth makes housing price collapses uniquely de
 <figcaption>Figure 5.4: The Case-Shiller Home Price Index fell 27% nationally from its 2006 peak, with some markets (Phoenix, Las Vegas, Miami) experiencing declines of 50-60%. Source: S&P/Case-Shiller</figcaption>
 </figure>
 
-The early 2000s saw the largest housing boom in American history. The Case-Shiller National Home Price Index roughly doubled between 2000 and 2006, fueled by low interest rates, loosened lending standards, and speculative fervor. Subprime mortgages—loans to borrowers with weak credit—grew from a marginal product to 20% of originations. "No-doc" loans required no income verification. Option ARMs let borrowers pay less than the interest due, with unpaid interest added to principal.
+The early 2000s saw the largest housing boom in American history. The Case-Shiller National Home Price Index nearly doubled between 2000 and 2006, fueled by low interest rates, loosened lending standards, and speculative fervor. Subprime mortgages—loans to borrowers with weak credit—grew from a marginal product to 20% of originations. "No-doc" loans required no income verification. Option ARMs let borrowers pay less than the interest due, with unpaid interest added to principal.
 
-The boom masked fundamental mispricing. When prices stopped rising in 2006, the entire structure unraveled. Borrowers who had counted on refinancing or selling at higher prices found themselves underwater—owing more than their homes were worth. Default rates surged. By 2009, roughly one in four mortgages was underwater.
+The boom masked fundamental mispricing. When prices stopped rising in 2006, the entire structure unraveled. Borrowers who had counted on refinancing or selling at higher prices found themselves underwater—owing more than their homes were worth. Default rates surged. By 2009, about one in four mortgages was underwater.
 
 ### Geographic Concentration
 
@@ -281,7 +281,7 @@ The crash devastated some regions far more than others:
 
 The housing crash transmitted to the broader economy primarily through the **wealth effect** on household balance sheets:
 
-- **$8 trillion in housing wealth destroyed**: American homeowners collectively lost roughly $8 trillion in home equity between 2006 and 2009—equivalent to half of annual GDP.
+- **$8 trillion in housing wealth destroyed**: American homeowners collectively lost $8 trillion in home equity between 2006 and 2009—equivalent to half of annual GDP.
 - **Consumption collapse**: Households that felt poorer spent less. Economists Atif Mian and Amir Sufi found that zip codes with larger house price declines experienced larger drops in consumer spending, particularly on durables like automobiles and appliances.
 - **Construction employment**: Residential construction employment fell from 3.5 million (2006) to 2 million (2011). Construction workers, concentrated in the hardest-hit markets, faced mass unemployment.
 
@@ -330,7 +330,7 @@ The scars remain visible in policy—the conservatorship of Fannie and Freddie, 
 
 The post-COVID era created a unique affordability crisis:
 
-- **Price Surge:** Home prices rose roughly 40% from 2020 to 2022, driven by low rates, work-from-home demand, and constrained supply.
+- **Price Surge:** Home prices rose about 40% from 2020 to 2022, driven by low rates, work-from-home demand, and constrained supply.
 - **Rate Shock:** Mortgage rates jumped from 3% to 7%+ in 2022–2023, doubling monthly payments for new buyers.
 - **Lock-In Effect:** Homeowners who secured 3% mortgages in 2020–2021 are unwilling to sell, as moving means taking on a 7% mortgage. This has strangled existing home supply, forcing buyers into the new construction market.
 - **Cost Burden:** Over half of U.S. renters are now "cost-burdened" (spending more than 30% of income on rent).
@@ -340,7 +340,7 @@ The post-COVID era created a unique affordability crisis:
 Historically, rental homes were owned by "mom and pop" landlords. Post-2008, Wall Street entered:
 
 - **The Players:** Firms like **Invitation Homes** (spun off from Blackstone) and **American Homes 4 Rent** bought tens of thousands of distressed homes after the crisis.
-- **Current Scale:** Institutional investors own roughly 2–3% of the national single-family stock but are market-makers in specific Sunbelt submarkets (Phoenix, Atlanta, Tampa), where they may own 5–10% of homes.
+- **Current Scale:** Institutional investors own an estimated 2–3% of the national single-family stock but are market-makers in specific Sunbelt submarkets (Phoenix, Atlanta, Tampa), where they may own 5–10% of homes.
 - **Business Model:** Professional management, dynamic pricing, standardized renovation, and economies of scale in maintenance and leasing.
 
 ### 3. PropTech and the "Super App" Dream
@@ -364,7 +364,7 @@ Remote work has cratered demand for office space in many markets:
 
 A less-discussed threat to housing markets is the emerging insurance crisis. Property insurance is the invisible prerequisite for mortgage finance: no insurance, no mortgage; no mortgage, no sale at conventional prices.
 
-- **Climate Losses**: Insured losses from natural disasters have risen from roughly $10 billion annually in the 1990s to $50-100 billion annually in the 2020s. Hurricanes, wildfires, and severe storms are straining the insurance model.
+- **Climate Losses**: Insured losses from natural disasters have risen from about $10 billion annually in the 1990s to $50-100 billion annually in the 2020s. Hurricanes, wildfires, and severe storms are straining the insurance model.
 - **Insurer Retreat**: Major insurers are withdrawing from high-risk markets. State Farm and Allstate have stopped writing new homeowner policies in California. In Florida, several regional insurers have gone insolvent, and the state-backed Citizens Property Insurance has become the largest insurer by default.
 - **The Mortgage-Insurance Link**: Fannie Mae and Freddie Mac require borrowers to maintain property insurance. If private insurance becomes unavailable or unaffordable, homeowners face a choice between sky-high premiums, inadequate state-backed plans, or losing access to conventional mortgages entirely.
 - **Value Implications**: In areas where insurance costs have doubled or tripled, home values are effectively capped by what buyers can afford in total housing costs (mortgage + insurance + taxes). Some coastal Florida properties have seen 20-30% value declines attributable primarily to insurance cost increases.
@@ -397,8 +397,8 @@ Blackstone's non-traded REIT, **BREIT**, accumulated over $70 billion in assets 
 > **Quick Facts**
 > - **Headquarters:** Washington, D.C.
 > - **Status:** Government-Sponsored Enterprise in Conservatorship
-> - **Book of Business:** roughly $4.2 trillion
-> - **Net Income:** roughly $17 billion annually
+> - **Book of Business:** $4.2 trillion
+> - **Net Income:** $17 billion annually
 
 Fannie Mae does not issue mortgages; it buys them. It is the invisible engine that allows a community bank in Iowa to lend $400,000 for 30 years at a fixed rate—the bank sells the loan to Fannie within weeks, freeing up capital for the next mortgage. By guaranteeing principal and interest on trillions of dollars of Mortgage-Backed Securities, Fannie Mae attracts global capital to U.S. housing at rates competitive with Treasury bonds.
 
@@ -409,9 +409,9 @@ Although highly profitable, Fannie Mae remains under government conservatorship 
 > **Quick Facts**
 > - **Headquarters:** Arlington, TX
 > - **Founded:** 1978
-> - **Revenue:** roughly $35+ billion
-> - **Homes Closed (2024):** roughly 90,000
-> - **Employees:** roughly 13,000
+> - **Revenue:** $35+ billion
+> - **Homes Closed (2024):** 90,000
+> - **Employees:** 13,000
 
 D.R. Horton calls itself "America's Builder," and the title is earned through sheer volume. Founded by Donald R. Horton with a single lot in Fort Worth, the company grew by acquiring smaller builders and perfecting a high-volume, low-cost production model. They build in 33 states with a focus on the entry-level buyer—first-time homebuyers and move-up families seeking value over customization.
 
@@ -449,7 +449,7 @@ The company operates less like a traditional construction firm and more like a m
 
 3. Hsieh and Moretti estimate that housing constraints in San Francisco, San Jose, and New York lowered aggregate U.S. GDP growth by up to 36% between 1964 and 2009. Through what mechanism does restricting housing construction in high-productivity cities reduce national economic output? Why don't workers simply move to where they can afford housing?
 
-4. The 2024 NAR antitrust settlement prohibited listing agents from advertising buyer's agent compensation on the MLS. Yet average buyer's agent commissions dropped only briefly (from roughly 2.5% to 2.36%) before rebounding to 2.40%. Why has the expected "revolution in transaction costs" not materialized? What structural features of the brokerage industry resist commission reduction?
+4. The 2024 NAR antitrust settlement prohibited listing agents from advertising buyer's agent compensation on the MLS. Yet average buyer's agent commissions dropped only briefly (from about 2.5% to 2.36%) before rebounding to 2.40%. Why has the expected "revolution in transaction costs" not materialized? What structural features of the brokerage industry resist commission reduction?
 
 5. During the 2006--2012 housing crisis, Las Vegas prices fell 62%, Phoenix fell 56%, and Miami fell 51%, while Texas experienced only a 6% decline. The chapter attributes Texas's resilience to its elastic housing supply and strict home equity lending laws. Explain how the absence of a boom prevented a bust, and how lending regulations limited household leverage.
 

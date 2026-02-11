@@ -16,6 +16,14 @@ This "lock-in" effect is the defining microeconomic distortion of our time. It h
 
 Throughout this book, we have encountered features that make the American economy structurally distinct from its peers. These are not merely differences of degree.
 
+{% hint style="success" %}
+**What Makes the American Economy Distinctive**
+- **Financialization**: The 30-year fixed mortgage, 401(k) retirement system, and $50 trillion equity market embed finance into daily life to a degree unmatched in any peer economy.
+- **Service economy dominance**: At nearly 80% of GDP, the U.S. service sector---professional services, healthcare, finance, technology, entertainment---has no parallel; the U.S. runs trade surpluses in services even as it runs deficits in goods.
+- **Innovation infrastructure**: Research universities ($90B+ in annual funding), deep venture capital markets, high tolerance for failure, and immigrant entrepreneurship create conditions for new firm formation that other nations struggle to replicate.
+- **Geographic diversity as resilience**: The economy contains multitudes---from the Bay Area's tech cluster to Houston's energy complex to rural agriculture---so that regional shocks rarely become national crises.
+{% endhint %}
+
 <figure>
 <img src="../_figures/ch31/ch31_distinctive_features.png" alt="Four distinctive features: financialization, service economy dominance, geographic diversity, and innovation ecosystem" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 31.1: What makes the American economy distinctive. Finance is woven into daily life; services dominate; geographic diversity creates regional economies; innovation infrastructure remains the global standard. Source: Author analysis</figcaption>

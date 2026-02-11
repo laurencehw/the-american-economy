@@ -192,6 +192,11 @@ This wedge explains the particular concentration of wealth management and hedge 
 
 Beyond taxes, Sunbelt states offer lighter regulation, faster permitting, and "right-to-work" labor laws that limit union power. Land costs remain far below coastal metros. For manufacturing and logistics operations requiring large facilities, these factors create genuine cost advantages.
 
+{% hint style="info" %}
+**Right-to-Work Laws**
+Right-to-work laws prohibit agreements that require workers to join or pay dues to a union as a condition of employment. Twenty-seven states---including every major Sunbelt state---have enacted such laws. Proponents argue they attract business investment by keeping labor costs flexible and giving workers freedom of association. Critics counter that they weaken unions by enabling free-riding (workers benefit from union-negotiated wages without paying dues), reducing collective bargaining power and contributing to lower wages. The empirical evidence is mixed, but right-to-work status has become a key factor in corporate location decisions, particularly for manufacturing.
+{% endhint %}
+
 ## Infrastructure Challenges
 
 The Sunbelt's growth has outpaced its infrastructure investment, creating vulnerabilities that threaten the growth model. The region's low-tax philosophy generates less revenue per capita for infrastructure; the rapid growth strains existing systems; and the car-dependent development pattern requires expensive highway expansion rather than more efficient transit alternatives.

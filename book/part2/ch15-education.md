@@ -1,4 +1,4 @@
-# Chapter 15. Education
+# Chapter 15: Education
 
 Americans spend over $1.5 trillion annually on education, making it one of the largest sectors of the economy. Yet the American education "system" is barely a system at all: 13,000 independent school districts, 50 state bureaucracies, 4,000 colleges with wildly different missions, a growing commercial sector of test-prep companies and for-profit schools, and an emerging ed-tech industry promising to disrupt it all. Understanding American education means understanding both the public system that educates most students and the $400+ billion commercial ecosystem built around it.
 

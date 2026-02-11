@@ -1,4 +1,4 @@
-# Chapter 10. Retail and Wholesale Trade
+# Chapter 10: Retail and Wholesale Trade
 
 *"The consumer is boss."* — Sam Walton
 
@@ -10,9 +10,9 @@ Retail is the visible face of the economy—the point where production meets con
 
 - **Retail Sales:** Approximately **$7.26 trillion** (2024)
 - **Wholesale Sales:** Approximately **$11.4 trillion**
-- **Retail Employment:** roughly 15.5 million workers
-- **Wholesale Employment:** roughly 6.1–6.3 million workers
-- **Total Sector Employment:** roughly 21.5 million (roughly 14% of US employment)
+- **Retail Employment:** 15.5 million workers
+- **Wholesale Employment:** 6.1–6.3 million workers
+- **Total Sector Employment:** 21.5 million (about 14% of US employment)
 
 Wholesale revenue exceeds retail revenue---a counterintuitive result that reflects intermediate goods changing hands multiple times before reaching consumers. A bottle of aspirin passes from manufacturer to pharmaceutical wholesaler to drugstore distribution center to individual store before finally reaching you. Each transaction counts as wholesale sales; only the final purchase counts as retail.
 
@@ -53,11 +53,11 @@ The retailer's fundamental equation is the **Gross Margin**: the difference betw
 - **Buy Low, Sell Higher:** Success depends on purchasing leverage. Walmart's size allows it to dictate terms to suppliers, widening its margin without raising consumer prices. A supplier that loses Walmart loses access to 25% of the American consumer market.
 - **Inventory Turnover:** Inventory is capital trapped on a shelf. The goal is to turn it over as fast as possible. Costco turns inventory about 12 times per year; a typical department store manages 3–4 turns.
 - **Private Label vs. National Brands:** Retailers increasingly bypass branded manufacturers to sell their own "private label" goods (Costco's Kirkland Signature, Amazon Basics, Target's Good & Gather). This captures the brand margin for the retailer and builds customer loyalty that can't be arbitraged away to competitors.
-- **Real Estate:** For physical retailers, location is both strategy and cost structure. Owning versus leasing stores dramatically affects balance sheets and flexibility.
+- **Real Estate:** For physical retailers, location is both strategy and cost structure (see Chapter 5 for the broader role of real estate in the economy). Owning versus leasing stores dramatically affects balance sheets and flexibility.
 
 ### The Omnichannel Revolution
 
-The distinction between "online" and "offline" is evaporating. Stores now function as forward fulfillment centers. **Walmart** ships approximately 50% of its online orders directly from its 4,700 stores rather than from dedicated warehouses, leveraging its proximity to 90% of the US population to beat Amazon on speed and cost. **Target** does the same with its Drive Up and same-day delivery services. Amazon, meanwhile, bought **Whole Foods** in 2017 precisely to get physical locations closer to customers.
+The distinction between "online" and "offline" is evaporating. Stores now function as forward fulfillment centers (see Chapter 12 for how transportation and logistics infrastructure enables this transformation). **Walmart** ships approximately 50% of its online orders directly from its 4,700 stores rather than from dedicated warehouses, leveraging its proximity to 90% of the US population to beat Amazon on speed and cost. **Target** does the same with its Drive Up and same-day delivery services. Amazon, meanwhile, bought **Whole Foods** in 2017 precisely to get physical locations closer to customers.
 
 The winning formula is **omnichannel**: seamless integration of digital discovery, physical experience, and flexible fulfillment. Pure-play e-commerce retailers (other than Amazon) have struggled; pure-play physical retailers have struggled more.
 
@@ -67,12 +67,12 @@ Wholesale trade is the unglamorous backbone of retail. Wholesalers aggregate pro
 
 **Key Wholesale Sectors:**
 
-- **Pharmaceutical Distribution:** A near-oligopoly. **McKesson** ($276B revenue), **AmerisourceBergen** ($238B), and **Cardinal Health** ($205B) together distribute roughly 90% of all pharmaceuticals in America. They are the hidden pipes connecting drug manufacturers to your local pharmacy.
+- **Pharmaceutical Distribution:** A near-oligopoly. **McKesson** ($276B revenue), **AmerisourceBergen** ($238B), and **Cardinal Health** ($205B) together distribute about 90% of all pharmaceuticals in America. They are the hidden pipes connecting drug manufacturers to your local pharmacy.
 - **Food Service:** **Sysco** ($76B) and **US Foods** ($35B) supply restaurants, hospitals, and cafeterias across America.
 - **Industrial Distribution:** **Grainger** ($16B), **HD Supply**, and **Fastenal** supply the nuts, bolts, tools, and safety equipment that keep American industry running.
 - **Electronics:** **Ingram Micro** and **Tech Data** move computer hardware and consumer electronics from Asian factories to American stores.
 
-Wholesale margins are thin (typically 1–3% net), but volumes are enormous. These are logistics businesses, not merchandising businesses—they compete on delivery reliability, inventory depth, and supply chain technology.
+Wholesale margins are thin (typically 1–3% net), but volumes are enormous. These are logistics businesses, not merchandising businesses—they compete on delivery reliability, inventory depth, and the kind of supply chain technology discussed in Chapter 11.
 
 ## Industry Structure
 
@@ -83,7 +83,7 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 | Rank | Company | US Revenue | Market Position |
 |------|---------|------------|-----------------|
 | 1 | **Walmart** | $569B | 37% of US online grocery market |
-| 2 | **Amazon** | $274B | roughly 37.6% of all US e-commerce |
+| 2 | **Amazon** | $274B | 37.6% of all US e-commerce |
 | 3 | **Costco** | $183B | 54% of warehouse club segment |
 | 4 | **Target** | $107B | "Upscale discount" positioning |
 
@@ -94,7 +94,7 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 <figcaption>Figure 10.1: Top 10 retailers by US revenue. Walmart dominates, with nearly twice Amazon's retail revenue. Source: Company data (2024)</figcaption>
 </figure>
 
-These four firms together account for over $1.1 trillion in US retail sales—roughly 15% of the total market. Their scale advantages in logistics, technology, and purchasing power are nearly insurmountable for smaller competitors.
+These four firms together account for over $1.1 trillion in US retail sales—about 15% of the total market. Their scale advantages in logistics, technology, and purchasing power are nearly insurmountable for smaller competitors.
 
 The dominance of these four reflects different paths to scale. Walmart won through ruthless cost discipline and geographic saturation of underserved markets. Amazon won through technology, logistics investment, and willingness to sacrifice profits for growth. Costco won through a membership model that generates loyalty and recurring revenue. Target found a "cheap chic" positioning niche between Walmart's bare-bones efficiency and department store prestige. Each succeeded by creating customer lock-in that smaller competitors cannot replicate—Walmart through ubiquity, Amazon through Prime, Costco through membership psychology. A regional grocer or independent retailer cannot match any of these moats.
 
@@ -102,7 +102,7 @@ The dominance of these four reflects different paths to scale. Walmart won throu
 
 **Grocery:** A brutally low-margin business (1–2% net margins typical) dominated by scale. **Kroger** ($150B), the largest traditional grocer, operates regional banners (Ralphs, Fred Meyer, Harris Teeter). **Albertsons** ($79B) owns Safeway, Vons, and Jewel-Osco. Strong regional chains persist: **Publix** (Florida-based, $54B, employee-owned), **H-E-B** (Texas, privately held, cult following), **Wegmans** (Northeast, smaller but beloved).
 
-**Home Improvement:** An effective duopoly. **Home Depot** ($157B) and **Lowe's** ($86B) together control roughly 80% of the market. Both benefited enormously from pandemic home improvement spending.
+**Home Improvement:** An effective duopoly. **Home Depot** ($157B) and **Lowe's** ($86B) together control about 80% of the market. Both benefited enormously from pandemic home improvement spending.
 
 **Pharmacy/Drugstore:** **CVS Health** and **Walgreens** dominate but are struggling as front-of-store retail (cosmetics, snacks, household goods) declines. Their future is healthcare services, not retail.
 
@@ -110,7 +110,7 @@ The dominance of these four reflects different paths to scale. Walmart won throu
 
 **Department Stores:** A sector in terminal decline. **Macy's**, **Nordstrom**, **Kohl's**, and **JCPenney** (now restructured) have shrunk steadily as they've lost traffic to e-commerce and specialty retailers. The department store's role as the mall anchor tenant has become a liability as malls themselves struggle.
 
-**Concentration:** The top 10 retailers control approximately **35%** of total retail sales, up from roughly 25% two decades ago. Scale economies in logistics, technology, and supplier negotiations increasingly punish smaller competitors.
+**Concentration:** The top 10 retailers control approximately **35%** of total retail sales, up from about 25% two decades ago. Scale economies in logistics, technology, and supplier negotiations increasingly punish smaller competitors.
 
 ## Geographic Distribution
 
@@ -149,7 +149,7 @@ In rural towns and low-income urban neighborhoods where full-service grocers won
 
 ### Employment Scale
 
-Retail employs approximately **15.5 million workers**—roughly 10% of total US employment. Add wholesale, and the distribution sector employs over 21 million Americans. Retail is the classic "entry job"—the first formal employment for millions of teenagers and the fallback for workers displaced from other sectors.
+Retail employs approximately **15.5 million workers**—about 10% of total US employment. Add wholesale, and the distribution sector employs over 21 million Americans. Retail is the classic "entry job"—the first formal employment for millions of teenagers and the fallback for workers displaced from other sectors.
 
 ### Wage Dynamics
 
@@ -170,7 +170,7 @@ The industry is characterized by:
 Amazon's fulfillment center work is distinct from traditional retail:
 - **Physical Intensity:** Workers walk 10+ miles per shift, facing algorithmic pressure to hit pick-and-pack rates.
 - **Higher Pay:** FC jobs typically pay $2–4/hour more than comparable store positions.
-- **Injury Rates:** Amazon's injury rates are roughly double the warehouse industry average, attracting regulatory and union attention.
+- **Injury Rates:** Amazon's injury rates are nearly double the warehouse industry average, attracting regulatory and union attention.
 
 ### Automation Pressure
 
@@ -252,7 +252,7 @@ With the $24.6 billion merger blocked, the grocery industry structure is set: a 
 
 ### 4. The Dollar Store "Correction"
 
-After years of explosive growth (Dollar General opened 1,000+ stores annually for a decade), the segment is facing headwinds. Dollar Tree/Family Dollar is closing roughly 1,000 stores; Dollar General is closing roughly 140. But the footprint remains massive, and Dollar General is still opening 575 new stores in 2025. This is optimization, not decline.
+After years of explosive growth (Dollar General opened 1,000+ stores annually for a decade), the segment is facing headwinds. Dollar Tree/Family Dollar is closing about 1,000 stores; Dollar General is closing around 140. But the footprint remains massive, and Dollar General is still opening 575 new stores in 2025. This is optimization, not decline.
 
 ### 5. Omnichannel Convergence
 
@@ -268,13 +268,13 @@ Free returns were the drug used to hook consumers on e-commerce. Now, the bill i
 
 > **Quick Facts**
 > - **Headquarters:** Bentonville, AR
-> - **Revenue:** $648B total (roughly $569B US, 2024)
+> - **Revenue:** $648B total ($569B US, 2024)
 > - **Employees:** 2.1 million (largest private employer in the world)
 > - **Stores:** 4,700+ US, 10,500+ global
 
 Walmart is the definitional firm of late 20th-century American capitalism. From Sam Walton's single store in Rogers, Arkansas (1962), it grew into a logistics empire built on the "Everyday Low Price" (EDLP) model. Walton's insight was that consistent low prices—made possible by relentless cost discipline and supplier pressure—would generate sufficient volume to compensate for thin margins. He was right.
 
-In the 1980s and 1990s, Walmart's expansion crushed regional retailers and mom-and-pop stores across the American heartland. Research by Neumark et al. found that each Walmart opening reduced county-level retail employment by roughly 2.7% and payrolls by 1.5%—each Walmart worker replaced approximately 1.4 traditional retail workers. The company drove down consumer prices but also drove down wages.
+In the 1980s and 1990s, Walmart's expansion crushed regional retailers and mom-and-pop stores across the American heartland. Research by Neumark et al. found that each Walmart opening reduced county-level retail employment by about 2.7% and payrolls by 1.5%—each Walmart worker replaced approximately 1.4 traditional retail workers. The company drove down consumer prices but also drove down wages.
 
 Today, Walmart has pivoted to survive the Amazon era. Its massive store network—once seen as a liability against asset-light e-commerce—is now a strategic weapon. With 90% of Americans living within 10 miles of a Walmart, the stores function as the densest fulfillment network in the country. **Walmart+** (launched 2020) is building a subscription ecosystem to rival Prime, offering free delivery, fuel discounts, and streaming through a Paramount+ partnership. Walmart now captures 37% of the US online grocery market.
 
@@ -288,7 +288,7 @@ Today, Walmart has pivoted to survive the Amazon era. Its massive store network�
 
 Started as an online bookstore in Jeff Bezos's garage (1994), Amazon became the "everything store" through relentless expansion, loss-tolerant investors, and a willingness to sacrifice profit for growth. Its genius was not just selling goods, but building the infrastructure to move them. The fulfillment network—warehouses, sortation centers, last-mile delivery—is a moat so wide that few can cross it.
 
-**Prime membership** (200M+ subscribers globally, roughly 170M in the US) creates a powerful lock-in effect. Once you pay $139/year, Amazon becomes the default. Prime members spend roughly $1,400/year on Amazon versus $600 for non-members. The program transforms occasional shoppers into habitual users.
+**Prime membership** (200M+ subscribers globally, around 170 million in the US) creates a powerful lock-in effect. Once you pay $139/year, Amazon becomes the default. Prime members spend about $1,400/year on Amazon versus $600 for non-members. The program transforms occasional shoppers into habitual users.
 
 Crucially, Amazon's **Third-Party Marketplace** now accounts for 60% of units sold on the platform. Amazon is often the landlord of commerce rather than the merchant—collecting fees (advertising, fulfillment, referral) while third parties bear the inventory risk. This platform model generates margins far above traditional retail.
 
@@ -303,9 +303,9 @@ Physical retail experiments have been mixed. **Amazon Go** (cashierless convenie
 > - **Warehouses:** 600+ US, 900+ global
 > - **Members:** 130+ million cardholders
 
-Costco is the "anti-Walmart"—proof that a high-wage, high-loyalty retail model can succeed spectacularly. The business runs on membership fees ($65 for basic, $130 for Executive), which generate roughly $4.6 billion annually with renewal rates exceeding 90%. This membership revenue effectively *is* the profit; Costco's merchandise margins are intentionally low (capped at roughly 14% gross margin).
+Costco is the "anti-Walmart"—proof that a high-wage, high-loyalty retail model can succeed spectacularly. The business runs on membership fees ($65 for basic, $130 for Executive), which generate about $4.6 billion annually with renewal rates exceeding 90%. This membership revenue effectively *is* the profit; Costco's merchandise margins are intentionally low (capped at around 14% gross margin).
 
-While Walmart stocks 100,000+ SKUs, Costco carefully curates just **roughly 4,000 items**. This creates massive buying power per item—when Costco commits to selling a product, suppliers get enormous volume. In exchange, Costco demands the lowest possible price. If suppliers won't deliver, Costco develops the item under its **Kirkland Signature** private label, which has become a $60+ billion brand rivaling Coca-Cola in sales.
+While Walmart stocks 100,000+ SKUs, Costco carefully curates just **about 4,000 items**. This creates massive buying power per item—when Costco commits to selling a product, suppliers get enormous volume. In exchange, Costco demands the lowest possible price. If suppliers won't deliver, Costco develops the item under its **Kirkland Signature** private label, which has become a $60+ billion brand rivaling Coca-Cola in sales.
 
 The stores deliberately avoid optimization. Costco doesn't tell you where things are; the "treasure hunt" experience—wandering, discovering unexpected deals on kayaks or designer jeans—is the point. It transforms shopping from chore into entertainment for its affluent suburban customer base.
 
@@ -337,19 +337,19 @@ Costco's treatment of workers is famously generous by retail standards. Average 
 
 2. The "wheel of retailing" theory predicts that new retail formats enter as low-cost disruptors, gradually add services and raise prices, then become vulnerable to the next wave of discounters. Trace this pattern through three successive retail formats discussed in the chapter (e.g., general stores, department stores, discount stores, e-commerce). Where does Amazon currently sit in the cycle, and is there evidence that Amazon itself is becoming vulnerable to a newer, leaner competitor?
 
-3. Costco stocks roughly 4,000 SKUs compared to Walmart's 100,000+. Explain how limiting selection can be a competitive advantage, drawing on the chapter's discussion of inventory turnover (Costco turns inventory 12 times per year versus 3-4 for department stores), the Kirkland Signature private label ($60+ billion in sales), and the membership model (90%+ renewal rates). Why can't Walmart simply copy this approach?
+3. Costco stocks about 4,000 SKUs compared to Walmart's 100,000+. Explain how limiting selection can be a competitive advantage, drawing on the chapter's discussion of inventory turnover (Costco turns inventory 12 times per year versus 3-4 for department stores), the Kirkland Signature private label ($60+ billion in sales), and the membership model (90%+ renewal rates). Why can't Walmart simply copy this approach?
 
 4. Amazon's Third-Party Marketplace now accounts for 60% of units sold on the platform, with Amazon collecting fees averaging 15-20% of sale price plus fulfillment fees. How does Amazon's dual role as both a platform (landlord of commerce) and a retailer (selling its own Amazon Basics products) create potential conflicts of interest? Connect your answer to the FTC's ongoing antitrust case mentioned in the chapter.
 
 5. The FTC blocked the $24.6 billion Kroger-Albertsons merger in December 2024. Using the chapter's discussion of grocery market structure---including the dominance of Walmart (37% of online grocery), the 1-2% net margins typical in grocery, and the regional nature of grocery competition---explain two arguments for blocking the merger and one argument for allowing it.
 
-6. E-commerce has plateaued at roughly 16% of Census-defined retail sales, far below early predictions of physical retail's demise. Retail vacancy remains at historic lows (4.1%) and almost no new retail space has been built since 2008. What structural factors does the chapter identify that explain why physical stores have proven more resilient than predicted? Are there categories where online penetration is likely to remain low?
+6. E-commerce has plateaued at about 16% of Census-defined retail sales, far below early predictions of physical retail's demise. Retail vacancy remains at historic lows (4.1%) and almost no new retail space has been built since 2008. What structural factors does the chapter identify that explain why physical stores have proven more resilient than predicted? Are there categories where online penetration is likely to remain low?
 
 7. Amazon raised its minimum wage to $15/hour in 2018, and research found this created 2.3-4.7% wage spillovers at nearby non-Amazon employers. Drawing on the chapter's discussion of retail wages and the competitive retail labor market, explain the mechanism by which a single firm's wage decision can force wage increases at competing businesses. Is this a case of monopsony power being broken, or something else?
 
 ### Data Exercises
 
-8. Using the U.S. Census Bureau's Monthly Retail Trade Survey (https://www.census.gov/retail/index.html), download the most recent 12 months of total retail sales data and e-commerce sales data. Calculate e-commerce's share of total retail for each month. Has the roughly 16% plateau described in the chapter continued, increased, or declined? Present your findings in a line chart and discuss any seasonal patterns you observe.
+8. Using the U.S. Census Bureau's Monthly Retail Trade Survey (https://www.census.gov/retail/index.html), download the most recent 12 months of total retail sales data and e-commerce sales data. Calculate e-commerce's share of total retail for each month. Has the approximately 16% plateau described in the chapter continued, increased, or declined? Present your findings in a line chart and discuss any seasonal patterns you observe.
 
 9. Using the Bureau of Labor Statistics Quarterly Census of Employment and Wages (https://www.bls.gov/cew/), compare average weekly wages in NAICS 44-45 (Retail Trade) and NAICS 42 (Wholesale Trade) for the most recent year available. How large is the wage gap between retail and wholesale workers? How does this differential help explain the different business models described in the chapter---high-volume, low-margin merchandising in retail versus logistics-focused operations with 1-3% net margins in wholesale?
 

@@ -174,7 +174,7 @@ Most hospital markets are highly concentrated. A typical metropolitan area has 2
 
 ### Health Insurance
 
-The health insurance market divides into several segments:
+The health insurance market divides into several segments (see Chapter 8 for a broader examination of the insurance industry's structure and economics):
 
 **Employer-sponsored insurance**
 
@@ -280,10 +280,12 @@ Healthcare employs workers across the wage spectrum, from low-wage home health a
 ### Workforce Challenges
 
 - **Nursing shortages**: An aging nursing workforce and pandemic-related burnout have created shortages in many regions
-- **Physician distribution**: Rural areas face chronic physician shortages; specialists concentrate in urban areas
+- **Physician distribution**: Rural areas face chronic physician shortages; specialists concentrate in urban areas (see Chapter 15 for how medical education pipelines shape workforce supply)
 - **Wage pressure**: Low-wage healthcare workers (aides, assistants) face difficult working conditions
 
 ## Regulation and Policy
+
+Healthcare is among the most heavily regulated sectors of the economy, shaped by a web of federal and state agencies (see Chapter 28 for how these regulatory bodies fit within the broader federal governance framework).
 
 ### Key Regulatory Agencies
 

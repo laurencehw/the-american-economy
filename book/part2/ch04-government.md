@@ -1,4 +1,4 @@
-# Chapter 4. Government at All Levels
+# Chapter 4: Government at All Levels
 
 The United States has 89,500 governments. One federal. Fifty state. The rest---over 89,000---are local: counties, cities, townships, school districts, fire districts, water authorities, transit agencies. Each levies taxes. Each employs workers. Each writes rules. Americans talk about "the government" as if it were a single actor. It isn't.
 
@@ -18,7 +18,7 @@ The result: a system that is simultaneously massive and fragmented, powerful and
 
 ### Revenue: Where the Money Comes From
 
-**Federal Revenue** (roughly $4.5 trillion, FY 2024):
+**Federal Revenue** ($4.5 trillion, FY 2024):
 
 | Source | Amount | Share |
 |--------|--------|-------|
@@ -32,7 +32,7 @@ The result: a system that is simultaneously massive and fragmented, powerful and
 
 The federal government runs persistent deficits---spending exceeding revenue by $1-2 trillion annually since 2020. The difference is financed by borrowing (Treasury bonds), adding to the $35+ trillion national debt.
 
-**State and Local Revenue** (roughly $4 trillion):
+**State and Local Revenue** ($4 trillion):
 
 | Source | Amount | Share |
 |--------|--------|-------|
@@ -49,7 +49,7 @@ State and local governments are generally required to balance their operating bu
 
 ### Spending: What Government Buys
 
-**Federal Spending by Function** (roughly $6.5 trillion):
+**Federal Spending by Function** ($6.5 trillion):
 
 | Category | Amount | Share | Notes |
 |----------|--------|-------|-------|
@@ -69,9 +69,9 @@ State and local governments are generally required to balance their operating bu
 <figcaption>Figure 4.1: Federal spending by function. Mandatory spending (Social Security, Medicare, Medicaid) dominates, while discretionary spending is squeezed. Source: OMB Budget (FY 2024)</figcaption>
 </figure>
 
-The critical distinction: **mandatory spending** (Social Security, Medicare, Medicaid, interest) happens automatically based on eligibility laws. **Discretionary spending** requires annual appropriations. Mandatory spending is roughly 70% of the budget and growing; discretionary is roughly 30% and squeezed.
+The critical distinction: **mandatory spending** (Social Security, Medicare, Medicaid, interest) happens automatically based on eligibility laws. **Discretionary spending** requires annual appropriations. Mandatory spending is about 70% of the budget and growing; discretionary is about 30% and squeezed.
 
-**State and Local Spending by Function** (roughly $3.5 trillion net):
+**State and Local Spending by Function** ($3.5 trillion net):
 
 | Category | Share | Primary Level |
 |----------|-------|---------------|
@@ -106,7 +106,7 @@ Government directly employs 23 million Americans---about 14% of total employment
 
 *Source: Office of Personnel Management, FedScope, 2023*
 
-The federal civilian workforce has been roughly flat for 50 years despite enormous growth in federal spending---a result of contracting out, automation, and grants to states rather than direct federal employment.
+The federal civilian workforce has been essentially flat for 50 years despite enormous growth in federal spending---a result of contracting out, automation, and grants to states rather than direct federal employment.
 
 **Military Personnel** (1.3 million active duty):
 
@@ -121,7 +121,7 @@ The federal civilian workforce has been roughly flat for 50 years despite enormo
 
 *Source: Department of Defense, Defense Manpower Data Center, 2023*
 
-Plus roughly 800,000 civilian DOD employees and millions of contractor employees.
+Plus about 800,000 civilian DOD employees and millions of contractor employees.
 
 **State Government Employment** (5.2 million):
 
@@ -161,7 +161,7 @@ Local government employment is dominated by schools: teachers, administrators, a
 
 Beyond payroll, government purchases vast amounts of goods and services from the private sector:
 
-**Federal Procurement** (roughly $700 billion annually):
+**Federal Procurement** ($700 billion annually):
 
 | Category | Amount |
 |----------|--------|
@@ -200,7 +200,7 @@ The defense industrial base is concentrated: five companies (Lockheed, RTX, Gene
 
 Federal civilian employment is concentrated in several clusters:
 
-**Washington, DC Metropolitan Area**: roughly 400,000 federal civilian employees (excluding military)---the largest concentration. Every cabinet department headquarters, most agencies, and Congress are here. The DC metro has the highest concentration of federal workers of any region.
+**Washington, DC Metropolitan Area**: about 400,000 federal civilian employees (excluding military)---the largest concentration. Every cabinet department headquarters, most agencies, and Congress are here. The DC metro has the highest concentration of federal workers of any region.
 
 **Military Installations**: Major bases shape regional economies:
 - San Diego (Navy): 120,000+ military and civilian DOD
@@ -273,11 +273,11 @@ Government is the largest payer for healthcare:
 - Military healthcare (TRICARE): $50 billion
 - Other (Indian Health Service, CHIP, etc.): $50 billion
 
-Combined, government pays for roughly 45% of US healthcare spending. This makes HHS, CMS, and VA major economic actors whose payment rates shape provider behavior across the system.
+Combined, government pays for about 45% of US healthcare spending. This makes HHS, CMS, and VA major economic actors whose payment rates shape provider behavior across the system.
 
 ### Education as Government Business
 
-Public education spending (roughly $900 billion K-12, roughly $500 billion higher ed) creates enormous demand for:
+Public education spending ($900 billion K-12, $500 billion higher ed) creates enormous demand for:
 - Construction (school buildings)
 - Textbooks and curriculum (Pearson, McGraw-Hill)
 - Technology (laptops, software, internet infrastructure)
@@ -327,14 +327,14 @@ In practice, Congress rarely completes appropriations on time. Government operat
 ### Mandatory vs. Discretionary
 
 The crucial distinction:
-- **Mandatory** (Social Security, Medicare, Medicaid, interest): Spending determined by eligibility rules, not annual appropriations. roughly 70% of budget.
-- **Discretionary** (defense, education, transportation, R&D): Requires annual appropriations. roughly 30% of budget.
+- **Mandatory** (Social Security, Medicare, Medicaid, interest): Spending determined by eligibility rules, not annual appropriations. About 70% of budget.
+- **Discretionary** (defense, education, transportation, R&D): Requires annual appropriations. About 30% of budget.
 
 Mandatory spending grows automatically as the population ages and healthcare costs rise. Discretionary spending is squeezed---Congress can only appropriate what's left after mandatory obligations.
 
 ### Deficits and Debt
 
-The federal government has run deficits in most years since 1970. Annual deficits of $1-2 trillion since 2020 have pushed the national debt above $35 trillion (roughly 120% of GDP). Interest costs (roughly $700 billion annually) are now larger than defense spending.
+The federal government has run deficits in most years since 1970. Annual deficits of $1-2 trillion since 2020 have pushed the national debt above $35 trillion (about 120% of GDP). Interest costs ($700 billion annually) are now larger than defense spending.
 
 Debt sustainability depends on the relationship between interest rates (r) and economic growth (g):
 - If r < g: Debt-to-GDP ratio can stabilize even with deficits
@@ -378,7 +378,7 @@ After a post-Cold War "peace dividend" and sequestration cuts in the 2010s, defe
 
 > **Quick Facts**
 > - Headquarters: The Pentagon, Arlington, VA
-> - Budget: roughly $850 billion (FY 2024)
+> - Budget: $850 billion (FY 2024)
 > - Employees: 2.9 million (1.3M active military, 750K civilian, 800K+ reserves/guard)
 > - Secretary: Civilian, Cabinet rank
 
@@ -396,19 +396,19 @@ The department's size creates management challenges. GAO has kept DOD on its "hi
 
 > **Quick Facts**
 > - Capital: Sacramento
-> - Budget: roughly $310 billion (including federal funds)
-> - Employees: roughly 240,000 state workers
+> - Budget: $310 billion (including federal funds)
+> - Employees: about 240,000 state workers
 > - Governor: Elected, 4-year term
 
 California's state government, the largest of the 50 states, provides a window into state operations:
 
 **Major functions**:
-- Healthcare (Medi-Cal/Medicaid): roughly $150 billion, covering 15 million Californians
-- Education (K-12 state aid + higher ed): roughly $100 billion
-- Corrections: roughly $15 billion (operating the nation's largest state prison system)
-- Transportation: roughly $15 billion
+- Healthcare (Medi-Cal/Medicaid): $150 billion, covering 15 million Californians
+- Education (K-12 state aid + higher ed): $100 billion
+- Corrections: $15 billion (operating the nation's largest state prison system)
+- Transportation: $15 billion
 
-**The UC and CSU systems** employ roughly 200,000 people across 33 campuses, making higher education the largest state function by employment.
+**The UC and CSU systems** employ about 200,000 people across 33 campuses, making higher education the largest state function by employment.
 
 **Fiscal structure**: California relies heavily on income tax (especially capital gains), creating volatile revenues that surge in booms and crash in recessions. Proposition 13 (1978) capped property taxes, shifting school funding to the state and making revenue more dependent on income tax.
 
@@ -417,8 +417,8 @@ California's state government, the largest of the 50 states, provides a window i
 ### New York City Government
 
 > **Quick Facts**
-> - Budget: roughly $110 billion
-> - Employees: roughly 330,000
+> - Budget: $110 billion
+> - Employees: about 330,000
 > - Mayor: Elected, 4-year term
 > - Population: 8.3 million
 
@@ -437,15 +437,15 @@ New York City operates the largest municipal government in the United States, wi
 
 ## The Nonprofit Sector: Government's Shadow Economy
 
-Any account of government's economic footprint that stops at official government budgets and payrolls understates reality by a wide margin. The nonprofit sector---roughly 1.8 million organizations registered with the IRS---functions as a parallel delivery system for public-purpose spending, blurring the line between government and private enterprise. Section 501(c)(3) organizations alone account for approximately $2.6 trillion in annual revenue and employ 12.5 million workers, about 10% of the private workforce. That makes nonprofits the third-largest employer category in the United States, behind only retail trade and accommodation/food service.
+Any account of government's economic footprint that stops at official government budgets and payrolls understates reality by a wide margin. The nonprofit sector---about 1.8 million organizations registered with the IRS---functions as a parallel delivery system for public-purpose spending, blurring the line between government and private enterprise. Section 501(c)(3) organizations alone account for approximately $2.6 trillion in annual revenue and employ 12.5 million workers, about 10% of the private workforce. That makes nonprofits the third-largest employer category in the United States, behind only retail trade and accommodation/food service.
 
-The sector's scale is driven overwhelmingly by two industries that also dominate government budgets: healthcare and education. Healthcare organizations---hospitals, nursing facilities, health systems---generate roughly 60% of all nonprofit revenue. Many of the nation's largest "nonprofits" are hospital systems with revenues that rival Fortune 500 companies: Kaiser Permanente, Ascension, and Providence each operate sprawling networks with annual revenue in the tens of billions. Education institutions account for the next major share. Harvard University's endowment exceeds $50 billion, larger than the GDP of over half the world's countries. Human services organizations---food banks, homeless shelters, job training programs---are far more numerous but individually smaller. And religious congregations, numbering roughly 380,000 churches alone, form the most visible layer of the sector in most communities, though they account for a modest share of total nonprofit revenue.
+The sector's scale is driven overwhelmingly by two industries that also dominate government budgets: healthcare and education. Healthcare organizations---hospitals, nursing facilities, health systems---generate about 60% of all nonprofit revenue. Many of the nation's largest "nonprofits" are hospital systems with revenues that rival Fortune 500 companies: Kaiser Permanente, Ascension, and Providence each operate sprawling networks with annual revenue in the tens of billions. Education institutions account for the next major share. Harvard University's endowment exceeds $50 billion, larger than the GDP of over half the world's countries. Human services organizations---food banks, homeless shelters, job training programs---are far more numerous but individually smaller. And religious congregations, numbering about 380,000 churches alone, form the most visible layer of the sector in most communities, though they account for a modest share of total nonprofit revenue.
 
 The nonprofit business model rests on a specific bargain with government: organizations receive tax-exempt status---no federal income tax, state and local property tax exemptions, and the ability to receive tax-deductible donations---in exchange for a constraint on ownership. Nonprofits may not distribute surplus revenue to owners or shareholders. They must reinvest. In practice, this constraint is less binding than it appears. Nonprofit hospital CEOs earn multimillion-dollar compensation packages. Nonprofit universities accumulate endowments they are under no obligation to spend. The largest nonprofit health systems cross-subsidize internally, using profitable service lines (cardiac surgery, orthopedics) to fund mission-driven but money-losing ones (psychiatric care, community clinics). The boundary between nonprofit and for-profit has blurred to the point where nonprofit hospital systems frequently operate in ways indistinguishable from their for-profit counterparts---a tension explored further in the healthcare chapter (Chapter 6).
 
 The most important fact about nonprofit finance is the degree of government dependence. Approximately one-third of all nonprofit revenue---some $850 billion---flows directly from government through grants, contracts, and program payments. Medicare and Medicaid payments sustain nonprofit hospitals. Pell Grants and federal research funding flow through nonprofit universities (Chapter 15). State and county governments contract with nonprofit agencies to deliver foster care, addiction treatment, refugee resettlement, and dozens of other social services. In these domains, nonprofits are not independent charitable actors; they are government subcontractors, executing public policy with public funds but operating under private governance with limited public accountability.
 
-The geographic significance of nonprofits is acute in smaller cities and college towns, where "eds and meds"---universities and hospitals---often serve as anchor institutions and the largest employers. In cities like Ann Arbor, New Haven, Rochester, and Providence, the local nonprofit hospital or university employs more people than any private firm and owns more real estate than any other entity. Workers in the nonprofit sector accept a wage penalty of roughly 10--15% compared to equivalent for-profit positions, partially offset by benefit packages and the intangible compensation of mission-driven work. But this wage gap also means the sector's growth exerts downward pressure on local wages in the communities it dominates.
+The geographic significance of nonprofits is acute in smaller cities and college towns, where "eds and meds"---universities and hospitals---often serve as anchor institutions and the largest employers. In cities like Ann Arbor, New Haven, Rochester, and Providence, the local nonprofit hospital or university employs more people than any private firm and owns more real estate than any other entity. Workers in the nonprofit sector accept a wage penalty of about 10–15% compared to equivalent for-profit positions, partially offset by benefit packages and the intangible compensation of mission-driven work. But this wage gap also means the sector's growth exerts downward pressure on local wages in the communities it dominates.
 
 {% hint style="info" %}
 **PILOT Programs: The Property Tax Tension**
@@ -492,9 +492,9 @@ Taken together, the nonprofit sector represents a distinctive feature of America
 
 1. The United States has 89,500 governments---more than any other developed nation. What are the consequences of this fragmentation for accountability, efficiency, and citizen experience? Give a specific example of how overlapping federal, state, and local authority creates confusion in a policy area discussed in the chapter.
 
-2. Mandatory spending (Social Security, Medicare, Medicaid, interest on debt) constitutes roughly 70% of the federal budget and grows automatically, while discretionary spending requires annual appropriations. Explain why this structure makes it increasingly difficult for Congress to fund priorities like infrastructure, education, and R&D. What would have to change for discretionary spending to grow?
+2. Mandatory spending (Social Security, Medicare, Medicaid, interest on debt) constitutes about 70% of the federal budget and grows automatically, while discretionary spending requires annual appropriations. Explain why this structure makes it increasingly difficult for Congress to fund priorities like infrastructure, education, and R&D. What would have to change for discretionary spending to grow?
 
-3. The federal civilian workforce has been roughly flat at 2.2 million for 50 years, even as federal spending has grown enormously. The chapter attributes this to the rise of the "contractor state." What are the advantages of delivering government services through contractors rather than federal employees? What accountability problems does contracting create?
+3. The federal civilian workforce has been essentially flat at 2.2 million for 50 years, even as federal spending has grown enormously. The chapter attributes this to the rise of the "contractor state." What are the advantages of delivering government services through contractors rather than federal employees? What accountability problems does contracting create?
 
 4. The F-35 fighter program involves 1,500+ suppliers across 46 states---a distribution the chapter describes as "deliberately structured to create Congressional support." Explain how this geographic dispersion functions as a political strategy. What are the consequences for cost control and program management?
 

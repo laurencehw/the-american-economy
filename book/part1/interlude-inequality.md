@@ -28,7 +28,7 @@ Median household income in the United States was approximately $80,600 in 2023 (
 {% hint style="info" %}
 **Mean vs. Median**
 
-The mean (average) household income is roughly $115,000---44% higher than the median. This gap is itself a measure of inequality: the distribution is heavily right-skewed, meaning a relatively small number of very high-income households pull the average far above what the typical household earns. Whenever you see "average income" cited, ask whether it's the mean or the median. The difference matters enormously.
+The mean (average) household income is about $115,000---44% higher than the median. This gap is itself a measure of inequality: the distribution is heavily right-skewed, meaning a relatively small number of very high-income households pull the average far above what the typical household earns. Whenever you see "average income" cited, ask whether it's the mean or the median. The difference matters enormously.
 {% endhint %}
 
 <figure>
@@ -40,8 +40,8 @@ The mean (average) household income is roughly $115,000---44% higher than the me
 
 The most important distributional trend of the past 50 years is the divergence at the top. Using data from tax returns, economists Thomas Piketty and Emmanuel Saez documented that:
 
-- The **top 1%** captured roughly 10% of pre-tax national income in 1970. By 2023, their share had risen to approximately 20%.
-- The **top 0.1%** (about 130,000 households) saw their share rise from 3% to roughly 10% of national income.
+- The **top 1%** captured about 10% of pre-tax national income in 1970. By 2023, their share had risen to approximately 20%.
+- The **top 0.1%** (about 130,000 households) saw their share rise from 3% to about 10% of national income.
 - The **bottom 50%** saw their share decline from approximately 20% to about 13%.
 
 These shifts are not the result of population growth or demographic change. They reflect a genuine reallocation of economic gains from the broad middle to the top of the distribution.
@@ -55,13 +55,13 @@ These shifts are not the result of population growth or demographic change. They
 
 Income inequality has multiple structural causes, most of which connect to the sectoral analysis in Part II:
 
-**The education premium**. Workers with a bachelor's degree earn roughly 65% more than those with only a high school diploma---up from about 40% in 1980. Graduate and professional degrees command even larger premiums. As the economy has shifted toward knowledge-intensive sectors (Chapter 7, Professional Services; Chapter 11, Technology), demand for educated workers has outpaced supply, driving up their wages relative to less-educated workers.
+**The education premium**. Workers with a bachelor's degree earn about 65% more than those with only a high school diploma---up from about 40% in 1980. Graduate and professional degrees command even larger premiums. As the economy has shifted toward knowledge-intensive sectors (Chapter 7, Professional Services; Chapter 11, Technology), demand for educated workers has outpaced supply, driving up their wages relative to less-educated workers.
 
 **The decline of mid-wage jobs**. Automation and offshoring have hollowed out the middle of the wage distribution. Manufacturing jobs (Chapter 9) that once paid $25-35/hour have been replaced by a combination of higher-paid technical jobs and lower-paid service jobs. The labor market has "polarized" into high-skill, high-wage work and low-skill, low-wage work, with less in between.
 
 **The rise of winner-take-all markets**. In technology (Chapter 11), finance (Chapter 8), professional services (Chapter 7), and entertainment, top performers capture disproportionate rewards. Network effects, global markets, and scalable production mean that the best software engineer, fund manager, or athlete can serve a much larger market than their predecessors could---and capture a much larger share of the revenue.
 
-**Institutional changes**. Union membership has fallen from 35% of private-sector workers in the 1950s to under 6% today (Chapter 30). The federal minimum wage has been $7.25 since 2009, losing roughly 30% of its purchasing power to inflation. Corporate governance has shifted toward maximizing shareholder value, which has directed more income to capital owners and top executives.
+**Institutional changes**. Union membership has fallen from 35% of private-sector workers in the 1950s to under 6% today (Chapter 30). The federal minimum wage has been $7.25 since 2009, losing 30% of its purchasing power to inflation. Corporate governance has shifted toward maximizing shareholder value, which has directed more income to capital owners and top executives.
 
 **Tax policy**. Top marginal income tax rates fell from 70% in 1980 to 37% today. Capital gains are taxed at lower rates than wage income. These policy choices amplify pre-tax inequality into even larger after-tax differences.
 
@@ -88,7 +88,7 @@ The Federal Reserve's Survey of Consumer Finances (SCF) provides the most compre
 
 *Source: Federal Reserve, Survey of Consumer Finances, 2022; Federal Reserve Distributional Financial Accounts*
 
-The bottom 50% of American households---roughly 65 million families---own 2.5% of the nation's wealth. The top 1%---about 1.3 million families---own 30%. This concentration is more extreme than at any point since the 1920s.
+The bottom 50% of American households---about 65 million families---own 2.5% of the nation's wealth. The top 1%---about 1.3 million families---own 30%. This concentration is more extreme than at any point since the 1920s.
 
 <figure>
 <img src="../_figures/interlude/interlude_wealth_distribution.png" alt="U.S. wealth distribution: top 1% owns 32%, top 10% owns 69%, bottom 50% owns just 2.6%" style="width: 100%; max-width: 800px;">
@@ -99,11 +99,11 @@ The bottom 50% of American households---roughly 65 million families---own 2.5% o
 
 Several mechanisms amplify wealth inequality beyond income inequality:
 
-**Asset appreciation**. The wealthy hold their assets primarily in equities and real estate, which have appreciated dramatically. The S&P 500 returned roughly 10% annually over the past four decades. A family that owned $1 million in stocks in 1990 holds roughly $17 million today from appreciation alone---no additional saving required. Meanwhile, a family with $5,000 in a savings account earned negligible returns.
+**Asset appreciation**. The wealthy hold their assets primarily in equities and real estate, which have appreciated dramatically. The S&P 500 returned about 10% annually over the past four decades. A family that owned $1 million in stocks in 1990 holds about $17 million today from appreciation alone---no additional saving required. Meanwhile, a family with $5,000 in a savings account earned negligible returns.
 
 **Homeownership as the dividing line**. For middle-class families, home equity is the primary form of wealth. Homeownership rates vary dramatically by income, race, and geography. In high-cost metros (Chapter 3), rising home prices created enormous wealth for existing owners while locking out newcomers. For renters---disproportionately low-income, young, and minority---rising housing costs are a pure expense, building no wealth.
 
-**Inheritance and intergenerational transmission**. Wealth is passed between generations. The Federal Reserve estimates that roughly $70 trillion will be transferred via inheritance over the next 25 years---overwhelmingly within already-wealthy families. This perpetuates inequality across generations independent of individual effort or talent.
+**Inheritance and intergenerational transmission**. Wealth is passed between generations. The Federal Reserve estimates that about $70 trillion will be transferred via inheritance over the next 25 years---overwhelmingly within already-wealthy families. This perpetuates inequality across generations independent of individual effort or talent.
 
 **Debt as negative wealth**. Many low-income and young households have *negative* net worth: their debts (student loans, credit cards, auto loans) exceed their assets. The student debt burden alone stands at $1.75 trillion, disproportionately borne by younger, less-wealthy Americans.
 
@@ -120,7 +120,7 @@ The most striking dimension of wealth inequality in America runs along racial li
 
 *Source: Federal Reserve, Survey of Consumer Finances, 2022*
 
-The median white household holds roughly six times the wealth of the median Black household. This gap has persisted---and in some periods widened---despite decades of civil rights legislation, affirmative action, and educational attainment gains among Black Americans.
+The median white household holds about six times the wealth of the median Black household. This gap has persisted---and in some periods widened---despite decades of civil rights legislation, affirmative action, and educational attainment gains among Black Americans.
 
 {% hint style="warning" %}
 **Common Misconception: The Racial Wealth Gap Is About Income Differences**
@@ -138,11 +138,11 @@ The roots of the racial wealth gap are structural and historical:
 
 As Chapter 3 documented, economic activity concentrates geographically. So do income and wealth.
 
-**Metro divergence**: Per capita income in the San Francisco metro area exceeds $100,000; in the McAllen, Texas metro area, it's roughly $25,000. This 4:1 ratio within a single country is extraordinary by international standards.
+**Metro divergence**: Per capita income in the San Francisco metro area exceeds $100,000; in the McAllen, Texas metro area, it's about $25,000. This 4:1 ratio within a single country is extraordinary by international standards.
 
 **The cost-of-living adjustment**: High-income metros also have high costs, particularly housing. After adjusting for local prices, some high-income metros (San Francisco, New York) offer less purchasing power than lower-cost alternatives (Houston, Minneapolis). But the adjustment doesn't eliminate the gap---it merely narrows it.
 
-**Rural-urban divergence**: Rural workers earn roughly 70% of urban wages. The gap has widened over time as knowledge-economy jobs concentrate in metros while rural areas depend on lower-productivity sectors (agriculture, extraction, government services).
+**Rural-urban divergence**: Rural workers earn about 70% of urban wages. The gap has widened over time as knowledge-economy jobs concentrate in metros while rural areas depend on lower-productivity sectors (agriculture, extraction, government services).
 
 <figure>
 <img src="../_figures/interlude/interlude_geographic_income.png" alt="Per capita income map showing coastal metros far above interior, with San Francisco and New York leading" style="width: 100%; max-width: 800px;">
@@ -157,15 +157,15 @@ The gap varies dramatically by occupation and sector:
 
 - In healthcare (Chapter 6), women dominate nursing and allied health but are underrepresented among surgeons and specialists---the highest-paid positions.
 - In finance (Chapter 8), women hold 50%+ of entry-level positions but less than 25% of C-suite and managing director roles.
-- In technology (Chapter 11), women represent roughly 28% of the workforce, and the gap widens at senior levels.
+- In technology (Chapter 11), women represent about 28% of the workforce, and the gap widens at senior levels.
 
 {% hint style="info" %}
 **Explained vs. Unexplained Gap**
 
-Economists decompose the gender pay gap into "explained" factors (differences in occupation, industry, hours worked, education, experience) and an "unexplained" residual. Roughly 55-60% of the gap is "explained" by these measurable differences; the remaining 40-45% persists after controlling for all observable characteristics. The unexplained portion is consistent with---though does not definitively prove---discrimination, negotiation differences, and unmeasured factors like willingness to relocate or work unpredictable hours.
+Economists decompose the gender pay gap into "explained" factors (differences in occupation, industry, hours worked, education, experience) and an "unexplained" residual. About 55–60% of the gap is "explained" by these measurable differences; the remaining 40-45% persists after controlling for all observable characteristics. The unexplained portion is consistent with---though does not definitively prove---discrimination, negotiation differences, and unmeasured factors like willingness to relocate or work unpredictable hours.
 {% endhint %}
 
-A key structural factor is the **motherhood penalty**: women's earnings decline significantly after having children, while men's do not. Research by Henrik Kleven and colleagues shows that 10 years after a first birth, women earn roughly 40% less than comparable women without children. This reflects some combination of reduced hours, career interruptions, employer discrimination against mothers, and sorting into more flexible but lower-paying positions. The childcare infrastructure---or lack thereof---documented in Chapter 30 is central to this dynamic.
+A key structural factor is the **motherhood penalty**: women's earnings decline significantly after having children, while men's do not. Research by Henrik Kleven and colleagues shows that 10 years after a first birth, women earn about 40% less than comparable women without children. This reflects some combination of reduced hours, career interruptions, employer discrimination against mothers, and sorting into more flexible but lower-paying positions. The childcare infrastructure---or lack thereof---documented in Chapter 30 is central to this dynamic.
 
 ## Intergenerational Mobility
 
@@ -173,10 +173,10 @@ If inequality were temporary---if today's poor were tomorrow's middle class---di
 
 Economist Raj Chetty and colleagues, using IRS tax records for millions of Americans, found that:
 
-- A child born to parents in the bottom 20% of the income distribution has roughly a **7.5% chance** of reaching the top 20% as an adult.
-- A child born to parents in the top 20% has roughly a **33% chance** of remaining there.
+- A child born to parents in the bottom 20% of the income distribution has about a **7.5% chance** of reaching the top 20% as an adult.
+- A child born to parents in the top 20% has about a **33% chance** of remaining there.
 - Mobility varies dramatically by geography: Charlotte, NC has mobility rates comparable to developing countries; Salt Lake City's rates rival Denmark's.
-- Mobility has declined over time: roughly 90% of children born in 1940 earned more than their parents; for children born in 1980, the figure is roughly 50%.
+- Mobility has declined over time: about 90% of children born in 1940 earned more than their parents; for children born in 1980, the figure is about 50%.
 
 <figure>
 <img src="../_figures/interlude/interlude_mobility_map.png" alt="Map of upward mobility rates by county showing highest mobility in Great Plains and lowest in Southeast" style="width: 100%; max-width: 800px;">
@@ -198,7 +198,7 @@ The economy described in the chapters ahead is not a neutral machine. It produce
 
 ## Key Takeaways
 
-1. **Income inequality has risen sharply since 1970.** The top 1% now receives roughly 20% of national income, up from 10%. The bottom 50%'s share has declined from 20% to 13%.
+1. **Income inequality has risen sharply since 1970.** The top 1% now receives about 20% of national income, up from 10%. The bottom 50%'s share has declined from 20% to 13%.
 
 2. **Wealth inequality is more extreme than income inequality.** The top 10% own 67% of all wealth; the bottom 50% own 2.5%. Wealth compounds through asset appreciation, inheritance, and differential access to financial markets.
 
@@ -206,7 +206,7 @@ The economy described in the chapters ahead is not a neutral machine. It produce
 
 4. **Geographic inequality is severe and growing.** Per capita income varies 4:1 across metro areas. Rural-urban divergence has widened as knowledge-economy jobs concentrate in major metros.
 
-5. **Intergenerational mobility has declined.** A child born poor in the U.S. has a roughly 7.5% chance of reaching the top quintile---lower than in most peer nations. Mobility varies enormously by geography.
+5. **Intergenerational mobility has declined.** A child born poor in the U.S. has about a 7.5% chance of reaching the top quintile---lower than in most peer nations. Mobility varies enormously by geography.
 
 6. **Distribution is structural, not incidental.** Sector, geography, financial access, and institutional rules determine who benefits from economic growth. Understanding the economy requires understanding its distributional outcomes.
 
@@ -233,17 +233,17 @@ The economy described in the chapters ahead is not a neutral machine. It produce
 
 ### Review Questions
 
-1. The top 1% receives roughly 20% of national income while the bottom 50% receives roughly 13%. Explain three structural factors that drive this divergence. For each, identify which sector chapter(s) in Part II are most relevant.
+1. The top 1% receives about 20% of national income while the bottom 50% receives about 13%. Explain three structural factors that drive this divergence. For each, identify which sector chapter(s) in Part II are most relevant.
 
 2. The median white household holds six times the wealth of the median Black household. Why does controlling for income differences *not* eliminate this gap? Identify at least three historical and structural factors that contribute independently.
 
 3. Explain the concept of "job polarization." How does it relate to the sectoral structure described in Part II---specifically, the decline of manufacturing employment (Chapter 9) and the growth of both professional services (Chapter 7) and leisure/hospitality (Chapter 17)?
 
-4. The text states that roughly 50% of children born in 1980 earned more than their parents, compared to 90% of those born in 1940. What economic and structural changes over that period might explain this decline in absolute mobility?
+4. The text states that about 50% of children born in 1980 earned more than their parents, compared to 90% of those born in 1940. What economic and structural changes over that period might explain this decline in absolute mobility?
 
 5. Why is wealth more unequally distributed than income? Identify at least three mechanisms that cause wealth concentration to exceed income concentration.
 
-6. The gender pay gap has plateaued at roughly 84 cents per dollar since about 2005. Using the concepts of "explained" and "unexplained" components, describe what structural changes might be needed to close the remaining gap.
+6. The gender pay gap has plateaued at about 84 cents per dollar since about 2005. Using the concepts of "explained" and "unexplained" components, describe what structural changes might be needed to close the remaining gap.
 
 ### Data Exercises
 

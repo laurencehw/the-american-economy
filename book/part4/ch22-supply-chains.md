@@ -58,7 +58,7 @@ The physical movement of goods relies on specific high-volume corridors connecti
 
 ### The Transpacific Corridor
 
-**Gateway**: The San Pedro Bay Complex (Ports of Los Angeles and Long Beach) handles 30-40% of all U.S. containerized imports. These twin ports process over 17 million TEUs (twenty-foot equivalent units) annually, dominated by trade with Asia.
+**Gateway**: The San Pedro Bay Complex (Ports of Los Angeles and Long Beach) handles 30-40% of all U.S. containerized imports (see Chapter 12 for the broader transportation infrastructure connecting these ports to the domestic economy). These twin ports process over 17 million TEUs (twenty-foot equivalent units) annually, dominated by trade with Asia.
 
 **Inland Distribution**: Goods move east via the Alameda Corridor rail link to massive intermodal yards and warehouses in the Inland Empire (Ontario, Riverside, San Bernardino). From there, Union Pacific and BNSF rail lines carry containers to Chicago, Dallas, and Memphis for further distribution.
 
@@ -145,7 +145,7 @@ Whether these investments can restore U.S. competitiveness remains uncertain. Bu
 
 ## Automotive Supply Chains
 
-The North American automotive industry functions as a single integrated production network, with components crossing borders multiple times before a vehicle is completed.
+The North American automotive industry functions as a single integrated production network, with components crossing borders multiple times before a vehicle is completed (see Chapter 9 for the domestic manufacturing base that anchors this network).
 
 ### The USMCA Rules
 
@@ -290,7 +290,7 @@ The result: automakers parked tens of thousands of unfinished vehicles, waiting 
 
 ### Lessons and Responses
 
-The crisis forced corporate reevaluation of supply chain strategy:
+The crisis forced corporate reevaluation of supply chain strategy (Chapter 32 analyzes how such disruptions propagate through the broader economy):
 
 {% hint style="warning" %}
 **The Bullwhip Effect**

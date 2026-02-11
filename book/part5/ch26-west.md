@@ -54,6 +54,11 @@ The current AI boom, concentrated in San Francisco, has reversed some pandemic-e
 
 The costs are legendary: median home prices exceed $1.3 million; office rents in premium locations top $100 per square foot; a family earning $150,000 qualifies as "low income" for housing assistance. These costs push out the middle class, hollow out the public sector (teachers, police, nurses cannot afford to live there), and create the homelessness visible on city streets.
 
+{% hint style="info" %}
+**Venture Capital and Network Effects**
+Venture capital (VC) is a form of private equity financing provided to early-stage, high-growth companies in exchange for equity stakes. The Bay Area's VC dominance is self-reinforcing through *network effects*: the more startups, investors, and experienced executives concentrate in one place, the more valuable it becomes for the next startup to locate there. Founders gain access to mentors, talent, and follow-on funding; investors gain access to deal flow and co-investment partners. This creates a winner-take-most dynamic in which the Bay Area captures half of all U.S. venture investment despite housing less than 3% of the population.
+{% endhint %}
+
 The region's venture capital ecosystem remains unmatched. Of the $170 billion invested in U.S. startups in 2023, roughly $85 billion---half---flowed through Bay Area investors into Bay Area companies. This dominance has persisted despite predictions of tech diaspora; if anything, the AI boom has concentrated venture activity even further.
 
 The two metropolitan areas within the Bay Area---San Francisco and San Jose---function as distinct but interconnected economies. San Jose and Silicon Valley proper (Santa Clara and San Mateo counties) host the hardware and established technology companies: Apple, Alphabet, Nvidia, Intel. San Francisco hosts the younger software and AI companies: Salesforce, Uber, Airbnb, OpenAI, Anthropic. The two have different characters---San Jose is suburban, car-dependent, corporate; San Francisco is urban, walkable, startup-oriented---but workers and companies move fluidly between them.

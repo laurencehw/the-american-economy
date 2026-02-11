@@ -6,6 +6,11 @@ Walk down K Street in Washington and you pass the headquarters of organized busi
 
 Trade associations exist to solve a collective action problem. Individual firms have interests in common---favorable tax treatment, light regulation, access to markets---but each firm would prefer to free-ride on others' political efforts. Associations pool resources, coordinate strategy, and speak with a unified voice that commands attention.
 
+{% hint style="info" %}
+**The Collective Action Problem (Olson)**
+Economist Mancur Olson demonstrated in *The Logic of Collective Action* (1965) that groups with shared interests often fail to organize because each member has an incentive to free-ride on others' efforts. The insight explains why *concentrated* interests (a few large firms in one industry) organize more effectively than *diffuse* interests (millions of consumers each losing a few dollars). A tariff that costs every American household $20 per year but generates $500 million for a handful of domestic producers will be fiercely lobbied for by producers and barely noticed by consumers. This asymmetry---small groups with large per-member stakes outlobbying large groups with small per-member stakes---is a central reason why industry lobbying is so effective at shaping policy.
+{% endhint %}
+
 <figure>
 <img src="../_figures/ch29/ch29_lobbying_spending.png" alt="Federal lobbying expenditures tripling from $1.4 billion in 2000 to over $4.5 billion by 2024" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 29.1: Federal lobbying spending has tripled since 2000. Industry groups, trade associations, and corporations compete for political influence. Source: OpenSecrets</figcaption>
@@ -30,7 +35,7 @@ The Chamber's influence derives from its scale and staying power. While individu
 
 ### National Association of Manufacturers (NAM)
 
-NAM represents the industrial sector, with 14,000 member companies (roughly 85% small and medium enterprises). Its focus on manufacturing gives it particular credibility on trade, energy, and labor policy.
+NAM represents the industrial sector (see Chapter 9 for the structure of American manufacturing), with 14,000 member companies (roughly 85% small and medium enterprises). Its focus on manufacturing gives it particular credibility on trade, energy, and labor policy.
 
 **Key Statistics:**
 - Revenue: $62 million (2024)
@@ -76,7 +81,7 @@ While the Big Four represent business generally, industry-specific associations 
 
 ### The National Association of Realtors
 
-NAR is the "sleeping giant" of the lobbying world. With 1.49 million members---real estate agents in virtually every congressional district---and $86 million in annual lobbying spending, NAR wields unmatched political influence on housing policy.
+NAR is the "sleeping giant" of the lobbying world. With 1.49 million members---real estate agents in virtually every congressional district---and $86 million in annual lobbying spending, NAR wields unmatched political influence on the housing and real estate sector examined in Chapter 5.
 
 NAR's priorities include protecting the mortgage interest deduction, maintaining favorable capital gains treatment for home sales, and opposing policies that might reduce transaction volumes. The association's political action committee is consistently among the largest, contributing to candidates of both parties.
 
@@ -84,7 +89,7 @@ The 2024 antitrust settlement requiring changes to NAR's commission practices ma
 
 ### PhRMA
 
-The Pharmaceutical Research and Manufacturers of America represents brand-name drug companies. PhRMA's $30 million in disclosed lobbying is supplemented by advertising campaigns, support for patient advocacy groups, and funding for policy research.
+The Pharmaceutical Research and Manufacturers of America represents brand-name drug companies whose industry is examined in Chapter 6. PhRMA's $30 million in disclosed lobbying is supplemented by advertising campaigns, support for patient advocacy groups, and funding for policy research.
 
 PhRMA's core mission is maintaining the pricing environment that funds pharmaceutical R&D. The industry argues that high U.S. prices subsidize the risky, expensive research that produces new treatments, and that price controls would reduce innovation. Critics counter that prices exceed what innovation requires, that much basic research is publicly funded, and that other countries with lower prices still produce pharmaceutical breakthroughs. When Congress debates Medicare negotiation, importation, or reference pricing, both sides mobilize. The Inflation Reduction Act's Medicare negotiation provisions represented the first major change to pharmaceutical pricing policy in decades.
 

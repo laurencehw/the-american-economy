@@ -1,4 +1,4 @@
-# Chapter 14. Energy
+# Chapter 14: Energy
 
 The United States consumes more energy than any country except China, burning through roughly 100 quadrillion BTUs annually---the equivalent of 20 million barrels of oil per day. This energy powers an $800 billion sector that spans oil fields in the Permian Basin, natural gas pipelines crisscrossing the continent, nuclear plants operating since the 1970s, wind farms across the Great Plains, and solar installations spreading across rooftops and deserts. The American energy system is simultaneously ancient (some coal plants date to the 1950s) and revolutionary (solar costs have fallen 90% in a decade). Understanding energy means understanding both the legacy infrastructure that still dominates and the transformation now underway.
 
@@ -636,7 +636,7 @@ Ensuring that the clean energy economy does not replicate the environmental ineq
 
 ## Mining and Natural Resources Beyond Energy
 
-The energy transition discussed above depends on something easy to overlook: physical materials dug out of the ground. Every solar panel requires copper and silicon, every EV battery requires lithium and nickel, every wind turbine requires rare earth magnets. Mining (NAICS 21, excluding oil and gas) employs roughly 200,000 workers and generates roughly $100 billion in annual output---small by GDP share but strategically vital and geographically concentrated in ways that shape regional economies from Arizona to Minnesota.
+The energy transition discussed above depends on something easy to overlook: physical materials dug out of the ground. Every solar panel requires copper and silicon, every EV battery requires lithium and nickel, every wind turbine requires rare earth magnets. Mining (NAICS 21, excluding oil and gas) employs roughly 200,000 workers and generates about $100 billion in annual output---small by GDP share but strategically vital and geographically concentrated in ways that shape regional economies from Arizona to Minnesota.
 
 ### Key Minerals and Their Geography
 

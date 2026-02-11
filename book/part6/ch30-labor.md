@@ -4,7 +4,7 @@ In September 2023, the United Auto Workers launched a strike against all three D
 
 ## The State of Organized Labor
 
-Union membership has declined for decades, from roughly 35% of private-sector workers in the 1950s to under 6% today. The total union membership rate---including public sector workers, where unions remain strong---stands at 9.9%, representing 14.3 million workers.
+Union membership has declined for decades, from about 35% of private-sector workers in the 1950s to under 6% today. The total union membership rate---including public sector workers, where unions remain strong---stands at 9.9%, representing 14.3 million workers.
 
 **Union Membership Trends**
 
@@ -34,7 +34,7 @@ The divergence between sectors tells the story. Public-sector workers---teachers
 
 The largest unions today represent public-sector workers.
 
-**The National Education Association (NEA)**, with roughly 3 million members, is the largest union in the country. It represents public school teachers, administrators, and support staff. The NEA's political operation is formidable; its endorsement carries weight in Democratic primaries, and its members provide campaign volunteers.
+**The National Education Association (NEA)**, with about 3 million members, is the largest union in the country. It represents public school teachers, administrators, and support staff. The NEA's political operation is formidable; its endorsement carries weight in Democratic primaries, and its members provide campaign volunteers.
 
 **The American Federation of Teachers (AFT)**, with 1.7 million members, is the NEA's smaller counterpart, stronger in urban districts and representing nurses and higher education faculty alongside K-12 teachers.
 
@@ -42,7 +42,7 @@ The largest unions today represent public-sector workers.
 
 ### Service and Healthcare Workers
 
-**The Service Employees International Union (SEIU)**, with roughly 2 million members, represents the diverse low-wage service economy: hospital workers, janitors, security guards, home health aides. SEIU pioneered the "corporate campaign" strategy---pressuring employers through public relations, shareholder activism, and political action rather than traditional workplace organizing.
+**The Service Employees International Union (SEIU)**, with about 2 million members, represents the diverse low-wage service economy: hospital workers, janitors, security guards, home health aides. SEIU pioneered the "corporate campaign" strategy---pressuring employers through public relations, shareholder activism, and political action rather than traditional workplace organizing.
 
 **The United Food and Commercial Workers (UFCW)**, with 1.3 million members, represents grocery workers, meatpackers, and retail employees. UFCW's contracts cover workers at Kroger, Albertsons, and other major grocery chains. The union has also organized cannabis dispensary workers as that industry has expanded.
 
@@ -143,7 +143,7 @@ The threat of a strike during peak summer shipping season gave the Teamsters lev
 
 Beyond traditional strongholds, unions have attempted to organize workers in sectors with little union history.
 
-**Starbucks Workers United** has organized over 500 stores since 2021, representing roughly 11,000 workers. But no first contract has been reached; Starbucks has contested elections, challenged certification, and bargained slowly. The gap between winning an election and achieving a contract illustrates the limits of current labor law.
+**Starbucks Workers United** has organized over 500 stores since 2021, representing about 11,000 workers. But no first contract has been reached; Starbucks has contested elections, challenged certification, and bargained slowly. The gap between winning an election and achieving a contract illustrates the limits of current labor law.
 
 **Amazon Labor Union** won a surprise victory at Staten Island's JFK8 warehouse in 2022. Amazon has refused to bargain, challenging the election results through legal proceedings. In 2024, ALU affiliated with the Teamsters, seeking resources and leverage to force Amazon to the table.
 
@@ -170,7 +170,7 @@ A structural challenge facing organized labor extends beyond declining unionizat
 
 Estimates vary, but roughly 36% of American workers participate in some form of gig work, though only 10-15% rely on it as primary income. The phenomenon extends far beyond the ride-share and delivery apps that dominate public perception:
 
-- **Transportation**: Uber and Lyft drivers (roughly 2 million), DoorDash and Instacart delivery workers
+- **Transportation**: Uber and Lyft drivers (about 2 million), DoorDash and Instacart delivery workers
 - **Healthcare**: Travel nurses (agencies provide "gig-like" flexibility), home health aides, locum tenens physicians
 - **Construction**: Day laborers, specialty subcontractors who cycle between jobs
 - **Professional Services**: Consultants, freelance accountants, contract lawyers
@@ -260,9 +260,9 @@ The decline of unions is one part of a broader transformation in how Americans w
 
 ### Remote and Hybrid Work
 
-The COVID-19 pandemic compressed a decade of gradual workplace change into a few months. Before March 2020, roughly 5% of full paid workdays in the United States were performed remotely. By mid-2020, that figure exceeded 60%. As of 2024, it has settled at roughly 25-30%---a fivefold increase from pre-pandemic levels that shows no signs of reverting.
+The COVID-19 pandemic compressed a decade of gradual workplace change into a few months. Before March 2020, about 5% of full paid workdays in the United States were performed remotely. By mid-2020, that figure exceeded 60%. As of 2024, it has settled at about 25–30%---a fivefold increase from pre-pandemic levels that shows no signs of reverting.
 
-The shift is not evenly distributed. Remote work concentrates among college-educated workers in knowledge-economy occupations: software development, finance, consulting, management, and professional services. Workers in healthcare, manufacturing, construction, retail, and food service---roughly two-thirds of the workforce---cannot do their jobs from home. The result is a new axis of labor market inequality: those whose work is "portable" and those whose work is not.
+The shift is not evenly distributed. Remote work concentrates among college-educated workers in knowledge-economy occupations: software development, finance, consulting, management, and professional services. Workers in healthcare, manufacturing, construction, retail, and food service---about two-thirds of the workforce---cannot do their jobs from home. The result is a new axis of labor market inequality: those whose work is "portable" and those whose work is not.
 
 {% hint style="info" %}
 **The Geography of Remote Work**
@@ -270,7 +270,7 @@ The shift is not evenly distributed. Remote work concentrates among college-educ
 Remote work has geographic consequences. Workers untethered from offices can relocate from high-cost cities to lower-cost areas, bidding up housing prices in places like Boise, Austin, and Asheville while reducing demand for office space in Manhattan and San Francisco. This "Zoom town" effect redistributes economic activity in ways that challenge traditional assumptions about where jobs are located. For the spatial economy discussed in Chapter 3, remote work represents a genuine structural shift.
 {% endhint %}
 
-For employers, remote work reduces real estate costs but complicates management, mentoring, and corporate culture. For workers, it offers flexibility but can blur boundaries between work and personal life, and eliminates the informal social interactions that build professional networks. The long-run productivity effects remain debated: Stanford economist Nicholas Bloom's research finds that fully remote work reduces productivity modestly (roughly 10%), while hybrid arrangements (three days in office, two remote) match or slightly exceed fully in-office productivity.
+For employers, remote work reduces real estate costs but complicates management, mentoring, and corporate culture. For workers, it offers flexibility but can blur boundaries between work and personal life, and eliminates the informal social interactions that build professional networks. The long-run productivity effects remain debated: Stanford economist Nicholas Bloom's research finds that fully remote work reduces productivity modestly (about 10%), while hybrid arrangements (three days in office, two remote) match or slightly exceed fully in-office productivity.
 
 ### From Employment to Contracting
 
@@ -282,7 +282,7 @@ The consequences are concrete. Contract and outsourced workers typically earn le
 
 ### Noncompete Agreements
 
-An estimated 30 million American workers---roughly one in five---are bound by noncompete agreements that restrict their ability to work for competitors or start competing businesses after leaving their current employer. These agreements, once limited to senior executives with access to genuine trade secrets, have proliferated to cover sandwich makers at Jimmy John's, warehouse workers, and entry-level employees with no access to proprietary information.
+An estimated 30 million American workers---about one in five---are bound by noncompete agreements that restrict their ability to work for competitors or start competing businesses after leaving their current employer. These agreements, once limited to senior executives with access to genuine trade secrets, have proliferated to cover sandwich makers at Jimmy John's, warehouse workers, and entry-level employees with no access to proprietary information.
 
 {% hint style="warning" %}
 **The Noncompete Paradox**
@@ -340,17 +340,17 @@ This does not mean any minimum wage at any level is costless. Very high minimum 
 
 ## Immigration and the American Labor Market
 
-The United States is home to roughly 47 million foreign-born residents---about 14% of the population---of whom approximately 29 million participate in the labor force. These workers are not distributed randomly across the economy. They concentrate at specific skill levels, in specific industries, and in specific geographies, with effects that are far more nuanced than the political debate typically acknowledges.
+The United States is home to about 47 million foreign-born residents---about 14% of the population---of whom approximately 29 million participate in the labor force. These workers are not distributed randomly across the economy. They concentrate at specific skill levels, in specific industries, and in specific geographies, with effects that are far more nuanced than the political debate typically acknowledges.
 
 ### Scale and Composition
 
-The foreign-born workforce enters through multiple legal channels, each governed by distinct rules. The H-1B visa program admits roughly 85,000 new workers annually into specialty occupations requiring at least a bachelor's degree---predominantly technology, engineering, and healthcare. The H-2A program provides seasonal agricultural visas with no annual cap; certifications now exceed 300,000 workers per year as domestic farm labor has grown scarcer (see Chapter 16). The H-2B program covers seasonal non-agricultural work---landscaping, hospitality, seafood processing---with a smaller annual cap of 66,000. Beyond these temporary channels, the green card system provides permanent residency, though backlogs now exceed 4 million pending applications, with India- and China-born applicants facing wait times measured in decades. An estimated 8 million undocumented workers participate in the labor force without legal authorization, concentrated in agriculture, construction, food processing, and domestic services. Humanitarian programs add further complexity: the Deferred Action for Childhood Arrivals (DACA) program provides work authorization to roughly 580,000 people brought to the country as children, while Temporary Protected Status (TPS) grants work permits to nationals of countries experiencing armed conflict or natural disaster. Both exist in legal limbo, subject to executive action rather than statutory permanence.
+The foreign-born workforce enters through multiple legal channels, each governed by distinct rules. The H-1B visa program admits about 85,000 new workers annually into specialty occupations requiring at least a bachelor's degree---predominantly technology, engineering, and healthcare. The H-2A program provides seasonal agricultural visas with no annual cap; certifications now exceed 300,000 workers per year as domestic farm labor has grown scarcer (see Chapter 16). The H-2B program covers seasonal non-agricultural work---landscaping, hospitality, seafood processing---with a smaller annual cap of 66,000. Beyond these temporary channels, the green card system provides permanent residency, though backlogs now exceed 4 million pending applications, with India- and China-born applicants facing wait times measured in decades. An estimated 8 million undocumented workers participate in the labor force without legal authorization, concentrated in agriculture, construction, food processing, and domestic services. Humanitarian programs add further complexity: the Deferred Action for Childhood Arrivals (DACA) program provides work authorization to about 580,000 people brought to the country as children, while Temporary Protected Status (TPS) grants work permits to nationals of countries experiencing armed conflict or natural disaster. Both exist in legal limbo, subject to executive action rather than statutory permanence.
 
 What makes the foreign-born workforce distinctive is its bimodal skill distribution. Immigrants are overrepresented at *both* ends of the educational spectrum: they account for a disproportionate share of workers without a high school diploma and a disproportionate share of those holding doctoral degrees. This U-shaped pattern means immigration's effects vary enormously depending on which segment of the labor market is under examination.
 
 ### Sectoral Concentration
 
-Foreign-born workers are the backbone of several major industries. In agriculture, over 75% of crop workers are foreign-born---a dependency explored in Chapter 16. In construction, roughly 30% of workers are immigrants, performing much of the physically demanding labor in residential and commercial building. In hospitality and food service, approximately 25% of workers are foreign-born. Healthcare depends on immigrants at multiple skill levels: 28% of physicians practicing in the United States were born abroad, as were a substantial share of home health aides and nursing assistants (see Chapter 6). In technology, more than 50% of STEM workers holding advanced degrees are foreign-born, a concentration that shapes the innovation capacity of the entire sector (see Chapter 11).
+Foreign-born workers are the backbone of several major industries. In agriculture, over 75% of crop workers are foreign-born---a dependency explored in Chapter 16. In construction, about 30% of workers are immigrants, performing much of the physically demanding labor in residential and commercial building. In hospitality and food service, approximately 25% of workers are foreign-born. Healthcare depends on immigrants at multiple skill levels: 28% of physicians practicing in the United States were born abroad, as were a substantial share of home health aides and nursing assistants (see Chapter 6). In technology, more than 50% of STEM workers holding advanced degrees are foreign-born, a concentration that shapes the innovation capacity of the entire sector (see Chapter 11).
 
 ### Economic Effects
 
@@ -362,7 +362,7 @@ The most robust finding in the immigration economics literature is **complementa
 A persistent misconception holds that the economy contains a fixed number of jobs, so every position filled by an immigrant is one taken from a native-born worker. Economists call this the "lump of labor fallacy." In reality, immigrants do not merely fill existing jobs---they create new ones. They consume goods and services, start businesses, pay rent, and generate demand that supports employment for others. Research consistently shows that immigration increases the total size of the economic pie rather than merely redistributing existing slices. Between 1990 and 2020, the cities that received the most immigrants also experienced the fastest job growth for native-born workers.
 {% endhint %}
 
-The wage effects, while real, are smaller than commonly assumed. Native workers without a high school diploma---the group most directly competing with low-skill immigrants---experience wage reductions of roughly 2% according to most estimates. For workers with a high school diploma or more, the short-run effects are near zero, and long-run effects are modestly positive as immigrant-driven demand raises overall economic activity.
+The wage effects, while real, are smaller than commonly assumed. Native workers without a high school diploma---the group most directly competing with low-skill immigrants---experience wage reductions of about 2% according to most estimates. For workers with a high school diploma or more, the short-run effects are near zero, and long-run effects are modestly positive as immigrant-driven demand raises overall economic activity.
 
 On innovation, the evidence is striking. Immigrants file patents at two to three times the rate of native-born Americans. Fifty-five percent of American billion-dollar startup companies had at least one immigrant founder. Foreign-born researchers account for a disproportionate share of published scientific papers and Nobel Prize recipients. The H-1B pipeline feeds directly into this dynamic, channeling talent into the technology and research sectors where the United States maintains its global competitive edge.
 
@@ -384,7 +384,7 @@ Labor supply is not determined solely by wages and working conditions. It is als
 
 ### The Female Labor Force Participation Plateau
 
-American women's labor force participation rose steadily from the 1960s through the late 1990s, tracking a global trend in developed economies. Then it stopped. The female labor force participation rate plateaued at roughly 57% in the early 2000s and has barely budged since, even as other wealthy nations continued to see gains.
+American women's labor force participation rose steadily from the 1960s through the late 1990s, tracking a global trend in developed economies. Then it stopped. The female labor force participation rate plateaued at about 57% in the early 2000s and has barely budged since, even as other wealthy nations continued to see gains.
 
 The United States now ranks below most peer nations in female labor force participation. Canada, the United Kingdom, Germany, France, Australia, and the Scandinavian countries all have higher rates. The divergence is not explained by differences in education, cultural attitudes, or economic development. It is explained, in significant part, by policy: the United States is an outlier among wealthy nations in its lack of public investment in childcare and parental leave.
 
@@ -398,13 +398,13 @@ The cost of formal childcare in the United States averages $10,000 to $15,000 pe
 Consider a family where one parent earns $40,000 per year---close to the median individual income. If that parent has two children in full-time care at a combined cost of $25,000, the after-tax gain from working may be marginal after accounting for transportation, professional clothing, and other work-related expenses. For many families, the "rational" economic choice is for one parent to leave the workforce entirely. That parent is overwhelmingly the mother. The result is not a preference-driven choice but an infrastructure failure that pushes workers out of the labor force.
 {% endhint %}
 
-The supply side is equally troubled. Childcare workers earn a median wage of roughly $14 per hour---less than warehouse workers, retail cashiers, or fast food employees. Low pay drives chronic staffing shortages; childcare centers report vacancy rates of 10-15%, limiting the number of children they can serve. The fundamental problem is that childcare is expensive for families yet underpays its workers, with no margin remaining in between. Unlike K-12 education, which is publicly funded, early childhood care operates largely as a private market that fails on both sides: unaffordable for consumers and unsustainable for providers.
+The supply side is equally troubled. Childcare workers earn a median wage of about $14 per hour---less than warehouse workers, retail cashiers, or fast food employees. Low pay drives chronic staffing shortages; childcare centers report vacancy rates of 10-15%, limiting the number of children they can serve. The fundamental problem is that childcare is expensive for families yet underpays its workers, with no margin remaining in between. Unlike K-12 education, which is publicly funded, early childhood care operates largely as a private market that fails on both sides: unaffordable for consumers and unsustainable for providers.
 
 ### The Eldercare Burden
 
-As the American population ages---adults over 65 will grow from 58 million today to roughly 82 million by 2050---the demand for eldercare is rising. An estimated 53 million Americans provide unpaid care for an aging or disabled family member, spending an average of 24 hours per week on caregiving tasks. Many of these caregivers are working-age adults, predominantly women, who reduce their hours, decline promotions, or exit the labor force to care for aging parents.
+As the American population ages---adults over 65 will grow from 58 million today to about 82 million by 2050---the demand for eldercare is rising. An estimated 53 million Americans provide unpaid care for an aging or disabled family member, spending an average of 24 hours per week on caregiving tasks. Many of these caregivers are working-age adults, predominantly women, who reduce their hours, decline promotions, or exit the labor force to care for aging parents.
 
-Paid eldercare faces the same structural problems as childcare: the work is physically demanding, emotionally taxing, and poorly compensated. Home health aides---the fastest-growing occupation in the economy---earn a median wage of roughly $15 per hour with few benefits. Nursing home care costs $90,000-$110,000 per year; assisted living averages $55,000-$65,000. Medicare does not cover long-term care, and Medicaid covers it only for those who have exhausted their assets. The result is a system that forces families to choose between financial ruin and inadequate care.
+Paid eldercare faces the same structural problems as childcare: the work is physically demanding, emotionally taxing, and poorly compensated. Home health aides---the fastest-growing occupation in the economy---earn a median wage of about $15 per hour with few benefits. Nursing home care costs $90,000-$110,000 per year; assisted living averages $55,000-$65,000. Medicare does not cover long-term care, and Medicaid covers it only for those who have exhausted their assets. The result is a system that forces families to choose between financial ruin and inadequate care.
 
 ### Care Infrastructure as Labor Market Policy
 
@@ -424,7 +424,7 @@ The connection between care infrastructure and labor supply is not speculative. 
 
 *Sources: OECD Labour Force Statistics; OECD Family Database, Public spending on early childhood education and care*
 
-The pattern is stark. The United States spends roughly half the OECD average on early childhood education and care as a share of GDP, and its female labor force participation rate reflects this underinvestment. The gap represents not just a social concern but a macroeconomic one: if American women participated in the labor force at the same rate as women in Canada or Germany, the economy would gain roughly 5 million additional workers---a significant boost to output, tax revenue, and economic growth at a time when labor shortages constrain multiple sectors.
+The pattern is stark. The United States spends about half the OECD average on early childhood education and care as a share of GDP, and its female labor force participation rate reflects this underinvestment. The gap represents not just a social concern but a macroeconomic one: if American women participated in the labor force at the same rate as women in Canada or Germany, the economy would gain about 5 million additional workers---a significant boost to output, tax revenue, and economic growth at a time when labor shortages constrain multiple sectors.
 
 {% hint style="info" %}
 **Why Care Policy Is Economic Policy**
@@ -440,7 +440,7 @@ It is tempting to categorize childcare and eldercare as "social" issues distinct
 
 3. **Employer market power suppresses wages**: Monopsony---the concentration of hiring power among a small number of employers---is widespread in American labor markets. Noncompete agreements, no-poach deals, and wage-fixing reinforce this power. The monopsony framework helps explain why minimum wage increases have not produced the job losses predicted by competitive models.
 
-4. **Immigration shapes specific sectors profoundly**: Roughly 47 million foreign-born residents include 29 million labor force participants, concentrated at both the high-skill and low-skill ends. Immigrants are the backbone of agriculture (75%+ of crop workers), a major presence in construction (30%), healthcare (28% of physicians), and tech (50%+ of advanced-degree STEM workers). The economic evidence indicates that immigrants complement rather than substitute for most native workers, filing patents at 2-3x the native-born rate and founding over half of billion-dollar startups, though workers without a high school diploma may experience modest (~2%) wage effects. A fragmented policy architecture and green card backlogs exceeding 4 million applications create inefficiencies that cost the economy talent.
+4. **Immigration shapes specific sectors profoundly**: About 47 million foreign-born residents include 29 million labor force participants, concentrated at both the high-skill and low-skill ends. Immigrants are the backbone of agriculture (75%+ of crop workers), a major presence in construction (30%), healthcare (28% of physicians), and tech (50%+ of advanced-degree STEM workers). The economic evidence indicates that immigrants complement rather than substitute for most native workers, filing patents at 2-3x the native-born rate and founding over half of billion-dollar startups, though workers without a high school diploma may experience modest (~2%) wage effects. A fragmented policy architecture and green card backlogs exceeding 4 million applications create inefficiencies that cost the economy talent.
 
 5. **Care infrastructure constrains labor supply**: The United States' low public investment in childcare and eldercare helps explain why female labor force participation has plateaued below peer nations. Addressing care infrastructure is not just social policy---it is labor market and macroeconomic policy.
 
@@ -490,11 +490,11 @@ It is tempting to categorize childcare and eldercare as "social" issues distinct
 
 8. The chapter describes monopsony---employer market power---as widespread in American labor markets. Explain the concept of monopsony using the example of a nurse in a rural area with one hospital. How does the Azar, Marinescu, and Steinbaum research on labor market concentration (using the Herfindahl-Hirschman Index) demonstrate that monopsony is not limited to company towns? How do noncompete agreements, no-poach agreements, and wage-fixing reinforce employer power even in markets that appear competitive? Why does monopsony provide a coherent explanation for Card and Krueger's finding that moderate minimum wage increases do not reduce employment?
 
-9. The chapter notes that roughly 30% of full paid workdays are now performed remotely, compared to 5% before the pandemic. Analyze the distributional consequences of this shift: which workers benefit from remote work, and which are excluded? How does the concentration of remote work among college-educated, knowledge-economy workers create a new axis of labor market inequality? What are the geographic implications (the "Zoom town" effect) for housing costs, tax bases, and economic activity in both origin and destination cities?
+9. The chapter notes that about 30% of full paid workdays are now performed remotely, compared to 5% before the pandemic. Analyze the distributional consequences of this shift: which workers benefit from remote work, and which are excluded? How does the concentration of remote work among college-educated, knowledge-economy workers create a new axis of labor market inequality? What are the geographic implications (the "Zoom town" effect) for housing costs, tax bases, and economic activity in both origin and destination cities?
 
-10. The United States spends roughly 0.3% of GDP on early childhood education and care, compared to 1.0-1.6% in countries like Germany, France, and Sweden. Using the data presented in the chapter, explain how this underinvestment constrains female labor force participation. Why does the chapter characterize the "childcare cliff" as an infrastructure failure rather than a matter of personal preference? What is the macroeconomic cost---in terms of forgone workers, output, and tax revenue---of the participation gap between the U.S. and peer nations?
+10. The United States spends about 0.3% of GDP on early childhood education and care, compared to 1.0-1.6% in countries like Germany, France, and Sweden. Using the data presented in the chapter, explain how this underinvestment constrains female labor force participation. Why does the chapter characterize the "childcare cliff" as an infrastructure failure rather than a matter of personal preference? What is the macroeconomic cost---in terms of forgone workers, output, and tax revenue---of the participation gap between the U.S. and peer nations?
 
-11. Foreign-born workers account for roughly 18% of the American labor force but are concentrated at both the high-skill and low-skill ends of the spectrum. Explain why this bimodal distribution means that immigration's labor market effects vary enormously by sector and skill level. How does the concept of "complements rather than substitutes" apply to understanding immigration's effects on native workers? Why might restricting immigration worsen labor shortages in sectors like agriculture, construction, and healthcare without meaningfully raising wages for native-born workers in other sectors?
+11. Foreign-born workers account for about 18% of the American labor force but are concentrated at both the high-skill and low-skill ends of the spectrum. Explain why this bimodal distribution means that immigration's labor market effects vary enormously by sector and skill level. How does the concept of "complements rather than substitutes" apply to understanding immigration's effects on native workers? Why might restricting immigration worsen labor shortages in sectors like agriculture, construction, and healthcare without meaningfully raising wages for native-born workers in other sectors?
 
 ### Data Exercises
 

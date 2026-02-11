@@ -25,9 +25,9 @@ At the top sits currency—physical dollars issued by the Federal Reserve. If yo
 
 | Form | Amount (2024) |
 |------|---------------|
-| Currency in circulation | roughly $2.3 trillion |
-| Of which: held domestically | roughly $1.1 trillion |
-| Of which: held abroad | roughly $1.2 trillion |
+| Currency in circulation | $2.3 trillion |
+| Of which: held domestically | $1.1 trillion |
+| Of which: held abroad | $1.2 trillion |
 
 *Source: Federal Reserve Statistical Releases H.4.1, H.6, and Z.1 Financial Accounts, 2024*
 
@@ -39,10 +39,10 @@ Banks don't settle with each other using currency. They settle using reserves—
 
 | Period | Reserve Balances |
 |--------|------------------|
-| Pre-2008 | roughly $10-50 billion |
-| Post-QE (2014) | roughly $2.5 trillion |
-| Post-COVID (2022) | roughly $3.5 trillion |
-| Current | roughly $3.2 trillion |
+| Pre-2008 | $10–50 billion |
+| Post-QE (2014) | $2.5 trillion |
+| Post-COVID (2022) | $3.5 trillion |
+| Current | $3.2 trillion |
 
 *Source: Federal Reserve Statistical Releases H.4.1, H.6, and Z.1 Financial Accounts, 2024*
 
@@ -54,10 +54,10 @@ What households and firms call "money" is mostly bank deposits—entries on bank
 
 | Type | Amount (2024) |
 |------|---------------|
-| Checkable deposits | roughly $5 trillion |
-| Savings deposits | roughly $12 trillion |
-| Small time deposits | roughly $0.5 trillion |
-| **Total** | roughly $17.5 trillion |
+| Checkable deposits | $5 trillion |
+| Savings deposits | $12 trillion |
+| Small time deposits | $0.5 trillion |
+| **Total** | $17.5 trillion |
 
 *Source: Federal Reserve Statistical Releases H.4.1, H.6, and Z.1 Financial Accounts, 2024*
 
@@ -69,9 +69,9 @@ Below bank deposits sits a vast layer of money-like claims issued by non-banks:
 
 | Instrument | Amount | Issuer |
 |------------|--------|--------|
-| Money market fund shares | roughly $6.4 trillion | Asset managers |
-| Repo | roughly $4.5 trillion | Dealers, hedge funds |
-| Commercial paper | roughly $1.2 trillion | Corporations |
+| Money market fund shares | $6.4 trillion | Asset managers |
+| Repo | $4.5 trillion | Dealers, hedge funds |
+| Commercial paper | $1.2 trillion | Corporations |
 
 *Source: Federal Reserve Statistical Releases H.4.1, H.6, and Z.1 Financial Accounts, 2024*
 
@@ -160,9 +160,9 @@ Fedwire is the Federal Reserve's real-time gross settlement (RTGS) system. Every
 
 | Metric | Value |
 |--------|-------|
-| Daily payments | roughly $4 trillion |
-| Daily transactions | roughly 500,000 |
-| Average payment | roughly $8 million |
+| Daily payments | $4 trillion |
+| Daily transactions | ~500,000 |
+| Average payment | ~$8 million |
 | Operating hours | 22 hours/day |
 
 Fedwire handles wholesale payments: bank-to-bank transfers, Treasury securities settlement, large corporate transactions. Once a Fedwire payment settles, it cannot be reversed—the recipient has final, unconditional money.
@@ -175,8 +175,8 @@ The Clearing House Interbank Payments System (CHIPS) is a private alternative ow
 
 | Metric | Value |
 |--------|-------|
-| Daily payments | roughly $1.8 trillion |
-| Daily transactions | roughly 400,000 |
+| Daily payments | $1.8 trillion |
+| Daily transactions | ~400,000 |
 | Primary use | Cross-border dollar payments, FX settlement |
 
 Unlike Fedwire, CHIPS uses *netting*: payments accumulate during the day, and only net balances settle (in reserves via Fedwire) at day's end. This economizes on reserves—$1.8 trillion in gross payments might net to $50 billion in actual reserve movements.
@@ -203,9 +203,9 @@ The Automated Clearing House (ACH) handles smaller, less time-sensitive payments
 
 | Metric | Value |
 |--------|-------|
-| Annual volume | roughly $80 trillion |
-| Annual transactions | roughly 30 billion |
-| Average payment | roughly $2,600 |
+| Annual volume | $80 trillion |
+| Annual transactions | ~30 billion |
+| Average payment | ~$2,600 |
 
 ACH is slow by design—payments traditionally took 1-2 business days to settle. The Fed's FedNow (launched 2023) brings real-time retail payments to the US, finally catching up with systems in the UK, India, and elsewhere.
 
@@ -235,11 +235,11 @@ Shadow banks perform the same economic function as banks—maturity transformati
 
 ### The Shadow Banking Ecosystem
 
-**Money Market Funds (roughly $6.4 trillion)**
+**Money Market Funds ($6.4 trillion)**
 
 MMFs invest in short-term paper, repo, and government securities while offering investors checking-like features and instant withdrawal. The defining feature is their stable net asset value—they promise to maintain a $1 share price. This makes them function like bank deposits for corporate treasurers and wealthy individuals, but without FDIC insurance. When the Reserve Primary Fund "broke the buck" in September 2008 (NAV fell below $1 after Lehman losses), investors ran—$300 billion fled prime MMFs in a week.
 
-**The Repo Market (roughly $4.5 trillion)**
+**The Repo Market ($4.5 trillion)**
 
 A repurchase agreement (repo) is effectively a short-term collateralized loan:
 
@@ -289,7 +289,7 @@ The Fed controls short-term interest rates, serves as lender of last resort, and
 
 **The Pre-2008 Corridor System**
 
-Before 2008, reserves were scarce (roughly $15-50 billion). The Fed operated a corridor system:
+Before 2008, reserves were scarce ($15–50 billion). The Fed operated a corridor system:
 
 - **Ceiling**: Discount rate (Fed won't lend above this)
 - **Target**: Fed funds rate (where trading happens)
@@ -386,7 +386,7 @@ Beginning in March 2022, the Fed raised the federal funds rate from near zero to
 
 ### The Primary Transmission Channel: Mortgage Rates
 
-The most visible transmission occurred through mortgage rates. The 30-year fixed mortgage rate—the benchmark for American homebuyers—doubled from roughly 3% in late 2021 to over 7% by late 2022. This translated directly into housing affordability:
+The most visible transmission occurred through mortgage rates. The 30-year fixed mortgage rate—the benchmark for American homebuyers—doubled from about 3% in late 2021 to over 7% by late 2022. This translated directly into housing affordability:
 
 - **Payment shock**: A $400,000 mortgage at 3% requires monthly payments of $1,686. At 7%, the same loan costs $2,661—a 58% increase.
 - **Purchasing power collapse**: A family that could afford a $500,000 home at 3% rates could afford only $330,000 at 7% rates, holding monthly payments constant.
@@ -397,15 +397,15 @@ The most visible transmission occurred through mortgage rates. The 30-year fixed
 <figcaption>Figure 18.3: Housing starts fell sharply as mortgage rates rose, demonstrating the Fed's primary transmission mechanism to the real economy. Source: Census Bureau</figcaption>
 </figure>
 
-Housing starts declined by roughly 20% as builders faced both higher financing costs and reduced buyer demand. Construction employment, which had boomed during the pandemic housing surge, contracted modestly.
+Housing starts declined by about 20% as builders faced both higher financing costs and reduced buyer demand. Construction employment, which had boomed during the pandemic housing surge, contracted modestly.
 
 ### The Secondary Channel: Asset Prices and Bank Balance Sheets
 
 The rate increases transmitted through asset prices in ways that exposed unexpected vulnerabilities.
 
-**Bond Math**: When interest rates rise, bond prices fall. A 30-year Treasury yielding 1.5% loses roughly 40% of its market value when rates rise to 4.5%. This is mechanical: the fixed coupons become less valuable relative to new market rates.
+**Bond Math**: When interest rates rise, bond prices fall. A 30-year Treasury yielding 1.5% loses about 40% of its market value when rates rise to 4.5%. This is mechanical: the fixed coupons become less valuable relative to new market rates.
 
-**Bank Portfolios**: During the 2020-2021 period of near-zero rates, banks bought long-duration bonds—Treasuries and agency mortgage-backed securities—to earn some yield on their swelling deposits. When rates rose, these securities lost substantial market value. By early 2023, US banks held roughly $620 billion in unrealized losses on their securities portfolios.
+**Bank Portfolios**: During the 2020-2021 period of near-zero rates, banks bought long-duration bonds—Treasuries and agency mortgage-backed securities—to earn some yield on their swelling deposits. When rates rose, these securities lost substantial market value. By early 2023, US banks held $620 billion in unrealized losses on their securities portfolios.
 
 **Accounting Treatment**: Banks could avoid realizing these losses by classifying securities as "held-to-maturity" (HTM). Under HTM accounting, securities are carried at purchase price, not market value. On paper, banks appeared well-capitalized. In economic reality, many had lost substantial equity.
 
@@ -504,7 +504,7 @@ Despite the $250,000 insurance limit, regulators guaranteed all SVB deposits to 
 
 ## Recent Trends
 
-**Private Credit Boom**: As banks face tighter regulation, private credit funds (roughly $1.7 trillion) have grown rapidly, lending to middle-market companies that banks won't serve. This moves risk outside the regulated system—potentially safer for banks, but raising questions about where losses will land in a downturn.
+**Private Credit Boom**: As banks face tighter regulation, private credit funds ($1.7 trillion) have grown rapidly, lending to middle-market companies that banks won't serve. This moves risk outside the regulated system—potentially safer for banks, but raising questions about where losses will land in a downturn.
 
 **Fintech**: Digital-only banks (Chime, Revolut), payments platforms (PayPal, Square), and buy-now-pay-later providers (Affirm, Klarna) compete with traditional banks. Many operate outside traditional bank regulation, raising questions about consumer protection and systemic risk.
 
@@ -534,8 +534,8 @@ CHIPS (Clearing House Interbank Payments System), owned by a consortium of large
 
 **Headquarters**: New York, NY
 **Total Assets**: $3.9 trillion (2024)
-**Employees**: roughly 310,000
-**Market Cap**: roughly $600 billion
+**Employees**: about 310,000
+**Market Cap**: approximately $600 billion
 
 JPMorgan Chase is the largest US bank by assets, formed through the 2000 merger of Chase Manhattan and J.P. Morgan & Co. (itself the successor to the House of Morgan, the most powerful financial institution of the early 20th century). The 2008 acquisition of Bear Stearns (arranged by the Fed) and Washington Mutual (in FDIC receivership) expanded its footprint further.
 
@@ -549,8 +549,8 @@ Under CEO Jamie Dimon (since 2005), JPMorgan navigated the 2008 crisis better th
 
 **Headquarters**: Washington, DC (Board of Governors)
 **Regional Banks**: 12 (Boston, New York, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, St. Louis, Minneapolis, Kansas City, Dallas, San Francisco)
-**Balance Sheet**: roughly $7.5 trillion (2024)
-**Employees**: roughly 24,000
+**Balance Sheet**: $7.5 trillion (2024)
+**Employees**: about 24,000
 
 The Federal Reserve System is the central bank of the United States, created by the Federal Reserve Act of 1913 after the Panic of 1907 demonstrated the need for a lender of last resort. Its unusual structure—a public board in Washington governing quasi-private regional Reserve Banks owned by member banks—reflects political compromises between centralization and regional autonomy.
 
@@ -563,9 +563,9 @@ The Fed's balance sheet exploded from under $1 trillion before 2008 to over $8 t
 ## Firm Profile: BlackRock
 
 **Headquarters**: New York, NY
-**Assets Under Management**: roughly $10 trillion (2024)
-**Employees**: roughly 20,000
-**Market Cap**: roughly $120 billion
+**Assets Under Management**: $10 trillion (2024)
+**Employees**: about 20,000
+**Market Cap**: approximately $120 billion
 
 BlackRock is the world's largest asset manager, having grown from a small bond manager founded in 1988 to a colossus that manages more money than the GDP of every country except the US and China. Its 2009 acquisition of Barclays Global Investors (including the iShares ETF platform) made it the dominant player in both active and passive investing.
 
@@ -613,7 +613,7 @@ BlackRock's scale creates both influence and scrutiny. Its holdings make it a to
 
 4. The chapter describes how repo market haircuts on AAA asset-backed securities rose from 3-5% to 50-100% during the 2008 crisis. Explain why a haircut increase of this magnitude functions as a massive margin call across the entire financial system. How does this mechanism connect the shadow banking system to the real economy through forced deleveraging?
 
-5. Before 2008, the Fed operated a "corridor" system with roughly $15-50 billion in reserves. After quantitative easing, reserves exceeded $3 trillion, and the Fed shifted to a "floor" system using IORB and the ON RRP facility. Explain why the effective federal funds rate trades 5-15 basis points *below* IORB, even though arbitrage should close the gap. What specific balance sheet costs—the Supplementary Leverage Ratio, FDIC assessment fees, and G-SIB surcharges—prevent banks from exploiting this spread?
+5. Before 2008, the Fed operated a "corridor" system with $15–50 billion in reserves. After quantitative easing, reserves exceeded $3 trillion, and the Fed shifted to a "floor" system using IORB and the ON RRP facility. Explain why the effective federal funds rate trades 5-15 basis points *below* IORB, even though arbitrage should close the gap. What specific balance sheet costs—the Supplementary Leverage Ratio, FDIC assessment fees, and G-SIB surcharges—prevent banks from exploiting this spread?
 
 6. Silicon Valley Bank's depositors withdrew $42 billion in a single day—the fastest bank run in American history. Drawing on the chapter's discussion of SVB's asset composition (long-duration MBS and Treasuries), liability structure (94% uninsured deposits from networked tech firms), and the role of social media, explain the structural features that made SVB uniquely vulnerable. Why did the run happen in hours rather than days?
 

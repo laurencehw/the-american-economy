@@ -29,7 +29,7 @@ The business model varies dramatically by mode. Trucking is highly competitive w
 
 ### The Intermodal Revolution
 
-The most important innovation in freight isn't a vehicle---it's the shipping container. Before containerization, loading a ship took weeks of manual labor; now it takes hours. The standardized container (20 or 40 feet long) can move from ship to rail to truck without unpacking, slashing handling costs and enabling global supply chains.
+The most important innovation in freight isn't a vehicle---it's the shipping container. Before containerization, loading a ship took weeks of manual labor; now it takes hours. The standardized container (20 or 40 feet long) can move from ship to rail to truck without unpacking, slashing handling costs and enabling the global supply chains examined in Chapter 22.
 
 Intermodal freight---containers that move by multiple modes---has grown from a curiosity to a major segment. J.B. Hunt built a business model around trucking containers to and from rail yards, combining the line-haul efficiency of rail with the flexibility of trucks at each end. The economics work when the rail haul exceeds about 500 miles; below that, trucks are faster and cheaper door-to-door.
 
@@ -40,7 +40,7 @@ Intermodal freight---containers that move by multiple modes---has grown from a c
 
 ## Trucking: The Dominant Mode
 
-Trucking moves America. With over 900,000 registered motor carriers and 1.5 million drivers, trucking is both the largest freight mode and one of the most fragmented industries in the economy. A Walmart store might receive deliveries from dozens of different trucking companies in a single day.
+Trucking moves America. With over 900,000 registered motor carriers and 1.5 million drivers, trucking is both the largest freight mode and one of the most fragmented industries in the economy. Trucking is the connective tissue linking the manufacturing sector (Chapter 9) to retail distribution points nationwide. A Walmart store might receive deliveries from dozens of different trucking companies in a single day.
 
 ### Industry Structure
 
@@ -385,7 +385,7 @@ The supply chain crisis illustrated several principles:
 
 ### 5. Sustainability Pressures
 
-Transportation accounts for about 29% of US greenhouse gas emissions, the largest sector. Trucking and aviation are particularly challenging to decarbonize because batteries are heavy and energy-dense fuels are needed for long hauls.
+Transportation accounts for about 29% of US greenhouse gas emissions, the largest sector (see Chapter 14 for the broader energy landscape and emissions challenges). Trucking and aviation are particularly challenging to decarbonize because batteries are heavy and energy-dense fuels are needed for long hauls.
 
 Electric trucks are emerging for short-haul and urban delivery. Tesla's Semi has begun limited production; competitors include Freightliner (eCascadia) and Volvo. But long-haul trucking will likely require alternative fuels---hydrogen, renewable diesel, or synthetic fuels---given battery weight limitations.
 

@@ -11,9 +11,14 @@ The Acela train leaves Penn Station in New York at 6:00 AM, and by 8:30 it has d
 
 The Northeast Corridor---stretching from Boston to Washington---functions less as a collection of separate cities than as a single economic mega-region. Economists increasingly view it through the lens of agglomeration: four major metros so tightly integrated by rail, road, and digital infrastructure that they operate as a unified labor market for elite professional services.
 
+{% hint style="info" %}
+**Agglomeration Economies**
+Agglomeration economies are the productivity advantages that arise when firms and workers concentrate in dense geographic clusters. Three mechanisms drive them: (1) *labor market pooling*---a thick local market lets workers find better matches and employers fill positions faster; (2) *input sharing*---specialized suppliers can operate at efficient scale when many buyers are nearby; and (3) *knowledge spillovers*---ideas spread faster through face-to-face interaction and informal networks. The Northeast Corridor's extraordinary economic density---17% of U.S. GDP on less than 2% of its land---is a direct consequence of these forces.
+{% endhint %}
+
 The corridor's economic dominance reflects centuries of path dependence. Colonial-era port cities became industrial centers, which became financial capitals, which became knowledge hubs. Each transition built on existing infrastructure, institutions, and human capital. The result is an economic density that would be nearly impossible to replicate elsewhere---a fact that explains both the corridor's resilience and its persistent cost disadvantages.
 
-The six states that comprise the corridor's core---Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, and Maryland---plus the District of Columbia together generated $4.8 trillion in GDP in 2023, roughly 18% of the national total. Per capita income across these states averaged $77,000, well above the national figure of $70,000. But these averages mask enormous variation: Connecticut and Massachusetts lead at roughly $90,000 per capita, while Pennsylvania trails at $68,000.
+The six states that comprise the corridor's core---Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, and Maryland---plus the District of Columbia together generated $4.8 trillion in GDP in 2023, about 18% of the national total. Per capita income across these states averaged $77,000, well above the national figure of $70,000. But these averages mask enormous variation: Connecticut and Massachusetts lead at about $90,000 per capita, while Pennsylvania trails at $68,000.
 
 **Combined Regional Statistics (2024)**
 
@@ -31,7 +36,7 @@ The six states that comprise the corridor's core---Massachusetts, Connecticut, N
 <figcaption>Figure 23.1: GDP of Northeast Corridor metros (2023). New York dominates at $2.3 trillion, but the combined corridor economy exceeds $4 trillion. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/regional-map.html" target="_blank">View interactive map of top 20 metros</a>. Source: BEA</figcaption>
 </figure>
 
-Together, the corridor accounts for roughly 17% of U.S. GDP on less than 2% of its land area. This concentration of economic output in such a small geographic footprint is unmatched anywhere in the world outside of city-states like Singapore. The density creates both extraordinary productivity and extraordinary vulnerability: the corridor's economic output depends on infrastructure that was largely built a century ago.
+Together, the corridor accounts for about 17% of U.S. GDP on less than 2% of its land area. This concentration of economic output in such a small geographic footprint is unmatched anywhere in the world outside of city-states like Singapore. The density creates both extraordinary productivity and extraordinary vulnerability: the corridor's economic output depends on infrastructure that was largely built a century ago.
 
 <figure>
 <img src="../_figures/regional/regional_gdp_small_multiples.png" alt="Regional GDP growth trajectories indexed to 2010 showing Sunbelt outpacing Northeast" style="width: 100%; max-width: 800px;">
@@ -48,7 +53,7 @@ Boston's economy runs on ideas. The city's concentration of elite research unive
 
 The epicenter is Kendall Square in Cambridge, arguably the world's densest cluster of innovation. Within a few blocks of MIT sit the research headquarters of Novartis, Pfizer, Sanofi, and Takeda, alongside hundreds of biotechnology startups. When Moderna developed its COVID-19 vaccine using mRNA technology, the entire value chain---from basic research to manufacturing---drew on this ecosystem.
 
-The numbers reflect this concentration: Massachusetts received $4.2 billion in NIH funding in 2023, second only to California despite having one-fifth the population. The state's 1,200+ life sciences companies employ roughly 100,000 workers directly, with average wages exceeding $130,000---among the highest of any industry cluster in the country.
+The numbers reflect this concentration: Massachusetts received $4.2 billion in NIH funding in 2023, second only to California despite having one-fifth the population. The state's 1,200+ life sciences companies employ about 100,000 workers directly, with average wages exceeding $130,000---among the highest of any industry cluster in the country.
 
 Boston's economy has also diversified beyond biotech. The city has emerged as a robotics hub, with companies like Boston Dynamics (now owned by Hyundai) and iRobot headquartered in the region. Financial services remain substantial: Fidelity Investments manages $4.5 trillion in assets from its headquarters in Boston, while State Street provides custody services for $40 trillion in assets globally.
 
@@ -66,13 +71,13 @@ The University of Massachusetts system, with campuses in Boston, Amherst, and el
 
 New York is where the world's capital gets allocated. Wall Street remains the center of global finance: the equity markets, the bond markets, the commodity markets, the foreign exchange markets. JPMorgan Chase, Goldman Sachs, Morgan Stanley, and Citigroup all call the city home, as do thousands of hedge funds, private equity firms, and asset managers.
 
-The scale is staggering. The New York Stock Exchange and NASDAQ together list companies worth over $50 trillion. The municipal bond market---largely headquartered in New York---handles $4 trillion in outstanding debt. The city's banks hold roughly $3 trillion in deposits. BlackRock, the world's largest asset manager with $10 trillion under management, operates from midtown Manhattan.
+The scale is staggering. The New York Stock Exchange and NASDAQ together list companies worth over $50 trillion. The municipal bond market---largely headquartered in New York---handles $4 trillion in outstanding debt. The city's banks hold some $3 trillion in deposits. BlackRock, the world's largest asset manager with $10 trillion under management, operates from midtown Manhattan.
 
 But New York has become much more than finance. The city's technology sector grew 64% between 2014 and 2024, outpacing even financial services. This isn't the generic tech of Silicon Valley---it's tech applied to New York's traditional strengths. Fintech dominates: Square's Cash App, Bloomberg, Stripe's East Coast operations. Media and advertising technology cluster around Madison Avenue's legacy. E-commerce logistics serves the region's dense consumer population.
 
 The healthcare sector has grown to rival finance in employment. Mount Sinai, NYU Langone, NewYork-Presbyterian, and Northwell Health together employ over 200,000 workers in the metropolitan area. These systems have also become research powerhouses, attracting billions in NIH funding and spinning off biomedical startups.
 
-New York's creative industries remain globally dominant. The city produces roughly 40% of American advertising revenue, despite the shift to digital. Film and television production has boomed since the state implemented generous tax credits---the Steiner Studios complex in Brooklyn is now the largest studio facility outside Hollywood. Publishing houses still cluster in Manhattan, even as the industry consolidates.
+New York's creative industries remain globally dominant. The city produces about 40% of American advertising revenue, despite the shift to digital. Film and television production has boomed since the state implemented generous tax credits---the Steiner Studios complex in Brooklyn is now the largest studio facility outside Hollywood. Publishing houses still cluster in Manhattan, even as the industry consolidates.
 
 The metropolitan area's GDP of $2.16 trillion in 2023 makes it larger than the national economies of Brazil, Italy, or Canada. If the New York metro area were a country, it would rank among the world's ten largest economies.
 
@@ -86,11 +91,11 @@ The metropolitan area's GDP of $2.16 trillion in 2023 makes it larger than the n
 
 ### Philadelphia: The Specialized Producer
 
-Philadelphia has found success by developing deep expertise in specific niches. The city's universities---Penn, Temple, Drexel, Jefferson---provide research talent, while lower costs than Boston or New York attract firms seeking value. Philadelphia's median rent of roughly $1,900 per month is nearly half Boston's, making it increasingly attractive for mid-career professionals and cost-conscious companies.
+Philadelphia has found success by developing deep expertise in specific niches. The city's universities---Penn, Temple, Drexel, Jefferson---provide research talent, while lower costs than Boston or New York attract firms seeking value. Philadelphia's median rent of about $1,900 per month is nearly half Boston's, making it increasingly attractive for mid-career professionals and cost-conscious companies.
 
-The standout is cell and gene therapy. The University of Pennsylvania's pioneering work on CAR-T cancer treatments sparked an industry cluster that now hosts roughly 10% of the world's companies in this niche. Nearby, Chester County has emerged as a pharmaceutical manufacturing hub, while the broader region's logistics infrastructure supports distribution along the entire corridor.
+The standout is cell and gene therapy. The University of Pennsylvania's pioneering work on CAR-T cancer treatments sparked an industry cluster that now hosts around 10% of the world's companies in this niche. Nearby, Chester County has emerged as a pharmaceutical manufacturing hub, while the broader region's logistics infrastructure supports distribution along the entire corridor.
 
-The pharmaceutical connection runs deep. The Philadelphia region was once the center of American drug manufacturing---SmithKline Beecham, Wyeth, and Merck all had major operations here. Consolidation has reduced the big pharma presence, but contract manufacturing and specialized production remain strong. The region produces roughly 15% of all prescription drugs manufactured in the United States.
+The pharmaceutical connection runs deep. The Philadelphia region was once the center of American drug manufacturing---SmithKline Beecham, Wyeth, and Merck all had major operations here. Consolidation has reduced the big pharma presence, but contract manufacturing and specialized production remain strong. The region produces about 15% of all prescription drugs manufactured in the United States.
 
 Comcast's headquarters in Philadelphia anchors the city's media presence. The company's $200 billion market cap makes it one of the largest media conglomerates globally. Vanguard, headquartered in nearby Malvern, manages over $8 trillion in assets, making the Philadelphia suburbs a quiet giant in asset management.
 
@@ -107,15 +112,15 @@ The port of Philadelphia and South Jersey handle substantial cargo, though dwarf
 
 ### Washington: The Regulator and Contractor
 
-Washington's economy is built on a peculiar foundation: the federal government consumes roughly 30% of the region's GDP directly, and much of the remainder exists to serve, influence, or extract value from government activity. Defense contractors, lobbying firms, think tanks, government relations practices, and federal-adjacent consultancies create an economy that is remarkably recession-proof but structurally dependent on political decisions.
+Washington's economy is built on a peculiar foundation: the federal government consumes about 30% of the region's GDP directly, and much of the remainder exists to serve, influence, or extract value from government activity. Defense contractors, lobbying firms, think tanks, government relations practices, and federal-adjacent consultancies create an economy that is remarkably recession-proof but structurally dependent on political decisions.
 
 The privatization of government has been the dominant trend for four decades. The "Beltway Bandits"---defense and IT contractors headquartered in suburban Virginia and Maryland---now rival the federal workforce in size. Lockheed Martin, General Dynamics, Booz Allen Hamilton, and Leidos employ hundreds of thousands across the region.
 
-The geography of federal contracting has created distinct clusters. Tysons Corner and Reston in Virginia host defense and IT contractors. Bethesda has become the biomedical research capital, anchored by the NIH campus and its $45 billion annual budget. The "Data Center Alley" in Loudoun County, Virginia, houses roughly 70% of the world's internet traffic, drawn initially by proximity to federal agencies and now sustained by its own network effects.
+The geography of federal contracting has created distinct clusters. Tysons Corner and Reston in Virginia host defense and IT contractors. Bethesda has become the biomedical research capital, anchored by the NIH campus and its $45 billion annual budget. The "Data Center Alley" in Loudoun County, Virginia, houses around 70% of the world's internet traffic, drawn initially by proximity to federal agencies and now sustained by its own network effects.
 
 Amazon's decision to locate its second headquarters in Arlington, Virginia---just across the Potomac from D.C.---validated the region's emergence as a tech hub. The company has committed to 25,000 jobs at average salaries exceeding $150,000. The HQ2 campus, centered on the revitalized National Landing neighborhood, has attracted complementary tech employers.
 
-The region's knowledge economy also includes one of the nation's densest concentrations of think tanks and policy research organizations. The Brookings Institution, American Enterprise Institute, Center for Strategic and International Studies, and dozens of others employ thousands of researchers producing analysis that shapes policy. The lobbying industry---roughly $4 billion annually in registered lobbying alone---represents another dimension of the influence economy.
+The region's knowledge economy also includes one of the nation's densest concentrations of think tanks and policy research organizations. The Brookings Institution, American Enterprise Institute, Center for Strategic and International Studies, and dozens of others employ thousands of researchers producing analysis that shapes policy. The lobbying industry---some $4 billion annually in registered lobbying alone---represents another dimension of the influence economy.
 
 Washington's resilience during recessions reflects its federal foundation. The metropolitan area barely felt the 2008-2009 financial crisis and recovered faster than any major market. Even COVID-19's impact was muted by the shift to remote work among the region's heavily white-collar workforce.
 
@@ -138,7 +143,7 @@ The corridor's rail and shuttle connections allow a "super-thick" labor market t
 
 This integration is asymmetric: New York serves as the hub, drawing workers from all directions. The 6:00 AM Acela from Washington and the 6:15 AM from Boston are filled with professionals commuting to New York for client meetings, depositions, and deal closings. The evening trains reverse the flow.
 
-Amtrak's Northeast Corridor carried 12.5 million passengers in 2023, roughly half the railroad's total ridership despite representing just one of its many routes. The Acela premium service---which cuts the New York-Washington trip to under three hours---competes directly with airline shuttles and often wins on reliability and door-to-door time.
+Amtrak's Northeast Corridor carried 12.5 million passengers in 2023, nearly half the railroad's total ridership despite representing just one of its many routes. The Acela premium service---which cuts the New York-Washington trip to under three hours---competes directly with airline shuttles and often wins on reliability and door-to-door time.
 
 The labor market integration extends beyond the trains. The regional airlines---American's shuttle, Delta's shuttle, JetBlue---connect the corridor's airports with hourly frequency. For same-day business trips, professionals can board a 6:00 AM flight in Boston, conduct meetings in Washington, and be home by dinner. This connectivity enables firms to maintain clients across the entire corridor without establishing multiple offices.
 
@@ -150,7 +155,7 @@ Faculty at MIT collaborate with colleagues at Columbia. Penn Medical School work
 
 ### Infrastructure Vulnerability
 
-The corridor's dependence on its infrastructure spine creates acute vulnerability. Estimates suggest that a shutdown of the Northeast Corridor rail line would cost the economy roughly $100 million per day in lost productivity. When Amtrak closes for maintenance or severe weather disrupts service, the effects ripple through the professional services economy.
+The corridor's dependence on its infrastructure spine creates acute vulnerability. Estimates suggest that a shutdown of the Northeast Corridor rail line would cost the economy an estimated $100 million per day in lost productivity. When Amtrak closes for maintenance or severe weather disrupts service, the effects ripple through the professional services economy.
 
 The infrastructure itself shows its age. Penn Station in New York operates far beyond designed capacity---650,000 daily passengers through a station designed for 200,000. The tunnels under the Hudson River, built in 1910, are deteriorating; Hurricane Sandy flooded them with saltwater in 2012, accelerating corrosion. A single-track failure in these tunnels can cascade into delays affecting the entire corridor.
 
@@ -162,11 +167,11 @@ Even the airports face capacity constraints. LaGuardia Airport finally completed
 
 ## Housing and Talent Competition
 
-The corridor's success has created its greatest challenge: housing costs that increasingly threaten its economic model. The fundamental problem is simple: the corridor's economy has grown far faster than its housing stock. Between 2010 and 2023, the four major metros added roughly 1.5 million jobs but only 800,000 housing units.
+The corridor's success has created its greatest challenge: housing costs that increasingly threaten its economic model. The fundamental problem is simple: the corridor's economy has grown far faster than its housing stock. Between 2010 and 2023, the four major metros added about 1.5 million jobs but only 800,000 housing units.
 
 ### The Affordability Crisis
 
-All four corridor metros rank among the nation's most expensive housing markets. Strict zoning, limited new construction, and intense demand from high-wage workers have pushed prices to levels that exclude middle-class families. The crisis is most acute in Boston and New York, where median rents exceed $3,400 per month---requiring an income of roughly $140,000 just to meet standard affordability guidelines.
+All four corridor metros rank among the nation's most expensive housing markets. Strict zoning, limited new construction, and intense demand from high-wage workers have pushed prices to levels that exclude middle-class families. The crisis is most acute in Boston and New York, where median rents exceed $3,400 per month---requiring an income of about $140,000 just to meet standard affordability guidelines.
 
 **Housing Cost Comparison (2024)**
 
@@ -238,7 +243,7 @@ The system's scale creates a virtuous cycle. Research grants attract top scienti
 > **Quick Facts**
 > - Headquarters: New York, NY
 > - Revenue: $158 billion (2024)
-> - Employees: 313,000 worldwide; roughly 60,000 in NYC metro
+> - Employees: 313,000 worldwide; about 60,000 in NYC metro
 > - Market cap: $700 billion
 
 JPMorgan Chase is not just the largest bank in the United States---it is increasingly the dominant player across multiple segments of American finance. Under CEO Jamie Dimon, the bank has grown its market share in investment banking, commercial lending, asset management, and consumer banking while most competitors have retrenched.
@@ -309,7 +314,7 @@ The 2008 financial crisis demonstrated the shock transmission mechanisms analyze
 
 4. The corridor faces a severe housing affordability crisis, with Boston and New York median rents exceeding $3,400 per month. The chapter identifies a "missing middle" in the housing market. Explain this concept and its consequences for the corridor's demographic composition, workforce pipeline, and long-term economic competitiveness. Why have zoning reform efforts in Massachusetts and New York yielded only "mixed results"?
 
-5. The Gateway Project---a $16 billion initiative to add new Hudson River tunnels and rebuild Penn Station---is described as critical infrastructure for the corridor's economy. Explain why a shutdown of the Northeast Corridor rail line would cost "roughly $100 million per day in lost productivity." What does this vulnerability reveal about the relationship between infrastructure investment and economic output in dense urban regions?
+5. The Gateway Project---a $16 billion initiative to add new Hudson River tunnels and rebuild Penn Station---is described as critical infrastructure for the corridor's economy. Explain why a shutdown of the Northeast Corridor rail line would cost "an estimated $100 million per day in lost productivity." What does this vulnerability reveal about the relationship between infrastructure investment and economic output in dense urban regions?
 
 6. Washington's economy is described as "remarkably recession-proof but structurally dependent on political decisions." Using examples from the chapter---including the "Beltway Bandits," Data Center Alley in Loudoun County, and Amazon's HQ2---explain how federal spending creates private-sector economic activity. What are the risks of this dependency model?
 
