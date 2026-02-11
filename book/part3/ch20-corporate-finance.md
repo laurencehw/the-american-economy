@@ -10,7 +10,7 @@ This chapter examines how corporate finance actually works: the pecking order of
 
 The Federal Reserve's Financial Accounts (Z.1) reveal the true picture of corporate financing:
 
-**Table 18.1: Sources of Corporate Funds (2023)**
+**Table 20.1: Sources of Corporate Funds (2023)**
 
 | Source | Amount | Share |
 |--------|--------|-------|
@@ -22,7 +22,7 @@ The Federal Reserve's Financial Accounts (Z.1) reveal the true picture of corpor
 
 <figure>
 <img src="../_figures/ch20/ch20_corp_financing.png" alt="Corporate financing sources" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 18.1: How corporations finance investment. Internal funds dominate; net equity issuance is negative as buybacks exceed new issues. Source: Federal Reserve Z.1</figcaption>
+<figcaption>Figure 20.1: How corporations finance investment. Internal funds dominate; net equity issuance is negative as buybacks exceed new issues. Source: Federal Reserve Z.1</figcaption>
 </figure>
 
 The negative equity figure means corporations bought back more stock than they issued—a pattern that has persisted for most of the past two decades. American corporations are not tapping equity markets for expansion capital; they're returning equity capital to shareholders.
@@ -37,7 +37,7 @@ This pattern confirms the **pecking order theory** of corporate finance: firms p
 
 Different industries have systematically different capital structures, reflecting their asset bases and cash flow patterns.
 
-**Table 18.2: Typical Capital Structure by Industry**
+**Table 20.2: Typical Capital Structure by Industry**
 
 | Industry | Debt/Capital | Characteristics |
 |----------|--------------|-----------------|
@@ -132,7 +132,7 @@ Mergers and acquisitions represent the highest-profile activity in corporate fin
 
 <figure>
 <img src="../_figures/ch20/ch20_ma_activity.png" alt="M&A activity over time" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 18.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv</figcaption>
+<figcaption>Figure 20.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv</figcaption>
 </figure>
 
 **The Largest Deals (Recent History):**
@@ -202,7 +202,7 @@ PE ownership transforms corporate finance in several ways:
 
 **Management incentives**: Executives receive significant equity stakes, aligning their interests with owners.
 
-**Table 18.3: Public vs. PE-Owned Capital Structure**
+**Table 20.3: Public vs. PE-Owned Capital Structure**
 
 | Metric | Public Company | PE-Owned |
 |--------|----------------|----------|
@@ -246,7 +246,7 @@ American corporate boards have evolved significantly in recent decades.
 
 CEO pay has grown dramatically relative to average worker compensation.
 
-**Table 18.4: CEO-to-Worker Pay Ratio (S&P 500)**
+**Table 20.4: CEO-to-Worker Pay Ratio (S&P 500)**
 
 | Year | Ratio | Average CEO Pay |
 |------|-------|-----------------|
@@ -334,7 +334,7 @@ Chief Financial Officers face a constant capital allocation question: what to do
 3. **Pursue M&A**: Acquisitions for growth or synergies
 4. **Return capital**: Buybacks, dividends, or debt paydown
 
-**Table 18.5: S&P 500 Capital Allocation (2023)**
+**Table 20.5: S&P 500 Capital Allocation (2023)**
 
 | Use of Funds | Amount | Share |
 |--------------|--------|-------|
@@ -371,7 +371,7 @@ Critics argue buybacks represent short-termism—returning cash rather than inve
 
 Fortune 500 headquarters cluster in a few metropolitan areas:
 
-**Table 18.6: Fortune 500 Headquarters by Metro (2024)**
+**Table 20.6: Fortune 500 Headquarters by Metro (2024)**
 
 | Metro Area | Fortune 500 HQs | Major Companies |
 |------------|-----------------|-----------------|
@@ -588,3 +588,35 @@ For the American economy, corporate finance practices shape investment patterns,
 - **Gutierrez & Philippon.** "Investment-less Growth" (2017)—the corporate investment puzzle
 - **Admati & Hellwig.** *The Bankers' New Clothes* (2013)—critique of leverage
 - **Appelbaum & Batt.** *Private Equity at Work* (2014)—critical examination
+
+---
+
+## Exercises
+
+### Review Questions
+
+1. The chapter shows that in 2023, internal funds (retained earnings plus depreciation) provided 76% of corporate funding, net debt issuance provided 24%, and net equity issuance was *negative* at -$0.8 trillion. Explain why this pattern confirms the pecking order theory of corporate finance. Why would a company with ample internal funds ever issue debt at all? (Hint: consider Apple's strategy of issuing bonds to fund buybacks rather than repatriating overseas cash before the 2017 tax reform.)
+
+2. The chapter identifies the "BBB cliff" as a systemic risk: the largest segment of investment-grade bonds is now rated BBB, the lowest investment-grade tier. Explain the mechanism by which a recession could trigger a cascade: companies get downgraded to junk ("fallen angels"), investment-grade-only funds face forced selling, and the high-yield market gets flooded with supply. How did this scenario partially play out in March 2020, and what Fed intervention prevented it from spiraling?
+
+3. The chapter reports that PE-owned companies typically carry 5-7x EBITDA in debt, versus 2-3x for public companies. Explain how this higher leverage amplifies equity returns in good times (use a numerical example with, say, $100 million EBITDA and compare returns at 3x versus 6x leverage). Then explain why the same leverage amplifies losses in a downturn. What is the role of dividend recapitalizations in extracting value before exit, and why do critics view this practice as transferring risk to employees and creditors?
+
+4. The chapter documents that the CEO-to-worker pay ratio at S&P 500 companies rose from 71:1 in 1990 to 285:1 in 2024, with equity-linked compensation (performance shares, stock options) comprising 55-75% of CEO pay. Explain how tying CEO compensation to Total Shareholder Return (TSR) creates incentives that may favor buybacks over long-term capital investment. How does the "say on pay" provision work, and why have failures been rare (less than 3% of companies annually) despite public concern about executive pay levels?
+
+5. Elliott Management won six board seats at Southwest Airlines in 2024 after attacking operational failures. The chapter describes the typical activist playbook: accumulate a stake (often using derivatives to avoid early disclosure), engage privately, go public if engagement fails, launch a proxy fight, and settle for board seats or strategic changes. Explain why activists often use equity swaps or other derivatives to build positions before crossing the 5% disclosure threshold. What informational advantage does this create, and what regulatory reforms might address the asymmetry?
+
+6. The chapter describes corporate simplification—GE splitting into three companies, Johnson & Johnson spinning off Kenvue, 3M spinning off Solventum—as the reverse of the 1960s-1980s conglomerate era. Explain why the "conglomerate discount" exists (markets value diversified firms below the sum of their parts). Then explain why Berkshire Hathaway and Danaher have avoided this discount. What specific characteristics—Buffett's capital allocation discipline, insurance float as negative-cost leverage, decentralized operations—allow some conglomerates to thrive while others destroy value?
+
+7. Private credit has grown from roughly $500 billion in 2015 to over $1.7 trillion in 2024, as firms like Ares, Apollo, and Blackstone Credit replace traditional bank lending to middle-market companies. The chapter notes this shift was driven by Basel III capital requirements making corporate loans more expensive for banks. Explain how this regulatory arbitrage works: what specific capital charges make bank lending less attractive, and why don't the same constraints apply to private credit funds? What risks arise from moving corporate lending outside the regulated banking system, particularly in a credit downturn?
+
+### Data Exercises
+
+1. **Corporate Capital Allocation over Time.** Using the Federal Reserve's Z.1 Financial Accounts (https://www.federalreserve.gov/releases/z1/), download the "Nonfinancial Corporate Business" table (Table F.103 or its successor). Track four series over the past 25 years: (a) internal funds (retained earnings + capital consumption allowances), (b) net equity issuance, (c) net bond issuance, and (d) capital expenditures. FRED series to use include BOGZ1FA106300085Q (corporate internal funds) and BOGZ1FA103164103Q (net equity issuance). Plot these on a single chart. In which years did net equity issuance turn negative? How does capital expenditure track relative to internal funds? Calculate the ratio of buybacks-plus-dividends to capital expenditures for the most recent year and compare it to the 1990s average.
+
+2. **The BBB Cliff in Real Time.** Using FRED, pull the ICE BofA BBB US Corporate Index Option-Adjusted Spread (series BAMLC0A4CBBB) and the ICE BofA US High Yield Option-Adjusted Spread (series BAMLH0A0HYM2). Plot both over the past 15 years. Identify the March 2020 spike and the subsequent compression after Fed intervention. Then visit SIFMA's statistics page (https://www.sifma.org/resources/research/us-corporate-bonds-statistics/) and find the current breakdown of investment-grade bonds by rating tier (AAA, AA, A, BBB). What percentage of the investment-grade market is now rated BBB? Compare this to the BBB share in 2005.
+
+3. **Executive Compensation at a Specific Firm.** Choose one of the firm profiles from this chapter (Goldman Sachs, Berkshire Hathaway, Johnson & Johnson, or Apollo Global Management). Access the company's most recent proxy statement (DEF 14A) on SEC EDGAR (https://www.sec.gov/cgi-bin/browse-edgar). Find the Summary Compensation Table for the top five named executive officers. Break down the CEO's total compensation into base salary, bonus, stock awards, option awards, and other compensation. What percentage is equity-linked? Compare the CEO-to-median-employee pay ratio (required since 2018 under the Dodd-Frank Act) to the S&P 500 average of 285:1 reported in this chapter. Does the company's ratio seem high or low relative to its industry?
+
+### Deeper Investigation
+
+**Buybacks, Investment, and Growth.** The chapter documents that S&P 500 companies spent $795 billion on buybacks and $590 billion on dividends in 2023, while capital expenditures totaled $850 billion and R&D $400 billion. Critics like William Lazonick ("Profits Without Prosperity," *Harvard Business Review*, 2014) argue that buybacks represent a massive diversion of corporate resources from productive investment to financial engineering. Defenders like Jesse Fried and Charles Wang ("Short-Termism and Capital Flows," 2019) counter that firms return capital they cannot productively invest, and shareholders redeploy it more efficiently. Write a research paper evaluating this debate. Use the Z.1 Financial Accounts to trace the historical relationship between buybacks and investment for the nonfinancial corporate sector. Examine whether the 2017 Tax Cuts and Jobs Act (which proponents said would boost investment) primarily funded buybacks instead. Analyze the 2022 Inflation Reduction Act's 1% buyback excise tax—has it affected behavior? Draw on the academic literature (Jensen's 1986 "free cash flow" theory, Gutierrez and Philippon's 2017 "investment-less growth" findings) to evaluate whether American corporations are underinvesting relative to their profit levels, and whether policy interventions (higher buyback taxes, R&D subsidies, changes to executive compensation rules) could shift capital allocation toward productive investment.

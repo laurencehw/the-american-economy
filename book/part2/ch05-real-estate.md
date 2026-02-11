@@ -432,3 +432,33 @@ The company operates less like a traditional construction firm and more like a m
 - **Diamond, Rebecca, Timothy McQuade, and Franklin Qian.** "The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality." *American Economic Review* 109, no. 9 (2019): 3365–94. [The definitive study on rent control's tradeoffs.]
 - **Desmond, Matthew.** *Evicted: Poverty and Profit in the American City.* Crown, 2016. [Pulitzer Prize-winning account of the rental affordability crisis.]
 - **Green, Richard K. and Susan M. Wachter.** "The American Mortgage in Historical and International Context." *Journal of Economic Perspectives* 19, no. 4 (2005): 93–114. [Explains why the 30-year fixed mortgage is uniquely American.]
+
+## Exercises
+
+### Review Questions
+
+1. The 30-year fixed-rate mortgage is described as "a uniquely American, government-backed anomaly." Explain why private lenders would never offer this product on their own. What roles do Fannie Mae, Freddie Mac, and the originate-to-distribute model play in making it possible? What risks does this system transfer to taxpayers?
+
+2. The chapter contrasts "inelastic coastal markets" (San Francisco, New York, Boston) with "elastic interior markets" (Houston, Dallas, Phoenix). Using the concepts of supply elasticity and the Wharton Residential Land Use Regulatory Index, explain why a tech hiring boom in San Francisco raises housing prices while a similar boom in Houston primarily increases housing construction.
+
+3. Hsieh and Moretti estimate that housing constraints in San Francisco, San Jose, and New York lowered aggregate U.S. GDP growth by up to 36% between 1964 and 2009. Through what mechanism does restricting housing construction in high-productivity cities reduce national economic output? Why don't workers simply move to where they can afford housing?
+
+4. The 2024 NAR antitrust settlement prohibited listing agents from advertising buyer's agent compensation on the MLS. Yet average buyer's agent commissions dropped only briefly (from roughly 2.5% to 2.36%) before rebounding to 2.40%. Why has the expected "revolution in transaction costs" not materialized? What structural features of the brokerage industry resist commission reduction?
+
+5. During the 2006--2012 housing crisis, Las Vegas prices fell 62%, Phoenix fell 56%, and Miami fell 51%, while Texas experienced only a 6% decline. The chapter attributes Texas's resilience to its elastic housing supply and strict home equity lending laws. Explain how the absence of a boom prevented a bust, and how lending regulations limited household leverage.
+
+6. The chapter describes a post-COVID "lock-in effect": homeowners who secured 3% mortgages in 2020--2021 are unwilling to sell because moving means taking on a 7% mortgage. What are the consequences of this lock-in for existing home supply, housing market liquidity, labor mobility, and new construction?
+
+7. Diamond, McQuade, and Qian found that San Francisco rent control reduced rental supply by 15% and increased market rents for non-controlled units by 65%. Explain the mechanism by which protecting incumbent tenants can raise rents for everyone else. Why does rent control remain politically popular despite this evidence?
+
+### Data Exercises
+
+8. Go to FRED (fred.stlouisfed.org) and pull the Case-Shiller National Home Price Index (series "CSUSHPISA") and a metro-level index for a city of your choice (e.g., "SFXRSA" for San Francisco, "PHXRSA" for Phoenix, "DAXRSA" for Dallas). Plot both from 2000 to the present. Did your metro experience a larger or smaller boom-bust cycle than the nation? How does this relate to the supply elasticity framework in the chapter?
+
+9. Using the Census Bureau's American Community Survey via data.census.gov, find the homeownership rate, median gross rent, and median home value for two metropolitan areas---one coastal and one interior. Calculate the price-to-income ratio (median home value divided by median household income) for each. How large is the gap? What does this reveal about the "zoning tax" described by Glaeser and Gyourko?
+
+10. Visit Zillow Research (zillow.com/research/data/) and download the Zillow Observed Rent Index (ZORI) for three Sunbelt metros (e.g., Austin, Phoenix, Tampa) and three legacy metros (e.g., New York, Chicago, San Francisco). Compare rent growth since January 2020. Do the trajectories support the chapter's description of the Sunbelt migration shift and the "donut effect"?
+
+### Deeper Investigation
+
+11. Research the emerging property insurance crisis in either Florida or California. How have rising climate-related losses affected insurance availability and premiums? What happens to housing markets when private insurers withdraw---as State Farm and Allstate have done in California? Analyze the connection between insurance availability, mortgage finance (Fannie and Freddie require insurance), and home values. Assess whether insurance-driven value declines could trigger a localized housing bust, and compare the transmission mechanism to the 2008 crisis described in the chapter.

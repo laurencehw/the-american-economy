@@ -21,12 +21,12 @@ The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents-
 
 <figure>
 <img src="../_figures/ch24/ch24_sunbelt_map.png" alt="Sunbelt Region Map" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 22.1: The Sunbelt region. Major metros in Texas, Florida, Georgia, Arizona, and the Carolinas have captured the majority of U.S. population and economic growth since 2019. Circle size indicates metro GDP. Source: BEA, Census Bureau</figcaption>
+<figcaption>Figure 24.1: The Sunbelt region. Major metros in Texas, Florida, Georgia, Arizona, and the Carolinas have captured the majority of U.S. population and economic growth since 2019. Circle size indicates metro GDP. Source: BEA, Census Bureau</figcaption>
 </figure>
 
 <figure>
 <img src="../_figures/ch24/ch24_sunbelt_gdp_growth.png" alt="Sunbelt GDP Growth" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 22.2: Sunbelt state GDP growth since 2019, indexed to 100. All Sunbelt states have outpaced national growth, with Texas and Florida leading. Source: BEA</figcaption>
+<figcaption>Figure 24.2: Sunbelt state GDP growth since 2019, indexed to 100. All Sunbelt states have outpaced national growth, with Texas and Florida leading. Source: BEA</figcaption>
 </figure>
 
 The South alone accounted for 87% of U.S. population growth in 2023. Texas and Florida added nearly 800,000 residents between them in a single year---equivalent to adding a city the size of Seattle.
@@ -338,3 +338,33 @@ When fully operational, the plant will be one of the largest manufacturing facil
 **Word count:** roughly 4,600 words
 
 *Note: For industry-specific analysis of energy, manufacturing, and technology, see the relevant chapters in Part II.*
+
+## Exercises
+
+### Review Questions
+
+1. Between 2019 and 2024, Texas added 2.3 million residents and Florida added 1.9 million---together absorbing more population than the bottom 30 states combined. The chapter distinguishes between "extensive" growth (more people, more jobs) and "intensive" growth (higher productivity per worker). Using per capita income data from the chapter (Texas at $67,500, Florida at $70,000, versus the national average of $70,000), explain why the Sunbelt's rapid total GDP growth may overstate its economic performance relative to the Northeast or West.
+
+2. Houston is described as "the command center" of global energy, with every major integrated oil company now headquartered in its metropolitan area. But the chapter also notes Houston's diversification into the Texas Medical Center (120,000 employees) and energy transition technologies. Evaluate the risks and benefits of Houston's continued concentration in energy. How does the city's pivot toward hydrogen, carbon capture, and renewables represent an attempt to leverage existing engineering talent for a different purpose?
+
+3. Austin's emergence as a technology hub is described as "one of the most successful economic development stories in American history," yet the chapter raises concerns about infrastructure strain, housing costs that quintupled since 2010, and the displacement of the creative culture that originally attracted tech workers. Is Austin's growth model sustainable? Compare Austin's trajectory to a more mature tech hub (San Francisco or Boston) and assess whether infrastructure constraints will "cap its potential" or whether the city can adapt.
+
+4. The Sunbelt's "zero income tax" advantage is identified as the primary attractor for high-earning households---a relocating family earning $500,000 effectively receives a 10-13% raise by moving from California or New York to Texas or Florida. But the chapter notes that property taxes, insurance costs, and other expenses partially offset this advantage. Analyze the full cost equation facing a hypothetical household deciding between remaining in a high-tax coastal state and relocating to a Sunbelt metro. What non-tax factors (schools, climate risk, cultural amenities) enter the decision?
+
+5. The chapter identifies a "red states, blue cities" tension across the Sunbelt, with Austin, Atlanta, Miami, and Charlotte politically diverging from the state legislatures that govern them. Using specific examples---Texas preempting Austin's local regulations, Florida's conflict with Disney, or Georgia's intervention in Atlanta's governance---explain how this political dynamic affects economic development and business recruitment.
+
+6. The ERCOT grid's isolation and the February 2021 freeze are described as revealing a fundamental vulnerability in Texas's infrastructure model. Why does the Texas grid operate independently from the rest of the country? What are the economic consequences when this isolation means "there's no backstop"? How do growing demands from AI data centers and cryptocurrency mining compound the grid's capacity challenges?
+
+7. Hyundai's $7.6 billion Metaplant near Savannah, Georgia, illustrates a broader pattern of Sunbelt states competing for advanced manufacturing investment. Identify the combination of advantages the chapter attributes to the Sunbelt for manufacturing: available land, lower costs, port access, and aggressive state incentives. What does the $2 billion in Georgia state incentives suggest about the cost of this competition? Compare this model to the Northeast Corridor's reliance on agglomeration and human capital.
+
+### Data Exercises
+
+1. Using Census Bureau population estimates (https://www.census.gov/programs-surveys/popest.html), download annual state population data for Texas, Florida, Georgia, Arizona, and one non-Sunbelt state of your choice (New York, Illinois, or California) for 2010 through the most recent available year. Calculate the annual growth rate for each state and plot the results. At what point did the Sunbelt-versus-non-Sunbelt growth gap widen most dramatically? Does the data support the chapter's claim that the shift "accelerated after 2020"?
+
+2. The Federal Housing Finance Agency (FHFA) publishes a House Price Index by metropolitan area (FRED series such as "ATNHPIUS12420Q" for Austin or "PHXHPIUS38060Q" for Phoenix). Retrieve house price index data for Austin, Phoenix, Tampa, and Dallas from 2015 to the most recent quarter. Calculate the cumulative price increase over the 2020-2024 period for each metro and compare to the national index ("USSTHPI"). Does the housing price convergence the chapter describes---Sunbelt prices rising faster than coastal markets---hold in the most recent data, or has the trend moderated?
+
+3. Using BEA Regional GDP data (https://www.bea.gov/data/gdp/gdp-state), compare GDP growth rates for Texas and Florida to the U.S. national average for each year from 2015 to the most recent available. Decompose the growth into its components where possible: is the Sunbelt's GDP growth driven primarily by population growth (more workers) or by productivity growth (more output per worker)? What does this decomposition imply about the long-term sustainability of the Sunbelt growth model?
+
+### Deeper Investigation
+
+1. The chapter notes that Florida's property insurance market has "entered crisis," with major carriers withdrawing, the state insurer of last resort (Citizens) growing to 1.3 million policies, and premiums tripling in five years. Investigate the intersection of climate risk and economic growth in one Sunbelt state---Florida, Texas, or Arizona. How are rising insurance costs, water scarcity, or extreme heat events affecting household budgets, business location decisions, and property values? Use data from the National Association of Insurance Commissioners, FEMA flood maps, the National Oceanic and Atmospheric Administration (NOAA) storm damage database, and state insurance regulatory filings. Assess whether climate costs could eventually slow or reverse the migration patterns that have driven Sunbelt growth, and what policy responses (building codes, managed retreat, infrastructure investment) might alter the trajectory.

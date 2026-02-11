@@ -108,11 +108,11 @@ These are the changes that address the biggest gaps. Completing Tier 1 would rai
 
 | Session | Tasks | Status |
 |---------|-------|--------|
-| **1** | Agriculture chapter + Hospitality chapter + Part I exercises + Quick wins | **DONE** (Score: ~4.3) |
-| **2** | Inequality section + Exercises for Parts II-III (Ch 4-20) | Next up |
-| **3** | Exercises for Parts IV-VII (Ch 21-32) + Data consistency pass | Pending |
-| **4** | Case study revision (Ch 2/32) + Positive shock example + Labor chapter expansion | Pending |
-| **5** | International comparisons + Print/PDF audit | Pending |
+| **1** | Agriculture chapter + Hospitality chapter + Part I exercises + Quick wins | **DONE** |
+| **2** | Inequality interlude + Exercises for Parts II-III (Ch 4-20) | **DONE** |
+| **3** | Exercises for Parts IV-VII (Ch 21-32) + Data consistency pass + figure number fixes | **DONE** |
+| **4** | Case study revision (Ch 2/32) + Positive shock example + Labor chapter expansion | **DONE** (Score: ~4.6) |
+| **5** | International comparisons + Print/PDF audit | Next up |
 | **6** | Platform economy expansion + Environmental economics | Pending |
 | **7** | Utilities + Alt text audit + Glossary | Pending |
 

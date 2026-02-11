@@ -14,7 +14,7 @@ Not all money is equal. Money exists in layers, with each level a *promise to pa
 
 <figure>
 <img src="../_figures/ch18/ch18_hierarchy_of_money.png" alt="Hierarchy of money" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 16.1: The hierarchy of money. Currency sits at the top; reserves, deposits, and shadow money form progressively lower levels, each a promise to pay the level above. In a crisis, lower-level money gets tested against higher-level money. Source: Author illustration based on Mehrling</figcaption>
+<figcaption>Figure 18.1: The hierarchy of money. Currency sits at the top; reserves, deposits, and shadow money form progressively lower levels, each a promise to pay the level above. In a crisis, lower-level money gets tested against higher-level money. Source: Author illustration based on Mehrling</figcaption>
 </figure>
 
 The first insight is that not all money is equal. Money exists in a hierarchy, with each level a promise to pay the level above.
@@ -79,7 +79,7 @@ These instruments function as money for their holders—they're liquid, perceive
 
 <figure>
 <img src="../_figures/ch18/ch18_flow_of_funds.png" alt="Flow of funds diagram" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 16.2: The flow of funds: how savings become investment. Money flows from sources (households, corporations, government, rest of world) through financial intermediaries (banks, shadow banks, capital markets) to ultimate uses (mortgages, business loans, consumer credit). The Fed sits at the bottom, providing reserves that lubricate the entire system. Source: Federal Reserve Z.1 Financial Accounts</figcaption>
+<figcaption>Figure 18.2: The flow of funds: how savings become investment. Money flows from sources (households, corporations, government, rest of world) through financial intermediaries (banks, shadow banks, capital markets) to ultimate uses (mortgages, business loans, consumer credit). The Fed sits at the bottom, providing reserves that lubricate the entire system. Source: Federal Reserve Z.1 Financial Accounts</figcaption>
 </figure>
 
 ## How Banks Actually Work
@@ -381,7 +381,7 @@ Beginning in March 2022, the Fed raised the federal funds rate from near zero to
 
 <figure>
 <img src="../_figures/shock_analysis/mortgage_rate_shock.png" alt="Mortgage rate shock" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 16.2: The 30-year fixed mortgage rate doubled from 3% to over 7% in just 18 months, the most rapid increase since the Volcker disinflation of 1981-82. Source: FRED</figcaption>
+<figcaption>Figure 18.2: The 30-year fixed mortgage rate doubled from 3% to over 7% in just 18 months, the most rapid increase since the Volcker disinflation of 1981-82. Source: FRED</figcaption>
 </figure>
 
 ### The Primary Transmission Channel: Mortgage Rates
@@ -394,7 +394,7 @@ The most visible transmission occurred through mortgage rates. The 30-year fixed
 
 <figure>
 <img src="../_figures/shock_analysis/housing_starts_shock.png" alt="Housing starts shock" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 16.3: Housing starts fell sharply as mortgage rates rose, demonstrating the Fed's primary transmission mechanism to the real economy. Source: Census Bureau</figcaption>
+<figcaption>Figure 18.3: Housing starts fell sharply as mortgage rates rose, demonstrating the Fed's primary transmission mechanism to the real economy. Source: Census Bureau</figcaption>
 </figure>
 
 Housing starts declined by roughly 20% as builders faced both higher financing costs and reduced buyer demand. Construction employment, which had boomed during the pandemic housing surge, contracted modestly.
@@ -598,3 +598,35 @@ BlackRock's scale creates both influence and scrutiny. Its holdings make it a to
 - Investment Company Institute: Mutual fund and ETF statistics
 - SIFMA: Securities markets data, repo statistics
 - BIS Quarterly Review: Global banking and shadow banking trends
+
+---
+
+## Exercises
+
+### Review Questions
+
+1. The chapter describes money as existing in a hierarchy, with each level a "promise to pay" the level above. Explain how this hierarchy became visible during the 2008 financial crisis. Specifically, trace what happened when money market fund shares (Level 4) were tested against bank deposits (Level 3)—what broke, and how did the Federal Reserve's interventions restore the hierarchy?
+
+2. The traditional "money multiplier" model says banks lend out existing deposits, and the central bank controls the money supply through reserve requirements. The chapter argues this is backwards. Explain the endogenous money view: in what order do loans, deposits, and reserves actually appear? Why does the Fed set the *price* of money (the interest rate) rather than the *quantity*?
+
+3. Fedwire settles payments in real-time gross settlement (RTGS), while CHIPS uses multilateral netting. Explain why $1.8 trillion in gross CHIPS payments might net to only $50 billion in actual reserve movements. What are the trade-offs between the two approaches in terms of liquidity efficiency and counterparty risk? Why might a bank prefer one system over the other for a given transaction?
+
+4. The chapter describes how repo market haircuts on AAA asset-backed securities rose from 3-5% to 50-100% during the 2008 crisis. Explain why a haircut increase of this magnitude functions as a massive margin call across the entire financial system. How does this mechanism connect the shadow banking system to the real economy through forced deleveraging?
+
+5. Before 2008, the Fed operated a "corridor" system with roughly $15-50 billion in reserves. After quantitative easing, reserves exceeded $3 trillion, and the Fed shifted to a "floor" system using IORB and the ON RRP facility. Explain why the effective federal funds rate trades 5-15 basis points *below* IORB, even though arbitrage should close the gap. What specific balance sheet costs—the Supplementary Leverage Ratio, FDIC assessment fees, and G-SIB surcharges—prevent banks from exploiting this spread?
+
+6. Silicon Valley Bank's depositors withdrew $42 billion in a single day—the fastest bank run in American history. Drawing on the chapter's discussion of SVB's asset composition (long-duration MBS and Treasuries), liability structure (94% uninsured deposits from networked tech firms), and the role of social media, explain the structural features that made SVB uniquely vulnerable. Why did the run happen in hours rather than days?
+
+7. The chapter notes that the Fed responded to the March 2023 banking stress by creating the Bank Term Funding Program (BTFP), which allowed banks to borrow against securities at par value rather than market value. Explain the tension in this response: the Fed was simultaneously *tightening* monetary policy to fight inflation and *easing* through emergency lending facilities to prevent bank failures. What does this episode reveal about the limits of using a single tool (interest rates) to achieve multiple objectives?
+
+### Data Exercises
+
+1. **Tracking the Hierarchy of Money.** Using the Federal Reserve's H.6 Money Stock release (https://www.federalreserve.gov/releases/h6/current/) and the Z.1 Financial Accounts (https://www.federalreserve.gov/releases/z1/), compare the current levels of M1 (currency + checkable deposits), M2 (M1 + savings + small time deposits), and money market fund assets. Then pull reserve balances from the H.4.1 release (https://www.federalreserve.gov/releases/h41/current/). Construct a table showing each level of the money hierarchy and its current size. How has the ratio of reserves to deposits changed since 2007? What does this tell you about the shift from a scarce-reserves to an abundant-reserves regime?
+
+2. **Measuring Procyclical Lending.** Download the Federal Reserve's Senior Loan Officer Opinion Survey (SLOOS) data from FRED (series DRTSCILM for tightening standards on C&I loans, and DRTSSP for spreads). Plot the net percentage of banks tightening standards over the past 20 years. Identify the periods when standards tightened most sharply and compare them to NBER recession dates. Then pull the Gilchrist-Zakrajsek excess bond premium from the Federal Reserve's website (https://www.federalreserve.gov/econres/notes/feds-notes/updating-the-recession-risk-and-the-excess-bond-premium-20161006.html). Does the excess bond premium lead recessions, as the chapter claims? By how many quarters?
+
+3. **The SVB Balance Sheet.** Access SVB Financial Group's final 10-K filing on the SEC's EDGAR system (https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000719739). Examine the breakdown of SVB's securities portfolio between "available-for-sale" (AFS) and "held-to-maturity" (HTM) classifications. What was the fair market value of HTM securities versus their carrying value? Calculate the unrealized losses as a percentage of SVB's total equity capital. How did the accounting treatment of HTM securities mask the bank's true economic condition?
+
+### Deeper Investigation
+
+**The Expanding Safety Net.** The chapter traces how the Federal Reserve's lender-of-last-resort function has expanded in each successive crisis: from traditional banks (pre-2008) to investment banks, money market funds, and the commercial paper market (2008) to corporate bond markets and the BTFP (2020-2023). Research this expansion in detail, drawing on the Fed's own facility documentation and academic analyses by Mehrling (2011), Gorton and Metrick (2012), and others. Write a research paper addressing: What are the boundaries of the Fed's backstop today? Has each crisis permanently expanded the set of institutions and markets that receive implicit government support? What are the moral hazard consequences of this expansion for shadow banking—if private credit funds and stablecoins expect Fed support during the next crisis, how does that affect their risk-taking today? Propose a framework for deciding which institutions deserve backstop access and what regulatory obligations should accompany it.

@@ -25,7 +25,7 @@ The geographic distribution of rural America is uneven. The Great Plains and Mou
 
 <figure>
 <img src="../_figures/ch27/ch27_rural_map.png" alt="Rural America Economic Regions Map" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 25.1: Rural America's diverse economies. The Great Plains Corn Belt depends on agriculture; Appalachia faces coal decline; the Mountain West attracts recreation and remote workers; the Permian Basin booms from energy extraction; and the Wind Belt emerges with renewable energy. Source: USDA ERS, Census Bureau</figcaption>
+<figcaption>Figure 27.1: Rural America's diverse economies. The Great Plains Corn Belt depends on agriculture; Appalachia faces coal decline; the Mountain West attracts recreation and remote workers; the Permian Basin booms from energy extraction; and the Wind Belt emerges with renewable energy. Source: USDA ERS, Census Bureau</figcaption>
 </figure>
 
 Rural America is not one economy but several, each with distinct dynamics.
@@ -118,12 +118,12 @@ Since the 2008 financial crisis, metropolitan areas have captured over 90% of ne
 
 <figure>
 <img src="../_figures/ch27/ch27_income_disparity.png" alt="State Per Capita Income Disparity" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 25.1: Per capita income by state (2023). The highest-income states exceed the lowest by more than $40,000 per person. Source: BEA</figcaption>
+<figcaption>Figure 27.1: Per capita income by state (2023). The highest-income states exceed the lowest by more than $40,000 per person. Source: BEA</figcaption>
 </figure>
 
 <figure>
 <img src="../_figures/ch27/ch27_rural_types.png" alt="Rural Economic Typologies" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 25.2: Economic typologies of rural America. Different regions face distinct economic dynamics: agriculture in the Corn Belt, energy extraction in the Permian, coal decline in Appalachia, recreation economies in the Mountain West, and resource depletion in the Ogallala region. Source: USDA ERS, Census Bureau</figcaption>
+<figcaption>Figure 27.2: Economic typologies of rural America. Different regions face distinct economic dynamics: agriculture in the Corn Belt, energy extraction in the Permian, coal decline in Appalachia, recreation economies in the Mountain West, and resource depletion in the Ogallala region. Source: USDA ERS, Census Bureau</figcaption>
 </figure>
 
 The income gap understates the divide. Rural costs are lower, but the gap in opportunity---the availability of high-paying jobs, the chance for advancement---is wider than the income statistics suggest.
@@ -339,3 +339,33 @@ The employment impact is more limited. Construction provides temporary jobs; ong
 **Word count:** roughly 4,200 words
 
 *Note: For detailed treatment of agriculture, energy, and healthcare, see the relevant sector chapters in Part II.*
+
+## Exercises
+
+### Review Questions
+
+1. The chapter defines rural America as "14% of the population spread across 72% of the land." Explain why this dispersal creates economic disadvantages that urban areas do not face. Using the concept of agglomeration, describe at least three economic activities that become unfeasible at rural population densities. How does the "thickness" of urban labor markets differ from the "one or two realistic employers" available to a rural worker?
+
+2. American agriculture produces record output with fewer workers than ever before, yet counties dependent on agriculture continue to lose population. The chapter calls this the "productivity paradox." Explain the mechanism: how does consolidation into larger, capital-intensive farms generate wealth that "accrues to landowners and equipment suppliers, not to small-town main streets"? What role does contract farming---where processors like ADM, Cargill, and Bunge specify practices and guarantee purchases---play in this dynamic?
+
+3. Energy extraction is described as creating "the highest-wage rural jobs, but with extreme volatility." Compare the economic dynamics of fossil fuel communities (Permian Basin, Bakken) with emerging renewable energy communities (Great Plains Wind Belt). How do wind turbine lease payments ($8,000-$10,000 per turbine annually) compare to fossil fuel employment in terms of income level, stability, and the number of jobs created? Can renewable energy replace the economic base that fossil fuels provided?
+
+4. The chapter identifies a self-reinforcing "brain drain" cycle: "The absence of skilled workers deters employers; the absence of employers drives young people away." What interventions---scholarships requiring recipients to return home, loan forgiveness for rural professionals, or "grow your own" workforce strategies---does the chapter describe? Why do these programs "operate at the margins" against the "fundamental economic forces" favoring metropolitan concentration?
+
+5. In the most rural "noncore" counties, federal transfer payments (Social Security, Medicare, Medicaid, veterans' benefits, disability) constitute 30-40% of total personal income. Explain the economic implications of this transfer dependency. How does it shield communities from market fluctuations, and what does it reveal about the absence of self-sustaining economic activity? How does the Farm Bill's linkage of agricultural subsidies with nutrition programs (SNAP) create a political coalition that ensures bipartisan support?
+
+6. The chapter describes "deaths of despair"---rising mortality from suicide, drug overdose, and alcoholic liver disease among middle-aged white adults without college degrees---as concentrated in rural America. Using the framework of economic dislocation, explain the connection between the loss of manufacturing and mining jobs and worsening health outcomes. Why are treatment resources (addiction specialists, mental health professionals) particularly scarce in rural areas, and how does this scarcity compound the crisis?
+
+7. The chapter profiles three types of rural success stories: destination economies (Bend, Bozeman, Asheville), niche manufacturing (precision machining, food processing), and "Zoom towns" (remote workers relocating for amenities). For each model, identify the key conditions that enable success and the vulnerabilities that threaten sustainability. Which model is most replicable, and which is most dependent on circumstances that cannot be manufactured?
+
+### Data Exercises
+
+1. The USDA Economic Research Service publishes the Atlas of Rural and Small-Town America (https://www.ers.usda.gov/data-products/atlas-of-rural-and-small-town-america/), which provides county-level data on population, income, employment, and education across all rural counties. Select one state with substantial rural population (Iowa, Kansas, West Virginia, Montana, or Mississippi) and use the Atlas to compare economic indicators across that state's rural counties. Identify the counties with the highest and lowest per capita income, the fastest and slowest population growth, and the highest transfer payment dependency. What geographic or economic characteristics distinguish the thriving rural counties from the declining ones?
+
+2. Using the Census Bureau's American Community Survey (https://data.census.gov/), compare educational attainment (percent with bachelor's degree or higher), median household income, and labor force participation rates for nonmetropolitan counties versus metropolitan counties nationally for the most recent available year. Then retrieve the same metrics for 2010 and calculate the change over the intervening period. Has the rural-urban gap on these measures widened, narrowed, or remained stable? Compare your findings to the key metrics table in this chapter (22% college attainment in rural areas versus 35% in urban areas).
+
+3. The USDA National Agricultural Statistics Service (https://www.nass.usda.gov/) publishes annual data on farm numbers, farm size, and farm income. Download the number of farms and average farm size (in acres) for the United States from 2000 to the most recent available year. Plot the trend in both series. Then retrieve net farm income data from the USDA ERS (FRED series "B1400C1A027NBEA" or from https://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/). Does the data confirm the chapter's narrative of consolidation into "fewer, larger farms" producing "more than ever before"? How volatile is net farm income over this period?
+
+### Deeper Investigation
+
+1. The Ogallala Aquifer, described in the chapter as facing depletion that is "existential" for the High Plains economy, presents a case study in the economics of exhaustible natural resources. The water table has dropped over 100 feet in some areas; "recharge is negligible on human timescales"; and some Kansas and Texas areas are "already transitioning" to dryland farming. Investigate the economic future of one Ogallala-dependent county. Using data from the Kansas Geological Survey's water level monitoring network (https://www.kgs.ku.edu/HighPlains/OHP/), USDA Census of Agriculture county-level data, and Census Bureau population estimates, document the relationship between declining water availability, agricultural output, and population change over the past two decades. What adaptation strategies---dryland crop varieties, water-efficient irrigation technology, economic diversification---are being attempted? Estimate the economic cost of transitioning from irrigated to dryland agriculture in terms of lost output per acre and reduced employment. Is managed decline inevitable, or can policy intervention extend the aquifer's useful life long enough for meaningful economic transition?

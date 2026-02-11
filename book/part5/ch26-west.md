@@ -8,12 +8,12 @@ The American West---the Pacific Coast states plus the Mountain West---represents
 
 <figure>
 <img src="../_figures/ch26/ch26_west_map.png" alt="Western States Map" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 24.1: The American West. California alone generates $4.1 trillion in GDP—the world's 5th largest economy if independent. Major tech hubs cluster along the coast, while the Colorado River Basin faces existential water constraints. Source: BEA, Bureau of Reclamation</figcaption>
+<figcaption>Figure 26.1: The American West. California alone generates $4.1 trillion in GDP—the world's 5th largest economy if independent. Major tech hubs cluster along the coast, while the Colorado River Basin faces existential water constraints. Source: BEA, Bureau of Reclamation</figcaption>
 </figure>
 
 <figure>
 <img src="../_figures/ch26/ch26_west_gdp.png" alt="Western State Economies" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 24.2: GDP of Western states (2023). California dominates, producing more than all other Western states combined. Source: BEA</figcaption>
+<figcaption>Figure 26.2: GDP of Western states (2023). California dominates, producing more than all other Western states combined. Source: BEA</figcaption>
 </figure>
 
 California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds the entire output of the United Kingdom. The state leads the nation in manufacturing (by value), agriculture, entertainment, and technology. One in eight Americans lives in California; one in seven dollars of American output is produced there.
@@ -329,3 +329,33 @@ Kaiser's challenges are California's challenges: high costs, labor shortages, co
 **Word count:** roughly 4,500 words
 
 *Note: For detailed treatment of technology, energy, and specific industries, see the relevant chapters in Part II.*
+
+## Exercises
+
+### Review Questions
+
+1. California's GDP of $4.1 trillion exceeds that of the United Kingdom, and the state leads the nation in manufacturing, agriculture, entertainment, and technology. Yet the chapter documents that California lost 400,000 residents between 2020 and 2022---the first population decline in recorded history. Explain the paradox of a state that is simultaneously the nation's most productive economy and one from which people are fleeing. How can agglomeration advantages coexist with sustained out-migration?
+
+2. The Bay Area has maintained technological leadership across multiple waves of innovation: semiconductors, personal computers, the internet, mobile computing, cloud computing, and now artificial intelligence. The chapter notes that "each wave might have dispersed to other locations; each wave intensified the Bay Area's dominance instead." What mechanisms of agglomeration---talent pools, venture capital concentration, knowledge spillovers, or network effects---explain why technological leadership has remained geographically sticky? Is there any reason to believe the AI wave will be different?
+
+3. Los Angeles is described as "often misunderstood as 'just entertainment'" when in fact it is the nation's largest manufacturing center by employment and handles 30%+ of U.S. container imports through the ports of LA/Long Beach. Using examples from the chapter, explain how entertainment, manufacturing, logistics, and immigration interact to create a "diversified giant." How does the Inland Empire's warehouse and logistics corridor connect LA's port economy to the broader national supply chain?
+
+4. Seattle's economy "rests on two pillars: cloud computing and aerospace," with Amazon (80,000 employees) and Microsoft (60,000 employees) dominating the metropolitan economy. Median household income exceeds $115,000---highest among major metros. Analyze the benefits and risks of this concentration. What happens to Seattle's economy and housing market if one of these companies significantly reduces its local workforce, as Boeing partially has by moving operations to South Carolina and its headquarters to Virginia?
+
+5. The chapter contrasts the "California model" (high taxes funding public investments, aggressive environmental and social regulation, reliance on agglomeration effects) with the "alternative model" of Mountain West states (low taxes, light regulation, pro-development). Using specific examples---Oracle and Tesla relocating to Texas, Utah's "Silicon Slopes" attracting BYU graduates, Colorado's hybrid approach---evaluate whether the competition between these models is producing a race to the bottom or a productive sorting of economic activity.
+
+6. Water is described as "the existential constraint" on the Western economy. The Colorado River serves 40 million people across seven states, yet average annual flow has declined 20% since 2000. Using the chapter's data on Lake Mead and Lake Powell (both below 35% capacity), explain how water scarcity constrains future growth in Phoenix, Las Vegas, and Southern California. Who bears the costs of cutbacks---agricultural users (70% of consumption) or urban residents---and what political dynamics shape this allocation?
+
+7. The chapter profiles Nvidia, whose market capitalization of roughly $4.5 trillion makes it the world's most valuable company, driven by demand for its AI-training GPUs. Compare Nvidia's trajectory with that of Intel, which maintained Oregon manufacturing operations but lost its leading-edge position to TSMC. What does this contrast suggest about whether designing chips (Nvidia's model) or manufacturing them (Intel's model) captures more value in the semiconductor industry? How does this relate to the broader geographic pattern of Bay Area design dominance and Asian fabrication?
+
+### Data Exercises
+
+1. Using BEA Regional GDP data (https://www.bea.gov/data/gdp/gdp-state), download California's GDP by industry sector for the most recent available year. Calculate the share attributable to information technology (NAICS 51), professional and technical services (NAICS 54), manufacturing (NAICS 31-33), and agriculture (NAICS 11). Compare California's sectoral composition to that of Texas and New York. Does the data confirm the chapter's characterization of California as uniquely diversified---leading simultaneously in technology, manufacturing, and agriculture?
+
+2. The Bureau of Reclamation publishes Colorado River water level and storage data (https://www.usbr.gov/lc/region/g4000/hourly/mead-elv.html for Lake Mead). Retrieve monthly storage or elevation data for Lake Mead and Lake Powell from 2000 to the most recent available month. Plot the long-term decline alongside the mandatory shortage trigger levels. At the current rate of decline, when will the reservoirs reach "dead pool" levels at which water can no longer flow through the dams? How does this timeline compare to the projected population growth of Phoenix, Las Vegas, and Southern California (available from Census Bureau state projections)?
+
+3. Using FRED data on median household income by metropolitan area (series such as "MHICA06075A052NCEN" for San Francisco County or equivalent), compare the median household income trajectories of San Jose, San Francisco, Seattle, Denver, and Salt Lake City from 2010 to the most recent year. Adjust for cost of living using BEA Regional Price Parities (https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area). After the cost-of-living adjustment, which Western metro offers the highest real purchasing power? Does this change the narrative about Bay Area prosperity?
+
+### Deeper Investigation
+
+1. The chapter states that "more than half of Silicon Valley's venture-backed companies have at least one immigrant founder," and that H-1B visa policy uncertainty "creates business planning challenges and pushes some operations offshore." Investigate how immigration policy shapes the Western technology economy. Using USCIS H-1B employer data (available at https://www.uscis.gov/tools/reports-and-studies), identify the largest H-1B sponsors in the Bay Area and Seattle. Estimate the share of engineering and research positions at major technology firms filled by foreign-born workers. Then assess the economic consequences of two scenarios: (a) a significant expansion of high-skilled immigration (eliminating per-country caps, increasing H-1B quotas) versus (b) a significant restriction. How would each scenario affect the West's technology sector, housing markets, and competition with other global technology hubs (London, Toronto, Bangalore)?

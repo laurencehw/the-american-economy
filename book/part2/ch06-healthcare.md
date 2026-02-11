@@ -408,3 +408,33 @@ CVS's strategy bets that integrating pharmacy, insurance, and primary care can i
 - Uwe Reinhardt, *Priced Out: The Economic and Ethical Costs of American Health Care* (2019) --- Health economist's analysis of the U.S. system
 - Elisabeth Rosenthal, *An American Sickness* (2017) --- Journalist's investigation of healthcare pricing
 - Atul Gawande, "The Cost Conundrum," *The New Yorker* (2009) --- Influential article on geographic variation in healthcare spending
+
+## Exercises
+
+### Review Questions
+
+1. The chapter opens with a tenfold price gap for an MRI between the United States ($3,000) and Japan ($300) on identical machines. What structural features of the American healthcare system---the three-party payment structure, lack of price transparency, provider market power, or administrative complexity---best explain this price differential? Why don't competitive forces push the American price toward international levels?
+
+2. Explain the "three-party problem" in healthcare: the patient receives care, the insurer pays, and the physician decides treatment. How does this separation break normal price signals? Compare this to a market where the consumer both chooses and pays for a service (e.g., a restaurant meal). What specific distortions does the three-party structure create?
+
+3. Healthcare spending has grown from 5% of GDP in 1960 to nearly 18% today. The chapter identifies four drivers: an aging population, technological advances, rising incomes, and perverse payment incentives. Which of these drivers is most amenable to policy intervention? Which is least? Explain your reasoning.
+
+4. The three largest Pharmacy Benefit Managers---CVS Caremark, Express Scripts (Cigna), and OptumRx (UnitedHealth)---control about 80% of the market. What role do PBMs play between drug manufacturers, insurers, and pharmacies? Why has this level of concentration drawn antitrust and regulatory scrutiny?
+
+5. Over 50% of physicians now work for hospitals or health systems, up from roughly 25% in 2000. What economic forces drive this consolidation? What are the implications for healthcare costs (hospital "facility fees" on previously independent practices), physician autonomy, and the availability of care in rural areas?
+
+6. The chapter describes three payment models: fee-for-service, capitation, and value-based care. Fee-for-service incentivizes volume; capitation incentivizes limiting care; value-based care ties payment to outcomes. Why has the transition away from fee-for-service been so slow, despite decades of policy support for alternatives?
+
+7. Kaiser Permanente integrates insurance and care delivery, covering 12.5 million members primarily through its own facilities and physicians. The chapter notes this model is "often cited as a potential model for healthcare reform." Why hasn't the Kaiser model spread more widely across the country? What limits its geographic applicability?
+
+### Data Exercises
+
+8. Go to the CMS National Health Expenditure data (cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data) and download the "NHE by Type of Service" tables. Compare the share of spending going to hospital care versus physician/clinical services in 2000 and the most recent year available. Has the "shift to outpatient care" the chapter describes shown up in the aggregate spending data? What might explain any discrepancy between the trend and the data?
+
+9. Using the Kaiser Family Foundation's State Health Facts (kff.org/statedata), compare healthcare spending per capita, Medicaid enrollment, and the uninsured rate for two states---one that expanded Medicaid under the ACA and one that did not. How do the states differ on these measures? What does this suggest about the effects of Medicaid expansion?
+
+10. Go to the BLS Occupational Employment and Wage Statistics (bls.gov/oes) and look up wages for registered nurses (SOC 29-1141) and home health aides (SOC 31-1011) in three different metropolitan areas. How much does pay vary geographically for each occupation? How does the ratio of nurse wages to home health aide wages compare across metros? What does this reveal about the healthcare workforce's wage structure?
+
+### Deeper Investigation
+
+11. Research the role of private equity investment in one specific healthcare subsector: emergency medicine staffing (Envision, TeamHealth), nursing homes, dental practices (Heartland Dental, Aspen Dental), or dermatology clinics. What is the private equity business model in that subsector---how do firms generate returns? What evidence exists on the effects of PE ownership on prices, service quality, staffing levels, and patient outcomes? Assess whether the growth of private equity in healthcare represents efficiency improvement or value extraction.

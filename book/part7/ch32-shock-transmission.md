@@ -10,7 +10,7 @@ Economic shocks transmit through multiple channels simultaneously. Understanding
 
 <figure>
 <img src="../_figures/ch32/ch32_transmission_channels.png" alt="Shock transmission channels" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 30.1: The four primary channels through which economic shocks propagate: input-output linkages (supply chain cascades), financial channels (credit and balance sheets), labor markets (jobs, wages, migration), and geographic transmission (regional concentration). <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/shock-propagation.html" target="_blank">View interactive version</a>. Source: Author illustration</figcaption>
+<figcaption>Figure 32.1: The four primary channels through which economic shocks propagate: input-output linkages (supply chain cascades), financial channels (credit and balance sheets), labor markets (jobs, wages, migration), and geographic transmission (regional concentration). <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/shock-propagation.html" target="_blank">View interactive version</a>. Source: Author illustration</figcaption>
 </figure>
 
 ### Input-Output Linkages: The Production Network
@@ -66,11 +66,11 @@ Shocks unfold over multiple time horizons:
 
 ## Case Study: The 2014-2016 Oil Price Collapse
 
-The oil price collapse of 2014-2016 illustrates every transmission channel in action. Tracing it in detail shows how the economy's structure shapes shock propagation.
+Chapter 2 introduced this episode through the lens of input-output linkages---backward linkages to suppliers, forward linkages to consumers, and the resulting multiplier effects. Here we return to the same shock but trace it through *all four* transmission channels: production networks, geographic concentration, financial amplification, and labor market adjustment. The difference in scope shows why the I-O framework alone, while powerful, tells only part of the story.
 
 <figure>
 <img src="../_figures/ch32/ch32_oil_shock_timeline.png" alt="Oil price shock timeline 2014-2016" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 30.2: The 2014-2016 oil price collapse. Brent crude fell from $115 to $28 per barrel; the U.S. rig count collapsed 80% from 1,600 to 316. The shock devastated energy-producing regions while benefiting consumers elsewhere. Source: EIA, Baker Hughes</figcaption>
+<figcaption>Figure 32.2: The 2014-2016 oil price collapse. Brent crude fell from $115 to $28 per barrel; the U.S. rig count collapsed 80% from 1,600 to 316. The shock devastated energy-producing regions while benefiting consumers elsewhere. Source: EIA, Baker Hughes</figcaption>
 </figure>
 
 ### The Initial Shock
@@ -311,6 +311,36 @@ This returns us to the book's central premise: the American economy is not an ab
 - Federal Reserve Bank regional research on local economic shocks
 - Brookings Institution, "The Geography of Prosperity"
 - Economic Innovation Group, "Distressed Communities Index"
+
+## Exercises
+
+### Review Questions
+
+1. The chapter identifies four primary channels of shock transmission: input-output linkages, geographic transmission, financial transmission, and labor market transmission. For each channel, provide a one-sentence definition and a concrete example from the chapter. Then explain why understanding all four channels simultaneously is necessary---that is, why analyzing only one channel in isolation would produce a misleading picture of how a shock propagates.
+
+2. Distinguish among direct effects, indirect effects, and induced effects in the input-output framework. Using the 2014--2016 oil price collapse as the example, trace each type of effect: the direct employment losses in oil and gas extraction, the indirect impact on steel pipe manufacturers and oilfield equipment companies, and the induced spending reductions by laid-off energy workers. Why is the combined "multiplier effect" larger for highly connected sectors than for peripheral ones?
+
+3. The chapter describes the 2014--2016 oil price collapse as "simultaneously a negative supply shock (devastating energy-producing regions) and a positive demand shock (benefiting consumers everywhere else)." Explain this duality. Why was the net effect roughly neutral for national GDP even though the geographic distribution was "anything but neutral"? What does this case reveal about the limitations of aggregate national statistics for understanding the real impact of economic shocks?
+
+4. Compare the transmission mechanisms of the China shock (2000--2010) and the housing bust (2006--2012). The chapter argues that the China shock transmitted primarily through "product market competition" and "quantities," while the housing bust transmitted through "balance sheets" and "wealth effects." Explain this distinction. Why did the China shock produce persistent, geographically concentrated damage to specific communities, while the housing bust produced a broader but in some ways more recoverable national recession?
+
+5. The chapter introduces the concept of "hysteresis"---the idea that some shocks leave permanent marks. Using the China shock example, explain why the "standard economic adjustment mechanisms---wage flexibility, geographic mobility, sectoral reallocation---failed to absorb workers at anything like the rate they were displaced." What structural features of the American economy (housing lock-in, skills mismatch, declining geographic mobility) contribute to hysteresis? Why is this concept important for policy---that is, why does hysteresis change the cost-benefit analysis of allowing versus preventing economic disruptions?
+
+6. The chapter argues that "policy can shift who bears the burden of shocks but rarely eliminates the burden entirely," citing trade protection, bailouts, and monetary policy as examples. For each of these three policy tools, identify who gains and who loses when the policy is deployed. Why does the chapter frame the fundamental question as "not whether to eliminate shocks but how to allocate their costs---across sectors, regions, income groups, and generations"?
+
+7. The section on vulnerability identifies concentrated industries, supply chain fragility, financial leverage, and low-diversity metros as key sources of economic risk. Using the framework developed in the chapter, assess the vulnerability of a single metropolitan area of your choice. What is its dominant industry? How geographically concentrated is that industry? What supply chain dependencies exist? How leveraged are households and firms? Based on this analysis, what type of shock would pose the greatest threat to this metro, and through which channels would the damage propagate?
+
+### Data Exercises
+
+1. **Tracing an Oil Shock Through the Data.** Using FRED, retrieve the following series for the period 2013--2019: West Texas Intermediate crude oil price (DCOILWTICO), total nonfarm employment in Texas (TXNA), the unemployment rate in Midland, TX (MIDL448URN), and U.S. real personal consumption expenditures (PCEC96). Plot all four series on a common timeline. Identify the lag between the oil price decline (beginning mid-2014) and the employment response in Texas and Midland. Then compare the timing of the consumer spending response nationally. Write a one-page analysis using the chapter's propagation framework to explain the sequence: Why do prices move first, employment second, and induced consumption effects last? How does the Midland-specific data illustrate the concept of geographic concentration of shocks?
+
+2. **Input-Output Multipliers.** Download the most recent BEA Input-Output "Use" table (available at https://www.bea.gov/industry/input-output-accounts-data) for the U.S. economy. Identify the top five industries that purchase the most from the "Oil and gas extraction" sector (NAICS 211). Then identify the top five industries that sell the most to oil and gas extraction. Using this data, explain why the oil price collapse's indirect effects were concentrated in specific downstream and upstream industries. Compare the interconnectedness of oil and gas to that of a less connected sector (e.g., "Performing arts and spectator sports"). Which sector would produce a larger multiplier if shocked, and why?
+
+3. **Housing Bust Geographic Variation.** Using FRED, retrieve the S&P/Case-Shiller home price indices for four metro areas: Las Vegas (LVXRSA), Phoenix (PHXRSA), Dallas (DAXRSA), and San Francisco (SFXRSA). Plot all four from 2004 to 2015. Calculate the peak-to-trough decline for each metro. Then retrieve unemployment rate data for the same four metros over the same period. Write a brief analysis (500--750 words) explaining why the "Sand States" experienced larger price declines, why Texas "never had a boom" so "never had a bust," and how the chapter's framework of financial transmission (leverage, wealth effects) explains the variation. Discuss whether supply-constrained markets like San Francisco "fell less and recovered faster" as the chapter claims.
+
+### Deeper Investigation
+
+1. The chapter examines shocks that have already occurred---the oil collapse, the China shock, the housing bust, monetary tightening. Apply the chapter's four-channel propagation framework to a shock that is currently unfolding or may occur in the near future. Choose one of the following: (a) a major disruption to semiconductor supply chains (e.g., a Taiwan Strait crisis), (b) the rapid displacement of knowledge workers by AI systems, or (c) a sharp correction in commercial real estate values as remote work permanently reduces office demand. For your chosen shock, write a research paper (1,500--2,000 words) that traces its likely propagation through each of the four channels: input-output linkages (which industries would be directly and indirectly affected?), geographic transmission (which regions or metro areas are most exposed?), financial transmission (what balance sheet and credit effects would occur?), and labor market transmission (which workers would be displaced and what adjustment mechanisms would or would not operate?). Use specific data from BEA, BLS, FRED, and Census sources to support your analysis. Conclude by evaluating what policy responses could mitigate the damage and through which channels those policies would operate.
 
 ---
 

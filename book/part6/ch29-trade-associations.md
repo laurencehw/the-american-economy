@@ -8,7 +8,7 @@ Trade associations exist to solve a collective action problem. Individual firms 
 
 <figure>
 <img src="../_figures/ch29/ch29_lobbying_spending.png" alt="Lobbying spending over time" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 27.1: Federal lobbying spending has tripled since 2000. Industry groups, trade associations, and corporations compete for political influence. Source: OpenSecrets</figcaption>
+<figcaption>Figure 29.1: Federal lobbying spending has tripled since 2000. Industry groups, trade associations, and corporations compete for political influence. Source: OpenSecrets</figcaption>
 </figure>
 
 The scale is enormous. Total federal lobbying spending exceeded $4.5 billion in 2024. But lobbying registration captures only direct advocacy; the broader "influence industry"---including public relations, grassroots mobilization, and think tank funding---employs over 100,000 people in the Washington area alone.
@@ -239,3 +239,33 @@ PhRMA has been largely successful at maintaining the pricing status quo, though 
 **Word count:** roughly 2,200 words
 
 *Note: For treatment of specific regulatory agencies and policy areas, see relevant chapters in Part II and Chapter 28.*
+
+## Exercises
+
+### Review Questions
+
+1. The chapter identifies a "collective action problem" that trade associations exist to solve. Using the logic of free-riding, explain why individual firms would underinvest in political advocacy without an association to coordinate their efforts. How does the National Association of Realtors' effectively mandatory membership structure (through MLS access) solve this problem differently than the voluntary membership model used by most other associations?
+
+2. Compare and contrast the strategic approaches of the four major cross-sector business associations: the U.S. Chamber of Commerce, the National Association of Manufacturers, the Business Roundtable, and the NFIB. How does each organization's membership base---Fortune 500 corporations, manufacturers, CEOs, or small businesses---shape its policy priorities and tactics? Which organization is best positioned to influence (a) congressional committee hearings and (b) grassroots voter pressure, and why?
+
+3. The chapter describes lobbying as providing "legislative subsidy"---research, bill language, talking points, and technical analysis that understaffed congressional offices need. Evaluate this framing. Under what conditions does industry expertise genuinely improve policy outcomes? Under what conditions does the informational asymmetry between lobbyists and legislators distort policy in favor of industry interests? Use the PhRMA example to illustrate both sides of the argument.
+
+4. Explain the differences among PACs, Super PACs, 501(c)(4) organizations, and 501(c)(6) organizations in terms of contribution limits, coordination rules, and disclosure requirements. Why has spending shifted toward vehicles with less disclosure since the *Citizens United* decision? What does the estimated $1.9 billion in undisclosed spending in the 2024 cycle imply for democratic accountability?
+
+5. The chapter notes that industry associations set standards---such as API drilling equipment standards and NFPA electrical codes---that carry "quasi-regulatory force." Identify the public benefits and the potential anti-competitive effects of industry self-regulation. Under what circumstances might self-regulation serve as a genuine alternative to government regulation, and when might it primarily function to preempt stricter rules or to raise barriers to entry for new competitors?
+
+6. How has litigation become an increasingly important tool for business associations? Cite specific examples from the chapter (NFIB challenges to the ACA, Chamber challenges to environmental regulations) and explain why the Supreme Court's "increasing skepticism of agency authority" has made this strategy more promising. What are the implications for the regulatory state if courts routinely overturn agency rules at the behest of trade association plaintiffs?
+
+7. The chapter describes the blurring line between think tanks and advocacy organizations. Using the table of major think tanks (Heritage Foundation, Brookings, Cato, AEI), explain how industry funding may shape research agendas without necessarily producing "wrong" conclusions. Why is the distinction between independent scholarship and funded advocacy important for the quality of policy debate?
+
+### Data Exercises
+
+1. **Lobbying Concentration by Industry.** Using the OpenSecrets lobbying database (https://www.opensecrets.org/federal-lobbying), download lobbying expenditure data by industry sector for the most recent five years. Calculate each sector's share of total federal lobbying spending and rank the top ten industries. Then compare the top lobbying spenders to the top industries by GDP contribution (available from BEA industry accounts at https://www.bea.gov/data/gdp/gdp-industry). Are the biggest industries also the biggest lobbying spenders, or do some industries lobby disproportionately relative to their economic size? Write a one-page analysis discussing what explains the discrepancies---regulatory exposure, government contracting, tax policy stakes, or other factors.
+
+2. **Tracking a Trade Association's Influence.** Select one industry-specific association from the chapter's table (NAR, PhRMA, AMA, API, or NAHB). Using OpenSecrets (https://www.opensecrets.org), compile the following data for 2020--2024: (a) annual lobbying expenditures, (b) PAC contributions by party, and (c) the top ten recipients of PAC contributions by chamber of Congress. Then identify two or three major pieces of legislation during this period that directly affected the association's industry. Write a brief report (500--750 words) assessing whether the association's spending patterns---which legislators received the most, on which committees they sat---suggest strategic targeting of lawmakers with jurisdiction over the relevant policy areas.
+
+3. **Dark Money Trends.** Using OpenSecrets' Outside Spending data (https://www.opensecrets.org/outside-spending) and the ProPublica Nonprofit Explorer (https://projects.propublica.org/nonprofits/), compare disclosed and undisclosed political spending in the 2016, 2020, and 2024 election cycles. What share of total outside spending came from organizations that do not disclose their donors? Identify two or three 501(c)(4) organizations with the largest expenditures and, using their IRS Form 990 filings on ProPublica, examine their stated missions and revenue sources. Discuss whether the available data allow you to determine who ultimately funded these organizations' political activities.
+
+### Deeper Investigation
+
+1. The chapter describes PhRMA's argument that high U.S. drug prices "subsidize the risky, expensive research that produces new treatments" while critics counter that "prices exceed what innovation requires." Design a research project to evaluate this claim. What data would you need on pharmaceutical R&D spending (including publicly funded basic research via NIH), drug pricing across countries, and innovation output (new molecular entities approved by the FDA)? Identify specific data sources---NIH Reporter (https://reporter.nih.gov), FDA drug approval databases (https://www.fda.gov/drugs), OECD health statistics, and PhRMA's own annual reports---and outline a methodology for testing whether the relationship between U.S. pricing and global pharmaceutical innovation is as strong as the industry claims. What confounding factors would complicate your analysis?

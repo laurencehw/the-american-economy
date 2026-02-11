@@ -139,7 +139,7 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 Compare these rankings with GDP share, and you'll notice striking divergences:
 
-**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce 9% of GDP. These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
+**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce 9% of GDP as measured by value added in the BEA industry accounts. (Note: total national health expenditure, a broader measure tracked by CMS, is roughly 18% of GDP---the difference reflects how healthcare spending flows through insurance, government programs, and employer contributions that appear in other sectors' value added.) These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
 
 **Manufacturing** contributes 11% of GDP but employs only 8% of workers. Each manufacturing worker produces about $240,000 in value annually---far above the economy-wide average. Automation, technology, and capital investment have made factories extraordinarily productive.
 

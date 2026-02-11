@@ -519,3 +519,33 @@ The firm also advises governments: BlackRock helped the Fed design its corporate
 *Chapter 8 | Finance and Insurance*
 *The American Economy: A Structural Geography*
 *Draft v1 --- January 2026*
+
+## Exercises
+
+### Review Questions
+
+1. Banks perform "maturity transformation"---borrowing short (demand deposits) and lending long (30-year mortgages). Explain why this is socially valuable and why it is inherently fragile. How did Silicon Valley Bank's failure in March 2023 illustrate this fragility? What role did held-to-maturity accounting, uninsured deposits, and social media play in accelerating the bank run?
+
+2. The four largest banks (JPMorgan Chase, Bank of America, Citigroup, Wells Fargo) hold approximately 45% of all U.S. banking assets, yet roughly 4,500 community banks still operate. What functions do community banks perform that the Big Four cannot or do not? Why haven't community banks been consolidated entirely despite their small scale?
+
+3. The "Big Three" asset managers (BlackRock, Vanguard, State Street) collectively manage roughly $23 trillion and are the largest shareholders in most S&P 500 companies. What governance concerns does this concentration of ownership create? How does passive index investing---where a single fund owns shares in competing companies like Delta and United Airlines---raise "common ownership" antitrust questions?
+
+4. Berkshire Hathaway's insurance operations generate roughly $165 billion in "float"---premiums collected before claims are paid---which Warren Buffett invests for decades. The chapter describes this as "essentially free leverage." Why is this model difficult for competitors to replicate? What combination of underwriting discipline and investment skill is required?
+
+5. Private credit has grown from under $500 billion in 2015 to over $1.5 trillion in 2024, as companies that previously borrowed from banks now borrow from alternative managers like Apollo and Ares. What are the implications for systemic risk when credit intermediation moves outside the regulated banking system? How does this relate to the "shadow banking" vulnerabilities that contributed to the 2008 crisis?
+
+6. Delaware and South Dakota host major credit card operations because their usury laws impose no interest rate caps. The chapter notes this "illustrates how state regulation shapes financial geography." Explain the mechanism: how does a credit card company based in South Dakota apply South Dakota law to a cardholder in New York? What does this regulatory arbitrage reveal about the fragmented structure of American financial regulation?
+
+7. Average equity mutual fund fees fell from 0.99% in 2000 to 0.44%, while index fund fees are often below 0.10%. What drove this fee compression? Who are the winners (firms and investors) and losers? Why have active managers struggled to justify their higher fees?
+
+### Data Exercises
+
+8. Go to the FDIC's BankFind Suite (fdic.gov/analysis/bankfind) and look up the financial data for JPMorgan Chase and a community bank in your area. Compare total assets, number of domestic branches, and total deposits. Calculate deposits per branch for each institution. What does the difference reveal about how a global money-center bank and a community bank serve their customers differently?
+
+9. Using FRED (fred.stlouisfed.org), pull the series "FEDFUNDS" (Effective Federal Funds Rate) and "USNIM" (Net Interest Margin for all U.S. banks, available via FRED or FDIC Quarterly Banking Profile). Plot them together from 2000 to the present. How does the interest rate environment affect the net interest margin? What happened to NIM during the zero-rate period (2008--2015 and 2020--2022), and how did it respond when rates rose sharply in 2022--2023?
+
+10. Visit the NAIC's Insurance Information Institute (iii.org) or use data from the Federal Reserve's Financial Stability Report to find the combined ratio for the U.S. property-casualty insurance industry over the past five years. (The combined ratio equals claims plus expenses divided by premiums; a ratio above 100% means underwriting losses.) Has the P&C industry been profitable on underwriting alone? How do investment returns on float compensate for underwriting losses?
+
+### Deeper Investigation
+
+11. Research the private equity "roll-up" strategy in one specific fragmented industry mentioned in the chapter---dental practices, veterinary clinics, HVAC contractors, car washes, or funeral homes. How many independent operators have been acquired by PE-backed platforms? What has happened to prices charged to consumers after consolidation? What evidence exists on changes in service quality and worker compensation? Assess whether this quiet consolidation of fragmented industries is likely to attract antitrust scrutiny, and explain why individual add-on acquisitions often escape the regulatory review that large horizontal mergers trigger.

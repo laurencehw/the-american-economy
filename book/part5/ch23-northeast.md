@@ -4,7 +4,7 @@ The Acela train leaves Penn Station in New York at 6:00 AM, and by 8:30 it has d
 
 <figure>
 <img src="../_figures/ch23/ch23_corridor_map.png" alt="Northeast Corridor Map" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 21.0: The Northeast Corridor mega-region. Four major metros---Boston, New York, Philadelphia, and Washington---form a continuous economic zone generating over $4 trillion annually, linked by the Acela rail corridor. Source: Author analysis</figcaption>
+<figcaption>Figure 23.0: The Northeast Corridor mega-region. Four major metros---Boston, New York, Philadelphia, and Washington---form a continuous economic zone generating over $4 trillion annually, linked by the Acela rail corridor. Source: Author analysis</figcaption>
 </figure>
 
 ## A Unified Economic Region
@@ -28,14 +28,14 @@ The six states that comprise the corridor's core---Massachusetts, Connecticut, N
 
 <figure>
 <img src="../_figures/ch23/ch23_northeast_metros.png" alt="Northeast Corridor Metro Economies" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 21.1: GDP of Northeast Corridor metros (2023). New York dominates at $2.3 trillion, but the combined corridor economy exceeds $4 trillion. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/regional-map.html" target="_blank">View interactive map of top 20 metros</a>. Source: BEA</figcaption>
+<figcaption>Figure 23.1: GDP of Northeast Corridor metros (2023). New York dominates at $2.3 trillion, but the combined corridor economy exceeds $4 trillion. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/regional-map.html" target="_blank">View interactive map of top 20 metros</a>. Source: BEA</figcaption>
 </figure>
 
 Together, the corridor accounts for roughly 17% of U.S. GDP on less than 2% of its land area. This concentration of economic output in such a small geographic footprint is unmatched anywhere in the world outside of city-states like Singapore. The density creates both extraordinary productivity and extraordinary vulnerability: the corridor's economic output depends on infrastructure that was largely built a century ago.
 
 <figure>
 <img src="../_figures/regional/regional_gdp_small_multiples.png" alt="Regional GDP growth comparison" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 21.2: Regional economic growth trajectories (indexed to 2010). The Sunbelt and West have grown faster than the Northeast and Midwest over the past decade, though the COVID recession hit all regions. The dashed line shows the national average. Source: BEA Regional GDP</figcaption>
+<figcaption>Figure 23.2: Regional economic growth trajectories (indexed to 2010). The Sunbelt and West have grown faster than the Northeast and Midwest over the past decade, though the COVID recession hit all regions. The dashed line shows the national average. Source: BEA Regional GDP</figcaption>
 </figure>
 
 ## The Four Pillars
@@ -292,3 +292,33 @@ Comcast exemplifies the corridor's pattern of consolidation. Through decades of 
 **Word count:** roughly 4,300 words
 
 *Note: This chapter focuses on economic structure and geography. For treatment of specific industries (financial services, healthcare, technology), see the relevant sector chapters in Part II.*
+
+## Exercises
+
+### Review Questions
+
+1. The chapter argues that the Northeast Corridor functions "less as a collection of separate cities than as a single economic mega-region." What evidence supports this claim? Discuss at least three mechanisms---labor market integration, knowledge spillovers, and infrastructure connectivity---that bind the four major metros into a unified economic zone. Where does this integration break down?
+
+2. Each of the corridor's four major metros has developed a distinct economic specialization: Boston as the "knowledge refinery," New York as the "capital allocator," Philadelphia as the "specialized producer," and Washington as the "regulator and contractor." For any two of these, explain how their specializations create complementarity rather than direct competition. What would each city lose if the other did not exist nearby?
+
+3. The chapter describes Boston's Kendall Square as "arguably the world's densest cluster of innovation." Trace the virtuous cycle that sustains this cluster: how do NIH funding ($4.2 billion to Massachusetts in 2023), university research, venture capital, and the presence of pharmaceutical giants like Novartis and Pfizer reinforce each other? What role did Moderna's COVID-19 vaccine development play in demonstrating this ecosystem's capabilities?
+
+4. The corridor faces a severe housing affordability crisis, with Boston and New York median rents exceeding $3,400 per month. The chapter identifies a "missing middle" in the housing market. Explain this concept and its consequences for the corridor's demographic composition, workforce pipeline, and long-term economic competitiveness. Why have zoning reform efforts in Massachusetts and New York yielded only "mixed results"?
+
+5. The Gateway Project---a $16 billion initiative to add new Hudson River tunnels and rebuild Penn Station---is described as critical infrastructure for the corridor's economy. Explain why a shutdown of the Northeast Corridor rail line would cost "roughly $100 million per day in lost productivity." What does this vulnerability reveal about the relationship between infrastructure investment and economic output in dense urban regions?
+
+6. Washington's economy is described as "remarkably recession-proof but structurally dependent on political decisions." Using examples from the chapter---including the "Beltway Bandits," Data Center Alley in Loudoun County, and Amazon's HQ2---explain how federal spending creates private-sector economic activity. What are the risks of this dependency model?
+
+7. The post-pandemic office market has "split into two tracks," with premium Class A space commanding record rents while older buildings face vacancy crises. How has hybrid work (two to three office days per week) changed the economic geography of the corridor? Why are Tuesdays through Thursdays busier than Mondays and Fridays, and what does this pattern imply for transit planning, commercial real estate, and urban fiscal health?
+
+### Data Exercises
+
+1. Using the BEA Regional Economic Accounts (https://www.bea.gov/data/gdp/gdp-metropolitan-area), download GDP data for the four major Northeast Corridor metros---New York-Newark, Washington D.C., Boston-Cambridge, and Philadelphia---for 2010 through the most recent available year. Calculate each metro's share of national GDP and plot the trend over time. Has the corridor's combined share of U.S. GDP grown, shrunk, or remained stable? Compare the corridor's growth trajectory to the national average and to a Sunbelt metro of your choice (Houston, Dallas, or Atlanta).
+
+2. The BLS Quarterly Census of Employment and Wages (https://www.bls.gov/cew/) provides employment and wage data by metro and industry. For the Boston-Cambridge metro area, download employment data for NAICS 3254 (Pharmaceutical and Medicine Manufacturing) and NAICS 5417 (Scientific Research and Development Services) for 2015 through the most recent year. How have employment and average wages in these sectors changed? Do the data support the chapter's characterization of Boston's life sciences cluster as a high-wage growth engine?
+
+3. Using Census Bureau population estimates and the American Community Survey (https://data.census.gov/), compare net domestic migration for New York State and Massachusetts from 2018 to the most recent available year. Break down the flows by age cohort if possible. Does the pattern confirm the chapter's claim that the corridor attracts young graduates but loses middle-class families? Which age groups are arriving, and which are leaving?
+
+### Deeper Investigation
+
+1. The chapter describes the corridor's biotech real estate market as having experienced a "sharp correction," with life sciences vacancy rates in Boston surpassing 25% by late 2024---paradoxically suggesting this might "strengthen the ecosystem by making space available to early-stage startups previously priced out of Kendall Square." Investigate the relationship between real estate costs and innovation ecosystem health in one corridor city. How do rising rents affect the mix of firms in a cluster (favoring large incumbents over startups)? Has the correction actually led to increased startup formation? Use data from commercial real estate brokerages (CBRE, JLL quarterly reports), PitchBook or Crunchbase venture funding data, and Massachusetts Biotechnology Council reports. Consider whether the corridor's innovation advantage is self-sustaining or whether cost pressures could eventually cause the cluster to disperse.

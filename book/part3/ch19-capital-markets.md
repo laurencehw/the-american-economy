@@ -8,7 +8,7 @@ This chapter focuses on institutional structure rather than pricing theory—the
 
 American capital markets dwarf those of any other nation.
 
-**Table 17.1: U.S. Capital Markets Overview (2023)**
+**Table 19.1: U.S. Capital Markets Overview (2023)**
 
 | Market | Size | Global Share |
 |--------|------|--------------|
@@ -25,7 +25,7 @@ American capital markets dwarf those of any other nation.
 
 <figure>
 <img src="../_figures/ch19/ch19_stock_market_cap.png" alt="Stock market capitalization" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 17.1: U.S. stock market capitalization dwarfs all other markets. The "Big Three" exchanges (NYSE, NASDAQ, and their affiliates) account for over 40% of global equity market value. Source: World Federation of Exchanges</figcaption>
+<figcaption>Figure 19.1: U.S. stock market capitalization dwarfs all other markets. The "Big Three" exchanges (NYSE, NASDAQ, and their affiliates) account for over 40% of global equity market value. Source: World Federation of Exchanges</figcaption>
 </figure>
 
 The dominance is no accident. Deep capital markets require legal infrastructure (property rights, contract enforcement, bankruptcy procedures), sophisticated intermediaries, large pools of domestic savings, and network effects that attract foreign capital. The United States developed these advantages over more than a century, and they compound: liquidity attracts liquidity.
@@ -44,7 +44,7 @@ The NYSE is owned by Intercontinental Exchange (ICE), an Atlanta-based exchange 
 
 NASDAQ Inc. also owns NASDAQ Nordic/Baltic exchanges, The NASDAQ Options Market, and several data businesses. The company is headquartered in Times Square.
 
-**Table 17.2: Major U.S. Stock Exchanges (2023)**
+**Table 19.2: Major U.S. Stock Exchanges (2023)**
 
 | Exchange | Market Cap Listed | Share Volume | Headquarters |
 |----------|-------------------|--------------|--------------|
@@ -99,7 +99,7 @@ The IPO process typically involves:
 
 Underwriters typically receive 5-7% of gross proceeds as fees. Goldman Sachs, Morgan Stanley, and JPMorgan dominate IPO underwriting, with boutiques handling smaller deals.
 
-**Table 17.3: U.S. IPO Activity**
+**Table 19.3: U.S. IPO Activity**
 
 | Year | Number of IPOs | Gross Proceeds |
 |------|----------------|----------------|
@@ -121,7 +121,7 @@ While IPOs channel capital *into* corporations, established companies increasing
 
 **Stock buybacks** allow companies to repurchase their own shares on the open market. When a company buys back stock, the shares are retired, reducing shares outstanding and increasing earnings per share (EPS) for remaining shareholders. Buybacks have become the dominant form of capital return, surpassing dividends for most large companies.
 
-**Table 17.3a: S&P 500 Capital Return (billions)**
+**Table 19.3a: S&P 500 Capital Return (billions)**
 
 | Year | Buybacks | Dividends | Total |
 |------|----------|-----------|-------|
@@ -215,7 +215,7 @@ The **10-year Treasury yield** is the benchmark rate for the U.S. economy, influ
 
 <figure>
 <img src="../_figures/ch19/ch19_bond_market.png" alt="Bond market breakdown" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 17.2: U.S. bond markets by segment. Treasury securities dominate, followed by mortgage-backed securities and corporate bonds. The $50+ trillion market dwarfs equities by outstanding value. Source: SIFMA</figcaption>
+<figcaption>Figure 19.2: U.S. bond markets by segment. Treasury securities dominate, followed by mortgage-backed securities and corporate bonds. The $50+ trillion market dwarfs equities by outstanding value. Source: SIFMA</figcaption>
 </figure>
 
 Corporations borrow in bond markets to fund operations, acquisitions, and capital expenditures. The corporate bond market totals roughly $10 trillion outstanding.
@@ -226,7 +226,7 @@ Corporations borrow in bond markets to fund operations, acquisitions, and capita
 
 **Credit spreads**—the yield difference between corporate bonds and Treasuries—widen during economic stress and narrow during expansions. The ICE BofA High Yield Spread, tracking the average spread over Treasuries for high-yield bonds, ranges from roughly 300 basis points (3%) in good times to 1,000+ basis points (10%) during crises.
 
-**Table 17.4: Corporate Bond Spreads (basis points over Treasuries)**
+**Table 19.4: Corporate Bond Spreads (basis points over Treasuries)**
 
 | Rating | Normal Spread | Crisis Spread (2008) |
 |--------|---------------|---------------------|
@@ -266,7 +266,7 @@ Derivatives—contracts whose value derives from an underlying asset—enable ri
 
 - **CBOE Global Markets** (Chicago): Dominates equity options, trades VIX futures, and operates stock exchanges.
 
-**Table 17.5: Major U.S. Futures Contracts (2023)**
+**Table 19.5: Major U.S. Futures Contracts (2023)**
 
 | Contract | Exchange | Notional Value/Day |
 |----------|----------|-------------------|
@@ -343,7 +343,7 @@ Venture capital (VC) funds early-stage companies with high growth potential in e
 
 VC investment totaled $170 billion in 2021 (a record driven by zero interest rates) before falling to $67 billion in 2023 as monetary tightening reduced risk appetite.
 
-**Table 17.6: U.S. Venture Capital Investment**
+**Table 19.6: U.S. Venture Capital Investment**
 
 | Year | Deal Value | Deal Count |
 |------|------------|------------|
@@ -373,7 +373,7 @@ Capital markets activity concentrates heavily in a few locations.
 
 **Charlotte** hosts major bank operations (Bank of America, Wells Fargo, Truist) but relatively little capital markets activity.
 
-**Table 17.7: Financial Services Employment by Metro (2023)**
+**Table 19.7: Financial Services Employment by Metro (2023)**
 
 | Metro Area | Finance Employment | Specialization |
 |------------|-------------------|----------------|
@@ -575,3 +575,35 @@ For the American economy, capital markets serve as the circulatory system—movi
 - **Lewis, Michael.** *Flash Boys* (2014)—high-frequency trading
 - **Fox, Justin.** *The Myth of the Rational Market* (2009)—efficient markets debate
 - **Appelbaum & Batt.** *Private Equity at Work* (2014)—critical examination of PE
+
+---
+
+## Exercises
+
+### Review Questions
+
+1. The chapter notes that roughly $15 trillion tracks the S&P 500 directly or in benchmarked strategies. When a stock is added to or removed from the index, passive funds must mechanically buy or sell. Explain the price dynamics this creates around index reconstitution events. If passive investing continues growing (now roughly 50% of equity mutual fund and ETF assets, up from 20% in 2010), what are the implications for price discovery? Could a market dominated by passive investors still be informationally efficient?
+
+2. Regulation NMS (2005) allows any registered exchange or alternative trading system to execute trades in any listed stock. The chapter describes how this fragmented trading across dozens of venues, including dark pools that handle roughly 15% of equity volume. Explain the trade-off between competition among venues (which may improve execution quality) and fragmentation of liquidity (which may impair price discovery). Why would an institutional investor route a large order to a dark pool rather than a lit exchange?
+
+3. The chapter presents IPO data showing 1,035 IPOs raising $315 billion in 2021, followed by just 154 IPOs raising $26 billion in 2023. What macroeconomic and market conditions explain this collapse? The chapter also notes that the number of U.S. public companies has declined from 8,000 in 1996 to roughly 4,400 today. What are the consequences for retail investors if companies complete most of their growth while still private?
+
+4. The yield curve inverted in 2022-2023, with 2-year yields exceeding 10-year yields—the deepest inversion since the early 1980s. The chapter notes that an inverted yield curve has preceded every U.S. recession since 1955. Explain the two main theories for why inversion predicts recessions: (a) the expectations hypothesis (what does inversion imply about the market's forecast of future short-term rates?) and (b) the bank lending channel (how does inversion compress banks' net interest margins and affect their willingness to lend?).
+
+5. The chapter describes the "meme stock" phenomenon of January 2021, when retail traders on Reddit's WallStreetBets drove GameStop's share price from $17 to $483 in two weeks by coordinating purchases of a heavily-shorted stock. Robinhood then halted GameStop purchases, citing clearinghouse capital requirements. Explain how the T+2 settlement cycle (in effect at the time) created the capital call that forced Robinhood's hand. Would the move to T+1 settlement (implemented in May 2024) have prevented or reduced this problem? Why or why not?
+
+6. The chapter notes that credit default swaps (CDS) "played a central role in the 2008 crisis when AIG's enormous CDS positions threatened systemic collapse," and that post-2008 reforms pushed OTC derivatives toward central clearing through CCPs. Explain why bilateral CDS trading created systemic risk (think about counterparty chains and AIG's role as a single point of failure). How does central clearing through a CCP reduce this risk? What new systemic risk does it create by concentrating exposure in the clearinghouse itself?
+
+7. The chapter describes the "Big Three" passive managers—BlackRock, Vanguard, and State Street—as collectively holding 20%+ of most major companies. This creates a "common ownership" problem: the same institutions own large stakes in competing firms (for example, all major airlines). Using the chapter's discussion of passive investing, explain why common ownership might reduce competitive intensity. What mechanisms would translate common ownership into less aggressive pricing or investment behavior?
+
+### Data Exercises
+
+1. **Mapping the Yield Curve.** Using FRED, download the following Treasury yield series: DGS1MO (1-month), DGS3MO (3-month), DGS1 (1-year), DGS2 (2-year), DGS5 (5-year), DGS10 (10-year), and DGS30 (30-year). Plot the yield curve for three dates: (a) January 2021 (near-zero rates), (b) October 2022 (peak inversion), and (c) today. Calculate the 2-year/10-year spread (known as the "2s10s") for each date. Then pull the ICE BofA US High Yield Option-Adjusted Spread from FRED (series BAMLH0A0HYM2) and plot it alongside the 2s10s spread over the past 20 years. How do credit spreads behave during and after yield curve inversions?
+
+2. **Tracking the Passive Revolution.** The Investment Company Institute publishes annual data on index fund and ETF market share (https://www.ici.org/research/stats). Download the most recent ICI Fact Book and construct a time series showing the share of U.S. equity fund assets in index-tracking vehicles from 2000 to the present. Then use FRED to pull total stock market capitalization (series BOGZ1FL073164003Q from the Z.1 Financial Accounts). Estimate the dollar value of passively managed U.S. equity assets. Compare this to the combined assets under management of BlackRock (iShares), Vanguard, and State Street (SPDR) using their most recent public filings. What fraction of passive assets do the Big Three control?
+
+3. **Venture Capital Geography.** Using the National Venture Capital Association's yearbook (https://nvca.org/research/nvca-yearbook/) or PitchBook data, compile VC deal value by state for the most recent year available. Calculate each state's share of total U.S. VC investment. The chapter reports California at 45% of deals and 50% of deal value. Has concentration increased or decreased over the past five years? Identify any emerging VC hubs (the chapter mentions Austin, Texas, and Seattle, Washington). Compare your state-level VC figures with the BLS Quarterly Census of Employment and Wages (https://www.bls.gov/cew/) data on financial services employment in those same metros.
+
+### Deeper Investigation
+
+**The Decline of Public Markets.** The chapter documents that the number of U.S. public companies fell from 8,000 in 1996 to roughly 4,400 today, while private equity-backed companies have multiplied and companies stay private longer. Write a research paper examining the causes and consequences of this shift. Draw on SEC filing data (EDGAR), academic work by Doidge, Karolyi, and Stulz ("The U.S. Listing Gap," 2017), and Ewens and Farre-Mensa ("The Deregulation of the Private Capital Markets," 2020). Address the following questions: What regulatory, technological, and market structure changes have made staying private more attractive? How has the JOBS Act of 2012 affected the threshold for going public? What are the distributional consequences—if ordinary retail investors can only access companies after they IPO at multi-billion-dollar valuations, who captures the growth-stage returns? Evaluate policy proposals to either encourage public listing or expand retail access to private markets (such as SEC proposals to broaden "accredited investor" definitions).

@@ -644,6 +644,34 @@ Duke illustrates the tensions facing traditional utilities: pressure to decarbon
 - FERC *State of the Markets*. Annual wholesale market assessment.
 - DOE *Quadrennial Energy Review*. Comprehensive policy analysis.
 
+## Exercises
+
+### Review Questions
+
+1. The chapter describes two fundamentally different market structures for electricity: regulated/vertically integrated utilities (roughly 30 states) and restructured/deregulated markets with competitive wholesale trading (roughly 20 states). Compare these models in terms of how electricity prices are set, who bears investment risk, and what role Independent System Operators (ISOs) play. The chapter notes that retail prices in restructured states are generally higher than in regulated states. Does this mean restructuring failed, or could other factors explain the difference?
+
+2. ERCOT (Texas) deliberately isolated its grid from the Eastern and Western Interconnections to avoid federal regulation by FERC. The February 2021 winter storm caused 4+ days of blackouts and 200+ deaths. Using the chapter's discussion, explain the specific trade-off Texas made between regulatory independence and grid reliability. How could interconnection with the Eastern or Western grids have mitigated the crisis, and what political factors prevent Texas from joining a larger interconnection?
+
+3. Coal's share of US electricity generation fell from 48% in 2008 to 16% in 2024. The chapter attributes this to the shale revolution making natural gas cheap and environmental regulation making coal expensive. Explain the economic mechanism by which cheap natural gas displaced coal in the electricity generation merit order. Why is this displacement difficult to reverse even if gas prices rise?
+
+4. The 2014-2016 oil price collapse saw Brent crude fall from $115/barrel to $28/barrel. Active US oil rigs fell 80%; over 100 producers filed for bankruptcy; the Permian Basin town of Midland saw unemployment jump from 2.4% to 4.9%. Yet by 2018, production had recovered to near-record levels with far fewer workers. Explain the three adjustment mechanisms the chapter identifies---productivity improvements (breakeven costs falling from $70+ to below $40/barrel), consolidation, and capital discipline---and how they made the post-2016 industry structurally different.
+
+5. NextEra Energy combines a regulated utility (Florida Power & Light, serving 5.8 million customers) with a competitive renewables developer (NextEra Energy Resources, 32 GW of wind, solar, and storage). Explain the strategic logic of this corporate structure: how does the regulated utility's predictable cash flow support the renewables business, and why has this combination made NextEra the most valuable utility in America at roughly $140 billion in market capitalization?
+
+6. The Inflation Reduction Act (2022) provides 10-year tax credits for wind, solar, storage, nuclear, and hydrogen---the chapter calls this the "largest US climate legislation ever," with an estimated $370 billion in climate spending. Explain how long-duration, predictable tax credits affect investment decisions differently than short-term credits that Congress must repeatedly renew. Why does the 10-year horizon matter particularly for capital-intensive projects like offshore wind or battery manufacturing?
+
+### Data Exercises
+
+7. Using the Energy Information Administration's Electricity Data Browser (https://www.eia.gov/electricity/data/browser/), download monthly net electricity generation data by fuel source (natural gas, coal, nuclear, wind, solar, hydroelectric) for the most recent 5 years. Create a stacked area chart showing the generation mix over time. Has the displacement of coal by natural gas and renewables continued at the pace the chapter describes? Identify any months where wind and solar combined exceeded coal generation.
+
+8. Using FRED, download the Brent crude oil price series (DCOILBRENTEU) and the BLS employment data for oil and gas extraction (series CES1021100001). Plot both on the same graph from 2010 to the present using dual y-axes. Does employment track oil prices with a lag, and if so, approximately how many months? How does the relationship between price recovery (post-2016) and employment recovery support the chapter's claim that the industry learned to "produce more oil with less capital and fewer people"?
+
+9. Using the EIA's State Energy Data System (https://www.eia.gov/state/seds/), compare per-capita energy consumption across five states: Texas, California, Louisiana, New York, and Wyoming. Then, using EIA electricity price data, compare average retail electricity prices in these same states. Do high-consumption states pay lower prices per unit? What combination of factors---industrial mix, climate, energy policy, and production geography---explains the patterns you observe?
+
+### Deeper Investigation
+
+10. The chapter identifies grid interconnection queues (5+ years long) and transmission permitting as critical bottlenecks for the renewable energy buildout. Using PJM Interconnection's publicly available queue data (https://www.pjm.com/planning/services-requests/interconnection-queues), determine how many gigawatts of generation capacity are currently waiting to connect to PJM (the largest US wholesale electricity market). What is the approximate average wait time, and what share of projects in queue are withdrawn before completion? Compare the total capacity in queue to PJM's current installed generation. What reforms to interconnection study processes, cost allocation, and transmission permitting have been proposed by FERC, PJM, and state regulators, and what political obstacles do they face?
+
 ---
 
 *Chapter 14 | Energy*
