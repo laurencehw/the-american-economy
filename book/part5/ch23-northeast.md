@@ -1,4 +1,4 @@
-# 23. The Northeast Corridor
+# Chapter 23: The Northeast Corridor
 
 The Acela train leaves Penn Station in New York at 6:00 AM, and by 8:30 it has deposited passengers at Union Station in Washington. In between, the train passes through Newark, Philadelphia, Wilmington, and Baltimore---a continuous metropolitan fabric housing 50 million people generating over $4 trillion in annual output. If the Northeast Corridor were a country, it would rank among the world's five largest economies.
 
@@ -271,6 +271,12 @@ The company's Philadelphia presence includes two signature towers that dominate 
 
 Comcast exemplifies the corridor's pattern of consolidation. Through decades of acquisitions---AT&T Broadband in 2002, NBCUniversal in 2011, Sky in 2018---the company has assembled a vertically integrated media and telecommunications giant. The combination of content creation, distribution, and direct customer relationships gives Comcast leverage across the entire value chain.
 
+### Structural Analysis
+
+The Northeast Corridor is best understood through the input-output framework developed in Chapter 2. The corridor's finance-professional services-corporate headquarters cluster generates unusually dense I-O linkages: law firms service banks, banks finance real estate, real estate houses consulting firms, consulting firms advise corporations, and corporations retain law firms. These tight inter-industry flows explain why the corridor's economic density persists despite cost disadvantages---relocating any single link sacrifices the value embedded in the network. The financial architecture chapters (Chapters 18--19) illuminate why capital markets concentrate specifically in New York rather than dispersing: capital allocation requires proximity to legal counsel, regulatory bodies, rating agencies, and counterparties, producing agglomeration economies (Chapter 3) that digital communication has complemented rather than replaced. The corridor's four metros each exploit a different dimension of agglomeration---Boston in knowledge production, New York in capital allocation, Philadelphia in specialized manufacturing, Washington in regulatory proximity---creating complementarity that a single city could not achieve alone.
+
+The 2008 financial crisis demonstrated the shock transmission mechanisms analyzed in Chapter 32. The crisis originated in the corridor's financial institutions, propagated first through inter-firm credit channels (counterparty exposure among Wall Street banks), then transmitted to the real economy through labor market contractions (200,000 financial services layoffs in the New York metro alone during 2008--2009), and finally radiated geographically as reduced demand for professional services rippled outward from the corridor to client firms nationwide. The corridor's role as a shock originator and transmitter---not merely a shock absorber---distinguishes it from every other American region and underscores the systemic importance of its financial architecture to the national economy.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
@@ -288,8 +294,6 @@ Comcast exemplifies the corridor's pattern of consolidation. Through decades of 
 - CBRE and JLL real estate market reports
 
 ---
-
-**Word count:** roughly 4,300 words
 
 *Note: This chapter focuses on economic structure and geography. For treatment of specific industries (financial services, healthcare, technology), see the relevant sector chapters in Part II.*
 

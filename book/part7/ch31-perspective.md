@@ -1,4 +1,4 @@
-# 31. The American Economy in Perspective
+# Chapter 31: The American Economy in Perspective
 
 Standing at the vantage point of 2026, the American economy embodies contradictions that would puzzle a time traveler from even the recent past. We achieved the "soft landing" that economists deemed improbable---taming post-pandemic inflation without destroying the labor market---yet national sentiment remains anxious. We see a manufacturing construction boom of historic proportions in a country that has supposedly deindustrialized. We witness the world's most aggressive pivot toward green energy in a nation that is simultaneously the world's largest oil producer. We observe a stock market powered by artificial intelligence reaching unprecedented heights while downtown office towers---the cathedrals of the service economy---stand a quarter empty, artifacts of a work culture that may never fully return.
 
@@ -165,5 +165,3 @@ That question cannot be answered by economic analysis alone. It depends on polit
 1. The chapter states that the American economy's fiscal trajectory---deficits exceeding 6% of GDP, interest costs rivaling defense spending---"cannot be avoided indefinitely," yet the political system has "successfully avoided" making hard choices. Research the current state of federal fiscal sustainability. Using CBO long-term budget projections (https://www.cbo.gov/topics/long-term-budget-projections), FRED data on federal debt as a share of GDP (FYGFGDQ188S), and comparative data on sovereign debt from the IMF Fiscal Monitor, write a research paper (1,500--2,000 words) that addresses: (a) What makes the U.S. fiscal position different from that of other high-debt nations like Japan or Italy---particularly the dollar's reserve currency status? (b) At what point might rising debt service costs begin to crowd out other federal spending or raise borrowing costs? (c) What combination of spending cuts and revenue increases would stabilize the debt-to-GDP ratio, and why has neither party been willing to propose them? Engage with arguments from both deficit hawks and those who argue that sovereign debt in a reserve currency nation poses less risk than conventional analysis suggests.
 
 ---
-
-**Word count:** approximately 2,200 words

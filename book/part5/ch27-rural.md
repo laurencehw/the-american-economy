@@ -1,4 +1,4 @@
-# 27. Rural America
+# Chapter 27: Rural America
 
 Drive an hour beyond any major metropolitan area and the American economy changes character. The density that generates agglomeration economies in cities dissipates into landscapes where the nearest hospital might be sixty miles away, where broadband internet remains uncertain, and where the largest employers are often the local school district and the county government. This is rural America: 14% of the population spread across 72% of the land, increasingly disconnected from the metropolitan economy that dominates national statistics.
 
@@ -318,6 +318,10 @@ For rural landowners, turbine lease payments provide income diversification. A s
 
 The employment impact is more limited. Construction provides temporary jobs; ongoing operations require only a handful of technicians per wind farm. But in counties with few economic options, even modest employment and tax revenue matter.
 
+### Analytical Connections
+
+The rural economy's challenges crystallize the geography-of-production framework from Chapter 3: agglomeration and dispersion forces are in perpetual tension, and in rural America, the dispersion forces (lower land costs, natural resource proximity) have progressively lost ground to the agglomeration forces (thick labor markets, knowledge spillovers, specialized services) that concentrate economic activity in metropolitan areas. The result is not equilibrium but cumulative divergence---as skilled workers leave, the labor markets that remain grow thinner, intensifying the monopsony dynamics analyzed in Chapter 30. When a rural county has one hospital, one school district, and one major employer, workers face wage-setting power that competitive labor market models fail to capture; empirical research consistently finds that rural wages fall below marginal productivity in ways consistent with monopsony, depressing both incomes and labor force participation. Finally, the cost disease framework applied to healthcare (Chapter 6) and education (Chapter 15) operates with particular severity in low-density areas: a rural hospital must maintain the same emergency capabilities as an urban one but spreads fixed costs across far fewer patients, while a rural school district must offer the same curriculum with far fewer students to absorb overhead. These structurally higher per-unit costs explain why rural public services deteriorate even when per capita spending appears adequate---and why federal transfers constitute 30--40% of income in the most rural counties, reflecting not dependency but the arithmetic of providing modern services at pre-modern population densities.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
@@ -335,8 +339,6 @@ The employment impact is more limited. Construction provides temporary jobs; ong
 - USDA Rural Development reports
 
 ---
-
-**Word count:** roughly 4,200 words
 
 *Note: For detailed treatment of agriculture, energy, and healthcare, see the relevant sector chapters in Part II.*
 

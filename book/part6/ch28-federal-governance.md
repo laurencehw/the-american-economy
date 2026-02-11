@@ -1,4 +1,4 @@
-# 28. Federal Economic Governance
+# Chapter 28: Federal Economic Governance
 
 When markets crash, when inflation spikes, when unemployment rises, Americans look to Washington for answers. But "Washington" is not a single actor---it is a sprawling apparatus of agencies, councils, and commissions, each with distinct authorities, constituencies, and institutional cultures. Understanding how economic policy actually gets made requires charting this institutional architecture.
 
@@ -210,8 +210,6 @@ The SEC's effectiveness is perpetually debated. Critics argue its disclosure-bas
 - Brookings Institution governance reports
 
 ---
-
-**Word count:** roughly 2,200 words
 
 *Note: For treatment of specific policy areas (taxation, monetary policy, financial regulation), see relevant chapters in Parts II and III.*
 

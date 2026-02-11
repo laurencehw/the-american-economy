@@ -15,6 +15,11 @@ The four largest American banks hold more assets than the annual GDP of Japan. B
 
 Finance and insurance is the fifth-largest sector of the American economy by GDP, smaller than real estate, healthcare, or professional services, but wielding influence far beyond its size. The sector intermediates the flow of funds from savers to borrowers, transforms risk through insurance, and operates the payment infrastructure that enables economic activity.
 
+{% hint style="info" %}
+**Financial Intermediation**
+Financial intermediation is the process by which institutions channel funds from savers (who have surplus capital) to borrowers (who need it for investment or consumption). Banks, insurance companies, and asset managers all perform this function, but through different mechanisms: banks accept deposits and make loans, insurers pool premiums and pay claims, and asset managers invest pooled capital in securities. Without intermediation, every saver would need to find a borrower directly---an impossibly costly search problem.
+{% endhint %}
+
 <figure>
 <img src="../_figures/ch08/ch08_finance_gdp_treemap.png" alt="Finance and insurance GDP treemap: banking dominates, followed by insurance and securities" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 8.1: Finance and insurance GDP by subsector. Banking dominates, followed by insurance and securities. Source: BEA (2023)</figcaption>
@@ -352,6 +357,11 @@ The Dodd-Frank Act (2010) reshaped financial regulation:
 
 ### The "Too Big to Fail" Problem
 
+{% hint style="warning" %}
+**"Too Big to Fail" and Systemic Risk**
+When a financial institution is so large and interconnected that its failure would cascade through the entire economy, regulators face a dilemma: let it fail and risk systemic collapse, or bail it out and create moral hazard (the expectation that future risk-taking will also be rescued). The four largest U.S. banks are each larger today than any bank was before 2008, meaning the too-big-to-fail problem has intensified even as regulations have tightened. This tension between financial stability and market discipline remains unresolved.
+{% endhint %}
+
 The 2008 crisis revealed that some institutions are "too big to fail"---their failure would damage the broader economy, forcing government bailouts. Despite Dodd-Frank reforms, this problem persists:
 
 - The largest banks are larger than before 2008
@@ -518,7 +528,6 @@ The firm also advises governments: BlackRock helped the Fed design its corporate
 
 *Chapter 8 | Finance and Insurance*
 *The American Economy: A Structural Geography*
-*Draft v1 --- January 2026*
 
 ## Exercises
 

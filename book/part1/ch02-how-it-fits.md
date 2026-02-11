@@ -1,4 +1,4 @@
-# 2. How It All Fits Together
+# Chapter 2: How It All Fits Together
 
 The previous chapter presented the economy as a collection of sectors---manufacturing here, healthcare there, finance somewhere else. But the economy isn't a collection of independent silos. It's a vast network of buyers and sellers, inputs and outputs, where every industry depends on others and supplies others in turn.
 

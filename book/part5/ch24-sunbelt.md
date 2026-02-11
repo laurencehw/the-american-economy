@@ -1,4 +1,4 @@
-# 24. The Sunbelt
+# Chapter 24: The Sunbelt
 
 In 2024, Chevron announced it was moving its corporate headquarters from the San Francisco Bay Area to Houston. The company joins an exodus: Toyota to Texas, Caterpillar to Texas, Boeing to Virginia, Oracle to Texas, Tesla to Texas, Citadel to Miami. Something fundamental is shifting in American economic geography, and the beneficiary has a name: the Sunbelt.
 
@@ -317,6 +317,12 @@ The project illustrates the Sunbelt's advantages for manufacturing: available la
 
 When fully operational, the plant will be one of the largest manufacturing facilities in the Southeast and the centerpiece of an EV supply chain clustering in the region.
 
+### Analytical Connections
+
+The Sunbelt's growth exemplifies several analytical frameworks developed earlier in this book. The migration patterns driving population expansion operate through the labor market mechanisms of Chapter 30: workers respond to real wage differentials, where nominal wage parity combined with lower housing costs produces higher purchasing power in Sunbelt metros than in the coastal cities from which migrants originate. The real estate cycle (Chapter 5) functions as both cause and consequence of Sunbelt growth---rising home values attract construction activity, construction employment draws further migrants, and new households generate additional housing demand, creating a self-reinforcing cycle that runs until affordability constraints or rate shocks interrupt it. The 40--50% price increases documented above between 2020 and 2024 illustrate the boom phase of this cycle; whether a correction follows will test the durability of the region's growth model.
+
+The government sector (Chapter 4) plays a larger role in Sunbelt prosperity than the region's low-tax branding suggests. Military installations---Fort Liberty (formerly Bragg) in North Carolina, Fort Cavazos (formerly Hood) in Texas, MacDill in Florida, Fort Moore in Georgia---pump billions in federal payroll into local economies. The sectoral balance identity from Chapter 2 reveals a structural feature that Sunbelt boosters rarely acknowledge: most Sunbelt states are net recipients of federal transfers, receiving more in federal spending (military, Medicare, Social Security, agricultural subsidies) than their residents pay in federal taxes. Florida and Arizona are particularly large net beneficiaries. The Sunbelt's growth model thus depends partly on fiscal flows from the high-tax northeastern and western states whose economic models it criticizes---a dependency that the national accounts framework makes visible even when political rhetoric obscures it.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
@@ -334,8 +340,6 @@ When fully operational, the plant will be one of the largest manufacturing facil
 - Florida Office of Economic and Demographic Research
 
 ---
-
-**Word count:** roughly 4,600 words
 
 *Note: For industry-specific analysis of energy, manufacturing, and technology, see the relevant chapters in Part II.*
 

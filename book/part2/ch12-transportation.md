@@ -1,4 +1,4 @@
-# 12. Transportation and Logistics
+# Chapter 12: Transportation and Logistics
 
 Every time you order something online and it arrives the next day, you're witnessing the culmination of a half-century revolution in American freight. The trucks, trains, planes, and ships that move goods across the country represent not just infrastructure but a complex industrial ecosystem that employs 6.5 million Americans and contributes nearly a trillion dollars to GDP. What makes American transportation remarkable isn't any single mode but how they interconnect: a container loaded in Shanghai can travel by ship to Long Beach, by rail to Chicago, and by truck to a warehouse in Ohio, with each handoff choreographed by logistics software that didn't exist a generation ago.
 
@@ -287,6 +287,14 @@ The late 1970s and early 1980s brought revolutionary changes to transportation r
 | Transportation Intermediaries Association | Freight brokers | Broker regulation |
 
 The trucking lobby is particularly influential in state legislatures, fighting fuel taxes and defending against rail competition. The railroad lobby focuses on federal policy, including preserving the Staggers Act framework and limiting re-regulation. Airlines lobby intensively on slot allocation, international routes, and consumer protection rules.
+
+The ATA's lobbying shapes the daily operating economics of American freight. Hours-of-service regulations---which limit drivers to 11 hours of driving within a 14-hour window---directly determine how far a truck can travel per shift and thus the cost per mile. The ATA has successfully lobbied for flexibility provisions, including the 2020 HOS rule revisions that expanded the short-haul exception and modified the sleeper berth provision, while safety advocates pushed for tighter restrictions. On truck size and weight limits, the ATA lobbies for increases to the current 80,000-pound federal limit and for longer combination vehicles, arguing that larger trucks would reduce the number of trips needed. Railroads and safety groups oppose these measures, creating a recurring battle in every highway reauthorization bill.
+
+Airlines for America focuses on slot controls at congested airports---particularly at New York's JFK and LaGuardia, Chicago O'Hare, and Washington Reagan---where the FAA limits takeoffs and landings. Incumbent carriers lobby to maintain the slot system that protects their market share, while new entrants and low-cost carriers push for reallocation. A4A has also been instrumental in negotiating Open Skies agreements that give U.S. carriers access to foreign markets while fighting against Gulf carrier subsidies that threaten legacy airline routes.
+
+The railroad lobby, led by the AAR, has successfully defended the Staggers Act framework against "captive shipper" legislation that would force railroads to grant competitors access to their tracks. The AAR has also fought crew-size mandates, lobbying against proposed federal rules that would require two-person crews on freight trains. After the East Palestine, Ohio derailment in 2023, the railroads faced intensified scrutiny, but the AAR's lobbying has so far prevented passage of a comprehensive rail safety bill.
+
+The Jones Act persists largely because of lobbying by a concentrated coalition of domestic shipbuilders, maritime unions (particularly the Seafarers International Union), and military contractors who benefit from the requirement that coastwise shipping use American-built, American-crewed vessels. Despite costing consumers billions---particularly in Hawaii, Alaska, and Puerto Rico---the coalition's lobbying power in key congressional committees has defeated every repeal or reform effort for over a century.
 
 ## Recent Trends
 

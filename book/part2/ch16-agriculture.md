@@ -9,21 +9,21 @@ The paradox of American agriculture is abundance and invisibility. The sector co
 {% hint style="info" %}
 **The Farm Economy vs. the Food Economy**
 
-Agriculture's direct GDP contribution (~1%, roughly $200 billion) vastly understates its economic footprint. The broader food and agriculture system---including food processing, packaging, transportation, wholesale and retail distribution, and food service---accounts for roughly 5% of GDP and over $1.3 trillion in economic activity. About 21 million Americans work somewhere in this chain, even though fewer than 2.6 million work on farms.
+Agriculture's direct GDP contribution (~1%, about $200 billion) vastly understates its economic footprint. The broader food and agriculture system---including food processing, packaging, transportation, wholesale and retail distribution, and food service---accounts for about 5% of GDP and over $1.3 trillion in economic activity. About 21 million Americans work somewhere in this chain, even though fewer than 2.6 million work on farms.
 {% endhint %}
 
 ### Size and Scope
 
-- **Farm-level GDP contribution (2023)**: roughly $200 billion (crops ~$140B, livestock ~$60B in net value added)
-- **Broader food system output**: roughly $1.3 trillion
-- **Farm cash receipts (2023)**: roughly $510 billion (crops ~$275B, livestock ~$235B)
-- **Farm employment**: roughly 2.6 million (farm operators and hired workers)
-- **Broader food system employment**: roughly 21 million
-- **Number of farms**: roughly 2 million (USDA definition: any place that produced or sold $1,000+ of agricultural products)
-- **Total farmland**: roughly 895 million acres (about 39% of U.S. land area)
-- **Agricultural exports (2023)**: roughly $170 billion
+- **Farm-level GDP contribution (2023)**: $200 billion (crops ~$140B, livestock ~$60B in net value added)
+- **Broader food system output**: $1.3 trillion
+- **Farm cash receipts (2023)**: $510 billion (crops ~$275B, livestock ~$235B)
+- **Farm employment**: 2.6 million (farm operators and hired workers)
+- **Broader food system employment**: 21 million
+- **Number of farms**: about 2 million (USDA definition: any place that produced or sold $1,000+ of agricultural products)
+- **Total farmland**: 895 million acres (about 39% of U.S. land area)
+- **Agricultural exports (2023)**: $170 billion
 
-Farm cash receipts---the gross revenue farmers receive for crops and livestock---totaled roughly $510 billion in 2023. But net farm income, what remains after paying for inputs like seed, fertilizer, fuel, labor, and equipment, was roughly $155 billion. The difference reflects the capital- and input-intensive nature of modern farming: for every dollar of crop revenue, farmers spend 70-80 cents on inputs.
+Farm cash receipts---the gross revenue farmers receive for crops and livestock---totaled $510 billion in 2023. But net farm income, what remains after paying for inputs like seed, fertilizer, fuel, labor, and equipment, was $155 billion. The difference reflects the capital- and input-intensive nature of modern farming: for every dollar of crop revenue, farmers spend 70-80 cents on inputs.
 
 ### Key Subsectors
 
@@ -63,7 +63,7 @@ Farm revenue flows through several channels, each with its own pricing logic.
 
 Most row crops are commodities---interchangeable units priced on futures exchanges. The Chicago Board of Trade sets benchmark prices for corn, soybeans, and wheat; farmers are price-takers. A corn farmer in Iowa has virtually no ability to charge a premium for her corn over her neighbor's. Revenue depends on two things: yield per acre (driven by weather, seed genetics, and farming practices) and the commodity price (driven by global supply and demand).
 
-Farmers manage price risk through futures contracts and crop insurance. The federal crop insurance program, subsidized by the government, covers roughly 90% of major crop acreage. In a bad year, crop insurance payments can exceed $20 billion.
+Farmers manage price risk through futures contracts and crop insurance. The federal crop insurance program, subsidized by the government, covers about 90% of major crop acreage. In a bad year, crop insurance payments can exceed $20 billion.
 
 **Livestock**
 
@@ -75,11 +75,11 @@ Higher-value crops command premium prices but require more labor, more specializ
 
 **Government payments**
 
-Federal payments to farmers totaled roughly $15-20 billion annually in recent years (excluding the anomalous COVID-era payments of $45+ billion in 2020). These include commodity price support programs, conservation payments, and disaster assistance. Government payments represent roughly 3-4% of gross farm income in a normal year but can be much higher for specific crops and regions.
+Federal payments to farmers totaled $15–20 billion annually in recent years (excluding the anomalous COVID-era payments of $45+ billion in 2020). These include commodity price support programs, conservation payments, and disaster assistance. Government payments represent 3–4% of gross farm income in a normal year but can be much higher for specific crops and regions.
 
 ### Cost Structure: Where Does the Money Go?
 
-Farm production expenses totaled roughly $430 billion in 2023. The major cost categories:
+Farm production expenses totaled $430 billion in 2023. The major cost categories:
 
 | Cost Category | Amount | Share |
 |---------------|--------|-------|
@@ -95,7 +95,7 @@ Farm production expenses totaled roughly $430 billion in 2023. The major cost ca
 
 *Source: USDA ERS, Farm Income and Wealth Statistics, 2023*
 
-Land is the largest capital asset. U.S. farmland was worth roughly $3.5 trillion in 2023, with per-acre values ranging from under $1,000 in parts of the arid West to over $15,000 in prime Iowa cropland. Cash rents for Iowa farmland average $250-300 per acre; a 2,000-acre corn-soybean operation might pay $500,000 or more in annual rent alone.
+Land is the largest capital asset. U.S. farmland was worth $3.5 trillion in 2023, with per-acre values ranging from under $1,000 in parts of the arid West to over $15,000 in prime Iowa cropland. Cash rents for Iowa farmland average $250-300 per acre; a 2,000-acre corn-soybean operation might pay $500,000 or more in annual rent alone.
 
 {% hint style="warning" %}
 **The Input Cost Squeeze**
@@ -105,7 +105,7 @@ Farmers face a persistent structural problem: the prices they pay for inputs (fe
 
 ### The Farm Bill
 
-The Farm Bill, renewed approximately every five years, is the single most important piece of agricultural legislation. The most recent version (2018) authorized roughly $430 billion in spending over five years, but the vast majority---roughly 75-80%---goes to nutrition programs (primarily SNAP, formerly food stamps), not to farm subsidies. The agricultural title covers commodity programs, crop insurance, conservation, trade promotion, and rural development.
+The Farm Bill, renewed approximately every five years, is the single most important piece of agricultural legislation. The most recent version (2018) authorized $430 billion in spending over five years, but the vast majority---75–80%---goes to nutrition programs (primarily SNAP, formerly food stamps), not to farm subsidies. The agricultural title covers commodity programs, crop insurance, conservation, trade promotion, and rural development.
 
 The Farm Bill's commodity programs provide a safety net through two main mechanisms: Price Loss Coverage (PLC), which pays farmers when commodity prices fall below reference levels, and Agriculture Risk Coverage (ARC), which pays when revenue falls below historical averages. Farmers choose between the two for each crop on each farm.
 
@@ -119,7 +119,7 @@ Hog production has followed a similar path. Smithfield Foods (owned by China's W
 
 ### Farm Size Distribution
 
-The USDA counts roughly 2 million farms, but this number is misleading. The vast majority of farms are small, and most agricultural output comes from a small number of large operations.
+The USDA counts about 2 million farms, but this number is misleading. The vast majority of farms are small, and most agricultural output comes from a small number of large operations.
 
 | Farm Size (Annual Sales) | Number of Farms | Share of Farms | Share of Output |
 |--------------------------|-----------------|----------------|-----------------|
@@ -170,7 +170,7 @@ These four firms---known as the "ABCD" traders (ADM, Bunge, Cargill, Louis Dreyf
 {% hint style="warning" %}
 **The Meatpacking Bottleneck**
 
-Four companies---Tyson, JBS, Cargill, and National Beef---control over 80% of U.S. beef slaughter. Similar concentration exists in pork (roughly 70% by top four) and poultry (roughly 54% by top four). This concentration gives packers outsized bargaining power over both the ranchers who sell them cattle and the consumers who buy the finished product. During the 2020-2021 period, meatpacker margins surged while cattle ranchers saw little benefit from rising retail prices.
+Four companies---Tyson, JBS, Cargill, and National Beef---control over 80% of U.S. beef slaughter. Similar concentration exists in pork (about 70% by top four) and poultry (around 54% by top four). This concentration gives packers outsized bargaining power over both the ranchers who sell them cattle and the consumers who buy the finished product. During the 2020-2021 period, meatpacker margins surged while cattle ranchers saw little benefit from rising retail prices.
 {% endhint %}
 
 **Farm Inputs**
@@ -199,7 +199,7 @@ American agriculture is organized by geography as rigidly as any sector in the e
 
 ### The Corn Belt (Iowa, Illinois, Indiana, Ohio, southern Minnesota, eastern Nebraska)
 
-The heart of American agriculture. Deep, black prairie soils and reliable summer rainfall make this the most productive cropland on Earth. Iowa alone produces more corn than most countries. The Corn Belt produces roughly 60% of U.S. corn and 55% of U.S. soybeans, typically in annual rotation (corn one year, soybeans the next). Farmland here is the most expensive in the country---$10,000-$15,000 per acre---and is intensively managed.
+The heart of American agriculture. Deep, black prairie soils and reliable summer rainfall make this the most productive cropland on Earth. Iowa alone produces more corn than most countries. The Corn Belt produces about 60% of U.S. corn and 55% of U.S. soybeans, typically in annual rotation (corn one year, soybeans the next). Farmland here is the most expensive in the country---$10,000-$15,000 per acre---and is intensively managed.
 
 ### The Great Plains (Kansas, the Dakotas, Montana, Oklahoma, western Nebraska, western Texas)
 
@@ -225,25 +225,25 @@ Texas leads the nation in cattle, cotton, and total farm cash receipts. The stat
 
 ### Farm Operators
 
-Of the roughly 3.4 million farm operators counted by the USDA (many farms have multiple operators), the average age is 58---and rising. Fewer young people enter farming, partly because the capital requirements are enormous: a viable commercial row-crop operation in the Corn Belt requires $2-5 million in land and equipment.
+Of the approximately 3.4 million farm operators counted by the USDA (many farms have multiple operators), the average age is 58---and rising. Fewer young people enter farming, partly because the capital requirements are enormous: a viable commercial row-crop operation in the Corn Belt requires $2-5 million in land and equipment.
 
-Most small-farm operators work off-farm jobs. Among farms with sales under $250,000, roughly 75% of household income comes from non-farm sources. Farming, for the majority of America's farm operators, is a supplementary activity, not a primary occupation.
+Most small-farm operators work off-farm jobs. Among farms with sales under $250,000, about 75% of household income comes from non-farm sources. Farming, for the majority of America's farm operators, is a supplementary activity, not a primary occupation.
 
 ### Hired Farm Workers
 
-Roughly 1.1 million workers are hired for farm labor, including roughly 250,000 workers on H-2A temporary agricultural visas (a number that has roughly tripled since 2015). The H-2A program allows employers to bring foreign workers for seasonal agricultural jobs when they cannot find sufficient domestic labor.
+About 1.1 million workers are hired for farm labor, including some 250,000 workers on H-2A temporary agricultural visas (a number that has nearly tripled since 2015). The H-2A program allows employers to bring foreign workers for seasonal agricultural jobs when they cannot find sufficient domestic labor.
 
-Hired farm workers are disproportionately Hispanic (roughly 75%) and foreign-born (roughly 60%). Many work seasonally, following harvest cycles from south to north. Wages for field workers average $15-18 per hour, though piece-rate workers picking high-value crops can earn more. Farm labor is physically demanding, often performed in extreme heat, and carries higher injury rates than most occupations.
+Hired farm workers are disproportionately Hispanic (about 75%) and foreign-born (around 60%). Many work seasonally, following harvest cycles from south to north. Wages for field workers average $15-18 per hour, though piece-rate workers picking high-value crops can earn more. Farm labor is physically demanding, often performed in extreme heat, and carries higher injury rates than most occupations.
 
 {% hint style="info" %}
 **The H-2A Visa Program**
 
-The H-2A temporary agricultural worker program has become the primary legal channel for seasonal farm labor. Employers must demonstrate that domestic workers are unavailable and must provide housing, transportation, and wages at or above the "adverse effect wage rate" (ranging from roughly $14 to $19/hour depending on the state). H-2A usage surged from roughly 80,000 certified positions in 2015 to over 370,000 in 2023, reflecting both tightening labor markets and increased enforcement against unauthorized workers.
+The H-2A temporary agricultural worker program has become the primary legal channel for seasonal farm labor. Employers must demonstrate that domestic workers are unavailable and must provide housing, transportation, and wages at or above the "adverse effect wage rate" (ranging from $14 to $19/hour depending on the state). H-2A usage surged from about 80,000 certified positions in 2015 to over 370,000 in 2023, reflecting both tightening labor markets and increased enforcement against unauthorized workers.
 {% endhint %}
 
 ### Meatpacking Workers
 
-Meatpacking plants employ roughly 500,000 workers in some of the most physically demanding and dangerous jobs in the economy. The industry relies heavily on immigrant labor---plants in towns like Lexington, Nebraska; Marshalltown, Iowa; and Gainesville, Georgia have transformed the demographics of rural communities. Meatpacking wages average $16-20 per hour, and the work involves standing for long shifts performing repetitive cutting motions in cold, wet environments. Injury rates, while improved from the 1990s, remain well above the manufacturing average.
+Meatpacking plants employ about 500,000 workers in some of the most physically demanding and dangerous jobs in the economy. The industry relies heavily on immigrant labor---plants in towns like Lexington, Nebraska; Marshalltown, Iowa; and Gainesville, Georgia have transformed the demographics of rural communities. Meatpacking wages average $16-20 per hour, and the work involves standing for long shifts performing repetitive cutting motions in cold, wet environments. Injury rates, while improved from the 1990s, remain well above the manufacturing average.
 
 ### Key Occupations
 
@@ -303,7 +303,7 @@ The political alliance between farm-state legislators (who want commodity and cr
 
 ### Agricultural Subsidies and Their Distribution
 
-Federal agricultural subsidies---including commodity payments, crop insurance premium subsidies, and conservation payments---flow disproportionately to large operations. The top 10% of farm subsidy recipients receive roughly 70% of all payments. Subsidies concentrate in the Corn Belt and Great Plains, where commodity crops dominate. Fruit and vegetable growers---the producers of what nutritionists want Americans to eat more of---receive relatively little federal support.
+Federal agricultural subsidies---including commodity payments, crop insurance premium subsidies, and conservation payments---flow disproportionately to large operations. The top 10% of farm subsidy recipients receive about 70% of all payments. Subsidies concentrate in the Corn Belt and Great Plains, where commodity crops dominate. Fruit and vegetable growers---the producers of what nutritionists want Americans to eat more of---receive relatively little federal support.
 
 ## Trade Associations and Lobbying
 
@@ -329,9 +329,9 @@ The farm lobby wields political power disproportionate to agriculture's share of
 
 **Commodity checkoff programs.** Mandatory assessments on commodity sales (e.g., $1 per head of cattle sold) fund promotion and research boards like the National Dairy Promotion Board and the Beef Checkoff. These programs generate hundreds of millions in annual revenue for commodity promotion.
 
-**Ethanol mandate.** The Renewable Fuel Standard requires blending roughly 15 billion gallons of corn ethanol into the gasoline supply annually, consuming roughly 35-40% of the U.S. corn crop. This mandate is fiercely defended by corn-state legislators, as it provides a guaranteed demand floor for corn.
+**Ethanol mandate.** The Renewable Fuel Standard requires blending about 15 billion gallons of corn ethanol into the gasoline supply annually, consuming 35–40% of the U.S. corn crop. This mandate is fiercely defended by corn-state legislators, as it provides a guaranteed demand floor for corn.
 
-Agricultural lobbying spending totals roughly $160 million annually at the federal level, with the American Farm Bureau, crop-specific groups, and individual agribusiness firms among the top spenders.
+Agricultural lobbying spending totals $160 million annually at the federal level, with the American Farm Bureau, crop-specific groups, and individual agribusiness firms among the top spenders.
 
 ## Recent Trends
 
@@ -343,7 +343,7 @@ John Deere has positioned itself as an agricultural technology company as much a
 
 ### 2. Consolidation of Farmland
 
-The number of farms has declined from 6.8 million in 1935 to roughly 2 million today, while average farm size has more than tripled. This consolidation continues: mid-size farms (sales of $250,000 to $999,999) are being squeezed out, with acreage flowing to the largest operations. Institutional investors, including pension funds, REITs, and family offices, have entered farmland markets, driving up prices and changing the ownership structure of rural America. Bill Gates has become the largest private farmland owner in the country, with roughly 270,000 acres.
+The number of farms has declined from 6.8 million in 1935 to about 2 million today, while average farm size has more than tripled. This consolidation continues: mid-size farms (sales of $250,000 to $999,999) are being squeezed out, with acreage flowing to the largest operations. Institutional investors, including pension funds, REITs, and family offices, have entered farmland markets, driving up prices and changing the ownership structure of rural America. Bill Gates has become the largest private farmland owner in the country, with about 270,000 acres.
 
 ### 3. Climate Change and Agricultural Adaptation
 
@@ -365,14 +365,14 @@ Fertilizer prices spiked sharply in 2022 following the Russia-Ukraine war (Russi
 > - Headquarters: Wayzata, Minnesota
 > - Founded: 1865
 > - Revenue: $160 billion (FY 2023)
-> - Employees: roughly 160,000
+> - Employees: about 160,000
 > - Ownership: Private (Cargill and MacMillan families)
 
 Cargill is the largest private company in the United States by revenue---and one of the most powerful firms most Americans have never heard of. Founded by William Cargill in 1865 as a single grain warehouse in Conover, Iowa, the company has grown into a global colossus that trades, processes, and transports agricultural commodities across 70 countries.
 
 Cargill's business spans the agricultural supply chain: it buys grain from farmers at country elevators across the Midwest, transports it by barge, rail, and ship, processes it into animal feed, corn sweeteners, ethanol, and cooking oils, and sells the finished products to food manufacturers and livestock operations worldwide. The company is also a major meat processor (the third-largest U.S. beef packer) and a significant player in financial trading of agricultural commodities.
 
-Cargill's private ownership is central to its strategy. Freed from quarterly earnings pressure, the company can take long-term positions, absorb cyclical losses, and invest counter-cyclically. The Cargill and MacMillan families, descendants of the founder, own roughly 88% of the company. This structure has sustained the business through 160 years of commodity booms and busts. But it also limits transparency: Cargill discloses far less than publicly traded peers, and its environmental and labor practices face growing scrutiny from activists and policymakers.
+Cargill's private ownership is central to its strategy. Freed from quarterly earnings pressure, the company can take long-term positions, absorb cyclical losses, and invest counter-cyclically. The Cargill and MacMillan families, descendants of the founder, own about 88% of the company. This structure has sustained the business through 160 years of commodity booms and busts. But it also limits transparency: Cargill discloses far less than publicly traded peers, and its environmental and labor practices face growing scrutiny from activists and policymakers.
 
 ### John Deere (Deere & Company)
 
@@ -380,12 +380,12 @@ Cargill's private ownership is central to its strategy. Freed from quarterly ear
 > - Headquarters: Moline, Illinois
 > - Founded: 1837
 > - Revenue: $55 billion (FY 2023)
-> - Employees: roughly 83,000
-> - Market Cap: roughly $105 billion
+> - Employees: approximately 83,000
+> - Market Cap: about $105 billion
 
-John Deere is synonymous with American farming. The company's green-and-yellow tractors are as iconic as the landscape they work, and Deere commands roughly 60% of the U.S. large agricultural equipment market---a dominance that approaches monopoly in some categories.
+John Deere is synonymous with American farming. The company's green-and-yellow tractors are as iconic as the landscape they work, and Deere commands about 60% of the U.S. large agricultural equipment market---a dominance that approaches monopoly in some categories.
 
-Deere's competitive advantage rests on three pillars. First, a dealer network of roughly 2,000 locations that provides financing, parts, and service---a relationship infrastructure no competitor can easily replicate. Second, product quality and brand loyalty built over nearly two centuries. Third, and increasingly important, a precision agriculture technology platform that collects and analyzes data from Deere equipment operating on millions of acres.
+Deere's competitive advantage rests on three pillars. First, a dealer network of about 2,000 locations that provides financing, parts, and service---a relationship infrastructure no competitor can easily replicate. Second, product quality and brand loyalty built over nearly two centuries. Third, and increasingly important, a precision agriculture technology platform that collects and analyzes data from Deere equipment operating on millions of acres.
 
 The technology strategy is both Deere's greatest growth opportunity and its most contentious feature. The company's digital ecosystem---sensors, software, GPS guidance, and data analytics---promises to make farming more efficient. But farmers complain that software locks on Deere equipment prevent independent repair, force reliance on expensive dealer service, and raise questions about data ownership. The "right to repair" movement, which has won legislative victories in several states, targets Deere more than any other company. In 2023, Deere signed a memorandum of understanding with the American Farm Bureau Federation committing to expand access to repair tools and software, though critics argue the concessions are insufficient.
 
@@ -395,20 +395,20 @@ The technology strategy is both Deere's greatest growth opportunity and its most
 > - Headquarters: Springdale, Arkansas
 > - Founded: 1935
 > - Revenue: $53 billion (FY 2023)
-> - Employees: roughly 142,000
-> - Market Cap: roughly $18 billion
+> - Employees: approximately 142,000
+> - Market Cap: about $18 billion
 
-Tyson Foods is the largest U.S. meat and poultry company, processing roughly one in five pounds of all chicken, beef, and pork produced in the country. The company traces its origins to John W. Tyson, who began hauling chickens from Arkansas to markets in the Midwest during the Depression.
+Tyson Foods is the largest U.S. meat and poultry company, processing about one in five pounds of all chicken, beef, and pork produced in the country. The company traces its origins to John W. Tyson, who began hauling chickens from Arkansas to markets in the Midwest during the Depression.
 
-Tyson's scale is staggering: the company slaughters roughly 35 million chickens, 125,000 cattle, and 415,000 hogs per week. Its operations span the supply chain from animal feed mills and hatcheries to processing plants and branded consumer products (Tyson, Jimmy Dean, Hillshire Farm, Ball Park).
+Tyson's scale is staggering: the company slaughters about 35 million chickens, 125,000 cattle, and 415,000 hogs per week. Its operations span the supply chain from animal feed mills and hatcheries to processing plants and branded consumer products (Tyson, Jimmy Dean, Hillshire Farm, Ball Park).
 
-The poultry segment, Tyson's original business, operates on the integrator model: Tyson owns the birds, supplies the feed, and processes the meat, while roughly 3,700 contract growers provide the labor and facilities. This model keeps capital requirements off Tyson's balance sheet while maintaining control over quality and volume.
+The poultry segment, Tyson's original business, operates on the integrator model: Tyson owns the birds, supplies the feed, and processes the meat, while about 3,700 contract growers provide the labor and facilities. This model keeps capital requirements off Tyson's balance sheet while maintaining control over quality and volume.
 
 Tyson has faced recurring controversies: antitrust investigations into price-fixing (the company paid over $220 million to settle chicken price-fixing claims in 2021), workplace safety issues (particularly during the COVID-19 pandemic, when meatpacking plants became major infection sites), environmental complaints about water pollution from poultry operations, and labor practices at its processing plants. The company has invested in automation to reduce labor dependence and improve working conditions, but the nature of meat processing makes full automation elusive.
 
 ## Key Takeaways
 
-1. **American agriculture is extraordinarily productive but economically small.** Fewer than 2% of workers farm, and agriculture's direct GDP share is roughly 1%---but the broader food system employing 21 million people and generating over $1.3 trillion depends on what those farms produce.
+1. **American agriculture is extraordinarily productive but economically small.** Fewer than 2% of workers farm, and agriculture's direct GDP share is about 1%---but the broader food system employing 21 million people and generating over $1.3 trillion depends on what those farms produce.
 
 2. **Most farms are small; most production comes from large farms.** The 7% of farms with annual sales above $1 million produce 73% of output. The "average farm" is a statistical fiction that obscures a deeply bifurcated industry.
 
@@ -444,19 +444,19 @@ Tyson has faced recurring controversies: antitrust investigations into price-fix
 
 ### Review Questions
 
-1. The chapter states that 7% of farms with annual sales above $1 million produce 73% of all agricultural output, while 55% of farms with sales under $10,000 produce just 1% of output. The USDA counts roughly 2 million farms, but most are "rural residences with some agricultural activity." What does this extreme bifurcation reveal about the gap between the USDA's statistical definition of a "farm" (any place producing or selling $1,000+ of agricultural products) and the commercial reality of American agriculture?
+1. The chapter states that 7% of farms with annual sales above $1 million produce 73% of all agricultural output, while 55% of farms with sales under $10,000 produce just 1% of output. The USDA counts about 2 million farms, but most are "rural residences with some agricultural activity." What does this extreme bifurcation reveal about the gap between the USDA's statistical definition of a "farm" (any place producing or selling $1,000+ of agricultural products) and the commercial reality of American agriculture?
 
 2. The "ABCD" grain traders (ADM, Bunge, Cargill, Louis Dreyfus) dominate global grain flows, while four meat packers (Tyson, JBS, Cargill, National Beef) control over 80% of US beef slaughter. Farmers, meanwhile, are price-takers selling interchangeable commodities on the Chicago Board of Trade. Using the chapter's framework of market structure, explain how this arrangement affects the distribution of value in the food supply chain. During 2020-2021, meatpacker margins surged while cattle ranchers saw little benefit from rising retail prices---what structural feature made this possible?
 
 3. The Farm Bill allocates roughly 76% of spending to nutrition programs (primarily SNAP), 11% to crop insurance, and only 5% to commodity programs. The chapter explains the bundling of farm subsidies with nutrition assistance as a political coalition between farm-state and urban legislators. Why can't each group pass its priorities separately? What would likely happen to farm subsidies if the coalition broke apart and farm-state legislators had to assemble a majority for commodity programs alone?
 
-4. The chapter describes a "cost-price squeeze" in which input prices (fertilizer, seed, equipment, land) tend to rise steadily while commodity prices fluctuate and are roughly flat in real terms over the long run. Explain how this persistent squeeze drives farm consolidation---specifically, why mid-size farms ($250,000-$999,999 in annual sales) are being squeezed out while both very small farms (supplemented by off-farm income) and very large operations (achieving scale economies) survive.
+4. The chapter describes a "cost-price squeeze" in which input prices (fertilizer, seed, equipment, land) tend to rise steadily while commodity prices fluctuate and are approximately flat in real terms over the long run. Explain how this persistent squeeze drives farm consolidation---specifically, why mid-size farms ($250,000-$999,999 in annual sales) are being squeezed out while both very small farms (supplemented by off-farm income) and very large operations (achieving scale economies) survive.
 
 5. In the poultry integrator model, companies like Tyson own the birds, supply the feed, and process the meat, while contract growers invest $500,000-$1 million in chicken houses and provide the labor. Growers are paid per pound of weight gain, with bonuses and penalties based on relative performance. The chapter states that "the grower bears the capital risk; the integrator controls the margins." Evaluate whether this arrangement represents a fair division of risk and reward, or whether the grower's sunk costs in specialized facilities create a hold-up problem that the integrator exploits.
 
 6. The Ogallala Aquifer underlies portions of eight Great Plains states and is being depleted faster than it recharges. Using the chapter's discussion of regional agricultural geography, identify the specific crops and livestock operations that depend on Ogallala irrigation (irrigated corn, cotton in the Texas Panhandle, cattle feedlots). What would be the economic consequences for the Great Plains if significant portions of the aquifer become uneconomical to pump within the next 20-30 years?
 
-7. John Deere commands roughly 60% of the US large agricultural equipment market and has built a digital ecosystem of sensors, software, GPS guidance, and data analytics. The "right to repair" movement targets Deere's software locks that prevent independent repair. Using economic concepts---monopoly power, network effects, switching costs, and the installed base of Deere equipment and dealer relationships---explain why farmers face high barriers to switching to competitors despite their complaints about repair restrictions and data ownership.
+7. John Deere commands about 60% of the US large agricultural equipment market and has built a digital ecosystem of sensors, software, GPS guidance, and data analytics. The "right to repair" movement targets Deere's software locks that prevent independent repair. Using economic concepts---monopoly power, network effects, switching costs, and the installed base of Deere equipment and dealer relationships---explain why farmers face high barriers to switching to competitors despite their complaints about repair restrictions and data ownership.
 
 ### Data Exercises
 
@@ -474,4 +474,3 @@ Tyson has faced recurring controversies: antitrust investigations into price-fix
 
 *Chapter 16 | Agriculture and Food Production*
 *The American Economy: A Structural Geography*
-*Draft v1 --- February 2026*

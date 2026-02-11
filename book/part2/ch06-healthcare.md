@@ -1,4 +1,4 @@
-# 6. Healthcare
+# Chapter 6: Healthcare
 
 An MRI of your knee costs $3,000 in the United States. The same scan, on the same machine, costs $300 in Japan. That tenfold price gap for an identical service captures everything strange about American healthcare.
 
@@ -321,6 +321,12 @@ Healthcare is one of the most heavily lobbied industries in America. Major trade
 *Source: Trade association websites and public filings, 2023*
 
 The healthcare sector consistently ranks as the largest lobbying spender in Washington, spending over $700 million annually on federal lobbying.
+
+The sheer scale of this spending reflects the direct financial stakes: government programs account for nearly 40% of all healthcare revenue, so every payment rule change means billions gained or lost. The AHA's lobbying operation shapes hospital economics through its influence over Medicare payment rate updates. Each year, CMS proposes adjustments to the Inpatient Prospective Payment System, and the AHA mobilizes member hospitals---often the largest employers in their congressional districts---to pressure lawmakers against reductions. The result is that Medicare hospital payment rates have consistently exceeded what MedPAC, the independent advisory commission, recommends.
+
+The AMA exercises a different kind of structural power. Through its control of the Liaison Committee on Medical Education (LCME), the AMA effectively controls medical school accreditation, limiting the number of physicians trained each year. This supply constraint keeps physician incomes elevated---a dynamic economists have documented for decades but policymakers have been unable to break.
+
+PhRMA's lobbying proved decisive for years in blocking Medicare from directly negotiating drug prices, preserving the "noninterference clause" in the 2003 Medicare Part D law that prohibited government negotiation. It took nearly two decades---and $4.8 billion in cumulative pharmaceutical lobbying---before the Inflation Reduction Act of 2022 finally authorized limited Medicare drug price negotiation, and even then, the provision was restricted to a small number of drugs phased in over several years. AHIP, the insurance trade group, shaped the ACA's marketplace design by successfully lobbying for risk corridors and reinsurance provisions that reduced insurer exposure in the exchanges' early years, ensuring carrier participation in a market that might otherwise have collapsed from adverse selection.
 
 ## Recent Trends
 

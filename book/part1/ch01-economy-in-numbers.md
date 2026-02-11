@@ -1,4 +1,4 @@
-# 1. The American Economy in Numbers
+# Chapter 1: The American Economy in Numbers
 
 The United States generates $27 trillion in annual output. New York's metropolitan area alone outproduces Canada. California exceeds India. Texas, Russia. Four percent of the world's population, one-quarter of its GDP.
 

@@ -264,7 +264,13 @@ The industry is politically divided:
 - **ABC:** Opposes prevailing wage requirements and project labor agreements; promotes "merit shop" (non-union) construction
 - **Building Trades:** Defends prevailing wage, promotes apprenticeship programs, supports project labor agreements on public work
 
-Infrastructure spending attracts bipartisan support—everyone likes ribbon-cuttings on bridges. Housing policy is more contentious, with builders seeking deregulation while labor and community groups resist.
+Infrastructure spending attracts bipartisan support---everyone likes ribbon-cuttings on bridges. Housing policy is more contentious, with builders seeking deregulation while labor and community groups resist.
+
+The mechanisms of influence are concrete. The AGC and NAHB lobby aggressively on building code adoption cycles, because codes directly determine materials, labor requirements, and construction costs. When the International Code Council updates energy efficiency standards every three years, NAHB routinely opposes stricter requirements, arguing that each incremental energy code mandate adds $8,000--$15,000 to the cost of a new home. This creates a persistent tension: stricter energy codes reduce long-term operating costs and carbon emissions, but raise upfront prices that worsen housing affordability---and the homebuilders' lobby ensures that affordability arguments carry weight in state legislatures deciding whether to adopt updated codes.
+
+The Davis-Bacon Act is another focal point. ABC, representing non-union "merit shop" contractors, has spent decades lobbying to repeal or narrow prevailing wage requirements, which effectively mandate union-scale wages on federal projects. The building trades unions counter with equal intensity, defending Davis-Bacon as the floor that prevents a race to the bottom. The practical effect is that federal construction costs run 10--20% higher than comparable private projects, a premium that ABC frames as waste and NABTU frames as fair compensation.
+
+Immigration policy may be the industry's most consequential lobbying arena. With 30% of construction workers foreign-born---and over 50% in trades like drywall and roofing in Texas and California---the industry's labor supply depends on immigration flows. Both the AGC and NAHB have lobbied for expanded visa programs and against aggressive enforcement measures, creating an unusual dynamic where a politically conservative industry quietly advocates for more permissive immigration policy because its workforce depends on it.
 
 ## Recent Trends
 

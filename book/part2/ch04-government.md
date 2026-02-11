@@ -435,6 +435,26 @@ New York City operates the largest municipal government in the United States, wi
 
 **Complexity**: The city government interacts with numerous independent authorities (MTA, Port Authority, CUNY), state mandates, and federal programs. The MTA (which runs subways and buses) is technically a state agency, not city-controlled, creating persistent governance tensions.
 
+## The Nonprofit Sector: Government's Shadow Economy
+
+Any account of government's economic footprint that stops at official government budgets and payrolls understates reality by a wide margin. The nonprofit sector---roughly 1.8 million organizations registered with the IRS---functions as a parallel delivery system for public-purpose spending, blurring the line between government and private enterprise. Section 501(c)(3) organizations alone account for approximately $2.6 trillion in annual revenue and employ 12.5 million workers, about 10% of the private workforce. That makes nonprofits the third-largest employer category in the United States, behind only retail trade and accommodation/food service.
+
+The sector's scale is driven overwhelmingly by two industries that also dominate government budgets: healthcare and education. Healthcare organizations---hospitals, nursing facilities, health systems---generate roughly 60% of all nonprofit revenue. Many of the nation's largest "nonprofits" are hospital systems with revenues that rival Fortune 500 companies: Kaiser Permanente, Ascension, and Providence each operate sprawling networks with annual revenue in the tens of billions. Education institutions account for the next major share. Harvard University's endowment exceeds $50 billion, larger than the GDP of over half the world's countries. Human services organizations---food banks, homeless shelters, job training programs---are far more numerous but individually smaller. And religious congregations, numbering roughly 380,000 churches alone, form the most visible layer of the sector in most communities, though they account for a modest share of total nonprofit revenue.
+
+The nonprofit business model rests on a specific bargain with government: organizations receive tax-exempt status---no federal income tax, state and local property tax exemptions, and the ability to receive tax-deductible donations---in exchange for a constraint on ownership. Nonprofits may not distribute surplus revenue to owners or shareholders. They must reinvest. In practice, this constraint is less binding than it appears. Nonprofit hospital CEOs earn multimillion-dollar compensation packages. Nonprofit universities accumulate endowments they are under no obligation to spend. The largest nonprofit health systems cross-subsidize internally, using profitable service lines (cardiac surgery, orthopedics) to fund mission-driven but money-losing ones (psychiatric care, community clinics). The boundary between nonprofit and for-profit has blurred to the point where nonprofit hospital systems frequently operate in ways indistinguishable from their for-profit counterparts---a tension explored further in the healthcare chapter (Chapter 6).
+
+The most important fact about nonprofit finance is the degree of government dependence. Approximately one-third of all nonprofit revenue---some $850 billion---flows directly from government through grants, contracts, and program payments. Medicare and Medicaid payments sustain nonprofit hospitals. Pell Grants and federal research funding flow through nonprofit universities (Chapter 15). State and county governments contract with nonprofit agencies to deliver foster care, addiction treatment, refugee resettlement, and dozens of other social services. In these domains, nonprofits are not independent charitable actors; they are government subcontractors, executing public policy with public funds but operating under private governance with limited public accountability.
+
+The geographic significance of nonprofits is acute in smaller cities and college towns, where "eds and meds"---universities and hospitals---often serve as anchor institutions and the largest employers. In cities like Ann Arbor, New Haven, Rochester, and Providence, the local nonprofit hospital or university employs more people than any private firm and owns more real estate than any other entity. Workers in the nonprofit sector accept a wage penalty of roughly 10--15% compared to equivalent for-profit positions, partially offset by benefit packages and the intangible compensation of mission-driven work. But this wage gap also means the sector's growth exerts downward pressure on local wages in the communities it dominates.
+
+{% hint style="info" %}
+**PILOT Programs: The Property Tax Tension**
+
+Large nonprofits---especially hospitals and universities---own vast tracts of tax-exempt real estate, depriving municipal governments of property tax revenue even as those institutions generate demand for city services (roads, police, fire protection). Some cities negotiate Payment In Lieu Of Taxes (PILOT) agreements, voluntary contributions from nonprofits to partially offset lost revenue. Boston's PILOT program, one of the most prominent, asks institutions to contribute 25% of what their property tax bill would be. Compliance is uneven. The fundamental tension remains: cities need the revenue, but nonprofits argue their community benefits---employment, charity care, education---already exceed what any tax payment would provide.
+{% endhint %}
+
+Taken together, the nonprofit sector represents a distinctive feature of American economic organization: a vast quasi-public economy that delivers services other countries assign to government ministries, funded substantially by taxpayers but governed by private boards, and operating under tax privileges that amount to an enormous implicit public subsidy. Understanding government's true economic footprint requires counting this shadow economy alongside the official budget figures documented earlier in this chapter.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
@@ -465,7 +485,6 @@ New York City operates the largest municipal government in the United States, wi
 
 *Chapter 4 | Government at All Levels*
 *The American Economy: A Structural Geography*
-*Draft v1 --- January 2026*
 
 ## Exercises
 

@@ -1,4 +1,4 @@
-# 3. The Geography of Production
+# Chapter 3: The Geography of Production
 
 Economic activity clusters intensely. Five states---California, Texas, New York, Florida, and Illinois---produce half of U.S. GDP. The New York metro area alone outproduces all but a handful of nations. Meanwhile, vast rural stretches have bled population and jobs for decades.
 

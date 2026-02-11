@@ -1,4 +1,4 @@
-# 7. Professional and Business Services
+# Chapter 7: Professional and Business Services
 
 Walk into any office tower in Manhattan, Chicago, or San Francisco and you will find floors of lawyers, consultants, accountants, and software engineers. Most Americans never hire an M&A attorney or a management consultant, yet professional services generates $2.3 trillion annually and employs 22 million workers. These firms sell expertise---legal judgment, strategic advice, audited financials---and their concentration in a handful of elite metros shapes the economic geography of American cities.
 

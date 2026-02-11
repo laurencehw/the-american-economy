@@ -1,4 +1,4 @@
-# 29. Trade Associations and Business Organization
+# Chapter 29: Trade Associations and Business Organization
 
 Walk down K Street in Washington and you pass the headquarters of organized business: the trade associations, lobbying firms, and policy shops where industries coordinate their interests and communicate with government. The U.S. Chamber of Commerce occupies a full block across from the White House. The American Petroleum Institute sits nearby. PhRMA, the pharmaceutical trade group, is a short walk away. This is where the American economy organizes itself politically—part of a broader ecosystem that includes labor unions, consumer advocates, environmental groups, and other interests competing to shape policy.
 
@@ -235,8 +235,6 @@ PhRMA has been largely successful at maintaining the pricing status quo, though 
 - Hall, Richard and Alan Deardorff. "Lobbying as Legislative Subsidy" (2006) - influential article on lobbying's informational role
 
 ---
-
-**Word count:** roughly 2,200 words
 
 *Note: For treatment of specific regulatory agencies and policy areas, see relevant chapters in Part II and Chapter 28.*
 

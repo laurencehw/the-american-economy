@@ -2,7 +2,7 @@
 
 In April 2020, the leisure and hospitality sector lost 8.2 million jobs in a single month---more than any other sector lost during the entire Great Recession. Restaurants went dark. Hotels emptied. Theme parks locked their gates. The pandemic revealed what economists had long known but rarely said plainly: this is the most fragile major sector in the American economy. It is built on discretionary spending, physical presence, and human labor that cannot be performed remotely. When the world shut down, leisure and hospitality was the first casualty and the last to recover.
 
-The sector's structural position is equally striking in normal times. Leisure and hospitality employs roughly 11% of all nonfarm workers in the United States but produces only about 4% of GDP---the largest gap between employment share and output share in the entire economy. That gap tells you almost everything about how this industry works: millions of workers, modest wages, thin margins, and an economic contribution that flows less through value-added per worker than through sheer volume of people cooking, cleaning, serving, and entertaining.
+The sector's structural position is equally striking in normal times. Leisure and hospitality employs 11% of all nonfarm workers in the United States but produces only about 4% of GDP---the largest gap between employment share and output share in the entire economy. That gap tells you almost everything about how this industry works: millions of workers, modest wages, thin margins, and an economic contribution that flows less through value-added per worker than through sheer volume of people cooking, cleaning, serving, and entertaining.
 
 ## Overview
 
@@ -21,7 +21,7 @@ Leisure and hospitality employs more Americans than construction, finance, or in
 - **Annual hotel revenue**: ~$220 billion
 - **Annual gaming revenue**: ~$67 billion (commercial casinos)
 
-The sector's employment footprint is enormous relative to its economic output. For comparison, the information sector produces roughly the same share of GDP with one-fifth the workforce. Leisure and hospitality is, in essence, the inverse of technology: labor-intensive, low-margin, and deeply tied to physical place.
+The sector's employment footprint is enormous relative to its economic output. For comparison, the information sector produces about the same share of GDP with one-fifth the workforce. Leisure and hospitality is, in essence, the inverse of technology: labor-intensive, low-margin, and deeply tied to physical place.
 
 ### Key Subsectors
 
@@ -59,7 +59,7 @@ The restaurant business is a margin trap. The typical full-service restaurant op
 - **Other operating costs**: 15-20% (supplies, marketing, repairs, technology)
 - **Profit margin**: 3-9% in a good year; many restaurants operate at a loss
 
-This means a restaurant generating $1 million in annual revenue might clear $50,000 in profit---before the owner pays themselves. The failure rate is legendary: roughly 60% of restaurants close within their first year, and 80% within five years. Independent restaurants face even steeper odds than chains.
+This means a restaurant generating $1 million in annual revenue might clear $50,000 in profit---before the owner pays themselves. The failure rate is legendary: about 60% of restaurants close within their first year, and 80% within five years. Independent restaurants face even steeper odds than chains.
 
 {% hint style="warning" %}
 **The "90% Fail" Myth**

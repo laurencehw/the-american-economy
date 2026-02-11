@@ -5,16 +5,16 @@ The United States consumes more energy than any country except China, burning th
 ## Overview
 
 **Size and Scope**
-- Total energy spending: roughly $1.5 trillion annually
-  - Electricity: roughly $450 billion (retail sales)
-  - Petroleum products: roughly $600 billion
-  - Natural gas (non-electric): roughly $150 billion
-  - Other: roughly $300 billion
-- GDP contribution: roughly $500 billion directly (utilities, extraction, refining); roughly $800 billion including related sectors
-- Employment: roughly 1.2 million direct (utilities, extraction, refining); roughly 3 million including support services
+- Total energy spending: $1.5 trillion annually
+  - Electricity: about $450 billion (retail sales)
+  - Petroleum products: approximately $600 billion
+  - Natural gas (non-electric): around $150 billion
+  - Other: some $300 billion
+- GDP contribution: $500 billion directly (utilities, extraction, refining); $800 billion including related sectors
+- Employment: 1.2 million direct (utilities, extraction, refining); 3 million including support services
 - Key subsectors: Electric utilities, oil and gas extraction, petroleum refining, pipelines, renewable generation, energy services
 
-Energy's direct share of GDP (roughly 3-4%) understates its importance. Energy is an input to every other sector: manufacturing, transportation, agriculture, and buildings all depend on reliable, affordable energy. Energy price shocks ripple through the economy; energy geography shapes regional development; energy policy drives some of the largest investment flows in the economy.
+Energy's direct share of GDP (3–4%) understates its importance. Energy is an input to every other sector: manufacturing, transportation, agriculture, and buildings all depend on reliable, affordable energy. Energy price shocks ripple through the economy; energy geography shapes regional development; energy policy drives some of the largest investment flows in the economy.
 
 The sector is also unusually capital-intensive. A single nuclear plant costs $20-30 billion; a major offshore oil platform $1-5 billion; even utility-scale solar projects run hundreds of millions. This capital intensity creates long asset lives, path dependence, and high barriers to entry.
 
@@ -24,7 +24,7 @@ The sector is also unusually capital-intensive. A single nuclear plant costs $20
 
 Electricity is unique among commodities: it cannot be economically stored at scale (yet), so supply must match demand instantaneously. This physical constraint shapes everything about how the industry operates.
 
-**Generation** (roughly 4,200 TWh annually):
+**Generation** (about 4,200 TWh annually):
 
 | Source | Share (2024) | Trend |
 |--------|--------------|-------|
@@ -64,7 +64,7 @@ Limited transmission between these interconnections constrains the ability to ba
 
 **Distribution** delivers power from substations to end users over lower-voltage lines. Distribution utilities---often the same companies that own transmission---maintain local networks and handle customer billing.
 
-**Retail Sales** (roughly $450 billion):
+**Retail Sales** ($450 billion):
 
 | Customer Class | Share of Sales | Share of Revenue |
 |----------------|----------------|------------------|
@@ -72,7 +72,7 @@ Limited transmission between these interconnections constrains the ability to ba
 | Commercial | 36% | 35% |
 | Industrial | 26% | 21% |
 
-Residential customers pay the highest rates (roughly 15 cents/kWh national average); industrial customers the lowest (roughly 8 cents/kWh) due to volume and load characteristics.
+Residential customers pay the highest rates (about 15 cents/kWh national average); industrial customers the lowest (about 8 cents/kWh) due to volume and load characteristics.
 
 ### The Two Models: Regulated vs. Restructured
 
@@ -101,24 +101,24 @@ The restructuring wave of the 1990s-2000s promised lower prices through competit
 US oil production collapsed from 10 million barrels/day (1970) to 5 million (2008), then surged back to 13+ million (2024)---making America the world's largest producer. The **shale revolution** unlocked tight oil and gas through horizontal drilling and hydraulic fracturing.
 
 Key producing regions:
-- **Permian Basin** (West Texas/New Mexico): Largest US oil field, roughly 6 million bbl/day
-- **Eagle Ford** (South Texas): roughly 1 million bbl/day
-- **Bakken** (North Dakota): roughly 1 million bbl/day
+- **Permian Basin** (West Texas/New Mexico): Largest US oil field, about 6 million bbl/day
+- **Eagle Ford** (South Texas): about 1 million bbl/day
+- **Bakken** (North Dakota): around 1 million bbl/day
 - **Appalachian Basin** (PA, WV, OH): Largest gas field (Marcellus/Utica shale)
 - **Haynesville** (LA/TX): Major gas production
 
 **Midstream (Transportation and Storage)**:
 
 Oil and gas move through an extensive pipeline network:
-- roughly 190,000 miles of oil pipelines
-- roughly 320,000 miles of natural gas transmission pipelines
-- roughly 2.2 million miles of natural gas distribution pipelines
+- some 190,000 miles of oil pipelines
+- approximately 320,000 miles of natural gas transmission pipelines
+- over 2 million miles of natural gas distribution pipelines
 
 Major pipeline companies: Energy Transfer, Kinder Morgan, Enterprise Products, Williams Companies. Pipelines are regulated as common carriers (must provide non-discriminatory access) but earn market-based returns.
 
 **Downstream (Refining and Marketing)**:
 
-US refining capacity: roughly 18 million barrels/day across roughly 130 refineries. Refining is concentrated on the Gulf Coast (Texas, Louisiana) due to proximity to oil production and port access.
+US refining capacity: about 18 million barrels/day across some 130 refineries. Refining is concentrated on the Gulf Coast (Texas, Louisiana) due to proximity to oil production and port access.
 
 Major refiners: Marathon Petroleum, Valero, Phillips 66, ExxonMobil, Chevron.
 
@@ -129,18 +129,18 @@ Refined products flow to retail through:
 
 ### Renewables: The New Entrants
 
-**Wind Power** (roughly 150 GW installed capacity):
+**Wind Power** (about 150 GW installed capacity):
 - Concentrated in the Great Plains (Texas, Iowa, Oklahoma, Kansas)
 - Utility-scale wind is now cost-competitive with gas in good wind areas
 - Major developers: NextEra, Berkshire Hathaway Energy, Invenergy, AES
 
-**Solar Power** (roughly 175 GW installed capacity):
+**Solar Power** (approximately 175 GW installed capacity):
 - Utility-scale: California, Texas, Florida lead
-- Distributed (rooftop): California dominates (roughly 40% of US rooftop solar)
+- Distributed (rooftop): California dominates (around 40% of US rooftop solar)
 - Costs have fallen 90% since 2010
 - Major developers: NextEra, AES, Clearway, Array Technologies
 
-**Battery Storage** (roughly 30 GW installed, growing rapidly):
+**Battery Storage** (about 30 GW installed, growing rapidly):
 - Paired with solar to provide dispatchable power
 - Grid-scale batteries reaching 4+ hours duration
 - California, Texas, Arizona leading deployment
@@ -153,18 +153,18 @@ The Inflation Reduction Act (2022) provides 10-year tax credits for wind, solar,
 
 The electric utility industry is fragmented but consolidating:
 
-**Investor-Owned Utilities (IOUs)**: roughly 170 companies, serving roughly 70% of customers
+**Investor-Owned Utilities (IOUs)**: some 170 companies, serving about 70% of customers
 - Publicly traded, profit-seeking
 - Largest by market cap: NextEra ($140B), Southern Company ($80B), Duke Energy ($75B)
 - Subject to state PUC regulation
 
-**Public Power**: roughly 2,000 entities, serving roughly 15% of customers
+**Public Power**: about 2,000 entities, serving around 15% of customers
 - Owned by municipalities, states, or federal government
 - Tennessee Valley Authority (TVA): Largest public utility
 - Los Angeles DWP, Sacramento Municipal Utility District, others
 - Nonprofit; rates set by governing boards
 
-**Cooperatives**: roughly 900 co-ops, serving roughly 15% of customers
+**Cooperatives**: some 900 co-ops, serving about 15% of customers
 - Member-owned, primarily rural
 - Formed in 1930s-40s to electrify rural America
 - National Rural Electric Cooperative Association represents the sector
@@ -322,8 +322,8 @@ Transmission constraints limit the ability to move cheap renewable power (from w
 | Solar installation | 250,000 | $50,000 | Growing rapidly |
 | Wind technicians | 15,000 | $60,000 | Growing |
 
-**Total direct energy employment**: roughly 1.3 million
-**Including indirect/induced**: roughly 3 million
+**Total direct energy employment**: about 1.3 million
+**Including indirect/induced**: around 3 million
 
 ### Workforce Characteristics
 
@@ -411,9 +411,9 @@ State PUCs have enormous power over utility decisions. A PUC that denies cost re
 ### Lobbying Activity
 
 Energy is among the most heavily lobbied sectors:
-- Oil and gas: roughly $125 million annually in federal lobbying
-- Electric utilities: roughly $100 million
-- Renewable energy: roughly $30 million (growing)
+- Oil and gas: $125 million annually in federal lobbying
+- Electric utilities: $100 million
+- Renewable energy: $30 million (growing)
 
 Key lobbying issues: Tax treatment, permitting, environmental regulation, grid rules, trade policy (tariffs on solar panels, LNG exports).
 
@@ -425,7 +425,7 @@ The electricity system dominates energy policy debates, but Americans depend on 
 
 ### Water and Wastewater Systems
 
-The United States has roughly 50,000 community water systems, but the sector's structure could hardly be more different from electricity. Most water systems are small and municipally owned: over 80% serve fewer than 3,300 people, and private ownership accounts for only about 15% of systems. This extreme fragmentation---tens of thousands of independent operators, many run by local governments with limited technical capacity---creates persistent challenges for maintenance, compliance, and capital investment.
+The United States has about 50,000 community water systems, but the sector's structure could hardly be more different from electricity. Most water systems are small and municipally owned: over 80% serve fewer than 3,300 people, and private ownership accounts for only about 15% of systems. This extreme fragmentation---tens of thousands of independent operators, many run by local governments with limited technical capacity---creates persistent challenges for maintenance, compliance, and capital investment.
 
 The infrastructure gap is staggering. The American Society of Civil Engineers estimates a $600+ billion shortfall in water infrastructure investment over the next two decades. Pipes installed in the early twentieth century are reaching end of life simultaneously across thousands of systems. The crisis in Flint, Michigan, which exposed widespread lead contamination in 2014, was not an anomaly---the EPA estimates that 9.2 million lead service lines remain in use nationwide. The Bipartisan Infrastructure Law (2021) allocated $15 billion specifically for lead pipe replacement, but that covers only a fraction of the estimated $45-60 billion total cost.
 
@@ -433,19 +433,19 @@ PFAS contamination has emerged as the next major water crisis. These "forever ch
 
 ### Natural Gas Distribution
 
-While electricity debates focus on generation and transmission, natural gas has its own "last mile" problem. Roughly 77 million residential, commercial, and industrial customers receive gas through local distribution companies (LDCs)---the regulated utilities that operate the low-pressure pipeline networks running under streets and into buildings. These systems represent enormous sunk capital, and their future is increasingly contested.
+While electricity debates focus on generation and transmission, natural gas has its own "last mile" problem. About 77 million residential, commercial, and industrial customers receive gas through local distribution companies (LDCs)---the regulated utilities that operate the low-pressure pipeline networks running under streets and into buildings. These systems represent enormous sunk capital, and their future is increasingly contested.
 
 The electrification movement poses an existential question for gas distribution. Several cities---including New York, San Francisco, and Seattle---have restricted or banned new natural gas hookups in buildings, arguing that electrification (heat pumps, induction stoves) is necessary to meet climate goals. The gas industry has responded by promoting hydrogen blending and "renewable natural gas" from landfills and dairy operations as pathways to decarbonize existing infrastructure. Critics argue these alternatives are expensive and unproven at scale.
 
-Meanwhile, methane leaks from aging distribution infrastructure represent both a climate problem and a safety hazard. The EPA estimates that gas distribution systems leak roughly 0.6 million metric tons of methane annually. Since methane is roughly 80 times more potent than CO2 as a greenhouse gas over a 20-year horizon, these leaks substantially undercut natural gas's climate advantage over coal for electricity generation.
+Meanwhile, methane leaks from aging distribution infrastructure represent both a climate problem and a safety hazard. The EPA estimates that gas distribution systems leak an estimated 0.6 million metric tons of methane annually. Since methane is roughly 80 times more potent than CO2 as a greenhouse gas over a 20-year horizon, these leaks substantially undercut natural gas's climate advantage over coal for electricity generation.
 
 ### Broadband as Essential Utility
 
-Broadband internet increasingly functions as essential infrastructure, yet it remains the least regulated major networked service. The FCC's broadband deployment data shows that roughly 24 million Americans---disproportionately in rural areas and on Tribal lands---lack access to broadband meeting the current 100/20 Mbps standard. The digital divide is not purely a rural problem: low-income urban neighborhoods also face gaps in affordability and adoption.
+Broadband internet increasingly functions as essential infrastructure, yet it remains the least regulated major networked service. The FCC's broadband deployment data shows that an estimated 24 million Americans---disproportionately in rural areas and on Tribal lands---lack access to broadband meeting the current 100/20 Mbps standard. The digital divide is not purely a rural problem: low-income urban neighborhoods also face gaps in affordability and adoption.
 
 The Broadband Equity, Access, and Deployment (BEAD) program, funded at $42.5 billion through the Bipartisan Infrastructure Law, represents the largest single investment in broadband infrastructure in American history. Each state received an allocation to fund last-mile deployment to unserved and underserved locations. Whether this investment closes the gap depends on execution---and on resolving the tension between municipal broadband advocates and incumbent providers.
 
-Over 750 communities have built some form of municipal broadband network, often in response to inadequate private-sector service. The incumbent industry has fought back aggressively: roughly 18 states have laws restricting or prohibiting municipal broadband, passed largely through industry lobbying. The policy question---whether broadband should be regulated as a common-carrier utility, similar to electricity or water---remains unresolved, though the pandemic-era experience of remote work and school reinforced the argument that internet access is no longer optional.
+Over 750 communities have built some form of municipal broadband network, often in response to inadequate private-sector service. The incumbent industry has fought back aggressively: some 18 states have laws restricting or prohibiting municipal broadband, passed largely through industry lobbying. The policy question---whether broadband should be regulated as a common-carrier utility, similar to electricity or water---remains unresolved, though the pandemic-era experience of remote work and school reinforced the argument that internet access is no longer optional.
 
 ### Common Themes Across Utility Systems
 
@@ -571,7 +571,7 @@ Two mechanisms exist for pricing carbon:
 **Cap-and-trade programs** set an emissions cap and let firms trade allowances:
 
 - **Regional Greenhouse Gas Initiative (RGGI)**: Covers power plants in 12 Northeast and Mid-Atlantic states. Allowance prices have traded at $10-15/ton---low enough to avoid political backlash but too low to drive major fuel switching.
-- **California Cap-and-Trade**: Broader in scope, covering roughly 80% of state emissions. Allowance prices have reached $30-40/ton. Linked with Quebec's system, it is the most ambitious North American program.
+- **California Cap-and-Trade**: Broader in scope, covering about 80% of state emissions. Allowance prices have reached $30-40/ton. Linked with Quebec's system, it is the most ambitious North American program.
 
 **Carbon taxes** have been proposed repeatedly at the federal level---by both conservative economists (the Climate Leadership Council) and progressive legislators---but none has been enacted. Political opposition from fossil fuel interests and consumer price sensitivity have blocked every proposal.
 
@@ -585,7 +585,7 @@ The contrast with peer economies is stark:
 | RGGI (Northeast) | Cap-and-trade | $10-15 | Power sector only |
 | US federal | None (tax credits via IRA) | N/A | N/A |
 
-The **EU Emissions Trading System** prices carbon high enough to drive real changes in power generation and industrial processes. **Canada** has implemented a national carbon tax with a scheduled escalation to $135/ton by 2030---a price designed to make fossil fuels progressively uncompetitive. The US has instead opted for the **Inflation Reduction Act's** approach: tax credits and subsidies rather than explicit pricing. This is economically less efficient---subsidies cost the Treasury revenue while a carbon price raises it---but proved politically achievable where pricing could not. The IRA's production tax credit for wind (roughly $26/MWh) and investment tax credit for solar (30%) function as implicit subsidies for low-carbon generation rather than penalties on high-carbon generation.
+The **EU Emissions Trading System** prices carbon high enough to drive real changes in power generation and industrial processes. **Canada** has implemented a national carbon tax with a scheduled escalation to $135/ton by 2030---a price designed to make fossil fuels progressively uncompetitive. The US has instead opted for the **Inflation Reduction Act's** approach: tax credits and subsidies rather than explicit pricing. This is economically less efficient---subsidies cost the Treasury revenue while a carbon price raises it---but proved politically achievable where pricing could not. The IRA's production tax credit for wind ($26/MWh) and investment tax credit for solar (30%) function as implicit subsidies for low-carbon generation rather than penalties on high-carbon generation.
 
 {% hint style="warning" %}
 **The Hidden Carbon Price**
@@ -597,7 +597,7 @@ The absence of a formal carbon price does not mean carbon is unpriced in the US.
 
 Environmental regulation has been a significant economic force since the 1970s, though its costs and benefits are often debated in ideological rather than empirical terms. The reality is more nuanced than either side acknowledges: environmental rules impose real compliance costs on energy producers while generating quantifiable public health and economic benefits that typically exceed those costs.
 
-**The Clean Air Act** is the most studied case. EPA estimates that the Act's benefits from 1990 to 2020---reduced mortality, fewer hospitalizations, improved agricultural yields---totaled roughly $2 trillion per year by 2020, against compliance costs of roughly $65 billion per year. The roughly 30:1 benefit-cost ratio reflects the enormous health costs of air pollution, particularly fine particulate matter (PM2.5) and ground-level ozone. Critics argue these estimates overstate benefits by using high valuations for statistical lives saved, but even conservative recalculations show benefits exceeding costs by large margins. The Clean Air Act also demonstrates how regulation can drive innovation: the sulfur dioxide cap-and-trade program established in 1990 achieved its emissions targets at roughly one-quarter of projected costs, as utilities found cheaper abatement methods than regulators had anticipated.
+**The Clean Air Act** is the most studied case. EPA estimates that the Act's benefits from 1990 to 2020---reduced mortality, fewer hospitalizations, improved agricultural yields---totaled $2 trillion per year by 2020, against compliance costs of $65 billion per year. The roughly 30:1 benefit-cost ratio reflects the enormous health costs of air pollution, particularly fine particulate matter (PM2.5) and ground-level ozone. Critics argue these estimates overstate benefits by using high valuations for statistical lives saved, but even conservative recalculations show benefits exceeding costs by large margins. The Clean Air Act also demonstrates how regulation can drive innovation: the sulfur dioxide cap-and-trade program established in 1990 achieved its emissions targets at about one-quarter of projected costs, as utilities found cheaper abatement methods than regulators had anticipated.
 
 **NEPA permitting** has become a critical infrastructure bottleneck. The National Environmental Policy Act (1970) requires environmental impact statements for major federal actions. Average completion time for an EIS now exceeds 4.5 years. This affects energy projects of all types: pipelines, transmission lines, wind farms, and solar installations all face NEPA review. The irony is acute: NEPA delays now impede both fossil fuel projects (pipelines, LNG terminals) and the clean energy infrastructure (transmission lines, offshore wind) needed to reduce emissions. Permitting reform has bipartisan support in principle but stalls over specifics---Democrats worry about weakening environmental protections; Republicans focus on fossil fuel project approvals. The Fiscal Responsibility Act of 2023 included modest NEPA reforms, but the fundamental bottleneck remains.
 
@@ -605,20 +605,20 @@ Environmental regulation has been a significant economic force since the 1970s, 
 
 ### The Green Transition as Structural Economic Shift
 
-The Inflation Reduction Act's roughly $370 billion in climate and energy spending is producing a geographically concentrated investment wave. This is not a gradual diffusion---it is a place-based industrial policy reshaping specific regions. The scale of capital reallocation is historically unusual: private sector clean energy investment in the US exceeded $300 billion in 2023, more than double the 2019 level.
+The Inflation Reduction Act's $370 billion in climate and energy spending is producing a geographically concentrated investment wave. This is not a gradual diffusion---it is a place-based industrial policy reshaping specific regions. The scale of capital reallocation is historically unusual: private sector clean energy investment in the US exceeded $300 billion in 2023, more than double the 2019 level.
 
 The transition also has a supply chain dimension. The IRA includes domestic content requirements and manufacturing credits designed to build American clean energy supply chains. Solar panel, battery cell, and critical mineral processing facilities are being built or expanded domestically---reversing a decade-long trend of offshoring clean energy manufacturing to China. Whether these facilities remain competitive without subsidies is an open question.
 
 **The "Battery Belt"**: Battery, EV, and solar manufacturing investments have clustered heavily in the Southeast and lower Midwest---Georgia, Tennessee, Kentucky, South Carolina, and Michigan. Since the IRA's passage, over $150 billion in announced clean energy manufacturing investments have targeted these states, drawn by right-to-work laws, lower costs, available land, existing automotive supply chains, and IRA bonus credits for energy communities. Georgia alone has attracted $20+ billion in battery and EV investments from Hyundai, Rivian, and SK Innovation. This geographic pattern is politically significant: much of the IRA's investment is flowing into Republican-represented districts, creating a constituency for clean energy subsidies even among legislators who voted against the law.
 
-**Job creation vs. job displacement**: The clean energy economy already employs roughly 3.3 million workers across several categories:
+**Job creation vs. job displacement**: The clean energy economy already employs about 3.3 million workers across several categories:
 
-- Energy efficiency (building retrofits, insulation, HVAC): roughly 2.1 million
-- Renewable energy generation (solar, wind, hydro): roughly 500,000
-- Clean vehicles (EV manufacturing, charging infrastructure): roughly 300,000
-- Grid modernization and storage: roughly 400,000
+- Energy efficiency (building retrofits, insulation, HVAC): about 2.1 million
+- Renewable energy generation (solar, wind, hydro): some 500,000
+- Clean vehicles (EV manufacturing, charging infrastructure): around 300,000
+- Grid modernization and storage: some 400,000
 
-By comparison, traditional fossil fuel extraction, generation, and refining employ roughly 1.1 million. But these numbers obscure a geographic mismatch: clean energy jobs are growing in the Sun Belt and industrial Midwest, while fossil fuel job losses concentrate in Appalachia, Wyoming's Powder River Basin, and parts of the Gulf Coast. A solar installer in Georgia does not help a displaced coal miner in West Virginia. Moreover, clean energy jobs on average pay less than the unionized fossil fuel positions they notionally replace---median solar installation wages run $25/hour versus $35-45/hour for experienced oil field or utility workers.
+By comparison, traditional fossil fuel extraction, generation, and refining employ about 1.1 million. But these numbers obscure a geographic mismatch: clean energy jobs are growing in the Sun Belt and industrial Midwest, while fossil fuel job losses concentrate in Appalachia, Wyoming's Powder River Basin, and parts of the Gulf Coast. A solar installer in Georgia does not help a displaced coal miner in West Virginia. Moreover, clean energy jobs on average pay less than the unionized fossil fuel positions they notionally replace---median solar installation wages run $25/hour versus $35-45/hour for experienced oil field or utility workers.
 
 The **"just transition"** concept---ensuring that fossil fuel workers and communities are not left behind---has become a federal policy goal. The IRA includes bonus tax credits for projects in "energy communities" (areas with closed coal mines, retired coal plants, or high fossil fuel employment). The Appalachian Regional Commission and similar bodies administer transition funding. But the scale of federal investment in transition assistance remains modest relative to the economic disruption in affected communities. Historical precedent is not encouraging: Appalachian coal communities that began losing jobs in the 1980s still have not recovered economically, despite decades of federal and state aid programs.
 
@@ -633,6 +633,42 @@ EPA's environmental justice initiatives---formalized through Executive Order 128
 The energy transition itself raises environmental justice concerns. Lithium mining, battery manufacturing, and large-scale solar and wind installations create new siting conflicts. Tribal nations have raised concerns about mineral extraction on or near reservation lands. Rural communities in the Midwest and West have pushed back against large-scale wind and solar projects that alter landscapes and concentrate benefits with distant developers.
 
 Ensuring that the clean energy economy does not replicate the environmental inequities of the fossil fuel era is a stated federal policy goal---but implementation depends on permitting decisions made at the project level, often under intense pressure from competing economic and political interests.
+
+## Mining and Natural Resources Beyond Energy
+
+The energy transition discussed above depends on something easy to overlook: physical materials dug out of the ground. Every solar panel requires copper and silicon, every EV battery requires lithium and nickel, every wind turbine requires rare earth magnets. Mining (NAICS 21, excluding oil and gas) employs roughly 200,000 workers and generates roughly $100 billion in annual output---small by GDP share but strategically vital and geographically concentrated in ways that shape regional economies from Arizona to Minnesota.
+
+### Key Minerals and Their Geography
+
+**Copper** is the backbone mineral of electrification. Arizona produces about 70% of U.S. copper, with the Morenci mine---the largest in North America---anchoring the state's mining economy. Copper is essential for electrical wiring, EV motors (which use 2--4 times more copper than internal combustion vehicles), and renewable energy infrastructure. Rising demand from electrification has made copper supply a binding constraint on the energy transition itself.
+
+**Iron ore** feeds the steel industry from Minnesota's Iron Range and Michigan's Upper Peninsula, regions that have mined iron since the mid-nineteenth century. Cleveland-Cliffs dominates domestic production after acquiring ArcelorMittal USA, making it the largest flat-rolled steel producer in North America. Iron ore links the mining sector directly to manufacturing; see Chapter 25 (Midwest) for how the Iron Range shaped the industrial geography of the Great Lakes.
+
+**Gold** production concentrates in Nevada, where Barrick and Newmont operate mines that account for about 75% of U.S. output. Gold mining employs thousands in remote Nevada communities where few alternative employers exist.
+
+**Lithium**---the "white gold" of the battery age---has become the most strategically contested mineral in the American economy. Thacker Pass in northern Nevada was approved as the largest U.S. lithium mine, while experimental geothermal brine extraction at the Salton Sea in California promises a domestic supply from an unconventional source. Lithium is critical for the lithium-ion batteries that power EVs and grid storage, and the U.S. currently imports the vast majority of its processed lithium. See Chapter 26 (West) for how lithium is reshaping the rural economies of the Great Basin.
+
+**Rare earth elements** present the starkest supply chain vulnerability. MP Materials' Mountain Pass mine in California is the only operating U.S. rare earth mine. China controls about 60% of global rare earth mining and some 90% of processing---a chokepoint that affects everything from EV motors to missile guidance systems. Rebuilding domestic processing capacity is a multi-year, multi-billion-dollar challenge.
+
+**Coal** still employs about 40,000 miners across West Virginia, Wyoming, Pennsylvania, and Kentucky. The Powder River Basin in Wyoming produces about 40% of U.S. coal. Employment has declined sharply from its peak, but coal remains the economic anchor of communities that have few substitutes; the "just transition" challenges discussed in the environmental economics section above are most acute in coal country.
+
+**Sand and gravel** is the unglamorous giant of the mining world---the largest mining sector by volume, essential for concrete, road construction, and land reclamation. As coastal sand supplies deplete and construction demand grows, sourcing aggregate has become increasingly contentious, particularly near growing metropolitan areas where NIMBY resistance meets insatiable infrastructure demand.
+
+### Critical Minerals and Supply Chain Security
+
+{% hint style="info" %}
+**Critical Minerals**
+
+The U.S. Geological Survey maintains a list of 50 minerals deemed critical to economic and national security. For many of these---including gallium, germanium, graphite, manganese, and several rare earths---the U.S. depends on imports for more than 50% of consumption, often from a single dominant supplier. This import dependence has transformed mining policy from an obscure regulatory backwater into a national security priority.
+{% endhint %}
+
+The 2022 Inflation Reduction Act tied EV tax credits to critical mineral sourcing requirements: to qualify for the full $7,500 credit, a specified percentage of battery minerals must be extracted or processed in the U.S. or a free-trade-agreement partner country. This requirement is designed to redirect supply chains away from China, but it collides with a fundamental bottleneck: permitting. It takes 7--10 years to permit a new mine in the United States, compared to 2--3 years in Australia or Canada. The Defense Production Act has been invoked to accelerate battery mineral production, but regulatory timelines remain the binding constraint. The tension is acute---policymakers simultaneously demand supply chain reshoring and maintain environmental review processes that make rapid domestic mining expansion nearly impossible.
+
+### The Resource Curse at the Local Level
+
+Mining communities face a distinctive economic pathology: the boom-bust cycle. When commodity prices are high, mining wages crowd out other local industries---a regional-scale version of "Dutch disease." Workers leave lower-paying service and public-sector jobs for the mines; housing costs spike as mining workers bid up rents; local governments expand budgets on severance tax revenue. Then prices fall, deposits deplete, or policy shifts (as with coal), and the entire economic structure collapses. Communities that organized themselves around extraction find they have neither the diversified employment base nor the fiscal reserves to manage the transition.
+
+Appalachian coal country is the definitive American case study. Counties in southern West Virginia and eastern Kentucky that were prosperous mining centers in the mid-twentieth century now rank among the poorest in the nation. Decades of federal and state aid---Appalachian Regional Commission programs, retraining grants, enterprise zones---have not reversed the decline. The pattern repeats in oil-patch towns (see the 2014--2016 shock analysis earlier in this chapter) and threatens to repeat in lithium and copper communities if extraction booms are not accompanied by deliberate economic diversification. Chapter 27 (Rural America) examines how resource dependence shapes the long-run trajectory of rural communities across the West and Appalachia.
 
 ## Recent Trends
 
@@ -696,8 +732,8 @@ Utilities that planned for flat demand now face potential shortages. Load growth
 
 > **Quick Facts**
 > - Headquarters: Juno Beach, FL
-> - Market Cap: roughly $140 billion
-> - Employees: roughly 16,000
+> - Market Cap: approximately $140 billion
+> - Employees: about 16,000
 > - CEO: John Ketchum
 
 NextEra Energy is the world's largest generator of wind and solar power---and also Florida's largest electric utility. This combination of regulated utility (Florida Power & Light) and competitive renewables developer (NextEra Energy Resources) has made NextEra the most valuable utility in America.
@@ -714,13 +750,13 @@ Challenges: Rising interest rates (which affect all capital-intensive developers
 
 > **Quick Facts**
 > - Headquarters: Spring, TX (Houston area)
-> - Market Cap: roughly $450 billion
-> - Employees: roughly 62,000
+> - Market Cap: approximately $450 billion
+> - Employees: about 62,000
 > - CEO: Darren Woods
 
 ExxonMobil is the largest US oil company and one of the largest in the world, tracing its history to Standard Oil (broken up in 1911). The company operates across the petroleum value chain:
 
-**Upstream**: Major positions in the Permian Basin (acquired Pioneer Natural Resources for $60B in 2024), Guyana (massive offshore discoveries), and global LNG. Production: roughly 3.8 million boe/day.
+**Upstream**: Major positions in the Permian Basin (acquired Pioneer Natural Resources for $60B in 2024), Guyana (massive offshore discoveries), and global LNG. Production: about 3.8 million boe/day.
 
 **Downstream**: Largest US refiner (4.6 million bbl/day capacity globally), major chemicals producer (polyethylene, polypropylene).
 
@@ -734,8 +770,8 @@ The company has faced climate litigation, shareholder activism, and reputational
 
 > **Quick Facts**
 > - Headquarters: Charlotte, NC
-> - Market Cap: roughly $75 billion
-> - Employees: roughly 27,000
+> - Market Cap: approximately $75 billion
+> - Employees: about 27,000
 > - CEO: Lynn Good
 
 Duke Energy exemplifies the large regulated utility: predictable, capital-intensive, politically connected, and facing the challenges of energy transition.
@@ -794,7 +830,7 @@ Duke illustrates the tensions facing traditional utilities: pressure to decarbon
 
 4. The 2014-2016 oil price collapse saw Brent crude fall from $115/barrel to $28/barrel. Active US oil rigs fell 80%; over 100 producers filed for bankruptcy; the Permian Basin town of Midland saw unemployment jump from 2.4% to 4.9%. Yet by 2018, production had recovered to near-record levels with far fewer workers. Explain the three adjustment mechanisms the chapter identifies---productivity improvements (breakeven costs falling from $70+ to below $40/barrel), consolidation, and capital discipline---and how they made the post-2016 industry structurally different.
 
-5. NextEra Energy combines a regulated utility (Florida Power & Light, serving 5.8 million customers) with a competitive renewables developer (NextEra Energy Resources, 32 GW of wind, solar, and storage). Explain the strategic logic of this corporate structure: how does the regulated utility's predictable cash flow support the renewables business, and why has this combination made NextEra the most valuable utility in America at roughly $140 billion in market capitalization?
+5. NextEra Energy combines a regulated utility (Florida Power & Light, serving 5.8 million customers) with a competitive renewables developer (NextEra Energy Resources, 32 GW of wind, solar, and storage). Explain the strategic logic of this corporate structure: how does the regulated utility's predictable cash flow support the renewables business, and why has this combination made NextEra the most valuable utility in America at approximately $140 billion in market capitalization?
 
 6. The Inflation Reduction Act (2022) provides 10-year tax credits for wind, solar, storage, nuclear, and hydrogen---the chapter calls this the "largest US climate legislation ever," with an estimated $370 billion in climate spending. Explain how long-duration, predictable tax credits affect investment decisions differently than short-term credits that Congress must repeatedly renew. Why does the 10-year horizon matter particularly for capital-intensive projects like offshore wind or battery manufacturing?
 
@@ -814,4 +850,3 @@ Duke illustrates the tensions facing traditional utilities: pressure to decarbon
 
 *Chapter 14 | Energy*
 *The American Economy: A Structural Geography*
-*Draft v1 --- January 2026*

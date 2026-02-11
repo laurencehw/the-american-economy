@@ -242,7 +242,13 @@ Real estate is among the most politically active sectors in America. Property ri
 - **NAHB:** Fights building code expansions, environmental regulations, and labor rules that increase construction costs.
 - **Financial Industry:** Banks, mortgage servicers, and GSEs lobby intensely on mortgage regulation, particularly post-2008 rules under Dodd-Frank.
 
-At the local level, homeowner associations, neighborhood groups, and NIMBY ("Not In My Backyard") organizations wield enormous influence over zoning and development decisions—often more than formal industry lobbies.
+At the local level, homeowner associations, neighborhood groups, and NIMBY ("Not In My Backyard") organizations wield enormous influence over zoning and development decisions---often more than formal industry lobbies.
+
+NAR stands out as one of the most powerful lobbies in Washington, consistently ranking in the top three by total political spending. Its influence derives from a distinctive structure: 1.5 million members spread across virtually every congressional district, each a local businessperson with community ties and campaign contribution capacity. NAR's top legislative priority has been preserving the mortgage interest deduction, a tax expenditure worth roughly $30 billion per year that disproportionately benefits higher-income homeowners. Economists broadly regard the MID as an inefficient subsidy that inflates home prices without meaningfully increasing homeownership rates, yet every proposal to cap or eliminate it meets ferocious NAR opposition framed as an attack on "the American Dream of homeownership."
+
+Section 1031 like-kind exchanges---which allow real estate investors to defer capital gains taxes indefinitely by rolling proceeds into new properties---represent another NAR and NAREIT lobbying victory. The 2017 Tax Cuts and Jobs Act eliminated 1031 exchanges for all asset classes except real estate, a carve-out that the real estate lobby secured by arguing that exchanges promote property investment and development. Critics note that 1031 exchanges primarily benefit wealthy investors and cost the Treasury an estimated $5--$10 billion annually in deferred taxes.
+
+NAR also lobbies aggressively against rent control at every level of government, funding ballot measure opposition campaigns and supporting preemption laws that prohibit cities from enacting rent regulations. Real estate's political spending pattern is distinctively bipartisan and locally focused---NAR's PAC donates to incumbents of both parties, prioritizing members of committees with jurisdiction over housing, tax, and financial services policy. The recent $418 million NAR antitrust settlement on commission structure has not diminished the association's political influence, though it has forced a strategic pivot toward defending member value in a market where commission transparency is increasing.
 
 ## When Housing Prices Collapse: The 2006-2012 Crisis
 

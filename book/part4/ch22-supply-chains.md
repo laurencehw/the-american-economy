@@ -4,6 +4,11 @@ Global supply chains are the circulatory system of the modern American economy. 
 
 This chapter examines how American companies organize international production: the physical infrastructure of global trade, the architecture of specific supply chains, the vulnerabilities exposed by recent crises, and the ongoing reorganization toward resilience.
 
+{% hint style="info" %}
+**What Is a Supply Chain?**
+A supply chain is the entire network of firms, facilities, and logistics that transforms raw materials into finished products and delivers them to consumers. Modern supply chains are global, multi-tiered, and fragmented: a single product may cross dozens of borders at different stages of production. The term "chain" understates the complexity---in practice, supply chains are interconnected *networks* where disruption at any node can cascade unpredictably to others.
+{% endhint %}
+
 ## The Structure of Modern Trade
 
 ### Intermediate Goods and Value Chains
@@ -286,6 +291,11 @@ The result: automakers parked tens of thousands of unfinished vehicles, waiting 
 ### Lessons and Responses
 
 The crisis forced corporate reevaluation of supply chain strategy:
+
+{% hint style="warning" %}
+**The Bullwhip Effect**
+Small fluctuations in consumer demand can amplify dramatically as they travel upstream through a supply chain---a phenomenon known as the bullwhip effect. Each firm in the chain, uncertain about future orders, over-adjusts its own inventory and purchasing decisions. During the 2021-22 crisis, modest shifts in consumer spending patterns produced wild swings in container bookings, semiconductor orders, and raw material procurement. Just-in-time systems, which eliminate inventory buffers, intensify this amplification because there is no slack to absorb demand variability.
+{% endhint %}
 
 **From efficiency to resilience**: The "just-in-time" model that minimized inventory and maximized efficiency proved fragile. Companies are rebuilding buffer stocks and diversifying suppliers.
 

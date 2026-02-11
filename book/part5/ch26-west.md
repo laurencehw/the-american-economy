@@ -1,4 +1,4 @@
-# 26. The West
+# Chapter 26: The West
 
 Stand in downtown San Francisco and you are at the center of something unprecedented: the most valuable cluster of private enterprise in human history. Within a 50-mile radius sit Apple, Alphabet, Meta, Nvidia, Tesla, Salesforce, and thousands of companies aspiring to join them. The market capitalization concentrated in this geography exceeds the GDP of most nations.
 
@@ -308,6 +308,12 @@ The organization operates primarily in California, with significant presence in 
 
 Kaiser's challenges are California's challenges: high costs, labor shortages, competitive pressures from specialized providers. But its regional footprint anchors healthcare employment across the Western economy.
 
+### Structural Analysis
+
+The West's economy illustrates several of this book's core analytical frameworks operating at extreme intensity. The technology sector's geographic concentration reflects the network effects analyzed in Chapter 11: software platforms exhibit increasing returns---each additional developer on a platform raises its value to all others---and these returns manifest spatially when the engineers, venture capitalists, and entrepreneurs who build platforms cluster within commuting distance of one another. The venture capital concentration documented above (50%+ of U.S. investment flowing through Bay Area firms) connects directly to the financial architecture of Chapter 19: VC requires repeated, trust-based interactions between investors and founders that agglomeration facilitates, and successful exits generate capital that recycles locally, reinforcing the cluster.
+
+The West also demonstrates how wealth effects propagate through the housing market (Chapter 5). When Bay Area tech companies go public or issue equity compensation, employee stock windfalls translate into housing demand---each major IPO or vesting cycle injects billions in purchasing power into a supply-constrained market, bidding up prices that then spill into adjacent metros (Sacramento, Reno, Boise) as priced-out buyers relocate. Natural resource economics (Chapter 14) governs the region's energy sector, from Wyoming coal to North Dakota oil to the Great Plains wind corridor, while federal land ownership---the federal government controls over 45% of land in the Western states---makes the government sector analysis of Chapter 4 uniquely relevant. Federal land management decisions on grazing, mining, timber, and recreation directly shape rural Western economies in ways that have no parallel east of the Mississippi, linking public sector choices to private sector outcomes through channels the national accounts framework is designed to trace.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
@@ -325,8 +331,6 @@ Kaiser's challenges are California's challenges: high costs, labor shortages, co
 - Pacific Northwest Economic Region reports
 
 ---
-
-**Word count:** roughly 4,500 words
 
 *Note: For detailed treatment of technology, energy, and specific industries, see the relevant chapters in Part II.*
 

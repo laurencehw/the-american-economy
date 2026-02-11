@@ -7,16 +7,16 @@ The information sector occupies an anomalous position in the American economy: r
 {% hint style="info" %}
 **Market Cap vs. Employment**
 
-Tech's defining paradox: the five largest American companies by market value (Apple, Microsoft, Alphabet, Amazon, Meta) together employ fewer than 2 million people but are worth over $10 trillion—roughly 25% of the entire S&P 500. No sector concentrates so much wealth in so few hands, with so few workers.
+Tech's defining paradox: the five largest American companies by market value (Apple, Microsoft, Alphabet, Amazon, Meta) together employ fewer than 2 million people but are worth over $10 trillion—25% of the entire S&P 500. No sector concentrates so much wealth in so few hands, with so few workers.
 {% endhint %}
 
-The Bureau of Economic Analysis classifies the information sector as NAICS 51, encompassing publishing, motion pictures, broadcasting, telecommunications, and data processing. By this narrow definition, the sector contributes roughly $1.8 trillion to GDP—about 6% of the total economy—and employs approximately 3 million workers. But these official statistics dramatically understate the sector's economic footprint. Amazon, classified as retail, derives growing revenue from cloud computing. Financial services firms employ armies of software engineers. The "tech sector" as commonly understood sprawls across multiple NAICS codes.
+The Bureau of Economic Analysis classifies the information sector as NAICS 51, encompassing publishing, motion pictures, broadcasting, telecommunications, and data processing. By this narrow definition, the sector contributes $1.8 trillion to GDP—about 6% of the total economy—and employs approximately 3 million workers. But these official statistics dramatically understate the sector's economic footprint. Amazon, classified as retail, derives growing revenue from cloud computing. Financial services firms employ armies of software engineers. The "tech sector" as commonly understood sprawls across multiple NAICS codes.
 
-A more revealing metric is market capitalization. As of late 2024, the five largest American companies by market value were all technology firms: Apple ($3.0 trillion), Microsoft ($2.8 trillion), Alphabet ($1.8 trillion), Amazon ($1.6 trillion), and Meta ($900 billion). Together, these five companies—sometimes called "Big Tech" or the "Magnificent Seven" (adding Nvidia and Tesla)—account for roughly 25% of the S&P 500's total value. No other sector comes close to this concentration of market power in so few hands.
+A more revealing metric is market capitalization. As of late 2024, the five largest American companies by market value were all technology firms: Apple ($3.0 trillion), Microsoft ($2.8 trillion), Alphabet ($1.8 trillion), Amazon ($1.6 trillion), and Meta ($900 billion). Together, these five companies—sometimes called "Big Tech" or the "Magnificent Seven" (adding Nvidia and Tesla)—account for about 25% of the S&P 500's total value. No other sector comes close to this concentration of market power in so few hands.
 
 <figure>
 <img src="../_figures/ch11/ch11_big_tech_market_cap.png" alt="Big Tech market cap: Apple $3T, Microsoft $2.8T, totaling 25% of S&P 500" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 11.1: Big Tech market capitalization, 2024. Apple, Microsoft, and the rest of the "Magnificent Seven" account for roughly 25% of S&P 500 market value. Source: Company data</figcaption>
+<figcaption>Figure 11.1: Big Tech market capitalization, 2024. Apple, Microsoft, and the rest of the "Magnificent Seven" account for about 25% of S&P 500 market value. Source: Company data</figcaption>
 </figure>
 
 The information sector's economic significance lies not just in its direct output but in its role as infrastructure for everything else. Cloud computing powers businesses from startups to Fortune 500 firms. Digital advertising enables the "free" internet. Telecommunications networks carry commerce, entertainment, and increasingly, work itself.
@@ -25,7 +25,7 @@ The information sector's economic significance lies not just in its direct outpu
 
 ### The Advertising Model
 
-The dominant business model of the consumer internet is advertising. Google and Meta (Facebook, Instagram) together capture roughly 50% of all digital advertising spending in the United States—over $150 billion annually. This advertising is qualitatively different from traditional media advertising: it is targeted based on user data, sold through automated auctions that occur in milliseconds, and measured with precision impossible in print or broadcast.
+The dominant business model of the consumer internet is advertising. Google and Meta (Facebook, Instagram) together capture about 50% of all digital advertising spending in the United States—over $150 billion annually. This advertising is qualitatively different from traditional media advertising: it is targeted based on user data, sold through automated auctions that occur in milliseconds, and measured with precision impossible in print or broadcast.
 
 Google's search advertising works on a pay-per-click model: advertisers bid on keywords, and Google charges only when users click. The average cost per click varies enormously by industry—legal services and insurance keywords can cost $50 or more, while less competitive terms cost pennies. Google's search advertising revenue exceeded $175 billion in 2023.
 
@@ -33,7 +33,7 @@ Meta's advertising model relies on the detailed user data collected through Face
 
 <figure>
 <img src="../_figures/ch11/ch11_digital_ad_revenue.png" alt="Digital ad revenue: Google and Meta capture 50% of $300 billion U.S. market" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 11.2: Digital advertising revenue by platform. Google and Meta together capture roughly 50% of the $300+ billion market. Source: eMarketer (2023)</figcaption>
+<figcaption>Figure 11.2: Digital advertising revenue by platform. Google and Meta together capture about 50% of the $300+ billion market. Source: eMarketer (2023)</figcaption>
 </figure>
 
 Amazon has emerged as the third major digital advertising platform, generating over $45 billion from ads displayed in search results and product pages. Unlike Google and Meta, Amazon's advertising appears at the point of purchase, making it especially valuable for consumer products.
@@ -43,7 +43,7 @@ Amazon has emerged as the third major digital advertising platform, generating o
 Streaming video represents the clearest example of subscription-based media. Netflix pioneered the model, disrupting both traditional television and the DVD rental business. By late 2024, the streaming landscape had consolidated into several major players:
 
 - **Netflix**: 302 million global subscribers, the clear leader
-- **Amazon Prime Video**: roughly 230 million (bundled with Prime membership)
+- **Amazon Prime Video**: around 230 million (bundled with Prime membership)
 - **Disney+**: 125 million (excluding Hotstar in India)
 - **Max** (HBO): 117 million
 - **Paramount+**: 78 million
@@ -58,11 +58,11 @@ Streaming video represents the clearest example of subscription-based media. Net
 
 The economics of streaming remain challenging. Content costs are enormous—Netflix spent over $17 billion on content in 2023—and subscriber growth in mature markets has slowed. The initial promise of streaming was "cord-cutting": consumers would save money by dropping cable. Instead, many households now subscribe to multiple services, collectively approaching or exceeding cable costs. The streaming services have responded by cracking down on password sharing, introducing ad-supported tiers, and raising prices.
 
-Music streaming follows a similar model. Spotify dominates with roughly 600 million users (250 million paying subscribers), followed by Apple Music and Amazon Music. The economics favor the platforms over artists: Spotify pays roughly $0.003-0.005 per stream, meaning a song needs millions of plays to generate meaningful revenue.
+Music streaming follows a similar model. Spotify dominates with around 600 million users (250 million paying subscribers), followed by Apple Music and Amazon Music. The economics favor the platforms over artists: Spotify pays about $0.003-0.005 per stream, meaning a song needs millions of plays to generate meaningful revenue.
 
 ### The Hardware Ecosystem Model
 
-Apple's business model combines hardware sales with an ecosystem of services that lock in customers. The iPhone generates roughly half of Apple's $383 billion in annual revenue, but the services segment—App Store commissions, Apple Music, iCloud storage, Apple TV+—has grown to over $85 billion and carries much higher profit margins.
+Apple's business model combines hardware sales with an ecosystem of services that lock in customers. The iPhone generates about half of Apple's $383 billion in annual revenue, but the services segment—App Store commissions, Apple Music, iCloud storage, Apple TV+—has grown to over $85 billion and carries much higher profit margins.
 
 The App Store's 30% commission on digital purchases (15% for small developers) has drawn antitrust scrutiny. Epic Games challenged this "Apple tax" in court, arguing it constituted anticompetitive behavior. While Epic lost the central monopoly claim, Apple was required to allow developers to direct users to external payment systems—a small but significant crack in the walled garden.
 
@@ -70,9 +70,9 @@ The App Store's 30% commission on digital purchases (15% for small developers) h
 
 Cloud computing represents the most important technological shift in enterprise IT since the personal computer. Rather than maintaining their own data centers, businesses rent computing power, storage, and services from cloud providers. The market is dominated by three players:
 
-- **Amazon Web Services (AWS)**: roughly 32% market share, roughly $90 billion annual revenue
-- **Microsoft Azure**: roughly 23% market share
-- **Google Cloud Platform**: roughly 10% market share
+- **Amazon Web Services (AWS)**: about 32% market share, approximately $90 billion annual revenue
+- **Microsoft Azure**: approximately 23% market share
+- **Google Cloud Platform**: close to 10% market share
 
 Cloud computing is capital-intensive—data centers cost billions to build—but generates recurring revenue with high margins once established. AWS, initially an internal project to improve Amazon's retail operations, now generates the majority of Amazon's operating profit despite representing a smaller share of revenue.
 
@@ -135,11 +135,11 @@ Legacy media has undergone wrenching consolidation as streaming disrupted tradit
 
 The recorded music industry is dominated by three major labels:
 
-- **Universal Music Group** (French-owned, publicly traded): roughly 32% market share
-- **Sony Music Entertainment** (Japanese-owned): roughly 22%
-- **Warner Music Group**: roughly 16%
+- **Universal Music Group** (French-owned, publicly traded): about 32% market share
+- **Sony Music Entertainment** (Japanese-owned): around 22%
+- **Warner Music Group**: approximately 16%
 
-Together, the majors control roughly 70% of the recorded music market. Independent labels and artists have gained share through streaming, which removed the physical distribution barriers that once advantaged majors. But the majors retain power through extensive back catalogs, artist development infrastructure, and radio/playlist promotion capabilities.
+Together, the majors control about 70% of the recorded music market. Independent labels and artists have gained share through streaming, which removed the physical distribution barriers that once advantaged majors. But the majors retain power through extensive back catalogs, artist development infrastructure, and radio/playlist promotion capabilities.
 
 Streaming has transformed music economics. Industry revenue, which collapsed from $14 billion in 1999 to $7 billion in 2014, has recovered to approximately $17 billion. But revenue flows primarily to platforms (Spotify, Apple Music) and catalog holders (often the labels, not artists themselves). A hit song might generate millions of streams but only thousands of dollars for the performer.
 
@@ -155,7 +155,7 @@ The "local news crisis" has created information deserts in many communities. Cou
 
 ## Geographic Distribution
 
-The technology industry is extraordinarily concentrated geographically. Five metropolitan areas—San Francisco-San Jose, Seattle, New York, Boston, and Austin—account for roughly half of all software development employment.
+The technology industry is extraordinarily concentrated geographically. Five metropolitan areas—San Francisco-San Jose, Seattle, New York, Boston, and Austin—account for about half of all software development employment.
 
 <figure>
 <img src="../_figures/ch11/ch11_tech_hubs_map.png" alt="Map of U.S. tech centers: Silicon Valley, Seattle, Austin, Boston, and New York" style="width: 100%; max-width: 800px;">
@@ -182,7 +182,7 @@ Technology companies employ approximately 3 million workers directly, with milli
 
 **Compensation**: Technology workers earn far more than the national average. Software engineer salaries at major technology companies routinely exceed $200,000, with senior engineers at Google or Meta earning $500,000 or more including equity. This compensation reflects both genuine skill scarcity and the industry's profit margins. Technology companies can afford to pay more because their businesses require relatively little labor per dollar of revenue.
 
-**Immigration**: The technology industry relies heavily on immigrant labor, particularly through the H-1B visa program. Indian-born workers constitute roughly 70% of H-1B recipients, with technology companies as the largest sponsors. Critics argue H-1B suppresses wages for American workers; supporters argue it addresses genuine talent shortages. The debate continues even as technology companies have embraced remote work, which theoretically expands the domestic talent pool.
+**Immigration**: The technology industry relies heavily on immigrant labor, particularly through the H-1B visa program. Indian-born workers constitute about 70% of H-1B recipients, with technology companies as the largest sponsors. Critics argue H-1B suppresses wages for American workers; supporters argue it addresses genuine talent shortages. The debate continues even as technology companies have embraced remote work, which theoretically expands the domestic talent pool.
 
 **Contractors and gig workers**: Beyond highly paid employees, technology companies employ large numbers of contractors, temporary workers, and gig workers. Amazon's warehouse workforce—1.5 million globally—earns far less than software engineers. Uber and Lyft drivers are classified as independent contractors, not employees, a distinction that has survived legal challenges in most states. The contrast between highly paid software engineers and precarious gig workers reflects the industry's bimodal labor market.
 
@@ -284,7 +284,7 @@ The common pattern is subsidize one side to attract the other. Credit card compa
 
 Platform markets exhibit consistent structural features that push toward concentration.
 
-**Winner-take-most outcomes.** In markets with strong network effects, the leading platform captures a disproportionate share of value. Google holds roughly 90% of search. Meta's platforms account for the majority of social media engagement time. These are not 60/40 markets; they are 90/10 markets. Second-place platforms survive only by occupying distinct niches (LinkedIn for professional networking, Pinterest for visual discovery) rather than competing head-to-head.
+**Winner-take-most outcomes.** In markets with strong network effects, the leading platform captures a disproportionate share of value. Google holds about 90% of search. Meta's platforms account for the majority of social media engagement time. These are not 60/40 markets; they are 90/10 markets. Second-place platforms survive only by occupying distinct niches (LinkedIn for professional networking, Pinterest for visual discovery) rather than competing head-to-head.
 
 **Switching costs and lock-in.** Users accumulate data, social connections, purchase histories, and learned behaviors on platforms that do not transfer to competitors. An iPhone user with years of iCloud photos, a library of purchased apps, and an Apple Watch is unlikely to switch to Android regardless of price. Enterprise customers running workloads on AWS face significant migration costs to move to Azure or Google Cloud. These switching costs are not incidental—they are deliberately engineered into platform design.
 
@@ -401,7 +401,7 @@ The August 2024 antitrust verdict found that Google illegally maintained its sea
 
 AT&T's history encapsulates American telecommunications. The original AT&T was the Bell System monopoly, broken up by antitrust consent decree in 1984 into seven Regional Bell Operating Companies (RBOCs) plus a rump long-distance company. Through a series of mergers, the current AT&T is essentially one of those RBOCs (Southwestern Bell) that acquired the AT&T name and reassembled much of the former monopoly.
 
-Today AT&T operates three primary businesses: wireless service, fiber broadband, and business telecommunications. The wireless segment generates approximately 70% of revenue, serving roughly 200 million subscribers (including wholesale and prepaid). AT&T has invested heavily in 5G deployment, though its network coverage trails T-Mobile in independent assessments.
+Today AT&T operates three primary businesses: wireless service, fiber broadband, and business telecommunications. The wireless segment generates approximately 70% of revenue, serving some 200 million subscribers (including wholesale and prepaid). AT&T has invested heavily in 5G deployment, though its network coverage trails T-Mobile in independent assessments.
 
 AT&T's strategic missteps illustrate the difficulty of media-telecommunications convergence. The company acquired DirecTV in 2015 for $49 billion, then watched satellite television subscribers evaporate. It acquired Time Warner in 2018 for $85 billion, creating an entertainment conglomerate—then spun off WarnerMedia in 2022 to merge with Discovery, essentially admitting defeat. AT&T took a $24 billion loss on the transaction and refocused on telecommunications.
 
@@ -465,9 +465,9 @@ The company's challenges remain significant. Content costs continue rising. Comp
 
 ### Review Questions
 
-1. The chapter notes that Big Tech's five largest companies employ fewer than 2 million workers but are worth over $10 trillion---roughly 25% of the entire S&P 500. What structural features of technology business models (advertising, cloud infrastructure, platform fees, ecosystem lock-in) explain how these firms generate enormous market value with relatively few employees? How does this contrast with the retail sector discussed in Chapter 10, where Walmart alone employs 2.1 million people?
+1. The chapter notes that Big Tech's five largest companies employ fewer than 2 million workers but are worth over $10 trillion---about 25% of the entire S&P 500. What structural features of technology business models (advertising, cloud infrastructure, platform fees, ecosystem lock-in) explain how these firms generate enormous market value with relatively few employees? How does this contrast with the retail sector discussed in Chapter 10, where Walmart alone employs 2.1 million people?
 
-2. Google and Meta together capture roughly 50% of all digital advertising spending in the United States---over $150 billion annually. Explain the key differences between Google's search advertising model (pay-per-click keyword auctions where legal terms can cost $50+ per click) and Meta's social media advertising model (targeted by demographics, interests, and "lookalike audiences" from detailed user data). Why might a personal injury law firm choose Google while a direct-to-consumer clothing brand might choose Meta?
+2. Google and Meta together capture about 50% of all digital advertising spending in the United States---over $150 billion annually. Explain the key differences between Google's search advertising model (pay-per-click keyword auctions where legal terms can cost $50+ per click) and Meta's social media advertising model (targeted by demographics, interests, and "lookalike audiences" from detailed user data). Why might a personal injury law firm choose Google while a direct-to-consumer clothing brand might choose Meta?
 
 3. The DOJ found that Google illegally maintained its search monopoly partly through approximately $20 billion in annual payments to Apple to be the default search engine on iPhones and Safari. Using the concept of "default effects" in consumer behavior, explain why being the default search engine is so valuable that Google would pay this amount. What does this imply about consumer willingness to switch away from preinstalled options?
 

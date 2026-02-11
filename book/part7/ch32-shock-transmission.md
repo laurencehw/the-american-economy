@@ -346,4 +346,3 @@ This returns us to the book's central premise: the American economy is not an ab
 
 *Chapter 32 | How Shocks Move Through the Economy*
 *The American Economy: A Structural Geography*
-*Draft v1 --- January 2026*
