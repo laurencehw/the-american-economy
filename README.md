@@ -16,9 +16,13 @@ We welcome corrections and suggestions.
 * **Typo/Error?** Please [open an issue](https://github.com/laurencehw/the-american-economy/issues) describing the mistake.
 * **Content Suggestion?** Feel free to fork this repository and submit a Pull Request.
 
-## 📂 Structure (under `book/`)
-* `part1/` to `part7` - Markdown source files for each chapter.
-* `figures/` - Static figures and diagrams.
+## 📂 Repository Structure
+* `book/` — Manuscript source (Markdown chapters, figures, interactive visualizations, appendices)
+  * `part1/` to `part7/` — Chapter source files
+  * `_figures/` — Static figures and diagrams
+  * `_interactive/` — Interactive HTML visualizations
+  * `appendices/` — Data sources guide, BEA reference, NAICS codes, glossary
+* `_dev/` — Development files (review, session plans, build scripts, PDF output)
 
 ## 📜 License
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
