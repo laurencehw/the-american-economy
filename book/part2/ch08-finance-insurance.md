@@ -15,6 +15,11 @@ The four largest American banks hold more assets than the annual GDP of Japan. B
 
 Finance and insurance is the fifth-largest sector of the American economy by GDP, smaller than real estate, healthcare, or professional services, but wielding influence far beyond its size. The sector intermediates the flow of funds from savers to borrowers, transforms risk through insurance, and operates the payment infrastructure that enables economic activity.
 
+{% hint style="info" %}
+**Financial Intermediation**
+Financial intermediation is the process by which institutions channel funds from savers (who have surplus capital) to borrowers (who need it for investment or consumption). Banks, insurance companies, and asset managers all perform this function, but through different mechanisms: banks accept deposits and make loans, insurers pool premiums and pay claims, and asset managers invest pooled capital in securities. Without intermediation, every saver would need to find a borrower directly---an impossibly costly search problem.
+{% endhint %}
+
 <figure>
 <img src="../_figures/ch08/ch08_finance_gdp_treemap.png" alt="Finance and insurance GDP treemap: banking dominates, followed by insurance and securities" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 8.1: Finance and insurance GDP by subsector. Banking generates roughly half the sector's value-added, reflecting its central role in maturity transformation---borrowing short from depositors and lending long to homebuyers and businesses. Source: BEA (2023)</figcaption>
@@ -352,6 +357,11 @@ The Dodd-Frank Act (2010) reshaped financial regulation:
 
 ### The "Too Big to Fail" Problem
 
+{% hint style="warning" %}
+**"Too Big to Fail" and Systemic Risk**
+When a financial institution is so large and interconnected that its failure would cascade through the entire economy, regulators face a dilemma: let it fail and risk systemic collapse, or bail it out and create moral hazard (the expectation that future risk-taking will also be rescued). The four largest U.S. banks are each larger today than any bank was before 2008, meaning the too-big-to-fail problem has intensified even as regulations have tightened. This tension between financial stability and market discipline remains unresolved.
+{% endhint %}
+
 The 2008 crisis revealed that some institutions are "too big to fail"---their failure would damage the broader economy, forcing government bailouts. Despite Dodd-Frank reforms, this problem persists:
 
 - The largest banks are larger than before 2008
@@ -486,15 +496,6 @@ BlackRock is the world's largest asset manager, having grown from a fixed-income
 BlackRock's scale creates influence beyond pure asset management. The firm is among the top shareholders of most large public companies, creating governance power. CEO Larry Fink's annual letters on ESG and stakeholder capitalism shape corporate behavior---and generate controversy from both left (insufficient action) and right (overreach beyond fiduciary duty).
 
 The firm also advises governments: BlackRock helped the Fed design its corporate bond-buying programs in 2020, raising questions about conflicts of interest.
-
-{% hint style="info" %}
-**Cross-Cutting Connections**
-
-*Inequality*: Capital income is far more concentrated than labor income, and unequal access to financial services and investment opportunities compounds wealth disparities across racial and class lines.
-*Climate and Environment*: Insurers are retreating from climate-exposed markets as losses mount, while the financial sector faces growing pressure to account for stranded fossil-fuel assets and transition risk.
-*Demographics*: The adequacy of retirement savings is a looming crisis as boomers draw down assets and longer lifespans stretch the planning horizon for defined-contribution participants.
-*Technology and AI*: Fintech platforms, algorithmic trading, and AI-driven underwriting are disrupting traditional intermediation, lowering costs for some consumers while raising new concerns about systemic risk and market stability.
-{% endhint %}
 
 ## Data Sources and Further Reading
 

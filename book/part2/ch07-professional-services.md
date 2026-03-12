@@ -62,7 +62,7 @@ The "up or out" model generates intense effort but also burnout, attrition, and 
 
 **Project-based fees** are common in consulting and advertising. McKinsey might charge $5-10 million for a three-month strategy project, regardless of hours worked. This aligns incentives with outcomes but requires accurate scoping.
 
-**Contingency fees** (plaintiff's litigation) and **success fees** (M&A advisory) tie compensation to results. A plaintiff's attorney might take 33% of any settlement; an investment bank might earn 1% of deal value. These arrangements shift risk to the service provider.
+**Contingency fees** (plaintiff's litigation) and **success fees** (M&A advisory) tie compensation to results. A plaintiff's attorney might take 33% of any settlement; an investment bank might earn 1% of deal value (see Chapter 18 for how investment banks and the broader financial system operate). These arrangements shift risk to the service provider.
 
 **Retainer relationships** provide steady revenue: a corporation pays a law firm $500,000/year for on-call legal advice. Retainers smooth revenue but may create conflicts (the retained firm may be reluctant to recommend costly litigation).
 
@@ -180,7 +180,7 @@ The management consulting industry ($330 billion in the US) advises corporations
 
 ### Computer Systems Design and IT Services
 
-The largest professional services subsector by revenue ($550 billion) encompasses:
+The largest professional services subsector by revenue ($550 billion) encompasses the service side of the technology ecosystem discussed in Chapter 11:
 
 - Custom software development
 - Systems integration

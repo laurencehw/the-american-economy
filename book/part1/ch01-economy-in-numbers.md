@@ -329,7 +329,7 @@ These limitations don't invalidate economic statistics, but they do counsel humi
 
 ### Review Questions
 
-1. The United States produces roughly $27 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
+1. The United States produces $27 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
 
 2. Manufacturing contributes about 11% of GDP but only 8% of employment. Healthcare contributes about 9% of GDP but 17% of employment. What concept explains this divergence, and what are its implications for wages in each sector?
 

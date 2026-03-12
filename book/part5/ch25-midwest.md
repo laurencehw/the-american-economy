@@ -1,4 +1,4 @@
-# 25. The Midwest
+# Chapter 25: The Midwest
 
 Drive west from Pittsburgh and the landscape tells a story of industrial might and industrial decline. Steel mills, now mostly silent, line the rivers. Factory towns bear names like Youngstown, Akron, Flint---places that once defined American manufacturing and now struggle to define their futures. But continue west to Columbus, Indianapolis, or Minneapolis, and the story changes. Cranes dot skylines. New factories rise. The Midwest is reinventing itself.
 
@@ -186,7 +186,7 @@ The Midwest's agricultural economy remains globally significant---the "Corn Belt
 
 The region illustrates agriculture's productivity paradox: output reaches record levels while the farm population continues to decline. Fewer, larger farms operated by fewer workers produce more than ever before. The result is that small towns and rural counties throughout the Corn Belt continue losing population even as their agricultural output grows.
 
-Ethanol production ties the region's agriculture to energy markets. Iowa alone has 43 ethanol plants; Illinois, Nebraska, and Minnesota host dozens more. These facilities consume roughly 40% of the nation's corn crop, making farm incomes sensitive to renewable fuel mandates and oil prices. The Renewable Fuel Standard, which mandates ethanol blending in gasoline, provides price support that shapes planting decisions across millions of acres.
+Ethanol production ties the region's agriculture to energy markets. Iowa alone has 43 ethanol plants; Illinois, Nebraska, and Minnesota host dozens more. These facilities consume about 40% of the nation's corn crop, making farm incomes sensitive to renewable fuel mandates and oil prices. The Renewable Fuel Standard, which mandates ethanol blending in gasoline, provides price support that shapes planting decisions across millions of acres.
 
 Corporate agriculture has transformed the business model. Family farms persist as operators, but financing, seed, fertilizer, and marketing often flow through integrated supply chains controlled by companies like ADM, Cargill, and Bunge. Farmers operate with substantial debt and narrow margins, vulnerable to commodity price swings and interest rate changes.
 
@@ -255,6 +255,17 @@ The project is industrial policy in action. The CHIPS Act provides billions in s
 
 For Ohio, the investment anchors broader ambitions. The state is recruiting semiconductor suppliers, research centers, and related businesses. Ohio State University is expanding engineering programs. A semiconductor cluster is forming that could define the regional economy for decades---much as automobiles once defined Detroit.
 
+### Analytical Connections
+
+The Midwest's economy is where the book's analytical frameworks encounter their sharpest real-world tests. The input-output model (Chapter 2) reveals why automotive manufacturing anchors the region so powerfully: a single vehicle assembly plant generates a multiplier chain through thousands of supplier firms producing seats, electronics, stampings, glass, and tires, many clustered within a day's trucking distance. The manufacturing supply chain analysis of Chapters 9 and 22 documents this structure in detail---the Detroit-centered automotive I-O network has upstream linkages extending through Ohio (Honda suppliers, steel), Indiana (transmissions, electrical components), and Wisconsin (engines, castings). When a plant closes, the multiplier operates in reverse, propagating job losses through the supply chain at a ratio of about three to five indirect jobs lost for every direct assembly position eliminated.
+
+{% hint style="warning" %}
+**The China Shock**
+Economists use "China shock" to describe the sudden surge in Chinese manufacturing imports to the U.S. following China's WTO accession in 2001. Research by Autor, Dorn, and Hanson showed that the effects were devastatingly concentrated: communities whose industries competed directly with Chinese exports experienced persistent job losses, depressed wages, rising disability claims, and declining life expectancy---effects that lasted well over a decade. The standard economic prediction that displaced workers would quickly find new jobs in other sectors or regions proved wrong. The China shock demonstrated that trade adjustment is far slower and more painful than textbook models suggest, particularly for communities with limited economic diversity.
+{% endhint %}
+
+The China shock of the 2000s provides the Midwest's clearest case study of the shock transmission framework developed in Chapter 32. When Chinese manufacturing imports surged after WTO accession in 2001, the impact was not uniform---it concentrated in counties with industries directly competing with Chinese production. Autor, Dorn, and Hanson's research, cited in the Further Reading, documented how trade-exposed Midwest communities experienced persistent employment losses, depressed wages, and rising transfer dependency that persisted for over a decade. The shock propagated through labor market channels (displaced workers competing for remaining jobs) and geographic channels (reduced spending by unemployed workers depressing local service employment). Meanwhile, the rural Midwest's agricultural economy (Chapter 16) operates on a separate logic: commodity markets link Corn Belt farmers directly to global demand, making farm incomes sensitive to Chinese soybean purchases, Brazilian harvests, and renewable fuel mandates rather than to the manufacturing dynamics that drive metropolitan employment.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
@@ -272,8 +283,6 @@ For Ohio, the investment anchors broader ambitions. The state is recruiting semi
 - Brookings Institution Midwest reports
 
 ---
-
-**Word count:** roughly 4,100 words
 
 *Note: For detailed treatment of manufacturing, automotive, and agriculture, see the relevant chapters in Part II.*
 

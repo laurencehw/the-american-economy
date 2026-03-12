@@ -4,6 +4,11 @@ Throughout this book, we've examined the American economy's structure: its secto
 
 Economic shocks are perturbations that disrupt normal patterns of production, employment, or prices. They come in many forms: a collapse in oil prices devastates Texas while benefiting consumers elsewhere; a surge in Chinese imports eliminates manufacturing jobs in specific communities; a Federal Reserve rate increase ripples through mortgage markets, housing construction, and bank balance sheets. The economy's response to these shocks depends on its structure—which is why the preceding 31 chapters matter for understanding what happens when things change.
 
+{% hint style="info" %}
+**Economic Shocks and Systemic Risk**
+An *economic shock* is any unexpected event that significantly disrupts the normal flow of production, employment, or prices---an oil price collapse, a pandemic, a financial crisis, or a trade policy change. *Systemic risk* arises when a shock to one part of the economy can cascade through interconnected channels (supply chains, financial networks, labor markets) to threaten the entire system. The 2008 financial crisis is the canonical example: losses on a specific asset class (subprime mortgages) propagated through leveraged, interconnected financial institutions to freeze credit markets worldwide. Understanding whether a shock will remain localized or become systemic depends on the structure of the economy---the linkages this chapter traces.
+{% endhint %}
+
 ## The Propagation Framework
 
 Economic shocks transmit through multiple channels simultaneously. Understanding these channels helps explain why some shocks spread broadly while others remain contained, why some communities recover quickly while others never do.
