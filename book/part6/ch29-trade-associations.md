@@ -6,6 +6,11 @@ Walk down K Street in Washington and you pass the headquarters of organized busi
 
 Trade associations exist to solve a collective action problem. Individual firms have interests in common---favorable tax treatment, light regulation, access to markets---but each firm would prefer to free-ride on others' political efforts. Associations pool resources, coordinate strategy, and speak with a unified voice that commands attention.
 
+{% hint style="info" %}
+**The Collective Action Problem (Olson)**
+Economist Mancur Olson demonstrated in *The Logic of Collective Action* (1965) that groups with shared interests often fail to organize because each member has an incentive to free-ride on others' efforts. The insight explains why *concentrated* interests (a few large firms in one industry) organize more effectively than *diffuse* interests (millions of consumers each losing a few dollars). A tariff that costs every American household $20 per year but generates $500 million for a handful of domestic producers will be fiercely lobbied for by producers and barely noticed by consumers. This asymmetry---small groups with large per-member stakes outlobbying large groups with small per-member stakes---is a central reason why industry lobbying is so effective at shaping policy.
+{% endhint %}
+
 <figure>
 <img src="../_figures/ch29/ch29_lobbying_spending.png" alt="Federal lobbying expenditures tripling from $1.4 billion in 2000 to over $4.5 billion by 2024" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 29.1: Federal lobbying spending has tripled from $1.4 billion in 2000 to over $4.5 billion by 2024---and registered lobbying captures only direct advocacy, not the broader influence industry of PR, grassroots mobilization, and think-tank funding that employs over 100,000 people in Washington. Source: OpenSecrets</figcaption>

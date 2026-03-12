@@ -2,6 +2,11 @@
 
 When markets crash, when inflation spikes, when unemployment rises, Americans look to Washington for answers. But "Washington" is not a single actor---it is a sprawling apparatus of agencies, councils, and commissions, each with distinct authorities, constituencies, and institutional cultures. Understanding how economic policy actually gets made requires charting this institutional architecture.
 
+{% hint style="info" %}
+**Fiscal Policy vs. Monetary Policy**
+These are the two primary tools of macroeconomic management, wielded by different institutions. *Fiscal policy*---taxing and spending decisions made by Congress and the President---directly affects government budgets, transfer payments, and public investment. *Monetary policy*---setting interest rates and managing the money supply---is conducted by the Federal Reserve independently of elected officials. Fiscal policy works through the government's budget; monetary policy works through the cost and availability of credit. The two can reinforce or counteract each other: during COVID-19, both expansionary fiscal policy (stimulus checks, PPP loans) and expansionary monetary policy (near-zero rates, asset purchases) pushed in the same direction, fueling the recovery---and, critics argue, the subsequent inflation.
+{% endhint %}
+
 ## The Policy-Making Core
 
 Economic policy emerges from the interaction of a handful of key institutions, coordinated (imperfectly) by the White House.

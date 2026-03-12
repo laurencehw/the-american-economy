@@ -385,13 +385,21 @@ For employers, unauthorized workers represent a low-cost, compliant labor supply
 
 The economic research on immigration's labor market effects is extensive and, on the central questions, reasonably convergent:
 
+{% hint style="info" %}
+**The Lump of Labor Fallacy**
+
+A persistent misconception holds that the economy contains a fixed number of jobs, so every position filled by an immigrant is one taken from a native-born worker. Economists call this the "lump of labor fallacy." In reality, immigrants do not merely fill existing jobs---they create new ones. They consume goods and services, start businesses, pay rent, and generate demand that supports employment for others. Research consistently shows that immigration increases the total size of the economic pie rather than merely redistributing existing slices. Between 1990 and 2020, the cities that received the most immigrants also experienced the fastest job growth for native-born workers.
+{% endhint %}
+
 - **For most native workers, immigrants are complements rather than substitutes.** Immigrant workers tend to specialize in different tasks than native-born workers with similar education levels. An immigrant construction worker may specialize in manual tasks while a native-born worker in the same industry moves into supervisory, communication-intensive, or equipment-operating roles. This complementarity means that immigration can raise rather than lower wages for many native workers.
 
 - **Negative wage effects concentrate among workers most similar to new immigrants**---primarily native-born workers without a high school diploma and earlier waves of immigrants. Even here, the effects are modest: Harvard economist George Borjas, the scholar most associated with finding negative immigration effects, estimates wage reductions of 3-8% for this group over a multi-decade period.
 
-- **High-skilled immigration has broadly positive effects** on innovation, entrepreneurship, and productivity. Immigrants or their children founded 45% of Fortune 500 companies. Foreign-born researchers are disproportionately represented among patent holders and Nobel laureates.
+- **High-skilled immigration has broadly positive effects** on innovation, entrepreneurship, and productivity. Immigrants or their children founded 45% of Fortune 500 companies, and 55% of American billion-dollar startup companies had at least one immigrant founder. Foreign-born researchers file patents at two to three times the rate of native-born Americans and are disproportionately represented among Nobel laureates. The H-1B pipeline feeds directly into this dynamic, channeling talent into the technology and research sectors where the United States maintains its global competitive edge.
 
 - **Fiscal effects are mixed**: immigrants (especially unauthorized immigrants) pay less in taxes on average than native-born workers but also consume fewer government services. Over a lifetime, the fiscal impact of an immigrant depends heavily on education level and age at arrival.
+
+Historically, immigration concentrated in traditional gateway cities: New York, Los Angeles, Miami, and Chicago. Since the 1990s, a "secondary migration" phenomenon has redirected flows toward new destinations---Nashville, Charlotte, and smaller cities like Omaha, where meatpacking plants, construction booms, and service-sector growth have drawn workers away from saturated gateway markets. These new destinations often lack the institutional infrastructure---legal aid organizations, bilingual government services, established ethnic networks---that gateway cities developed over decades, creating adjustment pressures for both immigrants and receiving communities.
 
 {% hint style="warning" %}
 **The Political Economy of Immigration**

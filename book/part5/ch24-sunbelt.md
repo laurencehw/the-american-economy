@@ -192,6 +192,11 @@ This wedge explains the particular concentration of wealth management and hedge 
 
 Beyond taxes, Sunbelt states offer lighter regulation, faster permitting, and "right-to-work" labor laws that limit union power. Land costs remain far below coastal metros. For manufacturing and logistics operations requiring large facilities, these factors create genuine cost advantages.
 
+{% hint style="info" %}
+**Right-to-Work Laws**
+Right-to-work laws prohibit agreements that require workers to join or pay dues to a union as a condition of employment. Twenty-seven states---including every major Sunbelt state---have enacted such laws. Proponents argue they attract business investment by keeping labor costs flexible and giving workers freedom of association. Critics counter that they weaken unions by enabling free-riding (workers benefit from union-negotiated wages without paying dues), reducing collective bargaining power and contributing to lower wages. The empirical evidence is mixed, but right-to-work status has become a key factor in corporate location decisions, particularly for manufacturing.
+{% endhint %}
+
 ## Infrastructure Challenges
 
 The Sunbelt's growth has outpaced its infrastructure investment, creating vulnerabilities that threaten the growth model. The region's low-tax philosophy generates less revenue per capita for infrastructure; the rapid growth strains existing systems; and the car-dependent development pattern requires expensive highway expansion rather than more efficient transit alternatives.
@@ -316,6 +321,12 @@ Hyundai's Metaplant America represents the new industrial policy in action. The 
 The project illustrates the Sunbelt's advantages for manufacturing: available land, lower costs, proximity to the Port of Savannah (America's fastest-growing container port), and state governments competing aggressively for investment.
 
 When fully operational, the plant will be one of the largest manufacturing facilities in the Southeast and the centerpiece of an EV supply chain clustering in the region.
+
+### Analytical Connections
+
+The Sunbelt's growth exemplifies several analytical frameworks developed earlier in this book. The migration patterns driving population expansion operate through the labor market mechanisms of Chapter 30: workers respond to real wage differentials, where nominal wage parity combined with lower housing costs produces higher purchasing power in Sunbelt metros than in the coastal cities from which migrants originate. The real estate cycle (Chapter 5) functions as both cause and consequence of Sunbelt growth---rising home values attract construction activity, construction employment draws further migrants, and new households generate additional housing demand, creating a self-reinforcing cycle that runs until affordability constraints or rate shocks interrupt it. The 40--50% price increases documented above between 2020 and 2024 illustrate the boom phase of this cycle; whether a correction follows will test the durability of the region's growth model.
+
+The government sector (Chapter 4) plays a larger role in Sunbelt prosperity than the region's low-tax branding suggests. Military installations---Fort Liberty (formerly Bragg) in North Carolina, Fort Cavazos (formerly Hood) in Texas, MacDill in Florida, Fort Moore in Georgia---pump billions in federal payroll into local economies. The sectoral balance identity from Chapter 2 reveals a structural feature that Sunbelt boosters rarely acknowledge: most Sunbelt states are net recipients of federal transfers, receiving more in federal spending (military, Medicare, Social Security, agricultural subsidies) than their residents pay in federal taxes. Florida and Arizona are particularly large net beneficiaries. The Sunbelt's growth model thus depends partly on fiscal flows from the high-tax northeastern and western states whose economic models it criticizes---a dependency that the national accounts framework makes visible even when political rhetoric obscures it.
 
 ## Data Sources and Further Reading
 
