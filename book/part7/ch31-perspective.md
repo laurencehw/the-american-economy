@@ -1,4 +1,4 @@
-# 31. The American Economy in Perspective
+# Chapter 31: The American Economy in Perspective
 
 Standing at the vantage point of 2026, the American economy embodies contradictions that would puzzle a time traveler from even the recent past. We achieved the "soft landing" that economists deemed improbable---taming post-pandemic inflation without destroying the labor market---yet national sentiment remains anxious. We see a manufacturing construction boom of historic proportions in a country that has supposedly deindustrialized. We witness the world's most aggressive pivot toward green energy in a nation that is simultaneously the world's largest oil producer. We observe a stock market powered by artificial intelligence reaching unprecedented heights while downtown office towers---the cathedrals of the service economy---stand a quarter empty, artifacts of a work culture that may never fully return.
 
@@ -16,6 +16,14 @@ This "lock-in" effect is the defining microeconomic distortion of our time. It h
 
 Throughout this book, we have encountered features that make the American economy structurally distinct from its peers. These are not merely differences of degree.
 
+{% hint style="success" %}
+**What Makes the American Economy Distinctive**
+- **Financialization**: The 30-year fixed mortgage, 401(k) retirement system, and $50 trillion equity market embed finance into daily life to a degree unmatched in any peer economy.
+- **Service economy dominance**: At nearly 80% of GDP, the U.S. service sector---professional services, healthcare, finance, technology, entertainment---has no parallel; the U.S. runs trade surpluses in services even as it runs deficits in goods.
+- **Innovation infrastructure**: Research universities ($90B+ in annual funding), deep venture capital markets, high tolerance for failure, and immigrant entrepreneurship create conditions for new firm formation that other nations struggle to replicate.
+- **Geographic diversity as resilience**: The economy contains multitudes---from the Bay Area's tech cluster to Houston's energy complex to rural agriculture---so that regional shocks rarely become national crises.
+{% endhint %}
+
 <figure>
 <img src="../_figures/ch31/ch31_distinctive_features.png" alt="Four distinctive features: financialization, service economy dominance, geographic diversity, and innovation ecosystem" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 31.1: What makes the American economy distinctive. Finance is woven into daily life; services dominate; geographic diversity creates regional economies; innovation infrastructure remains the global standard. Source: Author analysis</figcaption>
@@ -23,7 +31,7 @@ Throughout this book, we have encountered features that make the American econom
 
 ### The Financialization of Daily Life
 
-No other developed nation has woven finance so deeply into the fabric of ordinary existence. The 30-year fixed-rate mortgage is an American anomaly---a government-subsidized transfer of interest rate risk from households to the financial system that effectively turns homeowners into leveraged real estate investors. The 401(k) retirement system, having largely replaced defined-benefit pensions, forces middle-class workers to become amateur asset managers. The depth of American capital markets---$50 trillion in equity market capitalization, $50 trillion in bond markets---allows the federal government to sustain deficits that would destabilize other nations, backed by the dollar's role as the world's reserve currency. Finance in America is not merely a sector; it is the operating system.
+No other developed nation has woven finance so deeply into the fabric of ordinary existence (as examined in Chapters 18 and 19). The 30-year fixed-rate mortgage is an American anomaly---a government-subsidized transfer of interest rate risk from households to the financial system that effectively turns homeowners into leveraged real estate investors. The 401(k) retirement system, having largely replaced defined-benefit pensions, forces middle-class workers to become amateur asset managers. The depth of American capital markets---$50 trillion in equity market capitalization, $50 trillion in bond markets---allows the federal government to sustain deficits that would destabilize other nations, backed by the dollar's role as the world's reserve currency. Finance in America is not merely a sector; it is the operating system.
 
 ### The Scale of the Service Economy
 
@@ -31,7 +39,7 @@ Public discourse laments the decline of manufacturing while overlooking that the
 
 ### Geographic Diversity
 
-As the regional chapters demonstrated, the United States contains multitudes. The San Francisco Bay Area, with its $1.3 trillion economy concentrated in technology, bears little resemblance to the Houston metro area, built on energy and healthcare. The Northeast Corridor's density-dependent service economy operates by different rules than the resource economies of rural America. This diversity provides resilience---regional shocks rarely become national crises---but also creates the political tensions of an economy that distributes its gains unevenly across space.
+As the regional chapters demonstrated (see Chapter 3 for the analytical framework), the United States contains multitudes. The San Francisco Bay Area, with its $1.3 trillion economy concentrated in technology, bears little resemblance to the Houston metro area, built on energy and healthcare. The Northeast Corridor's density-dependent service economy operates by different rules than the resource economies of rural America. This diversity provides resilience---regional shocks rarely become national crises---but also creates the political tensions of an economy that distributes its gains unevenly across space.
 
 ### Institutional Arrangements
 
@@ -47,7 +55,7 @@ The institutional differences catalogued above are easier to grasp in comparativ
 | **Labor market regulation** | At-will employment in most states; minimal mandated benefits; low unionization (~6% private sector); high hire-and-fire flexibility | Strong worker protections; works councils and collective bargaining coverage often above 70%; generous mandated leave; dismissal procedures costly and slow | Lifetime employment norms eroding but still influential; enterprise unions in Japan; rigid dual labor markets separating regular and non-regular workers |
 | **Healthcare model** | Employer-sponsored insurance dominant; public coverage via Medicare/Medicaid for elderly and low-income; 18% of GDP; no universal system | Universal coverage through single-payer (UK, Nordics) or multi-payer social insurance (Germany, France); 10--12% of GDP; negotiated pricing | Universal coverage via national health insurance (Japan) or single-payer (South Korea); 8--12% of GDP; aggressive cost controls and fee schedules |
 | **Industrial policy approach** | Historically market-neutral; post-2022 shift toward targeted subsidies (CHIPS Act, IRA); defense-adjacent R&D as de facto industrial policy | Mixed; state aid rules limit national champions but allow regional development funds; Green Deal as continent-wide industrial strategy | Explicit and long-standing; MITI/METI tradition in Japan; Korean chaebol-government nexus; strategic targeting of export industries |
-| **Trade policy orientation** | Open with selective protection; large structural trade deficit in goods; services surplus; dollar as reserve currency absorbs imbalances | Common external tariff; deep internal single market; emphasis on regulatory standards as trade tool; roughly balanced current account | Export-oriented growth model; persistent current account surpluses; currency management historically central; heavy reliance on external demand |
+| **Trade policy orientation** | Open with selective protection; large structural trade deficit in goods; services surplus; dollar as reserve currency absorbs imbalances | Common external tariff; deep internal single market; emphasis on regulatory standards as trade tool; approximately balanced current account | Export-oriented growth model; persistent current account surpluses; currency management historically central; heavy reliance on external demand |
 | **Social safety net** | Residualist model; means-tested programs; limited unemployment duration; no universal family policy; safety net expanded temporarily during COVID | Comprehensive welfare states; generous unemployment insurance; universal family benefits; pension systems facing demographic pressure | Firm-based welfare in Japan giving way to public programs; Korea rapidly expanding social spending from a low base; family as traditional safety net |
 | **Innovation model** | University-driven basic research; deep venture capital markets; high tolerance for failure; immigration of global talent; winner-take-all dynamics | Public research institutions; Horizon Europe framework; strong in incremental industrial innovation; weaker in disruptive startups; fragmented capital markets | Corporate R&D dominance; incremental manufacturing process innovation; strong patent activity; weaker in software and platform businesses; limited venture ecosystem |
 | **Corporate governance** | Shareholder primacy; quarterly earnings pressure; active market for corporate control; high executive compensation; deep equity culture | Stakeholder models; codetermination in Germany; weaker takeover markets; lower executive pay; greater emphasis on social license | Keiretsu and chaebol structures; cross-shareholding networks; relationship banking; long-term orientation but governance opacity; reform pressures mounting |
@@ -106,9 +114,9 @@ For all its dynamism, the American economy faces structural tensions that are no
 
 ### Geographic Divergence
 
-The divergence between superstar metros and left-behind places has become the primary axis of economic---and political---polarization. Five states account for roughly 40% of national GDP. A handful of metropolitan areas capture the vast majority of venture capital investment. The economic logic of agglomeration, which pulls talent and capital toward dense, educated metros, clashes with the political logic of the Senate and Electoral College, which amplify the voice of less populous states and regions.
+The divergence between superstar metros and left-behind places has become the primary axis of economic---and political---polarization. Five states account for about 40% of national GDP. A handful of metropolitan areas capture the vast majority of venture capital investment. The economic logic of agglomeration, which pulls talent and capital toward dense, educated metros, clashes with the political logic of the Senate and Electoral College, which amplify the voice of less populous states and regions.
 
-This divergence has human costs. Life expectancy, educational attainment, and economic mobility vary dramatically across regions. Deaths of despair---from opioids, alcohol, and suicide---concentrated in regions that lost manufacturing employment in the 1990s and 2000s. The phrase "two Americas" has become cliche, but the data support it.
+This divergence has human costs, as Chapter 32 documents through the lens of shock transmission and its lasting geographic effects. Life expectancy, educational attainment, and economic mobility vary dramatically across regions. Deaths of despair---from opioids, alcohol, and suicide---concentrated in regions that lost manufacturing employment in the 1990s and 2000s. The phrase "two Americas" has become cliche, but the data support it.
 
 ### The Cost Disease
 
@@ -165,5 +173,3 @@ That question cannot be answered by economic analysis alone. It depends on polit
 1. The chapter states that the American economy's fiscal trajectory---deficits exceeding 6% of GDP, interest costs rivaling defense spending---"cannot be avoided indefinitely," yet the political system has "successfully avoided" making hard choices. Research the current state of federal fiscal sustainability. Using CBO long-term budget projections (https://www.cbo.gov/topics/long-term-budget-projections), FRED data on federal debt as a share of GDP (FYGFGDQ188S), and comparative data on sovereign debt from the IMF Fiscal Monitor, write a research paper (1,500--2,000 words) that addresses: (a) What makes the U.S. fiscal position different from that of other high-debt nations like Japan or Italy---particularly the dollar's reserve currency status? (b) At what point might rising debt service costs begin to crowd out other federal spending or raise borrowing costs? (c) What combination of spending cuts and revenue increases would stabilize the debt-to-GDP ratio, and why has neither party been willing to propose them? Engage with arguments from both deficit hawks and those who argue that sovereign debt in a reserve currency nation poses less risk than conventional analysis suggests.
 
 ---
-
-**Word count:** approximately 2,200 words

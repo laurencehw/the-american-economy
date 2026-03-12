@@ -1,4 +1,4 @@
-# 27. Rural America
+# Chapter 27: Rural America
 
 Drive an hour beyond any major metropolitan area and the American economy changes character. The density that generates agglomeration economies in cities dissipates into landscapes where the nearest hospital might be sixty miles away, where broadband internet remains uncertain, and where the largest employers are often the local school district and the county government. This is rural America: 14% of the population spread across 72% of the land, increasingly disconnected from the metropolitan economy that dominates national statistics.
 
@@ -15,9 +15,14 @@ The Office of Management and Budget (OMB) uses a county-based classification tha
 - **Micropolitan counties**: Contains an urban cluster of 10,000-49,999
 - **Noncore counties**: No urban cluster of 10,000+
 
-By the OMB definition, roughly 46 million Americans---14% of the population---live in nonmetropolitan counties. These populations spread across 72% of the nation's land area, at densities that make many urban economic activities unfeasible.
+By the OMB definition, about 46 million Americans---14% of the population---live in nonmetropolitan counties. These populations spread across 72% of the nation's land area, at densities that make many urban economic activities unfeasible.
 
 The distinction matters economically. Urban economies benefit from agglomeration: the density of workers, employers, and infrastructure that enables specialization, reduces transaction costs, and generates knowledge spillovers. Rural economies operate without these advantages. A worker in a rural county may have one or two realistic employers; a business may have one or two realistic suppliers. The "thickness" of urban markets is unavailable.
+
+{% hint style="info" %}
+**Monopsony in Thin Labor Markets**
+When a labor market has very few employers, the result is *monopsony*---market power on the buying side of labor. In a rural county where the hospital, the school district, and one factory are the only significant employers, workers have limited outside options. This gives employers power to set wages below what a competitive market would produce, because workers cannot easily switch jobs or relocate. Research has shown that labor market concentration is substantially higher in rural areas, and that this concentration depresses wages by 5--15% relative to otherwise comparable urban workers. The "agglomeration shadow"---the absence of the thick, competitive labor markets that cities provide---is one of the deepest structural disadvantages of rural economies.
+{% endhint %}
 
 The geographic distribution of rural America is uneven. The Great Plains and Mountain West are overwhelmingly rural by land area but contain relatively few people. The Upper Midwest, Appalachia, and the Deep South combine rural landscapes with meaningful population. The Northeast and West Coast have few rural counties because their land areas are small.
 
@@ -253,7 +258,7 @@ The phenomenon's durability remains uncertain. Some remote workers have returned
 
 ### The Rural Rebound
 
-Between 2020 and 2024, nonmetropolitan counties experienced a population rebound driven by net migration of over 650,000 people---sufficient to offset natural decrease (more deaths than births) and break a decade-long pattern of losses. Domestic migration accounts for roughly 70% of this gain; international immigration accounts for the remainder.
+Between 2020 and 2024, nonmetropolitan counties experienced a population rebound driven by net migration of over 650,000 people---sufficient to offset natural decrease (more deaths than births) and break a decade-long pattern of losses. Domestic migration accounts for about 70% of this gain; international immigration accounts for the remainder.
 
 **Caveats:**
 - Growth concentrates in the South and amenity-rich Mountain West
@@ -318,6 +323,10 @@ For rural landowners, turbine lease payments provide income diversification. A s
 
 The employment impact is more limited. Construction provides temporary jobs; ongoing operations require only a handful of technicians per wind farm. But in counties with few economic options, even modest employment and tax revenue matter.
 
+### Analytical Connections
+
+The rural economy's challenges crystallize the geography-of-production framework from Chapter 3: agglomeration and dispersion forces are in perpetual tension, and in rural America, the dispersion forces (lower land costs, natural resource proximity) have progressively lost ground to the agglomeration forces (thick labor markets, knowledge spillovers, specialized services) that concentrate economic activity in metropolitan areas. The result is not equilibrium but cumulative divergence---as skilled workers leave, the labor markets that remain grow thinner, intensifying the monopsony dynamics analyzed in Chapter 30. When a rural county has one hospital, one school district, and one major employer, workers face wage-setting power that competitive labor market models fail to capture; empirical research consistently finds that rural wages fall below marginal productivity in ways consistent with monopsony, depressing both incomes and labor force participation. Finally, the cost disease framework applied to healthcare (Chapter 6) and education (Chapter 15) operates with particular severity in low-density areas: a rural hospital must maintain the same emergency capabilities as an urban one but spreads fixed costs across far fewer patients, while a rural school district must offer the same curriculum with far fewer students to absorb overhead. These structurally higher per-unit costs explain why rural public services deteriorate even when per capita spending appears adequate---and why federal transfers constitute 30--40% of income in the most rural counties, reflecting not dependency but the arithmetic of providing modern services at pre-modern population densities.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
@@ -335,8 +344,6 @@ The employment impact is more limited. Construction provides temporary jobs; ong
 - USDA Rural Development reports
 
 ---
-
-**Word count:** roughly 4,200 words
 
 *Note: For detailed treatment of agriculture, energy, and healthcare, see the relevant sector chapters in Part II.*
 

@@ -1,4 +1,4 @@
-# 1. The American Economy in Numbers
+# Chapter 1: The American Economy in Numbers
 
 The United States generates $27 trillion in annual output. New York's metropolitan area alone outproduces Canada. California exceeds India. Texas, Russia. Four percent of the world's population, one-quarter of its GDP.
 
@@ -104,12 +104,6 @@ GDP is also a flow, not a stock. It measures what's produced each year, not the 
 
 Despite these limitations, GDP remains the standard measure because it's comprehensive, consistent, and comparable across time and countries. Just remember what it captures: the market value of final goods and services produced within a country's borders in a given period.
 
-{% hint style="info" %}
-**Nominal vs. Real GDP**
-
-All dollar figures in this book are nominal (current-dollar) values unless otherwise noted. Nominal GDP measures output at today's prices; real GDP adjusts for inflation, allowing meaningful comparison across years. The $27.4 trillion figure is nominal 2023 GDP. In chained 2017 dollars (the BEA's standard real measure), the same output is approximately $22.4 trillion. For comparing the economy's size at a point in time---which is this book's primary purpose---nominal figures are appropriate. For tracking growth over long periods, real GDP is more meaningful because it strips out price changes.
-{% endhint %}
-
 ## Who Works: Employment by Sector
 
 Employment tells a different story than GDP. Some industries are labor-intensive (lots of workers per dollar of output); others are capital-intensive (lots of machinery and technology per worker).
@@ -145,7 +139,7 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 Compare these rankings with GDP share, and you'll notice striking divergences:
 
-**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce 9% of GDP as measured by value added in the BEA industry accounts. This apparent gap deserves explanation: BEA measures value added by healthcare *providers* alone---hospitals, clinics, physicians' offices. Total national health expenditure, a broader measure tracked by CMS, reaches 18% of GDP because it also counts insurance administration, government program overhead, out-of-pocket spending, and employer contributions that appear under other sectors' value added in BEA accounts. The two numbers measure different things: industry output vs. total societal spending. Both are correct; neither is complete. These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
+**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce 9% of GDP as measured by value added in the BEA industry accounts. (Note: total national health expenditure, a broader measure tracked by CMS, is about 18% of GDP---the difference reflects how healthcare spending flows through insurance, government programs, and employer contributions that appear in other sectors' value added.) These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
 
 **Manufacturing** contributes 11% of GDP but employs only 8% of workers. Each manufacturing worker produces about $240,000 in value annually---far above the economy-wide average. Automation, technology, and capital investment have made factories extraordinarily productive.
 
@@ -158,7 +152,7 @@ Compare these rankings with GDP share, and you'll notice striking divergences:
 <figcaption>Figure 1.3: The GDP-employment gap by sector. Manufacturing and tech produce far more output per worker than healthcare or leisure services. This divergence drives wage inequality and shapes automation's impact. Source: BEA, BLS (2023)</figcaption>
 </figure>
 
-These gaps explain much about wage inequality, regional divergence, and the political economy of trade and automation. Industries that can substitute capital for labor tend to have rising productivity, higher wages, and falling employment shares. Industries that can't---healthcare, education, personal services---absorb more workers but face persistent cost pressures. The distributional consequences of these sectoral differences are examined in the Interlude on inequality; their geographic expression in Chapter 3; and their political implications in Chapter 30 (Labor Markets).
+These gaps explain much about wage inequality, regional divergence, and the political economy of trade and automation. Industries that can substitute capital for labor tend to have rising productivity, higher wages, and falling employment shares. Industries that can't---healthcare, education, personal services---absorb more workers but face persistent cost pressures.
 
 {% hint style="success" %}
 **Deep Dive: The Baumol Effect**
@@ -329,7 +323,7 @@ These limitations don't invalidate economic statistics, but they do counsel humi
 
 ### Review Questions
 
-1. The United States produces roughly $27 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
+1. The United States produces $27 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
 
 2. Manufacturing contributes about 11% of GDP but only 8% of employment. Healthcare contributes about 9% of GDP but 17% of employment. What concept explains this divergence, and what are its implications for wages in each sector?
 
