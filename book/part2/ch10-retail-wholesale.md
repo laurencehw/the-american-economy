@@ -225,6 +225,12 @@ Retail lobbying focuses on:
 
 NADA deserves special mention as one of the most effective state-level lobbies in America. Auto dealers are typically prominent local businesspeople with political connections and campaign contribution capacity, making them formidable defenders of the franchise system against direct sales.
 
+The NRF's lobbying reveals how retail's thin margins make regulatory costs existential. On minimum wage, the NRF has been the most vocal industry opponent of federal increases, and for good reason: retail employs more minimum-wage and near-minimum-wage workers than any other sector. The NRF's economists publish analyses showing job losses from proposed increases, framing the debate in employment terms rather than profit terms---a strategy that has helped block a federal increase above $7.25 since 2009, even as individual states and cities have moved higher.
+
+The "swipe fee" battle is less visible to consumers but enormous in dollar terms. Every credit card transaction costs the merchant 1.5--3.5% in interchange fees, and retail is the largest card-accepting sector. The NRF and RILA have lobbied for over a decade to cap or regulate these fees, culminating in the Durbin Amendment (2010) that capped debit card interchange. The credit card fight continues: the Credit Card Competition Act, backed by the retail lobby, would require banks to offer merchants a choice of at least two processing networks, breaking Visa and Mastercard's effective duopoly. The banking lobby has spent heavily to block it, creating one of Washington's most expensive ongoing lobbying battles.
+
+Walmart's political influence operates on a different plane from the trade associations. As the largest private employer in the country and a dominant economic presence in hundreds of congressional districts, Walmart engages directly with policymakers in ways that smaller retailers, represented collectively by the NRF or the National Grocers Association, cannot match. On the online sales tax question, Walmart actually supported the Marketplace Fairness Act and subsequent remote sales tax legislation---because Walmart already collected sales tax in every state through its physical stores, and requiring online-only competitors to do the same eliminated a price advantage that benefited Amazon and smaller e-commerce players.
+
 ## Recent Trends
 
 ### 1. The E-commerce Plateau
@@ -304,15 +310,6 @@ While Walmart stocks 100,000+ SKUs, Costco carefully curates just **roughly 4,00
 The stores deliberately avoid optimization. Costco doesn't tell you where things are; the "treasure hunt" experience—wandering, discovering unexpected deals on kayaks or designer jeans—is the point. It transforms shopping from chore into entertainment for its affluent suburban customer base.
 
 Costco's treatment of workers is famously generous by retail standards. Average wages exceed $28/hour; benefits are comprehensive; turnover is a fraction of industry norms. The company's co-founder, Jim Sinegal, argued that happy, productive workers more than pay for themselves. The stock market has agreed: Costco's share price has consistently outperformed competitors.
-
-{% hint style="info" %}
-**Cross-Cutting Connections**
-
-*Inequality*: Retail employs millions at low wages with unpredictable scheduling, making it one of the largest sources of working poverty in America.
-*Climate and Environment*: Supply chain disruptions from extreme weather threaten inventory flows, while the explosion of last-mile e-commerce delivery has sharply increased transportation emissions.
-*Demographics*: An aging consumer base is shifting spending toward health and services, while Gen Z's preference for experiential and online shopping is reshaping store formats.
-*Technology and AI*: E-commerce, automated fulfillment warehouses, and cashierless store concepts are transforming the sector's labor model and competitive dynamics.
-{% endhint %}
 
 ## Data Sources and Further Reading
 
