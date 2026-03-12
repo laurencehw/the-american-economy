@@ -669,6 +669,42 @@ The energy transition itself raises environmental justice concerns. Lithium mini
 
 Ensuring that the clean energy economy does not replicate the environmental inequities of the fossil fuel era is a stated federal policy goal---but implementation depends on permitting decisions made at the project level, often under intense pressure from competing economic and political interests.
 
+## Mining and Natural Resources Beyond Energy
+
+The energy transition discussed above depends on something easy to overlook: physical materials dug out of the ground. Every solar panel requires copper and silicon, every EV battery requires lithium and nickel, every wind turbine requires rare earth magnets. Mining (NAICS 21, excluding oil and gas) employs about 200,000 workers and generates about $100 billion in annual output---small by GDP share but strategically vital and geographically concentrated in ways that shape regional economies from Arizona to Minnesota.
+
+### Key Minerals and Their Geography
+
+**Copper** is the backbone mineral of electrification. Arizona produces about 70% of U.S. copper, with the Morenci mine---the largest in North America---anchoring the state's mining economy. Copper is essential for electrical wiring, EV motors (which use 2--4 times more copper than internal combustion vehicles), and renewable energy infrastructure. Rising demand from electrification has made copper supply a binding constraint on the energy transition itself.
+
+**Iron ore** feeds the steel industry from Minnesota's Iron Range and Michigan's Upper Peninsula, regions that have mined iron since the mid-nineteenth century. Cleveland-Cliffs dominates domestic production after acquiring ArcelorMittal USA, making it the largest flat-rolled steel producer in North America. Iron ore links the mining sector directly to manufacturing; see Chapter 25 (Midwest) for how the Iron Range shaped the industrial geography of the Great Lakes.
+
+**Gold** production concentrates in Nevada, where Barrick and Newmont operate mines that account for about 75% of U.S. output. Gold mining employs thousands in remote Nevada communities where few alternative employers exist.
+
+**Lithium**---the "white gold" of the battery age---has become the most strategically contested mineral in the American economy. Thacker Pass in northern Nevada was approved as the largest U.S. lithium mine, while experimental geothermal brine extraction at the Salton Sea in California promises a domestic supply from an unconventional source. Lithium is critical for the lithium-ion batteries that power EVs and grid storage, and the U.S. currently imports the vast majority of its processed lithium. See Chapter 26 (West) for how lithium is reshaping the rural economies of the Great Basin.
+
+**Rare earth elements** present the starkest supply chain vulnerability. MP Materials' Mountain Pass mine in California is the only operating U.S. rare earth mine. China controls about 60% of global rare earth mining and some 90% of processing---a chokepoint that affects everything from EV motors to missile guidance systems. Rebuilding domestic processing capacity is a multi-year, multi-billion-dollar challenge.
+
+**Coal** still employs about 40,000 miners across West Virginia, Wyoming, Pennsylvania, and Kentucky. The Powder River Basin in Wyoming produces about 40% of U.S. coal. Employment has declined sharply from its peak, but coal remains the economic anchor of communities that have few substitutes; the "just transition" challenges discussed in the environmental economics section above are most acute in coal country.
+
+**Sand and gravel** is the unglamorous giant of the mining world---the largest mining sector by volume, essential for concrete, road construction, and land reclamation. As coastal sand supplies deplete and construction demand grows, sourcing aggregate has become increasingly contentious, particularly near growing metropolitan areas where NIMBY resistance meets insatiable infrastructure demand.
+
+### Critical Minerals and Supply Chain Security
+
+{% hint style="info" %}
+**Critical Minerals**
+
+The U.S. Geological Survey maintains a list of 50 minerals deemed critical to economic and national security. For many of these---including gallium, germanium, graphite, manganese, and several rare earths---the U.S. depends on imports for more than 50% of consumption, often from a single dominant supplier. This import dependence has transformed mining policy from an obscure regulatory backwater into a national security priority.
+{% endhint %}
+
+The 2022 Inflation Reduction Act tied EV tax credits to critical mineral sourcing requirements: to qualify for the full $7,500 credit, a specified percentage of battery minerals must be extracted or processed in the U.S. or a free-trade-agreement partner country. This requirement is designed to redirect supply chains away from China, but it collides with a fundamental bottleneck: permitting. It takes 7--10 years to permit a new mine in the United States, compared to 2--3 years in Australia or Canada. The Defense Production Act has been invoked to accelerate battery mineral production, but regulatory timelines remain the binding constraint. The tension is acute---policymakers simultaneously demand supply chain reshoring and maintain environmental review processes that make rapid domestic mining expansion nearly impossible.
+
+### The Resource Curse at the Local Level
+
+Mining communities face a distinctive economic pathology: the boom-bust cycle. When commodity prices are high, mining wages crowd out other local industries---a regional-scale version of "Dutch disease." Workers leave lower-paying service and public-sector jobs for the mines; housing costs spike as mining workers bid up rents; local governments expand budgets on severance tax revenue. Then prices fall, deposits deplete, or policy shifts (as with coal), and the entire economic structure collapses. Communities that organized themselves around extraction find they have neither the diversified employment base nor the fiscal reserves to manage the transition.
+
+Appalachian coal country is the definitive American case study. Counties in southern West Virginia and eastern Kentucky that were prosperous mining centers in the mid-twentieth century now rank among the poorest in the nation. Decades of federal and state aid---Appalachian Regional Commission programs, retraining grants, enterprise zones---have not reversed the decline. The pattern repeats in oil-patch towns (see the 2014--2016 shock analysis earlier in this chapter) and threatens to repeat in lithium and copper communities if extraction booms are not accompanied by deliberate economic diversification. Chapter 27 (Rural America) examines how resource dependence shapes the long-run trajectory of rural communities across the West and Appalachia.
+
 ## Recent Trends
 
 ### 1. The Shale Revolution Matures
