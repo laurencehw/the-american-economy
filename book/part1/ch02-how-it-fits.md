@@ -268,7 +268,7 @@ American households spend about $18 trillion annually. The breakdown reveals pri
 
 <figure>
 <img src="../_figures/ch02/ch02_consumer_expenditure_treemap.png" alt="Treemap of U.S. consumer spending with housing, transportation, and food as largest categories" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 2.3: Where household spending goes. Housing dominates, followed by transportation and food. Source: BLS Consumer Expenditure Survey (2023)</figcaption>
+<figcaption>Figure 2.3: Where American households spend their $18 trillion. Housing consumes a third of household budgets---explaining real estate's outsize role in wealth and politics---while transportation's second-place ranking reflects the country's deep car dependence. Source: BLS Consumer Expenditure Survey (2023)</figcaption>
 </figure>
 
 **Housing** dominates. Rent or mortgage payments, utilities, furniture, maintenance---together they consume a third of household budgets. This explains real estate's outsize role in the economy and in household wealth.

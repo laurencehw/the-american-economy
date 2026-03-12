@@ -33,7 +33,7 @@ Meta's advertising model relies on the detailed user data collected through Face
 
 <figure>
 <img src="../_figures/ch11/ch11_digital_ad_revenue.png" alt="Digital ad revenue: Google and Meta capture 50% of $300 billion U.S. market" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 11.2: Digital advertising revenue by platform. Google and Meta together capture roughly 50% of the $300+ billion market. Source: eMarketer (2023)</figcaption>
+<figcaption>Figure 11.2: Digital advertising revenue by platform. Google and Meta together capture roughly 50% of the $300+ billion market, funding the "free" consumer internet through targeted, auction-based ads that are qualitatively different from traditional media advertising. Source: eMarketer (2023)</figcaption>
 </figure>
 
 Amazon has emerged as the third major digital advertising platform, generating over $45 billion from ads displayed in search results and product pages. Unlike Google and Meta, Amazon's advertising appears at the point of purchase, making it especially valuable for consumer products.
@@ -53,7 +53,7 @@ Streaming video represents the clearest example of subscription-based media. Net
 
 <figure>
 <img src="../_figures/ch11/ch11_streaming_subscribers.png" alt="Streaming subscribers: Netflix 302M, Amazon Prime 230M, Disney+ and Max following" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 11.3: Streaming video subscribers by service. Netflix leads globally, but Amazon Prime Video's bundle gives it comparable reach. Source: Company data (2024)</figcaption>
+<figcaption>Figure 11.3: Streaming video subscribers by service. Netflix leads with 302 million subscribers, but the proliferation of competing services means many households now pay for multiple subscriptions that collectively approach or exceed their old cable bills---undermining the original promise of cord-cutting. Source: Company data (2024)</figcaption>
 </figure>
 
 The economics of streaming remain challenging. Content costs are enormous—Netflix spent over $17 billion on content in 2023—and subscriber growth in mature markets has slowed. The initial promise of streaming was "cord-cutting": consumers would save money by dropping cable. Instead, many households now subscribe to multiple services, collectively approaching or exceeding cable costs. The streaming services have responded by cracking down on password sharing, introducing ad-supported tiers, and raising prices.
@@ -82,7 +82,7 @@ Telecommunications remains a capital-intensive network business. Wireless carrie
 
 <figure>
 <img src="../_figures/ch11/ch11_telecom_market_share.png" alt="Wireless carrier share: T-Mobile 35%, Verizon 34%, AT&T 27% post-Sprint merger" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 11.4: Wireless carrier market share. T-Mobile narrowly leads after its Sprint acquisition. Source: Company data (2024)</figcaption>
+<figcaption>Figure 11.4: Wireless carrier market share. The Sprint-T-Mobile merger (2020) collapsed four national carriers to three, giving T-Mobile a narrow lead at 35% and raising prices-versus-competition concerns in a capital-intensive network business. Source: Company data (2024)</figcaption>
 </figure>
 
 The wireless industry has consolidated to three national carriers: AT&T, Verizon, and T-Mobile (which acquired Sprint in 2020). T-Mobile's aggressive pricing and network investment have made it the market share leader at 35%, narrowly ahead of Verizon (34%) and AT&T (27%).
@@ -159,7 +159,7 @@ The technology industry is extraordinarily concentrated geographically. Five met
 
 <figure>
 <img src="../_figures/ch11/ch11_tech_hubs_map.png" alt="Map of U.S. tech centers: Silicon Valley, Seattle, Austin, Boston, and New York" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 11.5: Major technology employment hubs. Silicon Valley dominates, but Seattle, Austin, and Boston have grown as secondary centers. Source: BLS QCEW</figcaption>
+<figcaption>Figure 11.5: Major technology employment hubs. Five metros---San Francisco-San Jose, Seattle, New York, Boston, and Austin---account for roughly half of all U.S. software employment, a geographic concentration driven by network effects that persist despite high costs and remote-work trends. Source: BLS QCEW</figcaption>
 </figure>
 
 **Silicon Valley** (San Jose-San Francisco metropolitan area) remains the undisputed center of the technology industry despite decades of predictions about its decline. The region hosts the headquarters of Alphabet, Apple, Meta, and thousands of smaller companies. Stanford University and UC Berkeley provide both research and talent pipelines. Venture capital is heavily concentrated: Sand Hill Road in Menlo Park hosts the largest concentration of VC firms in the world. The region's dysfunction—housing costs that make $200,000 salaries feel inadequate, traffic congestion, homelessness—has not displaced its network effects.
@@ -288,7 +288,9 @@ Platform markets exhibit consistent structural features that push toward concent
 
 **Switching costs and lock-in.** Users accumulate data, social connections, purchase histories, and learned behaviors on platforms that do not transfer to competitors. An iPhone user with years of iCloud photos, a library of purchased apps, and an Apple Watch is unlikely to switch to Android regardless of price. Enterprise customers running workloads on AWS face significant migration costs to move to Azure or Google Cloud. These switching costs are not incidental—they are deliberately engineered into platform design.
 
-**Data moats.** Platforms improve through usage data. Google's search algorithm improves with every query. Uber's routing and pricing algorithms improve with every ride. New entrants face a cold-start problem: without users they cannot generate the data needed to match incumbents' service quality, and without matching service quality they cannot attract users.
+**Data moats.** Platforms improve through usage data. Google processes 8.5 billion searches per day, each one refining its ranking algorithms. Uber's routing and pricing algorithms improve with every ride across 15 billion cumulative trips. New entrants face a cold-start problem: without users they cannot generate the data needed to match incumbents' service quality, and without matching service quality they cannot attract users. The data advantage compounds over time---a search engine with ten years of click-through data understands user intent in ways that cannot be replicated by building a better algorithm alone. This explains why Microsoft's Bing, despite billions in investment and comparable engineering talent, has never exceeded 10% search market share.
+
+**Quantifying switching costs.** Switching costs vary dramatically across platform types and explain why some markets are more contestable than others. Smartphone ecosystem switching (iPhone to Android) involves losing purchased apps, iCloud data, Apple Watch compatibility, and iMessage---estimated at $1,000-2,000 in sunk costs and transition effort. Enterprise cloud migration (AWS to Azure) costs $500,000-5 million for mid-size companies, creating near-permanent lock-in once workloads are deployed. By contrast, switching search engines costs nothing technically, yet Google retains 90% share through default placement deals (paying Apple $20 billion annually for default status on Safari) and superior results. The lesson: switching costs can be monetary, technical, social, or habitual---and each type requires different competitive and regulatory responses.
 
 **Multihoming costs.** When users or suppliers participate in multiple platforms simultaneously—"multihoming"—it weakens any single platform's market power. Restaurants listing on both DoorDash and Uber Eats, or sellers listing on both Amazon and eBay, can comparison-shop across platforms. Platforms actively discourage multihoming through exclusive contracts, bundled services, and algorithmic penalties for suppliers who list elsewhere.
 
@@ -335,6 +337,24 @@ Generative AI has transformed the technology landscape since ChatGPT's November 
 - **Apple** has been notably slower to deploy consumer-facing AI, announcing "Apple Intelligence" features in 2024 that relied partly on external models.
 
 The AI boom has concentrated capital and talent at the largest companies. Training frontier models requires hundreds of millions of dollars in computing costs, favoring companies with cloud infrastructure and deep pockets. Whether AI will ultimately disrupt Big Tech incumbents or entrench them remains unclear.
+
+### AI and the Labor Market: Cross-Cutting Effects
+
+Unlike previous waves of automation, which primarily displaced routine manual and clerical tasks, generative AI targets cognitive and creative work---the occupations that the college premium was supposed to protect.
+
+**Exposure by occupation**: Research by Eloundou et al. (2023) estimates that 80% of the U.S. workforce has at least 10% of their tasks exposed to LLM capabilities, and 19% of workers have 50%+ of tasks exposed. The most exposed occupations are not factory workers but writers, coders, analysts, paralegals, customer service representatives, and translators---white-collar roles concentrated in the information, professional services, and finance sectors covered elsewhere in this book.
+
+**Productivity effects**: Early evidence suggests significant productivity gains for workers using AI tools. A randomized trial of customer support agents found 14% productivity increases, with the largest gains for less-experienced workers (Brynjolfsson, Li, and Raymond 2023). GitHub reports that developers using Copilot complete tasks 55% faster. But productivity gains at the task level do not translate directly into employment effects---firms may produce more output rather than shed workers, and new tasks may emerge.
+
+**Distributional consequences**: AI's effects cut against the standard skill premium story. If AI automates high-skill tasks (legal research, financial analysis, software development) while complementing lower-skill tasks (enabling a generalist to perform specialist work), it could compress rather than widen the wage distribution. Alternatively, if firms that adopt AI capture the gains as profit rather than passing them to workers, AI could widen capital-labor inequality---reinforcing the dynamics discussed in the Inequality Interlude.
+
+**Geographic concentration**: AI development is extraordinarily concentrated. San Francisco, Seattle, and New York account for over 70% of AI job postings and nearly all frontier model development. The benefits of AI deployment may be more widely distributed, but the high-wage AI engineering jobs are clustered in metros that are already among America's most expensive.
+
+{% hint style="warning" %}
+**The Platform-AI Feedback Loop**
+
+Big Tech's platform dominance may be self-reinforcing through AI. Platforms with the most users generate the most data. The most data produces the best AI models. The best AI models attract the most users. This feedback loop---users → data → AI → better products → more users---could make current platform incumbents even harder to displace than traditional network effects alone would suggest.
+{% endhint %}
 
 ### The Data Economy
 

@@ -97,12 +97,12 @@ The top eight metros produce nearly $8 trillion---about 30% of GDP. Add the next
 
 <figure>
 <img src="../_figures/ch03/ch03_top_metros_gdp.png" alt="Top metros by GDP: New York $2.3T, Los Angeles $1.3T, Chicago $800B" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 3.2: The top 20 metropolitan areas by GDP. New York alone produces more than most countries. Source: BEA Metropolitan GDP (2023)</figcaption>
+<figcaption>Figure 3.2: The top 20 metropolitan areas by GDP. The top eight metros alone produce nearly $8 trillion---about 30% of national output---reflecting the intense geographic concentration of the American economy. Source: BEA Metropolitan GDP (2023)</figcaption>
 </figure>
 
 <figure>
 <img src="../_figures/ch03/ch03_metro_job_density.png" alt="Metro employment density concentrated in coastal and Great Lakes metro areas" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 3.3: Job concentration in major metros. Bubble size represents total employment. Economic activity clusters intensely in a handful of urban centers. Source: BLS QCEW (2023)</figcaption>
+<figcaption>Figure 3.3: Job concentration in major metros. Agglomeration economies---knowledge spillovers, deep labor pools, and specialized suppliers---drive intense clustering of employment in a handful of coastal and Great Lakes urban centers. Source: BLS QCEW (2023)</figcaption>
 </figure>
 
 ### Why Cities?

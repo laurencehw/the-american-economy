@@ -177,7 +177,7 @@ The China shock—the surge in imports following China's WTO accession—transmi
 
 The housing bust transmitted primarily through balance sheets—the wealth effect on households and the asset quality shock to financial institutions.
 
-**Wealth destruction**: American homeowners lost roughly $8 trillion in home equity between 2006 and 2009. For households whose homes represented their primary asset, this wealth destruction was catastrophic.
+**Wealth destruction**: American homeowners lost $8 trillion in home equity between 2006 and 2009. For households whose homes represented their primary asset, this wealth destruction was catastrophic.
 
 **Consumption collapse**: Mian and Sufi documented that zip codes with larger house price declines experienced larger drops in consumer spending. Households that felt poorer spent less—on cars, appliances, restaurants, and everything else.
 
@@ -203,7 +203,7 @@ Government responses to shocks themselves propagate through the economy. Underst
 
 ### Fiscal Policy: The CHIPS Act and IRA
 
-The CHIPS and Science Act ($52.7 billion for semiconductors) and Inflation Reduction Act (roughly $370 billion for clean energy) represent deliberate positive shocks to specific sectors.
+The CHIPS and Science Act ($52.7 billion for semiconductors) and Inflation Reduction Act ($370 billion for clean energy) represent deliberate positive shocks to specific sectors.
 
 **Direct effects**: Semiconductor fabs are under construction in Arizona, Ohio, and Texas. Battery plants are rising across the "Battery Belt" from Georgia to Michigan.
 

@@ -91,7 +91,7 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 
 <figure>
 <img src="../_figures/ch10/ch10_top_retailers.png" alt="Top U.S. retailers: Walmart at $430B, followed by Amazon, Costco, and Kroger" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 10.1: Top 10 retailers by US revenue. Walmart dominates, with nearly twice Amazon's retail revenue. Source: Company data (2024)</figcaption>
+<figcaption>Figure 10.1: Top 10 retailers by U.S. revenue. The top four firms (Walmart, Amazon, Costco, Target) together capture over $1.1 trillion---roughly 15% of total retail sales---with scale advantages in logistics, technology, and purchasing power that are nearly insurmountable for smaller competitors. Source: Company data (2024)</figcaption>
 </figure>
 
 These four firms together account for over $1.1 trillion in US retail sales—roughly 15% of the total market. Their scale advantages in logistics, technology, and purchasing power are nearly insurmountable for smaller competitors.

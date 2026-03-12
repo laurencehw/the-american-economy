@@ -31,7 +31,7 @@ Professional services has been a major engine of employment growth since the 198
 
 <figure>
 <img src="../_figures/ch07/ch07_prof_services_gdp.png" alt="Professional services GDP: computer systems design leads, followed by legal and consulting" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 7.1: Professional services GDP by subsector. Computer systems design leads, followed by legal services and management consulting. Source: BEA (2023)</figcaption>
+<figcaption>Figure 7.1: Professional services GDP by subsector. Computer systems design ($550B) has overtaken legal services and consulting to become the largest subsector, reflecting the economy's growing dependence on IT outsourcing and digital transformation. Source: BEA (2023)</figcaption>
 </figure>
 
 ## How the Industry Works

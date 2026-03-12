@@ -54,7 +54,7 @@ The current AI boom, concentrated in San Francisco, has reversed some pandemic-e
 
 The costs are legendary: median home prices exceed $1.3 million; office rents in premium locations top $100 per square foot; a family earning $150,000 qualifies as "low income" for housing assistance. These costs push out the middle class, hollow out the public sector (teachers, police, nurses cannot afford to live there), and create the homelessness visible on city streets.
 
-The region's venture capital ecosystem remains unmatched. Of the $170 billion invested in U.S. startups in 2023, roughly $85 billion---half---flowed through Bay Area investors into Bay Area companies. This dominance has persisted despite predictions of tech diaspora; if anything, the AI boom has concentrated venture activity even further.
+The region's venture capital ecosystem remains unmatched. Of the $170 billion invested in U.S. startups in 2023, $85 billion---half---flowed through Bay Area investors into Bay Area companies. This dominance has persisted despite predictions of tech diaspora; if anything, the AI boom has concentrated venture activity even further.
 
 The two metropolitan areas within the Bay Area---San Francisco and San Jose---function as distinct but interconnected economies. San Jose and Silicon Valley proper (Santa Clara and San Mateo counties) host the hardware and established technology companies: Apple, Alphabet, Nvidia, Intel. San Francisco hosts the younger software and AI companies: Salesforce, Uber, Airbnb, OpenAI, Anthropic. The two have different characters---San Jose is suburban, car-dependent, corporate; San Francisco is urban, walkable, startup-oriented---but workers and companies move fluidly between them.
 
@@ -186,7 +186,7 @@ The West's economic success has created its most severe challenge: housing costs
 
 *Source: Census Bureau; National Association of Realtors; Federal Housing Finance Agency, 2024*
 
-The result is out-migration. California lost population for the first time in recorded history between 2020 and 2023. While international immigration restored modest growth in 2024, net domestic migration remains negative: roughly 200,000 Californians leave for other states annually.
+The result is out-migration. California lost population for the first time in recorded history between 2020 and 2023. While international immigration restored modest growth in 2024, net domestic migration remains negative: 200,000 Californians leave for other states annually.
 
 The destinations reveal the calculus: Texas, Arizona, Nevada, Utah. Middle-class families seeking homeownership, retirees seeking lower taxes and costs, and businesses seeking lower operating expenses all make similar decisions.
 
@@ -234,7 +234,7 @@ The competition is direct: California companies establishing Texas operations, w
 
 ## Workforce and Immigration
 
-The West's economy depends on immigration to a degree unmatched elsewhere in the country. California alone is home to 10 million immigrants---roughly one-quarter of all immigrants in the United States. Foreign-born workers constitute over 30% of California's labor force.
+The West's economy depends on immigration to a degree unmatched elsewhere in the country. California alone is home to 10 million immigrants---one-quarter of all immigrants in the United States. Foreign-born workers constitute over 30% of California's labor force.
 
 ### The Tech Workforce
 
@@ -272,7 +272,7 @@ CHIPS Act and Inflation Reduction Act funding has flowed substantially to the We
 > - Headquarters: Mountain View, CA
 > - Revenue: $350 billion (2024)
 > - Employees: 180,000 worldwide; 50,000+ in Bay Area
-> - Market cap: roughly $4 trillion
+> - Market cap: $4 trillion
 
 Alphabet exemplifies the Bay Area's innovation machine. From a Stanford research project to a company worth more than most countries' GDP, Google's trajectory demonstrates the region's capacity to scale ideas into global enterprises.
 
@@ -286,7 +286,7 @@ Alphabet's advertising business remains dominant, but cloud computing and AI inv
 > - Headquarters: Santa Clara, CA
 > - Revenue: $130 billion (FY 2025)
 > - Employees: 30,000
-> - Market cap: roughly $4.5 trillion
+> - Market cap: $4.5 trillion
 
 Nvidia's journey from video game graphics to the world's most valuable company illustrates the West's capacity for reinvention. The company's GPUs, originally designed for gaming, proved ideal for machine learning. When the AI boom arrived, Nvidia controlled the essential hardware.
 

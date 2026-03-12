@@ -39,7 +39,7 @@ Electricity is unique among commodities: it cannot be economically stored at sca
 
 <figure>
 <img src="../_figures/ch14/ch14_generation_mix.png" alt="U.S. electricity generation by source: natural gas 43%, nuclear 18%, coal 16%, wind 11%, solar 6%" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 14.1: U.S. electricity generation by source. Natural gas has replaced coal as the dominant fuel, while wind and solar have grown rapidly. Source: EIA (2024)</figcaption>
+<figcaption>Figure 14.1: U.S. electricity generation by source. The shale revolution and environmental regulation have driven a dramatic fuel switch: coal's share has fallen by two-thirds since 2008 (from 48% to 16%), replaced primarily by cheap natural gas, while wind and solar have grown from negligible to 17% combined. Source: EIA (2024)</figcaption>
 </figure>
 
 The generation mix has transformed in 15 years. In 2008, coal provided 48% of US electricity; natural gas 21%. The shale revolution made gas cheap; environmental regulation made coal expensive. Coal's share has fallen by two-thirds.
@@ -285,7 +285,7 @@ America's energy geography creates a fundamental divide between **producing stat
 
 <figure>
 <img src="../_figures/ch14/ch14_energy_basins_map.png" alt="Map of major U.S. energy production regions: Permian Basin, Appalachian Basin, Bakken, and Gulf Coast" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 14.2: Major energy production regions. The Permian Basin (oil) and Appalachian Basin (natural gas) dominate U.S. production. Source: EIA</figcaption>
+<figcaption>Figure 14.2: Major energy production regions. America's energy geography creates a fundamental divide between producing states (Texas alone produces 5.5 million barrels of oil per day) and consuming states, with the Permian Basin and Appalachian Basin serving as the two dominant extraction zones. Source: EIA</figcaption>
 </figure>
 
 **Top Oil Producing States** (million bbl/day):

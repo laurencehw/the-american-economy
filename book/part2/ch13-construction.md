@@ -10,17 +10,17 @@ This is not a statistical artifact. Goolsbee and Syverson (2023) systematically 
 
 **Size and Scope**
 
-- **GDP Contribution:** Approximately **$1.3 trillion** (4.5% of GDP)
-- **Gross Output:** roughly $2.2 trillion annually (including intermediate inputs)
-- **Employment:** roughly 8.3 million workers
-- **Establishments:** roughly 800,000 firms, the vast majority with fewer than 10 employees
+- **GDP Contribution:** **$1.3 trillion** (4.5% of GDP)
+- **Gross Output:** $2.2 trillion annually (including intermediate inputs)
+- **Employment:** 8.3 million workers
+- **Establishments:** 800,000 firms, the vast majority with fewer than 10 employees
 - **Value Put in Place:** $2.1 trillion annually in new construction (2024)
 
 Construction is both cyclical and foundational. It builds the physical infrastructure of the economy—houses, offices, factories, roads, bridges, power plants—but its activity swings wildly with interest rates, credit availability, and economic confidence. In recessions, construction employment can fall 20-30%; in booms, labor shortages become acute within months.
 
 **Key Subsectors:**
 
-- **Residential:** Single-family homes, multifamily apartments, renovations (roughly 40% of total construction spending)
+- **Residential:** Single-family homes, multifamily apartments, renovations (40% of total construction spending)
 - **Commercial:** Offices, retail, hotels, healthcare facilities, data centers
 - **Heavy Civil/Infrastructure:** Highways, bridges, airports, water systems, public transit
 - **Industrial:** Manufacturing plants, refineries, power generation facilities
@@ -98,7 +98,7 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 
 **General Contracting:** Extraordinarily fragmented. Of the 800,000 construction firms in America, most are tiny. The median construction company has fewer than 5 employees. Entry barriers are low (a truck, some tools, a contractor's license), and failure rates are high.
 
-**Homebuilding:** Consolidating. The top 10 builders now control approximately **45% of new home sales**, up from 27% two decades ago. Large public builders (D.R. Horton, Lennar, PulteGroup) achieved scale through land acquisition, standardization, and vertical integration. They operate more like manufacturers than traditional builders.
+**Homebuilding:** Consolidating. The top 10 builders now control **45% of new home sales**, up from 27% two decades ago. Large public builders (D.R. Horton, Lennar, PulteGroup) achieved scale through land acquisition, standardization, and vertical integration. They operate more like manufacturers than traditional builders.
 
 **Heavy Civil/Engineering:** More concentrated. Megaprojects (airports, transit systems, LNG terminals) require capabilities that few firms possess: bonding capacity in the billions, specialized engineering talent, multi-year project management experience. A handful of firms dominate this space.
 
@@ -108,11 +108,11 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 
 | Company | Revenue | Specialty |
 |---------|---------|-----------|
-| **Bechtel** | roughly $18B | Energy, infrastructure, defense (private, family-owned) |
-| **Fluor** | roughly $15B | Energy, chemicals, mining (public) |
-| **Kiewit** | roughly $15B | Transportation infrastructure (employee-owned) |
-| **Jacobs** | roughly $16B | Buildings, infrastructure, advanced facilities (public) |
-| **AECOM** | roughly $14B | Design and construction management |
+| **Bechtel** | $18B | Energy, infrastructure, defense (private, family-owned) |
+| **Fluor** | $15B | Energy, chemicals, mining (public) |
+| **Kiewit** | $15B | Transportation infrastructure (employee-owned) |
+| **Jacobs** | $16B | Buildings, infrastructure, advanced facilities (public) |
+| **AECOM** | $14B | Design and construction management |
 
 *Source: Engineering News-Record Top 400 Contractors, 2024*
 
@@ -120,10 +120,10 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 
 | Company | Revenue | Market |
 |---------|---------|--------|
-| **Turner Construction** | roughly $16B | Commercial, healthcare, data centers (German-owned via Hochtief/ACS) |
-| **Whiting-Turner** | roughly $10B | Commercial, institutional |
-| **Skanska USA** | roughly $8B | Commercial, infrastructure (Swedish parent) |
-| **Clark Construction** | roughly $6B | Government, commercial |
+| **Turner Construction** | $16B | Commercial, healthcare, data centers (German-owned via Hochtief/ACS) |
+| **Whiting-Turner** | $10B | Commercial, institutional |
+| **Skanska USA** | $8B | Commercial, infrastructure (Swedish parent) |
+| **Clark Construction** | $6B | Government, commercial |
 
 *Source: Engineering News-Record Top 400 Contractors, 2024*
 
@@ -131,17 +131,17 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 
 | Company | Revenue | Homes/Year |
 |---------|---------|------------|
-| **D.R. Horton** | roughly $35B | roughly 90,000 |
-| **Lennar** | roughly $34B | roughly 73,000 |
-| **PulteGroup** | roughly $16B | roughly 28,000 |
-| **NVR** | roughly $10B | roughly 24,000 |
-| **Toll Brothers** | roughly $10B | roughly 10,000 |
+| **D.R. Horton** | $35B | 90,000 |
+| **Lennar** | $34B | 73,000 |
+| **PulteGroup** | $16B | 28,000 |
+| **NVR** | $10B | 24,000 |
+| **Toll Brothers** | $10B | 10,000 |
 
 *Source: Company 10-K filings; Engineering News-Record Top 400 Contractors, 2024*
 
 <figure>
 <img src="../_figures/ch13/ch13_top_contractors.png" alt="Top U.S. construction contractors by revenue: Bechtel, Fluor, Turner, and Kiewit lead" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 13.3: Top U.S. construction companies by revenue. Engineering giants (Bechtel, Fluor) differ from commercial builders (Turner, Whiting-Turner). Source: ENR (2024)</figcaption>
+<figcaption>Figure 13.3: Top U.S. construction companies by revenue. No American firm matches the scale of global giants like VINCI or ACS---the industry's project-based fragmentation prevents the vertical integration needed for international competitiveness. Source: ENR (2024)</figcaption>
 </figure>
 
 Note that the largest American engineering contractors (Bechtel, Fluor, Kiewit) are essentially engineering firms that happen to build, while the largest commercial builders (Turner, Whiting-Turner) are project management operations that coordinate subcontractors. Neither model achieves the vertical integration that characterizes large homebuilders like D.R. Horton or global construction giants. This fragmentation reflects the industry's project-based nature: each job is custom, making standardization difficult.
@@ -182,7 +182,7 @@ Certain geographies have developed specialized construction expertise:
 
 ### Employment Profile
 
-Construction employs approximately **8.3 million workers**, roughly 5.5% of total US employment. The workforce is distinctive:
+Construction employs **8.3 million workers**, 5.5% of total US employment. The workforce is distinctive:
 
 - **Demographics:** 97% male (one of the most gender-skewed major industries); median age rising steadily
 - **Education:** Most workers have high school education or less; formal credentials matter less than experience and skill
@@ -214,7 +214,7 @@ The Associated General Contractors estimates the industry needs **500,000+ addit
 - **Carpenters:** $22-35/hour
 - **Electricians:** $28-45/hour
 - **Ironworkers:** $30-50/hour
-- **Union Premium:** Union workers earn roughly 20-30% more than non-union in comparable roles
+- **Union Premium:** Union workers earn 20-30% more than non-union in comparable roles
 
 **Safety:** Construction is one of the most dangerous industries. Falls are the leading cause of death, followed by struck-by incidents, electrocution, and caught-between accidents (the "Fatal Four"). OSHA heavily regulates the industry, but enforcement is challenging given the number of worksites and the prevalence of small firms and subcontracting.
 
@@ -272,7 +272,7 @@ Infrastructure spending attracts bipartisan support—everyone likes ribbon-cutt
 
 <figure>
 <img src="../_figures/ch13/ch13_construction_spending.png" alt="Total U.S. construction spending trends across residential, commercial, and public infrastructure categories" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 13.1: Construction spending by category. Manufacturing construction has tripled since 2021 due to CHIPS Act and IRA investments. Source: Census Bureau</figcaption>
+<figcaption>Figure 13.1: Construction spending by category. Industrial policy has reshaped construction demand: manufacturing construction has tripled since 2021 as CHIPS Act semiconductor fabs and IRA-funded battery plants absorb workers and materials, straining capacity in other segments like housing. Source: Census Bureau</figcaption>
 </figure>
 
 Construction spending on manufacturing facilities has **tripled** since 2021, driven by industrial policy:
@@ -349,8 +349,8 @@ The fundamental challenge is that each project is unique, making automation hard
 > **Quick Facts**
 > - **Headquarters:** Reston, VA
 > - **Ownership:** Private, family-controlled since 1898
-> - **Revenue:** roughly $18 billion
-> - **Employees:** roughly 55,000
+> - **Revenue:** $18 billion
+> - **Employees:** 55,000
 
 Bechtel is America's megaproject builder—the firm you call when the job is too big, too complex, or too strategically important for anyone else. The company built Hoover Dam, the San Francisco Bay Area's BART system, the Channel Tunnel (with partners), Boston's Big Dig, and countless refineries, power plants, and LNG terminals.
 
@@ -363,8 +363,8 @@ The culture is conservative and engineering-driven. Bechtel doesn't seek publici
 > **Quick Facts**
 > - **Headquarters:** New York, NY
 > - **Parent Company:** Hochtief AG (Germany) / ACS (Spain)
-> - **Revenue:** roughly $16 billion
-> - **Employees:** roughly 10,000
+> - **Revenue:** $16 billion
+> - **Employees:** 10,000
 
 Turner is the giant of American commercial building construction. The company built One World Trade Center, Madison Square Garden, Yankee Stadium, and countless hospitals, data centers, university buildings, and corporate headquarters.
 
@@ -377,9 +377,9 @@ Turner operates as a union contractor, dominant in the high-cost, high-complexit
 > **Quick Facts**
 > - **Headquarters:** Arlington, TX
 > - **Founded:** 1978
-> - **Revenue:** roughly $35+ billion
-> - **Employees:** roughly 13,000
-> - **Homes Delivered:** roughly 90,000 annually
+> - **Revenue:** $35+ billion
+> - **Employees:** 13,000
+> - **Homes Delivered:** 90,000 annually
 
 D.R. Horton is what construction could look like if the industry industrialized. While commercial contractors struggle with productivity, Horton has systematized homebuilding into something approaching manufacturing.
 
@@ -393,7 +393,7 @@ The contrast with commercial construction is stark. D.R. Horton achieves product
 **Cross-Cutting Connections**
 
 *Inequality*: The housing affordability crisis is fundamentally a construction problem, and significant wage gaps persist across trades, with non-union and immigrant workers earning far less for comparable work.
-*Climate and Environment*: Buildings account for roughly 40% of U.S. energy consumption, and construction must increasingly prioritize both decarbonization and resilience to extreme weather events.
+*Climate and Environment*: Buildings account for 40% of U.S. energy consumption, and construction must increasingly prioritize both decarbonization and resilience to extreme weather events.
 *Demographics*: An aging skilled workforce and heavy dependence on immigrant labor mean that immigration policy and apprenticeship pipelines directly shape the industry's capacity.
 *Technology and AI*: Modular construction, Building Information Modeling (BIM), and emerging robotics offer paths to higher productivity in a sector that has resisted efficiency gains for decades.
 {% endhint %}

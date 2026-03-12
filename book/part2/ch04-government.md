@@ -154,7 +154,7 @@ Local government employment is dominated by schools: teachers, administrators, a
 
 <figure>
 <img src="../_figures/ch04/ch04_govt_employment_level.png" alt="Government employment: local dominates at 14.7M workers, mostly in education, vs 2.9M federal" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 4.2: Government employment by level. Local governments employ far more workers than federal or state, with education dominating local payrolls. Source: BLS CES (2023)</figcaption>
+<figcaption>Figure 4.2: Government employment by level. Local governments employ five times more workers than the federal government (14.7M vs. 2.9M), with teachers and school staff accounting for over half of all local government jobs. Source: BLS CES (2023)</figcaption>
 </figure>
 
 ### Government as Purchaser
@@ -229,7 +229,7 @@ States with military bases, federal lands, or proximity to DC have high federal 
 
 <figure>
 <img src="../_figures/ch04/ch04_federal_employment_map.png" alt="Map of federal civilian employment concentrated in DC metro, military bases, and federal lands" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 4.4: Federal civilian employment by state. The Washington, DC metro dominates, with additional concentrations around military bases and federal lands. Source: OPM (2023)</figcaption>
+<figcaption>Figure 4.4: Federal civilian employment by state. DC, Virginia, and Maryland together account for a disproportionate share of federal workers, making the capital region's economy uniquely dependent on---and insulated by---government spending. Source: OPM (2023)</figcaption>
 </figure>
 
 ### State and Local Employment Geography
