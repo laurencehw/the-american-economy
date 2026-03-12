@@ -146,9 +146,9 @@ This glossary compiles key economic, financial, and policy terms used throughout
 
 *No terms in this section.*
 
-**LCOE (Levelized Cost of Energy)** — The all-in cost of generating one megawatt-hour of electricity over a power plant's lifetime, including construction, fuel, maintenance, and financing costs divided by total expected output. LCOE enables comparison across generation technologies with different cost profiles. Utility-scale solar LCOE has fallen roughly 90% since 2010, fundamentally reshaping electricity markets. See Chapter 14.
-
 ## L
+
+**LCOE (Levelized Cost of Energy)** — The all-in cost of generating one megawatt-hour of electricity over a power plant's lifetime, including construction, fuel, maintenance, and financing costs divided by total expected output. LCOE enables comparison across generation technologies with different cost profiles. Utility-scale solar LCOE has fallen roughly 90% since 2010, fundamentally reshaping electricity markets. See Chapter 14.
 
 **Labor force participation rate** — The percentage of the civilian noninstitutional population aged 16 and older that is either employed or actively looking for work. The U.S. labor force participation rate peaked in the late 1990s and has declined since, reflecting demographic shifts, educational enrollment, disability trends, and changing social norms. See Chapter 30.
 

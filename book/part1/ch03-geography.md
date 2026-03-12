@@ -21,9 +21,8 @@ This concentration determines policy, politics, and opportunity. Where you live 
 California's economy exceeds that of India or the United Kingdom. It would rank among the world's five largest countries. Texas has grown rapidly, riding oil production and business-friendly policies to become America's second-largest economy. New York punches above its population weight, reflecting the concentration of finance, media, and professional services in Manhattan.
 
 <figure>
-<img src="../_figures/ch03/ch03_state_gdp.png" alt="Choropleth: California, Texas, New York, and Florida produce 40% of national GDP" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 3.0: State GDP (2023). California dominates at $3.25 trillion, followed by Texas and New York. The top five states produce 35% of national output; the top ten exceed 50%. Source: BEA Regional GDP</figcaption></invoke>
-</invoke>
+<img src="../_figures/ch03/ch03_state_gdp.png" alt="Choropleth: California, Texas, New York, Florida, and Illinois produce 35% of national GDP" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 3.0: State GDP (2023). California dominates at $3.25 trillion, followed by Texas and New York. The top five states produce 35% of national output; the top ten exceed 50%. Source: BEA Regional GDP</figcaption>
 </figure>
 
 ### The Productivity Divide
