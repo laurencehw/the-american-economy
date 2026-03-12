@@ -374,6 +374,15 @@ The Ticketmaster platform processes hundreds of millions of tickets annually. It
 
 Despite the controversy, Live Nation's financial performance has been extraordinary. The post-pandemic boom in live events drove record revenues and attendance in 2023. The company's model is built on multiple revenue streams: ticketing fees, venue concessions, sponsorships, and artist management commissions. In an era when recorded music is nearly free (streaming pays artists fractions of a cent per play), live performance has become the primary way musicians earn money---and Live Nation sits at the center of that economy.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Leisure and hospitality is the lowest-wage major sector in the economy, and the ongoing tipped wage debate highlights deep disagreements about how these workers should be compensated.
+*Climate and Environment*: Rising temperatures, intensifying hurricanes, and sea-level rise directly threaten tourism destinations from beach resorts to ski areas.
+*Demographics*: The sector relies disproportionately on young and immigrant workers, while aging baby boomers represent a massive and growing market for travel and dining.
+*Technology and AI*: Dynamic pricing algorithms, ghost kitchens, and platform-based booking systems are reshaping how hospitality services are priced, produced, and distributed.
+{% endhint %}
+
 ## Key Takeaways
 
 1. **Leisure and hospitality employs 11% of American workers but generates only 4% of GDP**---the largest gap between employment share and output share of any major sector, reflecting the industry's labor intensity and low productivity per worker.

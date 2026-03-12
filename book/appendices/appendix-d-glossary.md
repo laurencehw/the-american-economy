@@ -12,6 +12,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 
 **At-will employment** — The default employment doctrine in most U.S. states, under which either the employer or the employee may end the relationship at any time, for any lawful reason, without advance notice. This distinguishes the U.S. labor market from most other advanced economies. See Chapter 30.
 
+**Asset-light model** — A business strategy in which a company owns few physical assets and instead relies on franchising, licensing, or management contracts. Marriott and McDonald's, for example, earn most of their revenue from managing and franchising properties they do not own. This approach generates high returns on equity but shifts capital risk to franchisees and property owners. See Chapters 5 and 17.
+
 ## B
 
 **Balance of payments** — A comprehensive accounting of all economic transactions between a country's residents and the rest of the world over a given period. It includes the current account (trade in goods and services, income, transfers) and the capital and financial account (investment flows). See Chapter 21.
@@ -23,6 +25,10 @@ This glossary compiles key economic, financial, and policy terms used throughout
 **Bureau of Economic Analysis (BEA)** — The agency within the U.S. Department of Commerce responsible for producing national, regional, and industry economic accounts, including GDP estimates, personal income data, and input-output tables. See Appendix A and Appendix B.
 
 **Bureau of Labor Statistics (BLS)** — The principal federal agency responsible for measuring labor market activity, working conditions, and price changes in the economy. The BLS produces the Consumer Price Index, the unemployment rate, and the Employment Situation report, among other data series. See Appendix A.
+
+**Chained dollars** — A method of measuring real (inflation-adjusted) GDP in which prices from consecutive years are linked ("chained") together, allowing the price index to reflect changing spending patterns over time. BEA reports real GDP in chained 2017 dollars. Unlike fixed-base-year methods, chaining avoids the bias that arises when relative prices shift significantly. See Chapter 1 and Appendix B.
+
+**Concordance** — A mapping or crosswalk table that translates between two different classification systems. Concordances are essential for comparing data across historical periods when industry definitions or statistical methodologies change---for example, converting between the old SIC system and the current NAICS system. See Appendix C.
 
 ## C
 
@@ -45,6 +51,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 **Cross-subsidy** — An arrangement in which revenues from one product, service, or customer group are used to offset losses or below-cost pricing for another. Cross-subsidies are common in regulated industries, such as when profitable urban postal routes help fund rural delivery. See Chapter 14.
 
 **Current account** — The component of the balance of payments that records a country's trade in goods and services, net income from abroad (such as investment returns), and net transfer payments. The United States has run a persistent current account deficit since the early 1980s. See Chapter 21.
+
+**Deindustrialization** — The long-term decline in manufacturing employment and its share of GDP in advanced economies, typically accompanied by growth in service sectors. In the United States, manufacturing employment fell from roughly 19 million (1979) to 12.6 million (2023) even as manufacturing output doubled. Deindustrialization reflects both automation and the offshoring of production to lower-cost countries. See Chapters 9 and 25.
 
 ## D
 
@@ -71,6 +79,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 **Exchange-traded fund (ETF)** — An investment fund that trades on a stock exchange, much like an individual stock. ETFs typically track an index, a commodity, or a basket of assets and offer investors diversification at low cost. The growth of ETFs has transformed the asset management industry. See Chapter 19.
 
 **Externality** — A cost or benefit of an economic activity that falls on a third party who did not choose to incur it. Pollution is a classic negative externality; a neighbor's well-kept garden producing higher property values is a positive externality. Externalities are a primary rationale for government intervention in markets. See Chapters 4 and 14.
+
+**FISIM (Financial Intermediation Services Indirectly Measured)** — A method used by national accounts statisticians to estimate the value of banking services that are not charged directly to customers. Banks earn much of their revenue from the spread between deposit rates and lending rates rather than from explicit fees. FISIM captures this implicit service output, which is important for accurately measuring the financial sector's contribution to GDP. See Appendix B.
 
 ## F
 
@@ -101,6 +111,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 **Gini coefficient** — A statistical measure of inequality within a distribution, ranging from 0 (perfect equality) to 1 (perfect inequality). It is most commonly used to measure income or wealth inequality within a country. The U.S. Gini coefficient for household income has risen substantially since the late 1970s. See Interlude.
 
 **GSE (Government-sponsored enterprise)** — A financial services corporation created by Congress to improve the flow of credit to specific sectors of the economy. Fannie Mae and Freddie Mac, which purchase and securitize residential mortgages, are the most prominent GSEs. They occupy an unusual position between public and private institutions. See Chapters 5 and 8.
+
+**Hedonic adjustment** — A statistical technique used to adjust prices for changes in product quality. When a new car model is faster, safer, and more fuel-efficient than the model it replaces, the price increase may be adjusted downward to reflect the quality improvement, preventing overstatement of inflation. Hedonic adjustments are particularly important for technology goods and housing in the CPI and GDP accounts. See Chapter 1.
 
 ## H
 
@@ -136,6 +148,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 
 ## L
 
+**LCOE (Levelized Cost of Energy)** — The all-in cost of generating one megawatt-hour of electricity over a power plant's lifetime, including construction, fuel, maintenance, and financing costs divided by total expected output. LCOE enables comparison across generation technologies with different cost profiles. Utility-scale solar LCOE has fallen roughly 90% since 2010, fundamentally reshaping electricity markets. See Chapter 14.
+
 **Labor force participation rate** — The percentage of the civilian noninstitutional population aged 16 and older that is either employed or actively looking for work. The U.S. labor force participation rate peaked in the late 1990s and has declined since, reflecting demographic shifts, educational enrollment, disability trends, and changing social norms. See Chapter 30.
 
 **Leverage** — The use of borrowed money to amplify potential returns (or losses) from an investment. A firm or individual is highly leveraged when debt is large relative to equity. Leverage is a central concept in corporate finance and played a major role in the 2007-2009 financial crisis. See Chapter 20.
@@ -158,6 +172,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 
 **Moral hazard** — The tendency of a party that is insulated from risk to behave differently than it would if fully exposed to the risk. In insurance, moral hazard arises when the insured party takes greater risks because someone else bears the cost of those risks. The concept is central to understanding both health insurance and financial regulation. See Chapters 6 and 8.
 
+**Motherhood penalty** — The empirical finding that women's earnings decline significantly after having children, while men's earnings do not. Research shows that 10 years after a first birth, women earn roughly 40% less than comparable women without children. The penalty reflects some combination of reduced hours, career interruptions, employer discrimination, and sorting into more flexible but lower-paying positions. See Interlude and Chapter 30.
+
 **Mortgage-backed security (MBS)** — A type of asset-backed security that is secured by a collection (pool) of mortgages. Investors in MBS receive periodic payments derived from the underlying mortgage payments. The securitization of mortgages vastly expanded the availability of housing credit but also contributed to the 2007-2009 financial crisis. See Chapters 5 and 19.
 
 ## N
@@ -174,6 +190,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 
 **Noncompete agreement** — A contractual clause in which an employee agrees not to work for a competitor or start a competing business for a specified period after leaving a job. Noncompetes have become widespread across the U.S. labor market, including in low-wage occupations, and have drawn regulatory scrutiny for their effects on worker mobility and wages. See Chapter 30.
 
+**Offshoring** — The relocation of business operations or production by a company to another country, typically to reduce labor costs, access new markets, or take advantage of favorable regulatory environments. Offshoring is distinct from outsourcing, which may occur within the same country. The offshoring of manufacturing to China and services to India has significantly reshaped the U.S. economy. See Chapters 9, 21, and 22.
+
 ## O
 
 **OECD** — The Organisation for Economic Co-operation and Development, an intergovernmental organization of 38 member countries, mostly advanced economies, that promotes policies to improve economic and social well-being. OECD data and reports are frequently used for international comparisons of economic performance. See Chapter 31.
@@ -183,6 +201,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 ## P
 
 **Platform economics** — The study of multi-sided platforms that create value by facilitating interactions between two or more user groups. Platforms such as Amazon, Uber, and app stores exhibit network effects, often leading to winner-take-all dynamics. Understanding platform economics is essential for analyzing the modern technology sector. See Chapter 11.
+
+**Pharmacy benefit manager (PBM)** — A company that manages prescription drug benefits on behalf of health insurers and employers. PBMs negotiate drug prices with manufacturers, determine which drugs are covered (formulary management), and process claims. The three largest PBMs---CVS Caremark, Express Scripts, and OptumRx---control roughly 80% of the market and have been criticized for opaque pricing practices that may raise rather than lower drug costs. See Chapter 6.
 
 **Private equity** — An asset class consisting of equity investments in companies that are not publicly traded on a stock exchange. Private equity firms typically raise capital from institutional investors, acquire companies using significant leverage, restructure them to improve profitability, and sell them at a gain. See Chapter 20.
 
@@ -206,6 +226,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 
 **Reserve currency** — A currency held in large quantities by central banks and other institutions as part of their foreign exchange reserves. The U.S. dollar is the world's dominant reserve currency, which gives the United States significant economic advantages, including lower borrowing costs and the ability to run persistent trade deficits. See Chapter 21.
 
+**Reshoring** — The relocation of manufacturing or other business operations back to a company's home country, typically in response to rising overseas labor costs, supply chain disruptions, quality concerns, or policy incentives such as the CHIPS Act. Reshoring has accelerated since the COVID-19 pandemic highlighted vulnerabilities in globally dispersed supply chains. See Chapters 9 and 22.
+
 **Restructured electricity market** — An electricity market in which generation has been separated from transmission and distribution, and wholesale electricity prices are determined by competitive bidding among generators rather than by cost-of-service regulation. About two-thirds of U.S. electricity customers are served in restructured markets. See Chapter 14.
 
 **Risk-adjusted return** — A measure of investment performance that accounts for the amount of risk taken to achieve a return. Two investments may have the same nominal return, but the one achieved with less risk is considered superior on a risk-adjusted basis. Common risk-adjusted metrics include the Sharpe ratio and alpha. See Chapter 19.
@@ -215,6 +237,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 **Section 230** — Section 230 of the Communications Decency Act of 1996, which provides internet platforms with broad immunity from liability for content posted by their users. Often called the law that created the modern internet, Section 230 has become the subject of intense political debate from both sides of the aisle. See Chapter 11.
 
 **Section 301/232** — Provisions of U.S. trade law that authorize the President to impose tariffs or other trade barriers. Section 301 of the Trade Act of 1974 addresses unfair trade practices by foreign governments, while Section 232 of the Trade Expansion Act of 1962 allows tariffs on national security grounds. Both were used extensively to impose tariffs on Chinese goods and on steel and aluminum imports. See Chapter 21.
+
+**Seasonal adjustment** — A statistical technique applied to time-series data to remove predictable patterns that recur at the same time each year. For example, retail employment always rises in November-December; construction employment always falls in winter. Seasonally adjusted data strips out these expected variations to reveal underlying trends. Most headline economic statistics (unemployment rate, GDP growth, payroll employment) are reported on a seasonally adjusted basis. See Appendix A.
 
 **Securitization** — The financial process of pooling various types of contractual debt (such as mortgages, auto loans, or credit card receivables) and selling the consolidated cash flows to investors as tradable securities. Securitization was a major financial innovation of the late twentieth century and vastly expanded the availability of credit. See Chapter 19.
 
@@ -229,6 +253,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 **Stranded asset** — An asset that has suffered an unexpected or premature write-down, devaluation, or conversion to a liability, often due to regulatory changes, technological disruption, or shifts in market conditions. In the context of the energy transition, stranded assets typically refer to fossil fuel reserves or power plants that may become uneconomic before the end of their expected useful life. See Chapter 14.
 
 **Structural unemployment** — Unemployment that arises from a mismatch between the skills or locations of workers and the requirements or locations of available jobs. Unlike cyclical unemployment, which rises and falls with the business cycle, structural unemployment persists even when the economy is strong and often requires retraining or relocation to resolve. See Chapter 30.
+
+**Shadow banking** — Credit intermediation that occurs outside the traditional regulated banking system. Shadow banking includes money market funds, repo markets, asset-backed commercial paper, and private credit funds. The shadow banking system is several times larger than the traditional banking system by some measures and played a central role in the 2007-2009 financial crisis. Unlike banks, shadow banking entities do not have access to FDIC insurance or the Fed's discount window. See Chapter 18.
 
 **Supply chain** — The entire network of organizations, people, activities, information, and resources involved in moving a product or service from raw materials to the end consumer. Modern supply chains are global, complex, and increasingly vulnerable to disruption, as demonstrated during the COVID-19 pandemic. See Chapter 22.
 
@@ -261,6 +287,8 @@ This glossary compiles key economic, financial, and policy terms used throughout
 **Vertical integration** — A business strategy in which a firm controls multiple stages of the production or distribution process, from raw materials to final sale. Vertical integration can reduce transaction costs and secure supply chains but may also raise antitrust concerns. See Chapters 9 and 16.
 
 **Vibecession** — An informal term describing a situation in which public sentiment about the economy is significantly more negative than traditional economic indicators (such as GDP growth, unemployment, and job creation) would suggest. The term gained currency in 2022-2023 when consumer confidence diverged sharply from objective economic performance. See Chapter 31.
+
+**Winner-take-all market** — A market in which small differences in performance or quality lead to enormous differences in reward. In technology, finance, entertainment, and professional sports, the top firms or individuals capture a disproportionate share of revenue due to network effects, global reach, scalable production, or brand power. Winner-take-all dynamics are a major driver of income inequality at the top of the distribution. See Chapters 7, 8, 11, and the Interlude.
 
 ## W
 

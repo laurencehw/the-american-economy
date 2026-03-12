@@ -490,6 +490,15 @@ The UC model is under strain:
 
 UC remains a remarkable institution---world-class research combined with genuine socioeconomic diversity (40%+ of undergrads are Pell-eligible). But its future depends on political will to fund public higher education.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: School funding tied to local property taxes perpetuates disparities by race and class, while $1.7 trillion in student debt burdens lower-income graduates disproportionately.
+*Climate and Environment*: Campuses face growing pressure to achieve sustainability in operations, and educators debate how to integrate climate literacy across curricula.
+*Demographics*: Declining birth rates are driving a looming enrollment cliff that threatens the financial viability of hundreds of colleges and smaller school districts.
+*Technology and AI*: AI tutoring systems and online learning platforms are expanding access, but tools like ChatGPT are disrupting traditional assessment and raising fundamental questions about what education should teach.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

@@ -389,6 +389,15 @@ Horton focuses on the entry-level buyer—first-time purchasers and move-up fami
 
 The contrast with commercial construction is stark. D.R. Horton achieves productivity gains through standardization and scale. Commercial and infrastructure construction, bound by custom designs and local regulations, cannot.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: The housing affordability crisis is fundamentally a construction problem, and significant wage gaps persist across trades, with non-union and immigrant workers earning far less for comparable work.
+*Climate and Environment*: Buildings account for roughly 40% of U.S. energy consumption, and construction must increasingly prioritize both decarbonization and resilience to extreme weather events.
+*Demographics*: An aging skilled workforce and heavy dependence on immigrant labor mean that immigration policy and apprenticeship pipelines directly shape the industry's capacity.
+*Technology and AI*: Modular construction, Building Information Modeling (BIM), and emerging robotics offer paths to higher productivity in a sector that has resisted efficiency gains for decades.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

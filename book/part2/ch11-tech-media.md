@@ -431,6 +431,15 @@ The company's challenges remain significant. Content costs continue rising. Comp
 
 ---
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Winner-take-all compensation structures concentrate wealth among top engineers and executives, while the digital divide leaves lower-income communities without reliable broadband or digital skills.
+*Climate and Environment*: Rapidly expanding data centers consume enormous amounts of electricity and water, and the short product cycles of consumer electronics generate mounting e-waste.
+*Demographics*: The sector's young, highly educated workforce depends heavily on H-1B visa holders, making immigration policy a direct business concern.
+*Technology and AI*: AI is simultaneously the industry's most important product and its most disruptive force, reshaping everything from content creation to software development itself.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Government Sources

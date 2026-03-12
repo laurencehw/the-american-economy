@@ -61,9 +61,11 @@ Income inequality has multiple structural causes, most of which connect to the s
 
 **The rise of winner-take-all markets**. In technology (Chapter 11), finance (Chapter 8), professional services (Chapter 7), and entertainment, top performers capture disproportionate rewards. Network effects, global markets, and scalable production mean that the best software engineer, fund manager, or athlete can serve a much larger market than their predecessors could---and capture a much larger share of the revenue.
 
+**The shift from labor to capital income**. At the top of the distribution, the composition of income changes dramatically. For households in the top 10%, roughly 70% of income comes from wages and salaries. For the top 1%, this falls to approximately 40%; capital gains, business income, and investment returns comprise the majority. For the top 0.1%, capital income dominates almost entirely. This distinction matters: the rise in top-end inequality is driven less by wage differences between occupations (though those are real) and more by the concentration of capital ownership and the appreciation of financial assets. A CEO's $20 million compensation package is mostly stock-based; a hedge fund manager's carried interest is taxed as capital gains. The sectoral wage gaps described above explain inequality in the broad middle of the distribution; capital income concentration explains inequality at the very top.
+
 **Institutional changes**. Union membership has fallen from 35% of private-sector workers in the 1950s to under 6% today (Chapter 30). The federal minimum wage has been $7.25 since 2009, losing roughly 30% of its purchasing power to inflation. Corporate governance has shifted toward maximizing shareholder value, which has directed more income to capital owners and top executives.
 
-**Tax policy**. Top marginal income tax rates fell from 70% in 1980 to 37% today. Capital gains are taxed at lower rates than wage income. These policy choices amplify pre-tax inequality into even larger after-tax differences.
+**Tax policy**. Top marginal income tax rates fell from 70% in 1980 to 37% today. Capital gains are taxed at lower rates than wage income (20% vs. up to 37% for ordinary income). These policy choices amplify pre-tax inequality into even larger after-tax differences---and disproportionately benefit those whose income comes from capital rather than labor.
 
 {% hint style="success" %}
 **Deep Dive: The China Shock and Regional Inequality**
@@ -151,7 +153,7 @@ As Chapter 3 documented, economic activity concentrates geographically. So do in
 
 ## The Gender Pay Gap
 
-Women working full-time earned approximately 84 cents for every dollar earned by men in 2023---a ratio that has improved from 60 cents in 1980 but has plateaued since roughly 2005.
+Women working full-time earned approximately 84 cents for every dollar earned by men in 2023---a ratio that has improved from 60 cents in 1980 but has plateaued since roughly 2005. This is the *unadjusted* (or "raw") wage gap: it compares median earnings without controlling for occupation, industry, hours, or experience. The unadjusted figure captures the cumulative effect of all factors---occupational sorting, hours worked, career interruptions, and discrimination---which is why it remains the most commonly cited measure of gender economic inequality.
 
 The gap varies dramatically by occupation and sector:
 
@@ -175,8 +177,8 @@ Economist Raj Chetty and colleagues, using IRS tax records for millions of Ameri
 
 - A child born to parents in the bottom 20% of the income distribution has roughly a **7.5% chance** of reaching the top 20% as an adult.
 - A child born to parents in the top 20% has roughly a **33% chance** of remaining there.
-- Mobility varies dramatically by geography: Charlotte, NC has mobility rates comparable to developing countries; Salt Lake City's rates rival Denmark's.
-- Mobility has declined over time: roughly 90% of children born in 1940 earned more than their parents; for children born in 1980, the figure is roughly 50%.
+- Mobility varies dramatically by geography: in Charlotte, NC, a child born to parents at the 25th percentile has roughly a 4.4% chance of reaching the top quintile---comparable to developing countries. In Salt Lake City, the figure is 10.8%, rivaling Denmark's.
+- *Absolute* mobility has declined over time: roughly 90% of children born in 1940 earned more in real terms than their parents at the same age; for children born in 1980, the figure is roughly 50%. This decline reflects slower overall income growth and rising inequality---even if the economy grows, a smaller share of that growth reaches the middle and bottom of the distribution.
 
 <figure>
 <img src="../_figures/interlude/interlude_mobility_map.png" alt="Map of upward mobility rates by county showing highest mobility in Great Plains and lowest in Southeast" style="width: 100%; max-width: 800px;">
@@ -195,6 +197,8 @@ The distributional patterns described above are not separate from the sectoral a
 - **Institutions set the rules**: Federal governance (Chapter 28), labor law (Chapter 30), tax policy, and regulatory choices determine how the gains from production are divided.
 
 The economy described in the chapters ahead is not a neutral machine. It produces extraordinary abundance---and distributes it very unevenly. Keeping both facts in view is essential for understanding how America actually works.
+
+As you read the sector chapters in Part II, watch for how each industry's structure shapes distribution: who earns what, where the jobs concentrate, and how market power affects the division between labor income and capital income. The geographic patterns in Part V and the institutional rules in Part VI determine whether the structural forces described here produce broadly shared prosperity or deepening divergence.
 
 ## Key Takeaways
 

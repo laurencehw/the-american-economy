@@ -393,6 +393,15 @@ CVS exemplifies healthcare's vertical integration trend. What began as a retail 
 
 CVS's strategy bets that integrating pharmacy, insurance, and primary care can improve outcomes and reduce costs. The company is positioning its retail locations as healthcare destinations, not just pharmacies.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Uninsured rates vary dramatically by income and race, and health outcomes remain tightly correlated with socioeconomic status and geography.
+*Climate and Environment*: Climate change is driving increased heat-related illness, expanding vector-borne disease ranges, and forcing hospitals to invest in resilience against extreme weather events.
+*Demographics*: The aging of the baby-boom generation is the single largest demand driver in healthcare, straining the workforce and pushing spending on chronic disease management steadily upward.
+*Technology and AI*: AI-powered diagnostics, telehealth expansion, and electronic health records are reshaping care delivery, offering both efficiency gains and new questions about data privacy and algorithmic bias.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

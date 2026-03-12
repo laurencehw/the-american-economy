@@ -435,6 +435,15 @@ The model has drawn criticism for its treatment of workers. DSP drivers face int
 
 Amazon's logistics ambitions extend beyond its own packages. The company offers fulfillment services to third-party sellers on its marketplace and has begun handling small amounts of external freight. Whether Amazon becomes a full-fledged 3PL competitor or remains focused on its own e-commerce remains to be seen.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Spatial mismatch between where low-income workers live and where jobs are located, combined with inadequate public transit, creates a persistent barrier to economic mobility.
+*Climate and Environment*: Transportation accounts for 29% of U.S. greenhouse gas emissions, making the EV transition and freight decarbonization critical to climate goals.
+*Demographics*: The aging of long-haul truck drivers and chronic labor shortages in logistics threaten supply chain reliability.
+*Technology and AI*: Autonomous vehicles, route-optimization algorithms, and logistics AI promise productivity gains but raise urgent questions about displacement of millions of driving jobs.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
