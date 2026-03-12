@@ -1,6 +1,6 @@
 # 3. The Geography of Production
 
-Economic activity clusters intensely. Five states---California, Texas, New York, Florida, and Illinois---produce half of U.S. GDP. The New York metro area alone outproduces all but a handful of nations. Meanwhile, vast rural stretches have bled population and jobs for decades.
+Economic activity clusters intensely. Five states---California, Texas, New York, Florida, and Illinois---produce more than a third of U.S. GDP. Add the next five (Pennsylvania, Ohio, Georgia, New Jersey, and Washington), and ten states account for over half. The New York metro area alone outproduces all but a handful of nations. Meanwhile, vast rural stretches have bled population and jobs for decades.
 
 This concentration determines policy, politics, and opportunity. Where you live dictates available jobs, wages, and life prospects. To understand America, start with geography.
 
@@ -22,7 +22,8 @@ California's economy exceeds that of India or the United Kingdom. It would rank 
 
 <figure>
 <img src="../_figures/ch03/ch03_state_gdp.png" alt="Choropleth: California, Texas, New York, and Florida produce 40% of national GDP" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 3.0: State GDP (2023). California dominates at nearly $4 trillion, followed by Texas and New York. The top five states produce half of national output. Source: BEA Regional GDP</figcaption>
+<figcaption>Figure 3.0: State GDP (2023). California dominates at $3.25 trillion, followed by Texas and New York. The top five states produce 35% of national output; the top ten exceed 50%. Source: BEA Regional GDP</figcaption></invoke>
+</invoke>
 </figure>
 
 ### The Productivity Divide
@@ -30,18 +31,18 @@ California's economy exceeds that of India or the United Kingdom. It would rank 
 GDP per capita varies enormously across states:
 
 **Highest:**
-- Washington, D.C.: roughly $260,000 (distorted by small population and federal concentration)
+- Washington, D.C.: $260,000 (distorted by small population and federal concentration)
 - New York: $111,000
 - Massachusetts: $105,000
 - Washington State: $95,000
 - California: $83,000
 
 **Lowest:**
-- Mississippi: roughly $30,000
-- West Virginia: roughly $32,000
-- Arkansas: roughly $35,000
-- Alabama: roughly $37,000
-- New Mexico: roughly $38,000
+- Mississippi: $30,000
+- West Virginia: $32,000
+- Arkansas: $35,000
+- Alabama: $37,000
+- New Mexico: $38,000
 
 *Source: Bureau of Economic Analysis, Regional Economic Accounts, 2023*
 
@@ -310,7 +311,7 @@ Economic policy debates---over trade, immigration, climate, taxation---often pit
 
 ### Review Questions
 
-1. Five states produce roughly half of U.S. GDP. Name them and identify the dominant industry or economic driver in each. Why does economic activity concentrate so heavily rather than spreading evenly?
+1. Five states produce more than a third of U.S. GDP; ten states produce more than half. Name the top five and identify the dominant industry or economic driver in each. Why does economic activity concentrate so heavily rather than spreading evenly?
 
 2. Define "agglomeration economies" and explain three mechanisms through which they operate. Why might a tech firm choose to locate in an expensive city like San Francisco rather than a low-cost city with available workers?
 

@@ -435,6 +435,15 @@ New York City operates the largest municipal government in the United States, wi
 
 **Complexity**: The city government interacts with numerous independent authorities (MTA, Port Authority, CUNY), state mandates, and federal programs. The MTA (which runs subways and buses) is technically a state agency, not city-controlled, creating persistent governance tensions.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Government is the primary mechanism for redistribution through progressive taxation, transfer payments, and safety-net programs like Medicaid and SNAP that directly reduce income inequality.
+*Climate and Environment*: Federal agencies like the EPA set emissions standards, while landmark legislation such as the Inflation Reduction Act channels hundreds of billions toward clean energy investment.
+*Demographics*: An aging population places mounting pressure on Social Security and Medicare, while the government workforce itself faces a retirement wave that threatens institutional knowledge.
+*Technology and AI*: IRS modernization and the push toward digital government services illustrate both the potential for efficiency gains and the challenge of upgrading decades-old legacy systems.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

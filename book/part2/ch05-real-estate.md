@@ -411,6 +411,15 @@ D.R. Horton calls itself "America's Builder," and the title is earned through sh
 
 The company operates less like a traditional construction firm and more like a manufacturing operation. Standardized floor plans minimize design costs. Bulk purchasing of lumber, appliances, and finishes provides leverage with suppliers. Vertical integration into mortgage (DHI Mortgage) and title services captures additional margin. The model works in boom times (volume multiplies) and busts (they can cut land purchases and survive on lower volumes)—D.R. Horton emerged from 2008 stronger than almost any competitor. They are, in effect, the Walmart of homebuilding: winning on cost, scale, and logistics rather than luxury or craft.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Homeownership remains the single largest wealth-building vehicle for American families, and the persistent racial homeownership gap is a primary driver of the racial wealth divide.
+*Climate and Environment*: Rising flood, wildfire, and hurricane risk is reshaping property values in exposed areas, while escalating insurance costs and insurer retreats threaten the financial viability of housing in entire regions.
+*Demographics*: Millennials entering peak homebuying years collide with aging boomers choosing to age in place, tightening supply at both ends of the market.
+*Technology and AI*: Proptech innovations including iBuying platforms, automated valuations, and virtual tours are transforming how homes are marketed, priced, and transacted.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

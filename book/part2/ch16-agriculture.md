@@ -406,6 +406,15 @@ The poultry segment, Tyson's original business, operates on the integrator model
 
 Tyson has faced recurring controversies: antitrust investigations into price-fixing (the company paid over $220 million to settle chicken price-fixing claims in 2021), workplace safety issues (particularly during the COVID-19 pandemic, when meatpacking plants became major infection sites), environmental complaints about water pollution from poultry operations, and labor practices at its processing plants. The company has invested in automation to reduce labor dependence and improve working conditions, but the nature of meat processing makes full automation elusive.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Accelerating farm consolidation squeezes out small and mid-size operations, while farmworkers remain among the lowest-paid and least-protected laborers in America.
+*Climate and Environment*: Extreme weather, aquifer depletion, and soil degradation pose existential threats to agricultural productivity, yet farming itself is a major source of greenhouse gas emissions.
+*Demographics*: The average American farmer is nearly 60 years old, and the sector depends heavily on immigrant labor whose availability is shaped by shifting immigration enforcement.
+*Technology and AI*: Precision agriculture, autonomous equipment, and farm data platforms promise efficiency gains but raise contentious questions about data ownership and corporate control.
+{% endhint %}
+
 ## Key Takeaways
 
 1. **American agriculture is extraordinarily productive but economically small.** Fewer than 2% of workers farm, and agriculture's direct GDP share is roughly 1%---but the broader food system employing 21 million people and generating over $1.3 trillion depends on what those farms produce.

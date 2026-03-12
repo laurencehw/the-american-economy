@@ -329,6 +329,15 @@ Deere has sparked controversy over its equipment software policies, with farmers
 
 ---
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: The decline of manufacturing employment has hollowed out middle-income communities, contributing to wage polarization between high-skill knowledge workers and low-wage service jobs.
+*Climate and Environment*: Industry accounts for a major share of greenhouse gas emissions, but green manufacturing initiatives and the energy transition are also creating new production opportunities in batteries, solar panels, and EVs.
+*Demographics*: An aging skilled workforce and persistent difficulty attracting younger workers into trades create a widening skills gap that constrains production capacity.
+*Technology and AI*: Automation, robotics, and Industry 4.0 technologies are transforming factory floors, boosting productivity while further reducing the labor intensity of American manufacturing.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Government Sources

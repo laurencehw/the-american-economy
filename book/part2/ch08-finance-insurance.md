@@ -487,6 +487,15 @@ BlackRock's scale creates influence beyond pure asset management. The firm is am
 
 The firm also advises governments: BlackRock helped the Fed design its corporate bond-buying programs in 2020, raising questions about conflicts of interest.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Capital income is far more concentrated than labor income, and unequal access to financial services and investment opportunities compounds wealth disparities across racial and class lines.
+*Climate and Environment*: Insurers are retreating from climate-exposed markets as losses mount, while the financial sector faces growing pressure to account for stranded fossil-fuel assets and transition risk.
+*Demographics*: The adequacy of retirement savings is a looming crisis as boomers draw down assets and longer lifespans stretch the planning horizon for defined-contribution participants.
+*Technology and AI*: Fintech platforms, algorithmic trading, and AI-driven underwriting are disrupting traditional intermediation, lowering costs for some consumers while raising new concerns about systemic risk and market stability.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

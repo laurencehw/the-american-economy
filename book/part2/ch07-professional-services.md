@@ -451,6 +451,15 @@ The firm exemplifies the consolidation trend in A&E: it was built through dozens
 
 AECOM's business is heavily tied to government infrastructure spending. It ranks among the largest federal contractors and derives substantial revenue from state and local transportation departments. This makes it sensitive to public sector budget cycles but provides relative stability compared to private-sector-focused competitors.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Professional services epitomize winner-take-all compensation dynamics, where the education premium and partnership structures concentrate earnings at the top of the income distribution.
+*Climate and Environment*: Surging demand for ESG consulting, carbon accounting, and climate-risk advisory has created one of the fastest-growing practice areas across major firms.
+*Demographics*: A wave of senior partner retirements threatens institutional client relationships, while firms compete intensely for a shrinking pipeline of young talent willing to accept demanding work cultures.
+*Technology and AI*: AI tools are automating routine legal research, audit procedures, and financial analysis, threatening traditional billable-hour models while creating opportunities in LegalTech and advisory around AI adoption itself.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

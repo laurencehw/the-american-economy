@@ -5,16 +5,16 @@ The United States consumes more energy than any country except China, burning th
 ## Overview
 
 **Size and Scope**
-- Total energy spending: roughly $1.5 trillion annually
-  - Electricity: roughly $450 billion (retail sales)
-  - Petroleum products: roughly $600 billion
-  - Natural gas (non-electric): roughly $150 billion
-  - Other: roughly $300 billion
-- GDP contribution: roughly $500 billion directly (utilities, extraction, refining); roughly $800 billion including related sectors
-- Employment: roughly 1.2 million direct (utilities, extraction, refining); roughly 3 million including support services
+- Total energy spending: $1.5 trillion annually
+  - Electricity: $450 billion (retail sales)
+  - Petroleum products: $600 billion
+  - Natural gas (non-electric): $150 billion
+  - Other: $300 billion
+- GDP contribution: $500 billion directly (utilities, extraction, refining); $800 billion including related sectors (pipeline construction, energy equipment, environmental services)
+- Employment: 1.2 million direct (utilities, extraction, refining); 3 million including support services
 - Key subsectors: Electric utilities, oil and gas extraction, petroleum refining, pipelines, renewable generation, energy services
 
-Energy's direct share of GDP (roughly 3-4%) understates its importance. Energy is an input to every other sector: manufacturing, transportation, agriculture, and buildings all depend on reliable, affordable energy. Energy price shocks ripple through the economy; energy geography shapes regional development; energy policy drives some of the largest investment flows in the economy.
+Energy's direct share of GDP (3-4%) understates its importance. Energy is an input to every other sector: manufacturing, transportation, agriculture, and buildings all depend on reliable, affordable energy. Energy price shocks ripple through the economy; energy geography shapes regional development; energy policy drives some of the largest investment flows in the economy.
 
 The sector is also unusually capital-intensive. A single nuclear plant costs $20-30 billion; a major offshore oil platform $1-5 billion; even utility-scale solar projects run hundreds of millions. This capital intensity creates long asset lives, path dependence, and high barriers to entry.
 
@@ -24,7 +24,7 @@ The sector is also unusually capital-intensive. A single nuclear plant costs $20
 
 Electricity is unique among commodities: it cannot be economically stored at scale (yet), so supply must match demand instantaneously. This physical constraint shapes everything about how the industry operates.
 
-**Generation** (roughly 4,200 TWh annually):
+**Generation** (4,178 TWh in 2024):
 
 | Source | Share (2024) | Trend |
 |--------|--------------|-------|
@@ -64,7 +64,7 @@ Limited transmission between these interconnections constrains the ability to ba
 
 **Distribution** delivers power from substations to end users over lower-voltage lines. Distribution utilities---often the same companies that own transmission---maintain local networks and handle customer billing.
 
-**Retail Sales** (roughly $450 billion):
+**Retail Sales** ($450 billion):
 
 | Customer Class | Share of Sales | Share of Revenue |
 |----------------|----------------|------------------|
@@ -72,20 +72,20 @@ Limited transmission between these interconnections constrains the ability to ba
 | Commercial | 36% | 35% |
 | Industrial | 26% | 21% |
 
-Residential customers pay the highest rates (roughly 15 cents/kWh national average); industrial customers the lowest (roughly 8 cents/kWh) due to volume and load characteristics.
+Residential customers pay the highest rates (16.1 cents/kWh national average in 2024); industrial customers the lowest (8.4 cents/kWh) due to volume and load characteristics.
 
 ### The Two Models: Regulated vs. Restructured
 
 Electricity operates under two fundamentally different market structures:
 
-**Regulated/Vertically Integrated** (roughly 30 states):
+**Regulated/Vertically Integrated** (about 30 states):
 - A single utility owns generation, transmission, and distribution
 - Utility earns a regulated rate of return on invested capital
 - State Public Utility Commission (PUC) approves rates and investments
 - No wholesale competition; utility must serve all load
 - Dominant in the South, West, and much of the Midwest
 
-**Restructured/Deregulated** (roughly 20 states + DC):
+**Restructured/Deregulated** (about 20 states + DC):
 - Generation separated from transmission/distribution
 - Competitive wholesale markets operated by Independent System Operators (ISOs)
 - Retail choice: customers can buy from competing suppliers (in some states)
@@ -146,6 +146,39 @@ Refined products flow to retail through:
 - California, Texas, Arizona leading deployment
 
 The Inflation Reduction Act (2022) provides 10-year tax credits for wind, solar, and storage, accelerating deployment. Annual utility-scale solar installations are expected to reach 50+ GW by 2030.
+
+{% hint style="success" %}
+**Deep Dive: The Levelized Cost Revolution**
+
+The economics of electricity generation have transformed in a single decade. Levelized cost of energy (LCOE)---the all-in cost per megawatt-hour over a plant's lifetime---tells the story:
+
+| Source | LCOE (2024, $/MWh) | LCOE (2010, $/MWh) | Change |
+|--------|---------------------|---------------------|--------|
+| Utility-scale solar | $30-40 | $350+ | -90% |
+| Onshore wind | $25-45 | $100+ | -70% |
+| Natural gas (combined cycle) | $45-75 | $60-80 | Stable |
+| Coal | $65-150 | $65-100 | Rising |
+| Nuclear (new build) | $130-200 | $100-130 | Rising |
+| Offshore wind | $70-110 | $200+ | -55% |
+
+*Source: Lazard Levelized Cost of Energy Analysis, 2024; EIA Annual Energy Outlook*
+
+New solar and wind are now cheaper than operating many existing coal plants---meaning it costs less to build new renewables than to keep burning coal in plants that have already been paid for. This economic reality, more than any policy mandate, is driving the energy transition. The caveat: LCOE doesn't capture integration costs (backup generation, transmission, storage) needed when the wind doesn't blow or the sun doesn't shine. Adding 4-hour battery storage raises solar's effective cost to $55-80/MWh---still competitive with gas, but the comparison is tighter than raw LCOE suggests.
+{% endhint %}
+
+### Grid Modernization: The Transmission Bottleneck
+
+The biggest obstacle to the energy transition is not generation costs---it's the grid. The U.S. transmission system was built for a world of large, centralized power plants near population centers. The new energy geography---wind in the Great Plains, solar in the Southwest---requires moving power across long distances to coastal and urban load centers.
+
+**The scale of the problem**: Studies by the Department of Energy and Princeton's REPEAT Project estimate that the U.S. needs to roughly double its high-voltage transmission capacity by 2035 to integrate planned renewable generation. Current permitting timelines for major transmission lines average 10-12 years---far too slow.
+
+**Why it's hard**:
+- Transmission lines cross multiple states, each with its own siting authority
+- Cost allocation disputes: Who pays for a line that benefits one state but crosses another?
+- Landowner opposition: Unlike buried pipelines, transmission towers are visible and create easement conflicts
+- FERC has limited authority to override state objections (unlike for natural gas pipelines)
+
+**What's changing**: FERC Order 2023 reformed the interconnection queue, which had a 5-year backlog of projects waiting for grid access. The Bipartisan Infrastructure Law funded $2.5 billion in transmission and the DOE designated National Interest Electric Transmission Corridors to expedite permitting. Whether these reforms are sufficient remains an open question.
 
 ## Industry Structure
 
@@ -331,9 +364,11 @@ Transmission constraints limit the ability to move cheap renewable power (from w
 
 **Utilities**: Stable but aging workforce. Many utility workers are 50+; retirements are creating succession challenges. Strong union presence (IBEW, UWUA).
 
-**Solar**: Fastest-growing energy occupation, but jobs tend to be lower-wage than traditional energy. Installation is labor-intensive but doesn't require specialized credentials (unlike utility or oil/gas work).
+**Solar**: Fastest-growing energy occupation, but jobs tend to be lower-wage than traditional energy. Installation is labor-intensive but doesn't require specialized credentials (unlike utility or oil/gas work). Median solar installer wage ($50,000) is roughly half that of a utility lineworker or oil/gas extraction worker.
 
-**Geographic concentration**: Energy jobs concentrate in producing regions (Texas, Gulf Coast, Appalachia, Rockies). The energy transition implies job losses in some regions (coal communities) and gains in others (solar manufacturing, offshore wind ports).
+**The workforce transition challenge**: The energy transition creates a geographic and skills mismatch. Coal mining employment has fallen from 90,000 (2012) to roughly 40,000 (2024), concentrated in Appalachia and Wyoming. These are well-paying union jobs ($65,000-85,000) in communities with few alternatives. Renewable energy jobs are growing faster than fossil fuel jobs are declining---the Department of Energy's 2024 Energy and Employment Report counts 3.4 million clean energy workers nationally---but the new jobs often appear in different locations, require different skills, and pay less. A coal miner in West Virginia cannot readily become a solar installer in Texas. Federal programs (the POWER Initiative, Trade Adjustment Assistance) provide retraining and economic development funding to affected communities, but results have been mixed: most successful transitions involve communities diversifying their economies beyond energy entirely rather than simply swapping one energy source for another.
+
+**Geographic concentration**: Energy jobs concentrate in producing regions (Texas, Gulf Coast, Appalachia, Rockies). The mismatch between where fossil fuel jobs are lost and where clean energy jobs are created is the central equity challenge of the transition.
 
 ## Regulation and Policy
 

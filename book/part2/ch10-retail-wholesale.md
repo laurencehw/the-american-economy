@@ -305,6 +305,15 @@ The stores deliberately avoid optimization. Costco doesn't tell you where things
 
 Costco's treatment of workers is famously generous by retail standards. Average wages exceed $28/hour; benefits are comprehensive; turnover is a fraction of industry norms. The company's co-founder, Jim Sinegal, argued that happy, productive workers more than pay for themselves. The stock market has agreed: Costco's share price has consistently outperformed competitors.
 
+{% hint style="info" %}
+**Cross-Cutting Connections**
+
+*Inequality*: Retail employs millions at low wages with unpredictable scheduling, making it one of the largest sources of working poverty in America.
+*Climate and Environment*: Supply chain disruptions from extreme weather threaten inventory flows, while the explosion of last-mile e-commerce delivery has sharply increased transportation emissions.
+*Demographics*: An aging consumer base is shifting spending toward health and services, while Gen Z's preference for experiential and online shopping is reshaping store formats.
+*Technology and AI*: E-commerce, automated fulfillment warehouses, and cashierless store concepts are transforming the sector's labor model and competitive dynamics.
+{% endhint %}
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
