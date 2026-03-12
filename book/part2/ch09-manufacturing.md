@@ -49,7 +49,7 @@ Manufacturing's roughly $3 trillion GDP contribution distributes unevenly across
 
 <figure>
 <img src="../_figures/ch09/ch09_subsector_value_added.png" alt="Manufacturing value added: chemicals, transportation equipment, food, and computers lead" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 9.2: Manufacturing value added by subsector. Chemicals (including pharmaceuticals) lead, followed by computers/electronics and food products. Source: BEA (2023)</figcaption>
+<figcaption>Figure 9.2: Manufacturing value added by subsector. Chemicals (including pharmaceuticals) and computers/electronics lead---high-value, capital-intensive industries that have survived offshoring, unlike labor-intensive sectors such as textiles and furniture. Source: BEA (2023)</figcaption>
 </figure>
 
 **Chemical products** (including pharmaceuticals) constitute the largest subsector by value-added, contributing approximately $420 billion. This category spans industrial chemicals (basic organic and inorganic compounds), specialty chemicals (catalysts, additives), and pharmaceuticals. The petrochemical industry clusters along the Gulf Coast, exploiting cheap natural gas as feedstock. Pharmaceutical manufacturing concentrates in New Jersey, Massachusetts, and North Carolina, near research universities and biotechnology clusters. Major players include Dow, DuPont (now separate companies after a merger and re-split), BASF's American operations, and pharmaceutical giants like Pfizer, Johnson & Johnson, Merck, and AbbVie.
@@ -99,7 +99,7 @@ The largest American manufacturers by revenue (excluding pure energy companies):
 
 <figure>
 <img src="../_figures/ch09/ch09_top_manufacturers.png" alt="Top U.S. manufacturers by revenue led by Apple, ExxonMobil, and General Motors" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 9.3: Top U.S. manufacturers by revenue. Apple leads by a wide margin, though its manufacturing is contracted out. Source: Company data (2023)</figcaption>
+<figcaption>Figure 9.3: Top U.S. manufacturers by revenue. Apple leads by a wide margin despite owning no factories---it captures the lion's share of value through design and software while contracting all physical production to suppliers in China, illustrating how "manufacturing" increasingly means value capture, not production. Source: Company data (2023)</figcaption>
 </figure>
 
 Apple's position at the top illustrates manufacturing's complexity: the company designs products in California and captures enormous value through brand, design, and software, but contracts virtually all physical manufacturing to suppliers in China. As Patrick McGee documents in *Apple in China* (2025), this arrangement reflects deliberate strategic choices over decades. Foxconn's Zhengzhou facility alone employs over 200,000 workers assembling iPhones—a workforce concentration that would be impossible to replicate in the United States given labor costs, supply chain proximity, and the sheer density of component suppliers within a few hours' drive. Apple's China dependence has become a geopolitical vulnerability, prompting modest diversification toward India and Vietnam, but China remains the center of gravity for iPhone production. Whether Apple is a "manufacturer" depends on definition—it captures the lion's share of value while owning none of the factories.
@@ -174,7 +174,7 @@ Automotive manufacturing has the highest robot penetration, with welding, painti
 
 <figure>
 <img src="../_figures/ch09/ch09_robot_density.png" alt="Industrial robot density: South Korea and Germany lead, U.S. in middle tier globally" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 9.4: Industrial robot density (robots per 10,000 manufacturing workers). The U.S. lags South Korea and Germany; China has surpassed U.S. density. Source: IFR (2023)</figcaption>
+<figcaption>Figure 9.4: Industrial robot density (robots per 10,000 manufacturing workers). Despite its technological prowess, the U.S. (295 robots per 10,000 workers) lags South Korea (1,000) and Germany, and has been surpassed by China (470)---a gap that suggests continued manufacturing employment pressure as automation expands. Source: IFR (2023)</figcaption>
 </figure>
 
 The automation trajectory suggests continued manufacturing employment pressure. Advances in robotics, machine vision, and artificial intelligence expand the range of automatable tasks. Collaborative robots ("cobots") that work alongside humans, rather than in caged workcells, enable automation of tasks previously requiring human flexibility. While alarmist predictions of mass technological unemployment have repeatedly proven premature, manufacturing employment will continue its long-term decline.

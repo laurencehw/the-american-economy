@@ -36,11 +36,11 @@ The dominance is no accident. Deep capital markets require legal infrastructure 
 
 American stock trading is dominated by two exchange families, though the landscape is more fragmented than it appears.
 
-**The New York Stock Exchange (NYSE)** remains the world's largest exchange by market capitalization of listed companies (roughly $28 trillion). Originally a specialist-based floor trading operation dating to 1792, the NYSE has evolved into a hybrid model combining electronic matching with designated market makers (DMMs) who provide liquidity for assigned stocks. The trading floor at 11 Wall Street, while largely ceremonial for routine trading, still handles complex orders and the opening/closing auctions.
+**The New York Stock Exchange (NYSE)** remains the world's largest exchange by market capitalization of listed companies ($28 trillion). Originally a specialist-based floor trading operation dating to 1792, the NYSE has evolved into a hybrid model combining electronic matching with designated market makers (DMMs) who provide liquidity for assigned stocks. The trading floor at 11 Wall Street, while largely ceremonial for routine trading, still handles complex orders and the opening/closing auctions.
 
 The NYSE is owned by Intercontinental Exchange (ICE), an Atlanta-based exchange conglomerate that acquired NYSE Euronext in 2013 for $8.2 billion. ICE also owns ICE Futures (commodities and financial futures), ICE Clear (clearinghouses), and a data services business.
 
-**NASDAQ** began in 1971 as the first electronic stock market—the National Association of Securities Dealers Automated Quotations system. Originally a quotation display system for over-the-counter stocks, it evolved into a full exchange and is now the second-largest globally by market capitalization (roughly $23 trillion). NASDAQ's all-electronic model and lower listing fees attracted technology companies, creating a self-reinforcing concentration: tech firms list on NASDAQ because other tech firms are there.
+**NASDAQ** began in 1971 as the first electronic stock market—the National Association of Securities Dealers Automated Quotations system. Originally a quotation display system for over-the-counter stocks, it evolved into a full exchange and is now the second-largest globally by market capitalization ($23 trillion). NASDAQ's all-electronic model and lower listing fees attracted technology companies, creating a self-reinforcing concentration: tech firms list on NASDAQ because other tech firms are there.
 
 NASDAQ Inc. also owns NASDAQ Nordic/Baltic exchanges, The NASDAQ Options Market, and several data businesses. The company is headquartered in Times Square.
 
@@ -63,17 +63,17 @@ NASDAQ Inc. also owns NASDAQ Nordic/Baltic exchanges, The NASDAQ Options Market,
 
 Stocks listed on NYSE or NASDAQ don't trade only on those exchanges. The National Market System (NMS) created by Regulation NMS (2005) allows any registered exchange or alternative trading system (ATS) to execute trades in any listed stock. This promotes competition but fragments liquidity across dozens of venues.
 
-**Alternative Trading Systems (ATSs)** and dark pools handle significant volume. Dark pools—private trading venues that don't display quotes publicly—emerged to help institutional investors execute large orders without moving prices. Major dark pools include Credit Suisse Crossfinder, UBS MTF, and Goldman Sachs Sigma X. They handle roughly 15% of equity volume.
+**Alternative Trading Systems (ATSs)** and dark pools handle significant volume. Dark pools—private trading venues that don't display quotes publicly—emerged to help institutional investors execute large orders without moving prices. Major dark pools include Credit Suisse Crossfinder, UBS MTF, and Goldman Sachs Sigma X. They handle 15% of equity volume.
 
 **Payment for Order Flow (PFOF)** has become central to retail trading economics. Retail brokers like Robinhood, Charles Schwab, and E*TRADE route customer orders to wholesale market makers—Citadel Securities, Virtu Financial, and others—who pay for the order flow. The market makers profit from the spread between their buy and sell prices; the brokers profit from PFOF; retail investors get commission-free trades and often modest price improvement versus displayed quotes. Critics argue the system creates conflicts of interest; defenders note retail execution quality has improved.
 
-**High-Frequency Trading (HFT)** firms now dominate market making. Citadel Securities handles roughly 27% of all U.S. equity volume. Virtu Financial, Jane Street, and Two Sigma are other major players. These firms use co-located servers (physically near exchange matching engines), sophisticated algorithms, and massive technology investment to capture tiny spreads across millions of trades. HFT has compressed bid-ask spreads but raised concerns about flash crashes and market stability.
+**High-Frequency Trading (HFT)** firms now dominate market making. Citadel Securities handles 27% of all U.S. equity volume. Virtu Financial, Jane Street, and Two Sigma are other major players. These firms use co-located servers (physically near exchange matching engines), sophisticated algorithms, and massive technology investment to capture tiny spreads across millions of trades. HFT has compressed bid-ask spreads but raised concerns about flash crashes and market stability.
 
 ### Market Indices
 
 Stock indices serve as benchmarks for investment performance and as underlying assets for index funds and derivatives.
 
-**The S&P 500**, maintained by S&P Dow Jones Indices (a subsidiary of S&P Global), tracks 500 large-cap U.S. stocks selected by committee. It's market-cap weighted, meaning larger companies have more influence. The S&P 500 represents roughly 80% of U.S. market capitalization and has become the default benchmark for U.S. equity performance.
+**The S&P 500**, maintained by S&P Dow Jones Indices (a subsidiary of S&P Global), tracks 500 large-cap U.S. stocks selected by committee. It's market-cap weighted, meaning larger companies have more influence. The S&P 500 represents 80% of U.S. market capitalization and has become the default benchmark for U.S. equity performance.
 
 **The Dow Jones Industrial Average**, despite its fame, is a price-weighted index of only 30 stocks—an anachronistic methodology that gives higher-priced stocks more weight regardless of company size.
 
@@ -81,7 +81,7 @@ Stock indices serve as benchmarks for investment performance and as underlying a
 
 **Russell 2000** tracks small-cap stocks and is the standard benchmark for that segment.
 
-Index composition matters enormously because roughly $15 trillion tracks the S&P 500 directly or in benchmarked strategies. When a stock enters or leaves the index, passive funds must buy or sell, creating predictable price movements that active traders exploit.
+Index composition matters enormously because $15 trillion tracks the S&P 500 directly or in benchmarked strategies. When a stock enters or leaves the index, passive funds must buy or sell, creating predictable price movements that active traders exploit.
 
 ### IPOs and Capital Raising
 
@@ -146,7 +146,7 @@ The scale of buybacks means many large corporations are net *withdrawers* of equ
 
 ### The Equity Premium Puzzle
 
-A persistent finding in finance: stocks have historically returned far more than bonds, even after adjusting for risk. The "equity premium"—the excess return of stocks over Treasury bills—has averaged roughly 6% annually over the past century.
+A persistent finding in finance: stocks have historically returned far more than bonds, even after adjusting for risk. The "equity premium"—the excess return of stocks over Treasury bills—has averaged 6% annually over the past century.
 
 This premium is difficult to explain with standard economic models. Risk aversion would have to be implausibly high to justify avoiding stocks given historical returns. Various explanations have been proposed:
 
@@ -190,7 +190,7 @@ The Treasury Department issues securities through regular auctions. Primary deal
 
 *Source: Treasury Bulletin; figures approximate*
 
-Foreign holdings of Treasury securities peaked around 35% and have declined as the Fed expanded its balance sheet. China and Japan remain the largest foreign holders, each with roughly $1 trillion.
+Foreign holdings of Treasury securities peaked around 35% and have declined as the Fed expanded its balance sheet. China and Japan remain the largest foreign holders, each with $1 trillion.
 
 ### The Term Structure of Interest Rates
 
@@ -218,13 +218,13 @@ The **10-year Treasury yield** is the benchmark rate for the U.S. economy, influ
 <figcaption>Figure 19.2: U.S. bond markets by segment. Treasury securities dominate, followed by mortgage-backed securities and corporate bonds. The $50+ trillion market dwarfs equities by outstanding value. Source: SIFMA</figcaption>
 </figure>
 
-Corporations borrow in bond markets to fund operations, acquisitions, and capital expenditures. The corporate bond market totals roughly $10 trillion outstanding.
+Corporations borrow in bond markets to fund operations, acquisitions, and capital expenditures. The corporate bond market totals $10 trillion outstanding.
 
 **Investment grade bonds** (rated BBB- or higher by S&P) from established companies trade in liquid markets with tight spreads over Treasuries. Major issuers include Apple, Microsoft, JPMorgan, and other blue chips.
 
 **High-yield bonds** (rated BB+ or lower), also called "junk bonds," offer higher coupons to compensate for default risk. The high-yield market developed in the 1980s, pioneered by Drexel Burnham Lambert's Michael Milken. Today, high-yield issuers include leveraged buyout targets, distressed companies, and growing firms without investment-grade ratings.
 
-**Credit spreads**—the yield difference between corporate bonds and Treasuries—widen during economic stress and narrow during expansions. The ICE BofA High Yield Spread, tracking the average spread over Treasuries for high-yield bonds, ranges from roughly 300 basis points (3%) in good times to 1,000+ basis points (10%) during crises.
+**Credit spreads**—the yield difference between corporate bonds and Treasuries—widen during economic stress and narrow during expansions. The ICE BofA High Yield Spread, tracking the average spread over Treasuries for high-yield bonds, ranges from 300 basis points (3%) in good times to 1,000+ basis points (10%) during crises.
 
 **Table 19.4: Corporate Bond Spreads (basis points over Treasuries)**
 
@@ -246,11 +246,11 @@ State and local governments issue municipal bonds to fund infrastructure, school
 
 **General obligation (GO) bonds** are backed by the issuer's taxing power. **Revenue bonds** are backed by specific revenue streams (toll roads, airports, water systems).
 
-The tax exemption means municipal yields are lower than taxable bonds—but the after-tax return can be higher for investors in high tax brackets. A "muni" yielding 3% is equivalent to a taxable bond yielding roughly 5% for an investor in the 40% combined tax bracket.
+The tax exemption means municipal yields are lower than taxable bonds—but the after-tax return can be higher for investors in high tax brackets. A "muni" yielding 3% is equivalent to a taxable bond yielding 5% for an investor in the 40% combined tax bracket.
 
 Credit quality varies widely. Most states maintain investment-grade ratings, but some municipalities have defaulted—most notably Detroit (2013) and Puerto Rico (2015-2022, the largest municipal bankruptcy).
 
-The municipal market is less liquid than Treasury or corporate markets, with thousands of individual issuers and issues. Retail investors hold roughly 45% of municipal bonds, often through municipal bond funds.
+The municipal market is less liquid than Treasury or corporate markets, with thousands of individual issuers and issues. Retail investors hold 45% of municipal bonds, often through municipal bond funds.
 
 ## Derivatives Markets
 
@@ -361,7 +361,7 @@ The geographic concentration is striking: California accounted for 45% of VC dea
 
 Capital markets activity concentrates heavily in a few locations.
 
-**New York City** dominates. Lower Manhattan houses NYSE and major bank headquarters. Midtown contains the offices of investment banks, asset managers, hedge funds, and PE firms. The New York Fed, located on Liberty Street, conducts monetary policy operations. Roughly 330,000 people work in financial services in New York City.
+**New York City** dominates. Lower Manhattan houses NYSE and major bank headquarters. Midtown contains the offices of investment banks, asset managers, hedge funds, and PE firms. The New York Fed, located on Liberty Street, conducts monetary policy operations. 330,000 people work in financial services in New York City.
 
 **Chicago** is the derivatives capital. CME Group, CBOE, and associated trading firms are headquartered there. The city's role dates to the 19th century grain trade; today it hosts the world's most important futures and options markets.
 
@@ -421,7 +421,7 @@ The plumbing of capital markets—clearinghouses, depositories, payment systems�
 
 ### The Passive Investing Revolution
 
-Index funds and ETFs have captured an ever-larger share of equity assets. Roughly 50% of U.S. equity mutual fund and ETF assets now track indices, up from 20% in 2010.
+Index funds and ETFs have captured an ever-larger share of equity assets. 50% of U.S. equity mutual fund and ETF assets now track indices, up from 20% in 2010.
 
 The implications are profound:
 - **Fee compression**: Average equity fund fees have fallen from 1%+ to 0.5% as money flows to low-cost index funds
@@ -431,7 +431,7 @@ The implications are profound:
 
 ### Private Market Expansion
 
-Private markets have grown faster than public markets. The number of U.S. public companies has declined from 8,000 in 1996 to roughly 4,400 today, while private equity-backed companies have multiplied.
+Private markets have grown faster than public markets. The number of U.S. public companies has declined from 8,000 in 1996 to 4,400 today, while private equity-backed companies have multiplied.
 
 Companies stay private longer, completing more funding rounds before going public. When they do IPO, valuations are often in the tens of billions. This means retail investors can access companies only after much of the growth has occurred.
 
@@ -455,7 +455,7 @@ The SEC ultimately proposed but did not implement PFOF restrictions, instead req
 
 Cryptocurrency markets have developed alongside traditional capital markets, though with more volatility and less regulation.
 
-Bitcoin, the largest cryptocurrency by market cap (roughly $800 billion), trades on crypto exchanges (Coinbase, Kraken) and, since January 2024, through SEC-approved spot Bitcoin ETFs. Ethereum (roughly $280 billion) is the second-largest.
+Bitcoin, the largest cryptocurrency by market cap ($800 billion), trades on crypto exchanges (Coinbase, Kraken) and, since January 2024, through SEC-approved spot Bitcoin ETFs. Ethereum ($280 billion) is the second-largest.
 
 The SEC has aggressively pursued crypto platforms for alleged securities law violations, while the industry argues most tokens aren't securities. Resolution remains pending in courts and Congress.
 
@@ -480,7 +480,7 @@ The exchange demutualized (converted from cooperative to corporation) in 2006 an
 
 ICE, founded in 2000 as an electronic energy trading platform, has grown through acquisitions into a diversified exchange and data company. Beyond NYSE, ICE operates commodity futures exchanges, mortgage technology platforms (including Ellie Mae), and a substantial fixed income data business.
 
-Today, NYSE lists roughly 2,400 companies with combined market capitalization exceeding $28 trillion. The iconic trading floor at 11 Wall Street employs roughly 300 people—down from 1,500 in the 1990s—but remains symbolically important for IPOs, media appearances, and the opening/closing bells.
+Today, NYSE lists 2,400 companies with combined market capitalization exceeding $28 trillion. The iconic trading floor at 11 Wall Street employs 300 people—down from 1,500 in the 1990s—but remains symbolically important for IPOs, media appearances, and the opening/closing bells.
 
 **Key statistics (2023):**
 - ICE revenue: $8 billion
@@ -495,7 +495,7 @@ CME Group is the world's largest derivatives exchange, formed through the 2007 m
 
 The company traces to the founding of the Chicago Board of Trade in 1848 to standardize grain trading. The Chicago Mercantile Exchange, established in 1898 as the Chicago Butter and Egg Board, pioneered financial futures in the 1970s—currency futures (1972), Treasury futures (1976), stock index futures (1982).
 
-Today, CME Group trades roughly 6 billion contracts annually, including:
+Today, CME Group trades 6 billion contracts annually, including:
 - Interest rate futures (SOFR, Treasury)
 - Equity index futures (S&P 500, NASDAQ, Dow)
 - Energy (crude oil, natural gas)
@@ -523,11 +523,11 @@ Sequoia's model emphasizes long-term relationships with founders and "company bu
 Unlike most VC firms that return capital to investors after each fund, Sequoia in 2021 restructured to hold investments indefinitely through a permanent structure—a recognition that the best companies may never need to exit.
 
 **Key statistics:**
-- AUM: roughly $85 billion
+- AUM: $85 billion
 - Active portfolio companies: 300+
 - IPOs/acquisitions: 400+
 - Locations: Menlo Park, London, India, China, Southeast Asia
-- Partners: roughly 60
+- Partners: 60
 
 ## Firm Profile: Vanguard Group
 

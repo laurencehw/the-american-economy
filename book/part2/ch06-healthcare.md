@@ -47,12 +47,12 @@ Source: CMS National Health Expenditure Accounts
 
 <figure>
 <img src="../_figures/ch06/ch06_spending_treemap.png" alt="Treemap of $4.5 trillion healthcare spending: hospitals, physicians, drugs, and administration" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 6.1: Healthcare spending by category. Hospital care dominates, followed by physician services and prescription drugs. Source: CMS NHE (2022)</figcaption>
+<figcaption>Figure 6.1: Healthcare spending by category. Hospital care alone consumes roughly one-third of the $4.5 trillion total, making hospitals the central battleground for cost containment efforts. Source: CMS NHE (2022)</figcaption>
 </figure>
 
 <figure>
 <img src="../_figures/ch06/ch06_spending_over_time.png" alt="U.S. healthcare spending rising from 5% of GDP in 1960 to nearly 18% by 2023" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 6.2: Healthcare spending as share of GDP, 1960-2023. Healthcare has grown from 5% to nearly 18% of the economy over six decades. Source: CMS NHE</figcaption>
+<figcaption>Figure 6.2: Healthcare spending as share of GDP, 1960--2023. Healthcare has grown from 5% to nearly 18% of the economy---a relentless expansion that crowds out other spending and lies at the heart of America's cost disease problem, with no peer country spending more than 13%. Source: CMS NHE</figcaption>
 </figure>
 
 ## How the Industry Works
@@ -95,7 +95,7 @@ Patients pay directly for some services---deductibles, copays, services not cove
 
 <figure>
 <img src="../_figures/ch06/ch06_payer_mix.png" alt="Healthcare payment sources: private insurance, Medicare, and Medicaid each covering 20-30%" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 6.3: Who pays for healthcare. Private insurance, Medicare, and Medicaid each cover roughly 20-30% of spending, with out-of-pocket and other sources making up the rest. Source: CMS NHE (2022)</figcaption>
+<figcaption>Figure 6.3: Who pays for healthcare. No single payer dominates---private insurance, Medicare, and Medicaid each cover 20-30%---creating a fragmented system where cost control is everyone's problem and no one's responsibility. Source: CMS NHE (2022)</figcaption>
 </figure>
 
 Other payers include the Veterans Administration, workers' compensation, charitable care, and other government programs.

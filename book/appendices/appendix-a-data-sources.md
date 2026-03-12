@@ -217,17 +217,46 @@ The Federal Reserve System produces financial and monetary data.
 
 ---
 
+## Publication Calendar: Key Economic Data Releases
+
+Knowing when data arrives---and how much it is revised---is essential for interpreting economic statistics in real time.
+
+| Release | Frequency | Typical Timing | Lag | Revision Magnitude |
+|---------|-----------|---------------|-----|-------------------|
+| Employment Situation (BLS) | Monthly | First Friday of month | ~5 days | ±30,000-100,000 jobs in annual benchmark |
+| GDP (BEA advance estimate) | Quarterly | ~30 days post-quarter | 30 days | ±1.0-1.5 pp from advance to third estimate |
+| GDP (BEA second estimate) | Quarterly | ~60 days post-quarter | 60 days | ±0.5 pp from second to third |
+| GDP (BEA third estimate) | Quarterly | ~90 days post-quarter | 90 days | Further revised in annual/comprehensive revisions |
+| CPI (BLS) | Monthly | ~15th of following month | 15 days | Rarely revised; seasonal factors updated annually |
+| PPI (BLS) | Monthly | ~15th of following month | 15 days | Minor revisions |
+| Industrial Production (Fed) | Monthly | ~15th of following month | 15 days | Frequently revised |
+| Personal Income and Spending (BEA) | Monthly | ~30 days post-month | 30 days | ±0.2-0.5 pp on spending |
+| JOLTS (BLS) | Monthly | ~55 days post-month | 55 days | Modest revisions |
+| State GDP (BEA) | Quarterly | ~6 months lag | 180 days | Substantial revisions possible |
+| Economic Census (Census) | Every 5 years | 2-3 years after reference year | 2-3 years | Benchmark data; not revised |
+| Census of Agriculture (USDA) | Every 5 years | ~2 years after reference year | 2 years | Benchmark data |
+
+### Revision Caveats
+
+GDP estimates illustrate the revision problem. The advance estimate of Q1 2023 GDP growth was 1.1% (annualized); the third estimate revised this to 2.0%---a near-doubling. Annual comprehensive revisions can change GDP levels by tens of billions of dollars and alter the picture of entire business cycles. The lesson: treat early estimates as useful signals, not settled facts.
+
+### Seasonal vs. Non-Seasonally Adjusted Data
+
+Most monthly and quarterly series are published in both seasonally adjusted (SA) and not seasonally adjusted (NSA) forms. Use seasonally adjusted data for tracking trends and comparing across months. Use non-seasonally adjusted data when analyzing a specific month's level or when seasonal patterns themselves are the object of study. Be aware that seasonal adjustment factors are re-estimated annually and can change historical data retroactively.
+
 ## Tips for Using Government Data
 
-1. **Check Vintage**: Economic data is revised frequently. The first release differs from final estimates.
+1. **Check Vintage**: Economic data is revised frequently. The first release differs from final estimates. Always note the release date of the data you cite.
 
 2. **Understand Seasonal Adjustment**: Most monthly/quarterly data is seasonally adjusted. Use adjusted figures for trend analysis, unadjusted for specific period comparisons.
 
-3. **Note Geographic Coverage**: Some series cover all establishments; others sample. Coverage affects precision at detailed levels.
+3. **Note Geographic Coverage**: Some series cover all establishments; others sample. The CES survey covers ~145,000 businesses; the QCEW covers 95%+ of all jobs. Sampling error increases at detailed geographic and industry levels.
 
-4. **Mind NAICS Changes**: The NAICS classification system is revised every 5 years. Historical comparisons may require concordances.
+4. **Mind NAICS Changes**: The NAICS classification system is revised every 5 years. Historical comparisons may require concordances. The 2022 revision significantly reclassified parts of information and retail.
 
 5. **Use APIs for Reproducibility**: Programmatic access via APIs ensures your analysis can be replicated and updated.
+
+6. **Beware of Coverage Gaps**: The gig economy, informal work, and some financial activities are poorly captured by establishment surveys. The Quarterly Census of Employment and Wages misses self-employment entirely. The Current Population Survey captures it but with measurement error.
 
 ---
 

@@ -2,7 +2,7 @@
 
 In April 2020, the leisure and hospitality sector lost 8.2 million jobs in a single month---more than any other sector lost during the entire Great Recession. Restaurants went dark. Hotels emptied. Theme parks locked their gates. The pandemic revealed what economists had long known but rarely said plainly: this is the most fragile major sector in the American economy. It is built on discretionary spending, physical presence, and human labor that cannot be performed remotely. When the world shut down, leisure and hospitality was the first casualty and the last to recover.
 
-The sector's structural position is equally striking in normal times. Leisure and hospitality employs roughly 11% of all nonfarm workers in the United States but produces only about 4% of GDP---the largest gap between employment share and output share in the entire economy. That gap tells you almost everything about how this industry works: millions of workers, modest wages, thin margins, and an economic contribution that flows less through value-added per worker than through sheer volume of people cooking, cleaning, serving, and entertaining.
+The sector's structural position is equally striking in normal times. Leisure and hospitality employs 11% of all nonfarm workers in the United States but produces only about 4% of GDP---the largest gap between employment share and output share in the entire economy. That gap tells you almost everything about how this industry works: millions of workers, modest wages, thin margins, and an economic contribution that flows less through value-added per worker than through sheer volume of people cooking, cleaning, serving, and entertaining.
 
 ## Overview
 
@@ -14,7 +14,7 @@ Leisure and hospitality employs more Americans than construction, finance, or in
 
 ### Size and Scope
 
-- **GDP contribution**: Approximately $1.1 trillion (~4% of GDP)
+- **GDP contribution**: $1.1 trillion (~4% of GDP)
 - **Employment**: 16.8 million workers (11% of nonfarm employment)
 - **Establishments**: Over 1 million restaurants, ~55,000 hotels, plus tens of thousands of entertainment venues, amusement parks, and recreation facilities
 - **Annual consumer spending on food away from home**: $1.1 trillion (2023)
@@ -59,7 +59,7 @@ The restaurant business is a margin trap. The typical full-service restaurant op
 - **Other operating costs**: 15-20% (supplies, marketing, repairs, technology)
 - **Profit margin**: 3-9% in a good year; many restaurants operate at a loss
 
-This means a restaurant generating $1 million in annual revenue might clear $50,000 in profit---before the owner pays themselves. The failure rate is legendary: roughly 60% of restaurants close within their first year, and 80% within five years. Independent restaurants face even steeper odds than chains.
+This means a restaurant generating $1 million in annual revenue might clear $50,000 in profit---before the owner pays themselves. The failure rate is legendary: 60% of restaurants close within their first year, and 80% within five years. Independent restaurants face even steeper odds than chains.
 
 {% hint style="warning" %}
 **The "90% Fail" Myth**
@@ -67,7 +67,7 @@ This means a restaurant generating $1 million in annual revenue might clear $50,
 The often-cited claim that 90% of restaurants fail in the first year is false. Actual first-year closure rates run closer to 60%, and many closures reflect planned exits or ownership transfers rather than bankruptcy. But the underlying reality is harsh enough: restaurants are among the most difficult businesses to sustain. Thin margins, intense competition, and high fixed costs create a sector where even good operators frequently lose money.
 {% endhint %}
 
-Fast food and fast-casual chains achieve better margins (8-15%) through standardization, volume purchasing, and lower labor costs per transaction. A McDonald's franchise generates average annual sales of roughly $3.7 million per location, with franchisee profit margins around 15-20% before debt service and franchise fees.
+Fast food and fast-casual chains achieve better margins (8-15%) through standardization, volume purchasing, and lower labor costs per transaction. A McDonald's franchise generates average annual sales of $3.7 million per location, with franchisee profit margins around 15-20% before debt service and franchise fees.
 
 ### Hotel Economics
 
@@ -87,7 +87,7 @@ The industry has converged on three business models:
 
 ### The Franchise Model
 
-Franchising is the structural backbone of both the restaurant and hotel industries. In food service, roughly 36% of all restaurants are franchised---but franchised locations account for a disproportionate share of revenue because they skew toward large chains.
+Franchising is the structural backbone of both the restaurant and hotel industries. In food service, 36% of all restaurants are franchised---but franchised locations account for a disproportionate share of revenue because they skew toward large chains.
 
 The franchise model works because it solves two problems simultaneously. The franchisee gets a proven brand, operating system, and supply chain. The franchisor gets rapid expansion without deploying capital. McDonald's earns most of its revenue not from selling hamburgers but from collecting rent and franchise fees. Marriott does not own most of the buildings bearing its name.
 
@@ -103,7 +103,7 @@ The entertainment segment is more diverse and less standardized. Live events (co
 
 Theme parks operate on a "gate plus capture" model: charge admission, then capture additional spending on food, merchandise, and premium experiences inside the park. Disney's domestic theme parks generate roughly $8-9 billion annually, with per-capita guest spending exceeding $200 per visit.
 
-Casinos invert the model entirely. Gaming revenue is the draw, but the real money increasingly comes from non-gaming amenities---hotels, restaurants, entertainment, conventions. Las Vegas Strip casinos now derive roughly 65% of revenue from non-gaming sources, up from 40% two decades ago.
+Casinos invert the model entirely. Gaming revenue is the draw, but the real money increasingly comes from non-gaming amenities---hotels, restaurants, entertainment, conventions. Las Vegas Strip casinos now derive 65% of revenue from non-gaming sources, up from 40% two decades ago.
 
 ### Seasonality and Cyclicality
 
@@ -118,7 +118,7 @@ Seasonality compounds the problem. Ski resorts operate five months a year. Beach
 
 ## Industry Structure
 
-The leisure and hospitality sector is simultaneously one of the most concentrated and most fragmented industries in America. A handful of global corporations dominate hotels, fast food, and live entertainment. Yet independent restaurants---single-location, owner-operated businesses---still account for roughly 60% of all restaurant establishments and about 50% of restaurant revenue. No other major industry has this degree of structural dualism.
+The leisure and hospitality sector is simultaneously one of the most concentrated and most fragmented industries in America. A handful of global corporations dominate hotels, fast food, and live entertainment. Yet independent restaurants---single-location, owner-operated businesses---still account for 60% of all restaurant establishments and about 50% of restaurant revenue. No other major industry has this degree of structural dualism.
 
 ### Restaurants
 
@@ -159,7 +159,7 @@ All five have converged on an "asset-light" franchise model. Marriott owns very 
 
 ### Entertainment
 
-Live entertainment is increasingly consolidated. **Live Nation Entertainment**, which merged with Ticketmaster in 2010, controls approximately 70% of major concert venue ticketing and manages over 500 artists. This vertical integration---artist management, venue operation, and ticketing---gives Live Nation extraordinary market power and has drawn antitrust scrutiny from the Department of Justice.
+Live entertainment is increasingly consolidated. **Live Nation Entertainment**, which merged with Ticketmaster in 2010, controls 70% of major concert venue ticketing and manages over 500 artists. This vertical integration---artist management, venue operation, and ticketing---gives Live Nation extraordinary market power and has drawn antitrust scrutiny from the Department of Justice.
 
 **Disney** dominates the theme park segment, operating Walt Disney World (Orlando), Disneyland (Anaheim), and parks in Paris, Tokyo, Shanghai, and Hong Kong. Its domestic parks alone generate $8-9 billion in annual revenue. **Universal Parks** (owned by Comcast/NBCUniversal), **Six Flags/Cedar Fair** (merged in 2024), and **SeaWorld** compete but at much smaller scale.
 
@@ -174,9 +174,9 @@ Leisure and hospitality is one of the most geographically uneven sectors in the 
 A small number of cities account for a wildly disproportionate share of hotel room revenue and tourism employment:
 
 - **Las Vegas**: 150,000+ hotel rooms, $15 billion in annual gaming revenue, tourism as the dominant industry. The city is, in economic terms, a single-industry town dressed up as a playground.
-- **Orlando**: 130,000+ hotel rooms, driven by Disney World, Universal, and SeaWorld. Tourism supports roughly 1 in 3 jobs in the metro area.
-- **New York City**: The nation's most valuable hotel market by RevPAR, plus the densest restaurant market in the country (roughly 27,000 restaurants).
-- **Honolulu**: Tourism accounts for roughly 20% of Hawaii's GDP---the highest tourism dependence of any state.
+- **Orlando**: 130,000+ hotel rooms, driven by Disney World, Universal, and SeaWorld. Tourism supports 1 in 3 jobs in the metro area.
+- **New York City**: The nation's most valuable hotel market by RevPAR, plus the densest restaurant market in the country (27,000 restaurants).
+- **Honolulu**: Tourism accounts for 20% of Hawaii's GDP---the highest tourism dependence of any state.
 
 ### Convention Cities
 
@@ -201,7 +201,7 @@ These seasonal economies face acute labor challenges---they need workers for fou
 
 ### The Largest Low-Wage Employer
 
-Leisure and hospitality is the largest low-wage employer in the American economy. The median hourly wage across the sector is approximately $16.60---the lowest of any major industry and roughly 60% of the all-industry median. Nearly half of all workers earning at or below the federal minimum wage work in food service.
+Leisure and hospitality is the largest low-wage employer in the American economy. The median hourly wage across the sector is $16.60---the lowest of any major industry and 60% of the all-industry median. Nearly half of all workers earning at or below the federal minimum wage work in food service.
 
 | Occupation | Employment | Median Hourly Wage |
 |------------|-----------|-------------------|
@@ -235,8 +235,8 @@ The leisure and hospitality workforce is younger, more diverse, and less formall
 
 - **Age**: Median age of 31 (vs. 42 for all workers). Nearly 30% of workers are under 25.
 - **Education**: Over 40% have a high school diploma or less.
-- **Immigration**: Foreign-born workers make up roughly 25% of the hospitality workforce---and a much higher share in gateway cities.
-- **Turnover**: Annual turnover in restaurants runs approximately 75%, among the highest of any industry. Hotels average 60-70%. This churn imposes enormous recruitment and training costs.
+- **Immigration**: Foreign-born workers make up 25% of the hospitality workforce---and a much higher share in gateway cities.
+- **Turnover**: Annual turnover in restaurants runs 75%, among the highest of any industry. Hotels average 60-70%. This churn imposes enormous recruitment and training costs.
 
 The pandemic permanently altered labor supply dynamics. When 8 million hospitality workers were laid off in spring 2020, many found employment in warehousing, delivery, healthcare, and other sectors---and did not return. The resulting labor shortage forced the fastest wage increases in the sector's history: average hourly earnings in leisure and hospitality rose over 25% between 2020 and 2023, far outpacing economy-wide wage growth.
 
@@ -292,7 +292,7 @@ The American Hotel & Lodging Association has focused increasingly on regulating 
 
 ### 1. The Post-COVID Labor Recalibration
 
-The pandemic triggered the most significant labor market reset in the sector's modern history. When hospitality shed 8.2 million jobs between February and April 2020, workers discovered alternative employment in logistics, healthcare, and gig work. Many did not return. The sector did not recover its pre-pandemic employment level until mid-2023, and many operators report that hiring remains more difficult and expensive than before. Average wages rose roughly 25% in three years---a structural shift, not a temporary bump.
+The pandemic triggered the most significant labor market reset in the sector's modern history. When hospitality shed 8.2 million jobs between February and April 2020, workers discovered alternative employment in logistics, healthcare, and gig work. Many did not return. The sector did not recover its pre-pandemic employment level until mid-2023, and many operators report that hiring remains more difficult and expensive than before. Average wages rose 25% in three years---a structural shift, not a temporary bump.
 
 ### 2. Ghost Kitchens and Delivery Platforms
 
@@ -353,9 +353,9 @@ Marriott Bonvoy, the company's loyalty program with over 200 million members, is
 
 McDonald's is less a restaurant company than a franchising-and-real-estate machine that happens to sell hamburgers. Approximately 95% of McDonald's locations are operated by independent franchisees. McDonald's owns or leases the underlying real estate for most of these locations, then subleases to franchisees at rents typically set as a percentage of sales (often 8-12%). This structure means McDonald's earns money whether a given restaurant is packed or empty---the franchisee bears the operating risk.
 
-The company's scale is staggering. McDonald's purchases roughly 3% of all potatoes grown in the United States and is one of the nation's largest buyers of beef, chicken, pork, lettuce, and tomatoes. Its supply chain operations are a logistical achievement comparable to military provisioning: standardized products delivered to 40,000 locations daily across more than 100 countries.
+The company's scale is staggering. McDonald's purchases 3% of all potatoes grown in the United States and is one of the nation's largest buyers of beef, chicken, pork, lettuce, and tomatoes. Its supply chain operations are a logistical achievement comparable to military provisioning: standardized products delivered to 40,000 locations daily across more than 100 countries.
 
-Strategically, McDonald's has invested heavily in digital ordering, drive-through optimization, and delivery partnerships. Its mobile app has become one of the most-downloaded food apps in the country, and drive-through sales---always important---now account for roughly 70% of US revenue. The company has also piloted automated order-taking using artificial intelligence at drive-through windows, aiming to reduce labor costs and improve speed.
+Strategically, McDonald's has invested heavily in digital ordering, drive-through optimization, and delivery partnerships. Its mobile app has become one of the most-downloaded food apps in the country, and drive-through sales---always important---now account for 70% of US revenue. The company has also piloted automated order-taking using artificial intelligence at drive-through windows, aiming to reduce labor costs and improve speed.
 
 ### Live Nation Entertainment
 
@@ -433,7 +433,7 @@ Despite the controversy, Live Nation's financial performance has been extraordin
 
 6. The pandemic caused the sector to lose 8.2 million jobs in a single month (April 2020), and many displaced workers found employment in warehousing, delivery, and healthcare and did not return. The resulting labor shortage forced average hourly earnings up roughly 25% between 2020 and 2023---far outpacing economy-wide wage growth. Using supply-and-demand analysis of the hospitality labor market, explain why this wage increase appears to be a permanent structural shift rather than a temporary cyclical adjustment. What changed about workers' outside options?
 
-7. Live Nation/Ticketmaster controls approximately 70% of major concert venue ticketing and manages over 500 artists, operates 350+ venues, and promotes roughly 50,000 concerts annually. The Taylor Swift Eras Tour presale crash in November 2022 triggered Congressional hearings and a DOJ antitrust lawsuit filed in May 2024. Using the concept of vertical integration, explain how Live Nation's simultaneous control of artist management, concert promotion, venue operations, and ticket sales creates market power that a standalone ticketing company would not possess. What specific competitive harms does this integration enable?
+7. Live Nation/Ticketmaster controls 70% of major concert venue ticketing and manages over 500 artists, operates 350+ venues, and promotes roughly 50,000 concerts annually. The Taylor Swift Eras Tour presale crash in November 2022 triggered Congressional hearings and a DOJ antitrust lawsuit filed in May 2024. Using the concept of vertical integration, explain how Live Nation's simultaneous control of artist management, concert promotion, venue operations, and ticket sales creates market power that a standalone ticketing company would not possess. What specific competitive harms does this integration enable?
 
 ### Data Exercises
 

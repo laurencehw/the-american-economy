@@ -14,7 +14,7 @@ The transportation sector is fundamentally shaped by two forces: geography and d
 
 <figure>
 <img src="../_figures/ch12/ch12_freight_mode_share.png" alt="U.S. freight by mode: trucking dominates at 72% of tonnage, rail and pipeline follow" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 12.1: U.S. freight by mode (ton-miles). Trucking dominates for flexibility; rail excels at bulk and long-haul. Source: BTS (2023)</figcaption>
+<figcaption>Figure 12.1: U.S. freight by mode (ton-miles). Trucking handles 44% of ton-miles because no other mode offers door-to-door flexibility, while rail's cost advantage on long hauls makes it dominant for bulk commodities like coal, grain, and intermodal containers. Source: BTS (2023)</figcaption>
 </figure>
 
 The modal split reveals the logic of American freight. Trucking dominates, handling 44% of ton-miles and an even larger share by value, because trucks offer door-to-door flexibility that no other mode can match. Rail moves 19% of ton-miles but specializes in bulk commodities---coal, grain, chemicals, intermodal containers---where its cost advantage on long hauls is decisive. Air freight is negligible by weight (less than 1% of ton-miles) but moves high-value, time-sensitive goods: electronics, pharmaceuticals, e-commerce orders. Pipelines quietly move petroleum and natural gas, while ships handle international trade and some domestic bulk cargo.
@@ -67,7 +67,7 @@ The trucking industry divides into distinct segments:
 
 <figure>
 <img src="../_figures/ch12/ch12_top_trucking.png" alt="Largest U.S. trucking companies by revenue: UPS, FedEx Freight, and XPO Logistics" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 12.3: Top trucking companies by revenue. UPS and FedEx dominate through their integrated parcel networks. Source: Company data (2023)</figcaption>
+<figcaption>Figure 12.3: Top trucking companies by revenue. UPS and FedEx dwarf traditional carriers because their integrated parcel networks capture e-commerce growth, while pure trucking firms compete in a fragmented, low-margin industry plagued by chronic driver shortages. Source: Company data (2023)</figcaption>
 </figure>
 
 ### The Driver Shortage
@@ -105,7 +105,7 @@ Only seven "Class I" railroads (those with over $500 million in annual revenue) 
 
 <figure>
 <img src="../_figures/ch12/ch12_class_i_railroads.png" alt="Class I railroad revenue: BNSF and Union Pacific lead the seven major freight railroads" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 12.4: Class I railroad revenue. Union Pacific and BNSF (Berkshire) dominate the West; CSX and Norfolk Southern split the East. Source: AAR (2023)</figcaption>
+<figcaption>Figure 12.4: Class I railroad revenue. Decades of consolidation have produced a geographic duopoly---Union Pacific and BNSF in the West, CSX and Norfolk Southern in the East---with little direct competition on most routes. Source: AAR (2023)</figcaption>
 </figure>
 
 <figure>
@@ -142,7 +142,7 @@ The airline industry that deregulation created in 1978 has consolidated into a s
 
 <figure>
 <img src="../_figures/ch12/ch12_airline_market_share.png" alt="U.S. airline market share: American, Delta, United, Southwest control 80%+ of domestic flights" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 12.6: Domestic airline market share. The Big Four control roughly 70% of passengers after decades of consolidation. Source: DOT (2024)</figcaption>
+<figcaption>Figure 12.6: Domestic airline market share. A wave of mergers between 2008 and 2013 collapsed the industry into four carriers controlling roughly 70% of passengers, enabling disciplined capacity management and consistent profitability after decades of boom-bust cycles. Source: DOT (2024)</figcaption>
 </figure>
 
 <figure>
@@ -228,7 +228,7 @@ American freight flows along predictable corridors shaped by population, ports, 
 
 <figure>
 <img src="../_figures/ch12/ch12_logistics_map.png" alt="Map of major logistics corridors connecting ports to inland distribution centers" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 12.10: Major freight corridors. Interstate highways, rail mainlines, and ports form an interconnected network with Chicago at the center. Source: BTS</figcaption>
+<figcaption>Figure 12.10: Major freight corridors. All major Class I railroads converge on Chicago, making it the indispensable interchange point for transcontinental freight---east-west trunk routes (I-80, I-90) and north-south corridors (I-35 from Mexico, I-95 along the East Coast) channel the bulk of American commerce. Source: BTS</figcaption>
 </figure>
 
 **East-West Trunk Routes:** I-80 and I-90 form the primary cross-country truck corridors, paralleled by Union Pacific and BNSF rail lines. These routes connect West Coast ports to Midwest distribution centers and Eastern markets.
