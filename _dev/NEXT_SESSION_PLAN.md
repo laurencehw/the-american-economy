@@ -45,7 +45,7 @@ A systematic data audit (April 2026) against BEA, BLS, EIA, and CMS found the fo
 | Solar share of electricity (Ch14) | 6% | ~7% (utility + distributed, EIA 2024) | Update to 7% |
 | Ch31 GDP figure | ">$29 trillion" | $29.2T nominal 2024 (BEA) | Already directionally correct; add precise figure |
 | Housing % of consumer spending (Ch2) | 33% | 32.9% (BLS CEX 2023) | Update to "32.9%" and remove "roughly" |
-| Student debt (Ch15) | $1.77T (2024) | $1.78T (2024, Fed) | Correct |
+| Student debt (Ch15) | $1.77T (2024) | $1.78T (2024, Fed) | Update to $1.78T and cite source |
 | Healthcare % of GDP (Ch6) | "nearly 17%" / "nearly 18%" | 17.6% (2023 CMS), 18.0% (2024 CMS) | Clarify which year; 2024 figure is now 18.0% exactly |
 
 **Also fix**: "roughly" appears 221 times across all chapters. Ch14 alone has 48 instances. Target: replace with precise figures wherever official data exists. Reserve "roughly" only for genuinely approximate estimates.

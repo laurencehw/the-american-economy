@@ -19,7 +19,7 @@ for root, dirs, files in os.walk(BOOK_DIR):
         if not fname.endswith(".md"):
             continue
         fpath = os.path.join(root, fname)
-        with open(fpath) as f:
+        with open(fpath, encoding='utf-8') as f:
             content = f.read()
 
         image_references = []
@@ -29,6 +29,8 @@ for root, dirs, files in os.walk(BOOK_DIR):
             image_references.append((match.group(1), match.start()))
 
         for src, start_index in image_references:
+            if src.startswith(('http://', 'https://', '#')):
+                continue
             # Resolve relative to the markdown file's directory
             md_dir = os.path.dirname(fpath)
             resolved = os.path.normpath(os.path.join(md_dir, src))
