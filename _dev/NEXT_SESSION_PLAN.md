@@ -25,7 +25,7 @@ All Tier 1 items from the previous session plan are done:
 
 ### 1. Fix 50 Missing Figures (Priority: Critical)
 
-Every chapter after Ch15 — including the two new chapters (16–17), the Inequality Interlude, all of Part III (Finance), Part IV (Trade), Part V (Regional), Part VI (Governance), and Part VII (Conclusion) — references PNG figures that do not exist in the repo. The CI checker (PR #13) will flag these on every future push.
+A total of 50 figure references across the manuscript — including Ch11, the Inequality Interlude, and all chapters from Ch16 onwards — point to PNG files that do not exist in the repo. The CI checker (PR #13) will flag these on every future push.
 
 **Affected chapters**: ch11 (3 figs), ch16 (4), ch17 (5), ch18 (2), ch19 (2), ch20 (2), ch21 (2), ch22 (4), ch23 (2), ch24 (2), ch25 (2), ch26 (2), ch27 (3), ch28 (2), ch29 (1), ch30 (2), ch31 (3), ch32 (2), interlude (5)
 
@@ -44,7 +44,7 @@ A systematic data audit (April 2026) against BEA, BLS, EIA, and CMS found the fo
 | Coal share of electricity (Ch14) | 16% | ~15% (EIA 2024, Ember) | Update to 15% |
 | Solar share of electricity (Ch14) | 6% | ~7% (utility + distributed, EIA 2024) | Update to 7% |
 | Ch31 GDP figure | ">$29 trillion" | $29.2T nominal 2024 (BEA) | Already directionally correct; add precise figure |
-| Housing % of consumer spending (Ch2) | 33% | 32.9% (BLS CEX 2023) | Essentially correct; remove "roughly" |
+| Housing % of consumer spending (Ch2) | 33% | 32.9% (BLS CEX 2023) | Update to "32.9%" and remove "roughly" |
 | Student debt (Ch15) | $1.77T (2024) | $1.78T (2024, Fed) | Correct |
 | Healthcare % of GDP (Ch6) | "nearly 17%" / "nearly 18%" | 17.6% (2023 CMS), 18.0% (2024 CMS) | Clarify which year; 2024 figure is now 18.0% exactly |
 
@@ -57,7 +57,7 @@ Several chapters identified in the REVIEW.md still need the "why" analysis:
 - **Ch14 Energy**: Add a multiplier comparison table explaining why energy has high I-O multipliers (~2.5) vs. finance (~1.2). Currently the chapter describes generation but doesn't explain the economic structure behind energy's systemic importance.
 - **Ch28 Federal Governance**: Still reads as a reference document. Add a 500-word "Does Regulatory Fragmentation Work?" section evaluating whether overlapping jurisdiction enables or prevents regulatory arbitrage.
 - **Ch16 Agriculture**: Environmental externalities section is thin. Add a paragraph quantifying the Gulf dead zone costs and the economic case for externality pricing.
-- **Inequality Interlude**: Distinguish wage inequality from capital income inequality more clearly. The top 1% income composition (60% capital income) is missing.
+- **Inequality Interlude**: Distinguish wage inequality from capital income inequality more clearly. While the 40% wage share is mentioned, the 60% capital income composition should be explicitly highlighted.
 
 ---
 
