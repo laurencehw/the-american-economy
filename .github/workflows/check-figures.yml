@@ -1,0 +1,21 @@
+name: Check Figure References
+
+on:
+  push:
+    paths:
+      - 'book/**/*.md'
+      - 'book/_figures/**'
+  pull_request:
+    paths:
+      - 'book/**/*.md'
+      - 'book/_figures/**'
+
+jobs:
+  check-figures:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for broken figure references
+        run: |
+          python3 .github/scripts/check_figures.py

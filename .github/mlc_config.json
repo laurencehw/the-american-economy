@@ -1,0 +1,33 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://laurence-wilse-samson.gitbook.io"
+    },
+    {
+      "pattern": "^https://laurencehw.github.io"
+    },
+    {
+      "pattern": "^https://fred.stlouisfed.org"
+    },
+    {
+      "pattern": "^https://apps.bea.gov"
+    },
+    {
+      "pattern": "^https://data.bls.gov"
+    }
+  ],
+  "replacementPatterns": [],
+  "httpHeaders": [
+    {
+      "urls": ["https://www.bea.gov", "https://www.bls.gov"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; link-checker)"
+      }
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206]
+}

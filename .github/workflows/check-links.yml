@@ -1,0 +1,28 @@
+name: Check Markdown Links
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'book/**/*.md'
+  pull_request:
+    paths:
+      - 'book/**/*.md'
+  schedule:
+    # Run weekly on Mondays to catch stale external links
+    - cron: '0 9 * * 1'
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run markdown link check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
+          config-file: '.github/mlc_config.json'
+          folder-path: 'book'
+          file-extension: '.md'
