@@ -7,9 +7,6 @@
       "pattern": "^https://laurencehw.github.io"
     },
     {
-      "pattern": "^https://fred.stlouisfed.org"
-    },
-    {
       "pattern": "^https://apps.bea.gov"
     },
     {
@@ -20,6 +17,12 @@
   "httpHeaders": [
     {
       "urls": ["https://www.bea.gov", "https://www.bls.gov"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; link-checker)"
+      }
+    },
+    {
+      "urls": ["https://fred.stlouisfed.org"],
       "headers": {
         "User-Agent": "Mozilla/5.0 (compatible; link-checker)"
       }
