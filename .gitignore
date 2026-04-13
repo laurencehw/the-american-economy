@@ -13,7 +13,8 @@ _data/
 
 # Figure generation scripts and working output
 _scripts/
-_figures/
+# Only ignore _figures/ at repo root (not book/_figures/)
+/_figures/
 
 # Templates
 _templates/
