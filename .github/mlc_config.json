@@ -1,33 +1,68 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "^https://laurence-wilse-samson.gitbook.io"
+      "comment": "Local relative paths (./ and ../) — image references are validated by .github/scripts/check_figures.py, and any non-image relative links are checked by GitBook's own builder.",
+      "pattern": "^\\.\\.?\\/"
     },
     {
-      "pattern": "^https://laurencehw.github.io"
+      "comment": "Author's own preview/publishing sites",
+      "pattern": "^https?://laurence-wilse-samson\\.gitbook\\.io"
     },
     {
-      "pattern": "^https://apps.bea.gov"
+      "comment": "Author's own preview/publishing sites",
+      "pattern": "^https?://laurencehw\\.github\\.io"
     },
     {
-      "pattern": "^https://data.bls.gov"
-    }
+      "comment": "Government and international data portals that block automated HEAD/GET requests at the WAF/bot-detection layer regardless of User-Agent. These links are valid for human readers but unverifiable by link checkers.",
+      "pattern": "^https?://([a-z0-9-]+\\.)*bea\\.gov"
+    },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*bls\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*census\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*federalreserve\\.gov" },
+    { "pattern": "^https?://fred\\.stlouisfed\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*eia\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*cms\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*usda\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*sec\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*fdic\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*bts\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*cbo\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*gao\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*fcc\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*fda\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*dol\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*uscis\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*usbr\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*whitehouse\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*federalregister\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*ed\\.gov" },
+    { "pattern": "^https?://ustr\\.gov" },
+    { "pattern": "^https?://dataweb\\.usitc\\.gov" },
+    { "pattern": "^https?://reporter\\.nih\\.gov" },
+    { "pattern": "^https?://data\\.worldbank\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*oecd\\.org" },
+    { "pattern": "^https?://comtrade\\.un\\.org" },
+    { "pattern": "^https?://data\\.imf\\.org" },
+    {
+      "comment": "Third-party data/industry sites observed blocking automated requests",
+      "pattern": "^https?://([a-z0-9-]+\\.)*opensecrets\\.org"
+    },
+    { "pattern": "^https?://projects\\.propublica\\.org" },
+    { "pattern": "^https?://cps\\.ipums\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*usnewsdeserts\\.com" },
+    { "pattern": "^https?://emma\\.msrb\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*pjm\\.com" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*aapa-ports\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*americangaming\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*portoflosangeles\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*semiconductors\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*ici\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*nvca\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*sifma\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*kgs\\.ku\\.edu" }
   ],
   "replacementPatterns": [],
-  "httpHeaders": [
-    {
-      "urls": ["https://www.bea.gov", "https://www.bls.gov"],
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (compatible; link-checker)"
-      }
-    },
-    {
-      "urls": ["https://fred.stlouisfed.org"],
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (compatible; link-checker)"
-      }
-    }
-  ],
+  "httpHeaders": [],
   "timeout": "20s",
   "retryOn429": true,
   "retryCount": 3,
