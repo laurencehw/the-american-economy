@@ -23,7 +23,7 @@ for root, dirs, files in os.walk(BOOK_DIR):
         if not fname.endswith(".md"):
             continue
         fpath = os.path.join(root, fname)
-        with open(fpath) as f:
+        with open(fpath, encoding="utf-8") as f:
             content = f.read()
 
         # Collect all image references from both syntaxes
