@@ -1,30 +1,65 @@
 {
   "ignorePatterns": [
     {
+      "comment": "Local image references — validated by .github/scripts/check_figures.py",
+      "pattern": "^\\.\\.?\\/"
+    },
+    {
+      "comment": "Any link ending in an image extension is a local figure, not an external URL",
+      "pattern": "\\.(png|jpg|jpeg|gif|svg|webp)$"
+    },
+    {
       "pattern": "^https://laurence-wilse-samson.gitbook.io"
     },
     {
       "pattern": "^https://laurencehw.github.io"
-    },
-    {
-      "pattern": "^https://apps.bea.gov"
-    },
-    {
-      "pattern": "^https://data.bls.gov"
     }
   ],
   "replacementPatterns": [],
   "httpHeaders": [
     {
-      "urls": ["https://www.bea.gov", "https://www.bls.gov"],
+      "urls": [
+        "https://www.bea.gov",
+        "https://apps.bea.gov",
+        "https://www.bls.gov",
+        "https://data.bls.gov",
+        "https://fred.stlouisfed.org",
+        "https://www.federalreserve.gov",
+        "https://www.census.gov",
+        "https://data.census.gov",
+        "https://usatrade.census.gov",
+        "https://www.eia.gov",
+        "https://www.ers.usda.gov",
+        "https://www.nass.usda.gov",
+        "https://apps.fas.usda.gov",
+        "https://www.sec.gov",
+        "https://www.fdic.gov",
+        "https://www.cms.gov",
+        "https://www.bts.gov",
+        "https://www.cbo.gov",
+        "https://www.gao.gov",
+        "https://www.fcc.gov",
+        "https://www.fda.gov",
+        "https://www.dol.gov",
+        "https://www.uscis.gov",
+        "https://www.usbr.gov",
+        "https://www.whitehouse.gov",
+        "https://www.federalregister.gov",
+        "https://nces.ed.gov",
+        "https://collegescorecard.ed.gov",
+        "https://ustr.gov",
+        "https://dataweb.usitc.gov",
+        "https://reporter.nih.gov",
+        "https://data.worldbank.org",
+        "https://stats.oecd.org",
+        "https://data-explorer.oecd.org",
+        "https://comtrade.un.org",
+        "https://data.imf.org"
+      ],
       "headers": {
-        "User-Agent": "Mozilla/5.0 (compatible; link-checker)"
-      }
-    },
-    {
-      "urls": ["https://fred.stlouisfed.org"],
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (compatible; link-checker)"
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9"
       }
     }
   ],
@@ -32,5 +67,5 @@
   "retryOn429": true,
   "retryCount": 3,
   "fallbackRetryDelay": "30s",
-  "aliveStatusCodes": [200, 206]
+  "aliveStatusCodes": [200, 206, 403]
 }
