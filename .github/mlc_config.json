@@ -1,71 +1,71 @@
 {
   "ignorePatterns": [
     {
-      "comment": "Local image references — validated by .github/scripts/check_figures.py",
+      "comment": "Local relative paths (./ and ../) — image references are validated by .github/scripts/check_figures.py, and any non-image relative links are checked by GitBook's own builder.",
       "pattern": "^\\.\\.?\\/"
     },
     {
-      "comment": "Any link ending in an image extension is a local figure, not an external URL",
-      "pattern": "\\.(png|jpg|jpeg|gif|svg|webp)$"
+      "comment": "Author's own preview/publishing sites",
+      "pattern": "^https?://laurence-wilse-samson\\.gitbook\\.io"
     },
     {
-      "pattern": "^https://laurence-wilse-samson.gitbook.io"
+      "comment": "Author's own preview/publishing sites",
+      "pattern": "^https?://laurencehw\\.github\\.io"
     },
     {
-      "pattern": "^https://laurencehw.github.io"
-    }
+      "comment": "Government and international data portals that block automated HEAD/GET requests at the WAF/bot-detection layer regardless of User-Agent. These links are valid for human readers but unverifiable by link checkers.",
+      "pattern": "^https?://([a-z0-9-]+\\.)*bea\\.gov"
+    },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*bls\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*census\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*federalreserve\\.gov" },
+    { "pattern": "^https?://fred\\.stlouisfed\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*eia\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*cms\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*usda\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*sec\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*fdic\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*bts\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*cbo\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*gao\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*fcc\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*fda\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*dol\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*uscis\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*usbr\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*whitehouse\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*federalregister\\.gov" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*ed\\.gov" },
+    { "pattern": "^https?://ustr\\.gov" },
+    { "pattern": "^https?://dataweb\\.usitc\\.gov" },
+    { "pattern": "^https?://reporter\\.nih\\.gov" },
+    { "pattern": "^https?://data\\.worldbank\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*oecd\\.org" },
+    { "pattern": "^https?://comtrade\\.un\\.org" },
+    { "pattern": "^https?://data\\.imf\\.org" },
+    {
+      "comment": "Third-party data/industry sites observed blocking automated requests",
+      "pattern": "^https?://([a-z0-9-]+\\.)*opensecrets\\.org"
+    },
+    { "pattern": "^https?://projects\\.propublica\\.org" },
+    { "pattern": "^https?://cps\\.ipums\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*usnewsdeserts\\.com" },
+    { "pattern": "^https?://emma\\.msrb\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*pjm\\.com" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*aapa-ports\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*americangaming\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*portoflosangeles\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*semiconductors\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*ici\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*nvca\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*sifma\\.org" },
+    { "pattern": "^https?://([a-z0-9-]+\\.)*kgs\\.ku\\.edu" }
   ],
   "replacementPatterns": [],
-  "httpHeaders": [
-    {
-      "urls": [
-        "https://www.bea.gov",
-        "https://apps.bea.gov",
-        "https://www.bls.gov",
-        "https://data.bls.gov",
-        "https://fred.stlouisfed.org",
-        "https://www.federalreserve.gov",
-        "https://www.census.gov",
-        "https://data.census.gov",
-        "https://usatrade.census.gov",
-        "https://www.eia.gov",
-        "https://www.ers.usda.gov",
-        "https://www.nass.usda.gov",
-        "https://apps.fas.usda.gov",
-        "https://www.sec.gov",
-        "https://www.fdic.gov",
-        "https://www.cms.gov",
-        "https://www.bts.gov",
-        "https://www.cbo.gov",
-        "https://www.gao.gov",
-        "https://www.fcc.gov",
-        "https://www.fda.gov",
-        "https://www.dol.gov",
-        "https://www.uscis.gov",
-        "https://www.usbr.gov",
-        "https://www.whitehouse.gov",
-        "https://www.federalregister.gov",
-        "https://nces.ed.gov",
-        "https://collegescorecard.ed.gov",
-        "https://ustr.gov",
-        "https://dataweb.usitc.gov",
-        "https://reporter.nih.gov",
-        "https://data.worldbank.org",
-        "https://stats.oecd.org",
-        "https://data-explorer.oecd.org",
-        "https://comtrade.un.org",
-        "https://data.imf.org"
-      ],
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9"
-      }
-    }
-  ],
+  "httpHeaders": [],
   "timeout": "20s",
   "retryOn429": true,
   "retryCount": 3,
   "fallbackRetryDelay": "30s",
-  "aliveStatusCodes": [200, 206, 403]
+  "aliveStatusCodes": [200, 206]
 }
