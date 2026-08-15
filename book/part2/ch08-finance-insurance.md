@@ -1,6 +1,6 @@
 # 8. Finance and Insurance
 
-The four largest American banks hold more assets than the annual GDP of Japan. BlackRock manages $10 trillion---more than the GDP of every country except the United States and China. The finance and insurance sector accounts for about 7.5% of GDP but touches every transaction in the economy: mortgages that fund housing, loans that capitalize businesses, insurance that makes risk manageable, and the payment systems that enable commerce. American finance is both remarkably concentrated at the top and remarkably fragmented at the bottom, with a handful of global giants coexisting with 4,500 community banks serving small towns across the country.
+The four largest American banks hold more assets than the annual GDP of Japan. BlackRock manages $10 trillion---more than the GDP of every country except the United States and China. The finance and insurance sector accounts for about 7.5% of GDP but touches every transaction in the economy: mortgages that fund housing, loans that capitalize businesses, insurance that makes risk manageable, and the payment systems that enable commerce. American finance is both remarkably concentrated at the top and remarkably fragmented at the bottom, with a handful of global giants coexisting with roughly 4,200 community banks serving small towns across the country.
 
 ## Overview
 
@@ -82,14 +82,14 @@ The US banking system is simultaneously concentrated and fragmented:
 
 | Rank | Bank | Total Assets | Deposits | US Branches |
 |------|------|--------------|----------|-------------|
-| 1 | JPMorgan Chase | $3.9 trillion | $2.4T | 4,700 |
+| 1 | JPMorgan Chase | $4.1 trillion | $2.4T | 4,700 |
 | 2 | Bank of America | $3.2 trillion | $1.9T | 3,800 |
 | 3 | Citigroup | $2.4 trillion | $1.3T | 650 |
 | 4 | Wells Fargo | $1.9 trillion | $1.4T | 4,600 |
 
 <figure>
 <img src="../_figures/ch08/ch08_top_banks.png" alt="Big Four banks by total assets with JPMorgan Chase approaching $4 trillion" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 8.2: The Big Four banks by total assets. JPMorgan Chase dominates, with assets approaching $4 trillion. Source: FDIC (2024)</figcaption>
+<figcaption>Figure 8.2: The Big Four banks by total assets. JPMorgan Chase dominates, with assets exceeding $4 trillion. Source: FDIC (2024)</figcaption>
 </figure>
 
 These four banks hold 45% of all US banking assets. Add the next four (Goldman Sachs, Morgan Stanley, US Bancorp, PNC), and eight banks control over 60%.
@@ -97,7 +97,7 @@ These four banks hold 45% of all US banking assets. Add the next four (Goldman S
 **The long tail**: Below the giants:
 - 20 "super-regional" banks ($100B-$500B assets): Truist, Capital One, TD Bank, Fifth Third
 - 100 regional banks ($10B-$100B): Huntington, Regions, M&T, Zions
-- 4,500 community banks (<$10B): Serving local markets, often focused on small business and agricultural lending
+- roughly 4,200 community banks (<$10B): Serving local markets, often focused on small business and agricultural lending
 
 Community banks hold only 12% of industry assets but operate 30% of branches and provide the majority of small business loans in rural areas.
 
@@ -536,7 +536,7 @@ The firm also advises governments: BlackRock helped the Fed design its corporate
 
 1. Banks perform "maturity transformation"---borrowing short (demand deposits) and lending long (30-year mortgages). Explain why this is socially valuable and why it is inherently fragile. How did Silicon Valley Bank's failure in March 2023 illustrate this fragility? What role did held-to-maturity accounting, uninsured deposits, and social media play in accelerating the bank run?
 
-2. The four largest banks (JPMorgan Chase, Bank of America, Citigroup, Wells Fargo) hold 45% of all U.S. banking assets, yet 4,500 community banks still operate. What functions do community banks perform that the Big Four cannot or do not? Why haven't community banks been consolidated entirely despite their small scale?
+2. The four largest banks (JPMorgan Chase, Bank of America, Citigroup, Wells Fargo) hold 45% of all U.S. banking assets, yet roughly 4,200 community banks still operate. What functions do community banks perform that the Big Four cannot or do not? Why haven't community banks been consolidated entirely despite their small scale?
 
 3. The "Big Three" asset managers (BlackRock, Vanguard, State Street) collectively manage $23 trillion and are the largest shareholders in most S&P 500 companies. What governance concerns does this concentration of ownership create? How does passive index investing---where a single fund owns shares in competing companies like Delta and United Airlines---raise "common ownership" antitrust questions?
 

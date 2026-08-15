@@ -1,6 +1,6 @@
 # 19. Capital Markets
 
-Every day, $1.5 trillion changes hands on American stock exchanges alone. Add in bonds, derivatives, and private markets, and you have a capital allocation machine that dwarfs the rest of the world combined: 42% of global stock market value, 55% of private equity, half of all venture capital. This dominance is not an accident. It is the product of specific institutions—exchanges, clearinghouses, broker-dealers, and regulators—that have evolved over two centuries to do one thing: match people with money to people who need it.
+Every day, well over half a trillion dollars changes hands on American stock exchanges alone. Add in bonds, derivatives, and private markets, and you have a capital allocation machine that dwarfs the rest of the world combined: 42% of global stock market value, 55% of private equity, half of all venture capital. This dominance is not an accident. It is the product of specific institutions—exchanges, clearinghouses, broker-dealers, and regulators—that have evolved over two centuries to do one thing: match people with money to people who need it.
 
 This chapter focuses on institutional structure rather than pricing theory—the practical plumbing of how capital gets allocated. We examine the stock exchanges where equities trade, the bond markets where governments and corporations borrow, the derivatives markets that enable risk transfer, and the private markets where venture capital and private equity operate.
 
