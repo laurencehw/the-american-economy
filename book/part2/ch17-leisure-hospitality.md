@@ -2,7 +2,7 @@
 
 In April 2020, the leisure and hospitality sector lost 8.2 million jobs in a single month---more than any other sector lost during the entire Great Recession. Restaurants went dark. Hotels emptied. Theme parks locked their gates. The pandemic revealed what economists had long known but rarely said plainly: this is the most fragile major sector in the American economy. It is built on discretionary spending, physical presence, and human labor that cannot be performed remotely. When the world shut down, leisure and hospitality was the first casualty and the last to recover.
 
-The sector's structural position is equally striking in normal times. Leisure and hospitality employs 11% of all nonfarm workers in the United States but produces only about 4% of GDP---the largest gap between employment share and output share in the entire economy. That gap tells you almost everything about how this industry works: millions of workers, modest wages, thin margins, and an economic contribution that flows less through value-added per worker than through sheer volume of people cooking, cleaning, serving, and entertaining.
+The sector's structural position is equally striking in normal times. Leisure and hospitality employs 11% of all nonfarm workers in the United States but produces only about 4.4% of GDP---the largest gap between employment share and output share in the entire economy. That gap tells you almost everything about how this industry works: millions of workers, modest wages, thin margins, and an economic contribution that flows less through value-added per worker than through sheer volume of people cooking, cleaning, serving, and entertaining.
 
 ## Overview
 
@@ -14,7 +14,7 @@ Leisure and hospitality employs more Americans than construction, finance, or in
 
 ### Size and Scope
 
-- **GDP contribution**: $1.1 trillion (~4% of GDP)
+- **GDP contribution**: $1.2 trillion (~4.4% of GDP)
 - **Employment**: 16.7 million workers (11% of nonfarm employment)
 - **Establishments**: Over 1 million restaurants, ~55,000 hotels, plus tens of thousands of entertainment venues, amusement parks, and recreation facilities
 - **Annual consumer spending on food away from home**: $1.1 trillion (2023)

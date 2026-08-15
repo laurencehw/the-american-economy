@@ -68,7 +68,7 @@ The two metropolitan areas within the Bay Area---San Francisco and San Jose---fu
 Los Angeles is often misunderstood as "just entertainment." In fact, the metropolitan economy is remarkably diversified---and enormous.
 
 **Key Statistics:**
-- Metropolitan GDP: $1.1 trillion
+- Metropolitan GDP: $1.3 trillion
 - Population: 13 million
 - Largest manufacturing center in the U.S. (by employment)
 - Ports of LA/Long Beach: 30%+ of U.S. container imports
@@ -86,7 +86,7 @@ The region's challenges are immense. Traffic congestion is legendary---the 405 f
 Seattle's economy rests on two pillars: cloud computing and aerospace. Amazon and Microsoft, the two largest cloud providers, are both headquartered in the Seattle metro (Amazon in Seattle proper, Microsoft across Lake Washington in Redmond).
 
 **Key Statistics:**
-- Metropolitan GDP: $450 billion
+- Metropolitan GDP: $567 billion
 - Amazon employees in region: 80,000+
 - Microsoft employees in region: 60,000
 - Boeing commercial aviation workforce: 50,000
@@ -106,7 +106,7 @@ Seattle's immigrant population, particularly from China, India, and Vietnam, pro
 Denver has emerged as the economic capital of the Mountain West, combining altitude with ambition.
 
 **Key Statistics:**
-- Metropolitan GDP: $250 billion
+- Metropolitan GDP: $312 billion
 - Population: 2.9 million
 - Key sectors: Aerospace, telecommunications, energy, technology
 
@@ -121,7 +121,7 @@ Aerospace and defense remain significant: Lockheed Martin's satellite manufactur
 San Diego has developed a distinctive economy combining biotechnology, defense, and tourism.
 
 **Key Statistics:**
-- Metropolitan GDP: $280 billion
+- Metropolitan GDP: $315 billion
 - Biotech companies: 1,200+
 - Military personnel: 110,000
 - Research institutions: UCSD, Scripps Research, Salk Institute
@@ -135,7 +135,7 @@ The Navy's presence---Pacific Fleet headquarters, multiple bases, and shipbuildi
 Utah's capital has quietly become one of America's fastest-growing technology centers.
 
 **Key Statistics:**
-- Metropolitan GDP: $140 billion
+- Metropolitan GDP: $148 billion
 - GDP growth (2024): 4.5% (highest among major metros)
 - Notable companies: Qualtrics, Pluralsight, Domo, Ancestry
 
@@ -148,7 +148,7 @@ The advantages are straightforward: lower costs than California, an educated wor
 Portland's economy centers on hardware manufacturing---a rarity on the West Coast.
 
 **Key Statistics:**
-- Metropolitan GDP: $200 billion
+- Metropolitan GDP: $219 billion
 - Major employers: Intel, Nike, Columbia Sportswear
 - Semiconductor manufacturing employment: 30,000+
 
@@ -165,7 +165,7 @@ Oregon's economy also includes substantial timber and agriculture sectors in the
 Las Vegas presents a distinctive Western economic model: tourism and gaming as the primary drivers.
 
 **Key Statistics:**
-- Metropolitan GDP: $160 billion
+- Metropolitan GDP: $178 billion
 - Gaming revenue: $15 billion annually
 - Tourism employment: 300,000+
 - Annual visitors: 40 million+

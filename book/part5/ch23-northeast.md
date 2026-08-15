@@ -18,15 +18,15 @@ Agglomeration economies are the productivity advantages that arise when firms an
 
 The corridor's economic dominance reflects centuries of path dependence. Colonial-era port cities became industrial centers, which became financial capitals, which became knowledge hubs. Each transition built on existing infrastructure, institutions, and human capital. The result is an economic density that would be nearly impossible to replicate elsewhere---a fact that explains both the corridor's resilience and its persistent cost disadvantages.
 
-The six states that comprise the corridor's core---Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, and Maryland---plus the District of Columbia together generated $4.8 trillion in GDP in 2023, 18% of the national total. Per capita income across these states averaged $77,000, well above the national figure of $70,000. But these averages mask enormous variation: Connecticut and Massachusetts lead at $90,000 per capita, while Pennsylvania trails at $68,000.
+The six states that comprise the corridor's core---Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, and Maryland---plus the District of Columbia together generated $5.7 trillion in GDP in 2023, 20% of the national total. Per capita income across these states averaged $77,000, well above the national figure of $70,000. But these averages mask enormous variation: Connecticut and Massachusetts lead at $90,000 per capita, while Pennsylvania trails at $68,000.
 
 **Combined Regional Statistics (2024)**
 
 | Metro Area | GDP | Population | Economic Identity |
 |------------|-----|------------|-------------------|
-| New York-Newark | $2.16 trillion | 19.5 million | Global finance and media capital |
+| New York-Newark | $2.30 trillion | 19.5 million | Global finance and media capital |
 | Washington, D.C. | $715 billion | 6.3 million | Federal government and defense |
-| Boston-Cambridge | $641 billion | 4.9 million | Biotech and higher education |
+| Boston-Cambridge | $610 billion | 4.9 million | Biotech and higher education |
 | Philadelphia | $558 billion | 6.2 million | Healthcare, logistics, pharma |
 
 *Source: Bureau of Economic Analysis, Regional GDP; Bureau of Labor Statistics, 2024*
@@ -36,7 +36,7 @@ The six states that comprise the corridor's core---Massachusetts, Connecticut, N
 <figcaption>Figure 23.1: GDP of Northeast Corridor metros (2023). New York dominates at $2.3 trillion, but the combined corridor economy exceeds $4 trillion. <a href="https://laurencehw.github.io/the-american-economy/book/_interactive/regional-map.html" target="_blank">View interactive map of top 20 metros</a>. Source: BEA</figcaption>
 </figure>
 
-Together, the corridor accounts for 17% of U.S. GDP on less than 2% of its land area. This concentration of economic output in such a small geographic footprint is unmatched anywhere in the world outside of city-states like Singapore. The density creates both extraordinary productivity and extraordinary vulnerability: the corridor's economic output depends on infrastructure that was largely built a century ago.
+Together, the four metro areas account for about 15% of U.S. GDP on less than 2% of its land area. This concentration of economic output in such a small geographic footprint is unmatched anywhere in the world outside of city-states like Singapore. The density creates both extraordinary productivity and extraordinary vulnerability: the corridor's economic output depends on infrastructure that was largely built a century ago.
 
 <figure>
 <img src="../_figures/regional/regional_gdp_small_multiples.png" alt="Regional GDP growth trajectories indexed to 2010 showing Sunbelt outpacing Northeast" style="width: 100%; max-width: 800px;">
@@ -79,7 +79,7 @@ The healthcare sector has grown to rival finance in employment. Mount Sinai, NYU
 
 New York's creative industries remain globally dominant. The city produces 40% of American advertising revenue, despite the shift to digital. Film and television production has boomed since the state implemented generous tax credits---the Steiner Studios complex in Brooklyn is now the largest studio facility outside Hollywood. Publishing houses still cluster in Manhattan, even as the industry consolidates.
 
-The metropolitan area's GDP of $2.16 trillion in 2023 makes it larger than the national economies of Brazil, Italy, or Canada. If the New York metro area were a country, it would rank among the world's ten largest economies.
+The metropolitan area's GDP of $2.3 trillion in 2023 makes it larger than the national economies of Brazil, Italy, or Canada. If the New York metro area were a country, it would rank among the world's ten largest economies.
 
 **Key Industries:**
 - Financial services (capital markets, asset management)

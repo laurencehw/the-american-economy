@@ -58,7 +58,7 @@ The physical movement of goods relies on specific high-volume corridors connecti
 
 ### The Transpacific Corridor
 
-**Gateway**: The San Pedro Bay Complex (Ports of Los Angeles and Long Beach) handles 30-40% of all U.S. containerized imports. These twin ports process over 17 million TEUs (twenty-foot equivalent units) annually, dominated by trade with Asia.
+**Gateway**: The San Pedro Bay Complex (Ports of Los Angeles and Long Beach) handles 30-40% of all U.S. containerized imports. These twin ports process roughly 15–18 million TEUs (twenty-foot equivalent units) annually depending on the trade cycle, dominated by trade with Asia.
 
 **Inland Distribution**: Goods move east via the Alameda Corridor rail link to massive intermodal yards and warehouses in the Inland Empire (Ontario, Riverside, San Bernardino). From there, Union Pacific and BNSF rail lines carry containers to Chicago, Dallas, and Memphis for further distribution.
 

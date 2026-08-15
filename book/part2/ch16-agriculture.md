@@ -9,21 +9,21 @@ The paradox of American agriculture is abundance and invisibility. The sector co
 {% hint style="info" %}
 **The Farm Economy vs. the Food Economy**
 
-Agriculture's direct GDP contribution (~1%, $200 billion) vastly understates its economic footprint. The broader food and agriculture system---including food processing, packaging, transportation, wholesale and retail distribution, and food service---accounts for 5% of GDP and over $1.3 trillion in economic activity. About 21 million Americans work somewhere in this chain, even though fewer than 2.6 million work on farms.
+Agriculture's direct GDP contribution (~1%, roughly $220 billion for farms alone) vastly understates its economic footprint. The broader food and agriculture system---including food processing, packaging, transportation, wholesale and retail distribution, and food service---accounts for 5% of GDP and over $1.3 trillion in economic activity. About 21 million Americans work somewhere in this chain, even though fewer than 2.6 million work on farms.
 {% endhint %}
 
 ### Size and Scope
 
-- **Farm-level GDP contribution (2023)**: $200 billion (crops ~$140B, livestock ~$60B in net value added)
+- **Farm-level GDP contribution (2023)**: roughly $220 billion (BEA value added for farms)
 - **Broader food system output**: $1.3 trillion
-- **Farm cash receipts (2023)**: $510 billion (crops ~$275B, livestock ~$235B)
+- **Farm cash receipts (2023)**: $510 billion by USDA's initial estimate, later revised to roughly $547 billion (crops ~$280B, livestock ~$265B)
 - **Farm employment**: 2.6 million (farm operators and hired workers)
 - **Broader food system employment**: 21 million
 - **Number of farms**: 2 million (USDA definition: any place that produced or sold $1,000+ of agricultural products)
-- **Total farmland**: 895 million acres (about 39% of U.S. land area)
+- **Total farmland**: roughly 880 million acres (about 39% of U.S. land area)
 - **Agricultural exports (2023)**: $170 billion
 
-Farm cash receipts---the gross revenue farmers receive for crops and livestock---totaled $510 billion in 2023. But net farm income, what remains after paying for inputs like seed, fertilizer, fuel, labor, and equipment, was $155 billion. The difference reflects the capital- and input-intensive nature of modern farming: for every dollar of crop revenue, farmers spend 70-80 cents on inputs.
+Farm cash receipts---the gross revenue farmers receive for crops and livestock---totaled $510 billion in 2023 by USDA's initial estimate, later revised upward to roughly $547 billion. But net farm income, what remains after paying for inputs like seed, fertilizer, fuel, labor, and equipment, was $155 billion. The difference reflects the capital- and input-intensive nature of modern farming: for every dollar of crop revenue, farmers spend 70-80 cents on inputs.
 
 ### Key Subsectors
 

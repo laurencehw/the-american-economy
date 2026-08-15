@@ -14,12 +14,12 @@ Population tells the story of transition. Illinois has declined from 12.8 millio
 
 | State | GDP | Manufacturing Share | Population Trend |
 |-------|-----|---------------------|------------------|
-| Illinois | $1.05 trillion | 11% | Stable/declining |
-| Ohio | $800 billion | 16% | Stable |
-| Michigan | $620 billion | 20% | Stable |
-| Indiana | $450 billion | 28% | Growing |
-| Minnesota | $440 billion | 12% | Growing |
-| Wisconsin | $400 billion | 18% | Stable |
+| Illinois | $1.15 trillion | 11% | Stable/declining |
+| Ohio | $923 billion | 16% | Stable |
+| Michigan | $702 billion | 20% | Stable |
+| Indiana | $520 billion | 28% | Growing |
+| Minnesota | $508 billion | 12% | Growing |
+| Wisconsin | $453 billion | 18% | Stable |
 
 *Source: Bureau of Economic Analysis, Regional GDP; Bureau of Labor Statistics, 2024*
 
@@ -39,7 +39,7 @@ The region's challenge is structural: manufacturing output grows through automat
 
 ### Chicago: The Midwest's Global City
 
-Chicago stands apart from its regional neighbors. With a GDP of $886 billion, it is the only Midwestern metropolitan area with true global status---a world financial center, transportation hub, and corporate headquarters cluster that competes directly with New York and Los Angeles.
+Chicago stands apart from its regional neighbors. With a GDP of $895 billion, it is the only Midwestern metropolitan area with true global status---a world financial center, transportation hub, and corporate headquarters cluster that competes directly with New York and Los Angeles.
 
 **Economic Pillars:**
 
@@ -64,7 +64,7 @@ The Loop's office market has struggled post-pandemic, with vacancy rates exceedi
 Detroit's identity remains inseparable from automobiles, but the content of that identity is transforming. The region that perfected the internal combustion engine is now betting on electric vehicles.
 
 **Key Statistics:**
-- Metropolitan GDP: $280 billion
+- Metropolitan GDP: $331 billion
 - Automotive employment: 200,000+
 - Major employers: Ford, General Motors, Stellantis
 
@@ -83,7 +83,7 @@ Recent years have brought genuine revitalization to downtown and selected neighb
 The Twin Cities present an anomaly: a metropolitan area of 3.7 million people in the upper Midwest with an extraordinary concentration of corporate headquarters. Target, UnitedHealth Group, 3M, General Mills, Best Buy, U.S. Bank---the Fortune 500 density per capita rivals New York.
 
 **Key Statistics:**
-- Metropolitan GDP: $280 billion
+- Metropolitan GDP: $351 billion
 - Fortune 500 headquarters: 17
 - Major sectors: Retail, healthcare, manufacturing
 
@@ -131,7 +131,7 @@ The "eds and meds" model has limits. Universities and hospitals don't generate t
 Indianapolis's identity as "the crossroads of America" reflects its location at the intersection of major interstates. FedEx operates a major hub there; logistics companies have clustered to serve the national market from a central location.
 
 **Key Statistics:**
-- Metropolitan GDP: $180 billion
+- Metropolitan GDP: $199 billion
 - Life sciences employment: 75,000+
 - Flagship: Eli Lilly (headquartered in Indianapolis)
 
