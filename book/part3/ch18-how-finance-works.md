@@ -1,4 +1,4 @@
-# Chapter 18: How American Finance Works
+# 18. How American Finance Works
 
 Most economic textbooks treat finance as a "veil"—a neutral mechanism for moving funds from savers to borrowers that doesn't much affect real outcomes. The 2008 financial crisis shattered this comforting illusion. Finance has plumbing, and the plumbing matters. Who holds what assets, how they're funded, what constraints they face, and how they connect to each other—these institutional details shape credit availability, amplify economic shocks, and occasionally bring the system to near-collapse.
 

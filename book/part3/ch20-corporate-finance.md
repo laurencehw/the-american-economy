@@ -1,4 +1,4 @@
-# Chapter 20: Corporate Finance in Practice
+# 20. Corporate Finance in Practice
 
 How do American corporations finance themselves? The textbook answer—firms raise capital by issuing stocks and bonds—is mostly wrong. In practice, corporations finance investment overwhelmingly from internal funds: retained earnings and depreciation allowances. When they do access external markets, they strongly prefer debt to equity. And for the past decade, large corporations have been net *returners* of capital to shareholders through buybacks and dividends, not net raisers.
 

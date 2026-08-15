@@ -1,4 +1,4 @@
-# Chapter 27: Rural America
+# 27. Rural America
 
 Drive an hour beyond any major metropolitan area and the American economy changes character. The density that generates agglomeration economies in cities dissipates into landscapes where the nearest hospital might be sixty miles away, where broadband internet remains uncertain, and where the largest employers are often the local school district and the county government. This is rural America: 14% of the population spread across 72% of the land, increasingly disconnected from the metropolitan economy that dominates national statistics.
 

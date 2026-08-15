@@ -1,4 +1,4 @@
-# Chapter 5: Real Estate, Rental, and Leasing
+# 5. Real Estate, Rental, and Leasing
 
 American housing wealth exceeds $50 trillion—more than the entire market capitalization of U.S. stocks. Unlike a stock portfolio, you cannot diversify this asset. You live in one place, work in one metro, and your largest holding sits immovable on a single plot of land. Every business requires premises. Every worker needs a home. For most households, housing plays a triple role—shelter, investment vehicle, retirement plan—creating dynamics found nowhere else in the economy. When prices rise, existing homeowners grow wealthier while aspiring buyers face exclusion. When prices fall, household balance sheets implode, as 2008 demonstrated with devastating clarity.
 

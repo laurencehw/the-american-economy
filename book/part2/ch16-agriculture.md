@@ -1,4 +1,4 @@
-# Chapter 16. Agriculture and Food Production
+# 16. Agriculture and Food Production
 
 Drive across Iowa in July and you will see corn in every direction---millions of acres of it, planted in rows so precise they look machined, tended by GPS-guided tractors that steer themselves to sub-inch accuracy. You will not see many people. A single farm operator, working 2,000 acres alone with $1 million in equipment, can produce enough corn to feed 2,500 people for a year. American agriculture feeds 330 million Americans and exports enough to feed hundreds of millions more. It does this with fewer than 2.6 million farm workers---less than 2% of the labor force. No other sector in the economy has achieved such an extraordinary ratio of output to labor. And no other sector so thoroughly contradicts its own popular image: the romantic small family farm persists in the national imagination, but the reality is an industrial system dominated by large operations, multinational corporations, and commodity markets that set prices in Chicago and move grain across oceans.
 

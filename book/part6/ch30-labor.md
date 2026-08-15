@@ -497,7 +497,6 @@ It is tempting to categorize childcare and eldercare as "social" issues distinct
 
 ---
 
-**Word count:** 5,800 words
 
 *Note: For treatment of specific industries and their labor markets, see relevant sector chapters in Part II.*
 

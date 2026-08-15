@@ -9,7 +9,7 @@ Professional and business services (NAICS 54-56) spans industries united by a si
 ### Size and Scope
 
 - **GDP contribution (2023)**: $3.6 trillion (approximately 13% of GDP, combining NAICS 54-56)
-- **Employment**: 22.4 million workers (Professional, Scientific, Technical Services: 10.2M; Administrative Services: 9.5M; Management of Companies: 2.7M)
+- **Employment**: 22.6 million workers (Professional, Scientific, Technical Services: 10.8M; Administrative Services: 9.2M; Management of Companies: 2.6M)
 - **Establishments**: Over 1.1 million firms
 - **Growth**: One of the fastest-growing sectors over the past three decades
 

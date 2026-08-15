@@ -1,4 +1,4 @@
-# Chapter 14. Energy
+# 14. Energy
 
 The United States consumes more energy than any country except China, burning through roughly 100 quadrillion BTUs annually---the equivalent of 20 million barrels of oil per day. This energy powers an $800 billion sector that spans oil fields in the Permian Basin, natural gas pipelines crisscrossing the continent, nuclear plants operating since the 1970s, wind farms across the Great Plains, and solar installations spreading across rooftops and deserts. The American energy system is simultaneously ancient (some coal plants date to the 1950s) and revolutionary (solar costs have fallen 90% in a decade). Understanding energy means understanding both the legacy infrastructure that still dominates and the transformation now underway.
 

@@ -1,4 +1,4 @@
-# Chapter 31: The American Economy in Perspective
+# 31. The American Economy in Perspective
 
 Standing at the vantage point of 2026, the American economy embodies contradictions that would puzzle a time traveler from even the recent past. We achieved the "soft landing" that economists deemed improbable---taming post-pandemic inflation without destroying the labor market---yet national sentiment remains anxious. We see a manufacturing construction boom of historic proportions in a country that has supposedly deindustrialized. We witness the world's most aggressive pivot toward green energy in a nation that is simultaneously the world's largest oil producer. We observe a stock market powered by artificial intelligence reaching unprecedented heights while downtown office towers---the cathedrals of the service economy---stand a quarter empty, artifacts of a work culture that may never fully return.
 

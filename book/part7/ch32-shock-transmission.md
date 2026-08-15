@@ -1,4 +1,4 @@
-# Chapter 32: How Shocks Move Through the Economy
+# 32. How Shocks Move Through the Economy
 
 Throughout this book, we've examined the American economy's structure: its sectors, regions, institutions, and interconnections. But structure isn't static. Understanding how the economy is built matters most when something disrupts it. This chapter brings the structural analysis to life by tracing how economic shocks propagate—through input-output linkages, financial channels, labor markets, and geographic networks.
 

@@ -1,4 +1,4 @@
-# Chapter 21: America's Trading Relationships
+# 21. America's Trading Relationships
 
 In 1994, the United States championed NAFTA and pushed China toward WTO membership, betting that free trade would spread prosperity and anchor geopolitical stability. Thirty years later, American tariffs on Chinese goods average 19%—higher than the Smoot-Hawley rates of the 1930s that economics textbooks cite as a cautionary tale. The United States now actively discourages semiconductor investment in China, restricts technology exports, and subsidizes domestic manufacturing. The country that built the postwar trading system is now busily dismantling parts of it.
 

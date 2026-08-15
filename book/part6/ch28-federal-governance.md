@@ -216,7 +216,6 @@ The SEC's effectiveness is perpetually debated. Critics argue its disclosure-bas
 
 ---
 
-**Word count:** 2,200 words
 
 *Note: For treatment of specific policy areas (taxation, monetary policy, financial regulation), see relevant chapters in Parts II and III.*
 

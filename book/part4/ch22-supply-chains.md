@@ -1,4 +1,4 @@
-# Chapter 22: Global Supply Chains
+# 22. Global Supply Chains
 
 Global supply chains are the circulatory system of the modern American economy. While trade statistics focus on finished products crossing borders, the reality of 21st-century commerce is more complex: products cross borders multiple times at different stages of production. A smartphone designed in California contains chips fabricated in Taiwan from equipment made in the Netherlands, assembled in China with batteries from South Korea, and shipped through logistics networks spanning multiple continents.
 

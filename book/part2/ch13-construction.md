@@ -1,4 +1,4 @@
-# Chapter 13. Construction
+# 13. Construction
 
 *"We used to build things in this country."*
 
@@ -12,7 +12,7 @@ This is not a statistical artifact. Goolsbee and Syverson (2023) systematically 
 
 - **GDP Contribution:** **$1.2 trillion** (4.4% of GDP)
 - **Gross Output:** $2.2 trillion annually (including intermediate inputs)
-- **Employment:** 8.3 million workers
+- **Employment:** 8.1 million workers
 - **Establishments:** 800,000 firms, the vast majority with fewer than 10 employees
 - **Value Put in Place:** $2.1 trillion annually in new construction (2024)
 
@@ -182,7 +182,7 @@ Certain geographies have developed specialized construction expertise:
 
 ### Employment Profile
 
-Construction employs **8.3 million workers**, 5.5% of total US employment. The workforce is distinctive:
+Construction employs **8.1 million workers**, 5.2% of total US employment. The workforce is distinctive:
 
 - **Demographics:** 97% male (one of the most gender-skewed major industries); median age rising steadily
 - **Education:** Most workers have high school education or less; formal credentials matter less than experience and skill

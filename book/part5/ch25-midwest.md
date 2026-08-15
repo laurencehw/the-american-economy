@@ -1,4 +1,4 @@
-# Chapter 25: The Midwest
+# 25. The Midwest
 
 Drive west from Pittsburgh and the landscape tells a story of industrial might and industrial decline. Steel mills, now mostly silent, line the rivers. Factory towns bear names like Youngstown, Akron, Flint---places that once defined American manufacturing and now struggle to define their futures. But continue west to Columbus, Indianapolis, or Minneapolis, and the story changes. Cranes dot skylines. New factories rise. The Midwest is reinventing itself.
 

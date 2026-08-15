@@ -346,7 +346,6 @@ The government sector (Chapter 4) plays a larger role in Sunbelt prosperity than
 
 ---
 
-**Word count:** roughly 4,600 words
 
 *Note: For industry-specific analysis of energy, manufacturing, and technology, see the relevant chapters in Part II.*
 

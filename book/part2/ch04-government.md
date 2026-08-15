@@ -1,4 +1,4 @@
-# Chapter 4. Government at All Levels
+# 4. Government at All Levels
 
 The United States has 89,500 governments. One federal. Fifty state. The rest---over 89,000---are local: counties, cities, townships, school districts, fire districts, water authorities, transit agencies. Each levies taxes. Each employs workers. Each writes rules. Americans talk about "the government" as if it were a single actor. It isn't.
 

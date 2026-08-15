@@ -1,4 +1,4 @@
-# Chapter 10. Retail and Wholesale Trade
+# 10. Retail and Wholesale Trade
 
 *"The consumer is boss."* — Sam Walton
 

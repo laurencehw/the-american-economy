@@ -337,7 +337,6 @@ The West also demonstrates how wealth effects propagate through the housing mark
 
 ---
 
-**Word count:** roughly 4,500 words
 
 *Note: For detailed treatment of technology, energy, and specific industries, see the relevant chapters in Part II.*
 

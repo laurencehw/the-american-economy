@@ -120,18 +120,18 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 | Sector | Employment | Share |
 |--------|----------:|------:|
-| Education & Health Services | 26.4M | 17% |
+| Education & Health Services | 25.9M | 17% |
 | Government | 23.1M | 15% |
-| Professional & Business Services | 22.9M | 15% |
-| Leisure & Hospitality | 16.8M | 11% |
+| Professional & Business Services | 22.6M | 14% |
+| Leisure & Hospitality | 16.7M | 11% |
 | Retail Trade | 15.6M | 10% |
-| Manufacturing | 12.6M | 8% |
-| Financial Activities | 9.1M | 6% |
+| Manufacturing | 12.9M | 8% |
+| Financial Activities | 9.2M | 6% |
 | Construction | 8.1M | 5% |
-| Transportation & Warehousing | 6.2M | 4% |
+| Transportation & Warehousing | 6.6M | 4% |
 | Wholesale Trade | 6.1M | 4% |
 | Other Services | 5.9M | 4% |
-| Information | 2.9M | 2% |
+| Information | 3.0M | 2% |
 | Mining & Utilities | 1.2M | 1% |
 
 *Source: Bureau of Labor Statistics, Current Employment Statistics (CES), December 2023*
@@ -145,9 +145,9 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 Compare these rankings with GDP share, and you'll notice striking divergences:
 
-**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce about 8.5% of GDP as measured by value added in the BEA industry accounts. This apparent gap deserves explanation: BEA measures value added by healthcare *providers* alone---hospitals, clinics, physicians' offices. Total national health expenditure, a broader measure tracked by CMS, reaches 18% of GDP because it also counts insurance administration, government program overhead, out-of-pocket spending, and employer contributions that appear under other sectors' value added in BEA accounts. The two numbers measure different things: industry output vs. total societal spending. Both are correct; neither is complete. These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
+**Healthcare and education** employ more people than any other sector (roughly 17% of the workforce) but produce about 8.5% of GDP as measured by value added in the BEA industry accounts. This apparent gap deserves explanation: BEA measures value added by healthcare *providers* alone---hospitals, clinics, physicians' offices. Total national health expenditure, a broader measure tracked by CMS, reaches 18% of GDP because it also counts insurance administration, government program overhead, out-of-pocket spending, and employer contributions that appear under other sectors' value added in BEA accounts. The two numbers measure different things: industry output vs. total societal spending. Both are correct; neither is complete. These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
 
-**Manufacturing** contributes 10% of GDP but employs only 8% of workers. Each manufacturing worker produces about $225,000 in value annually---far above the economy-wide average. Automation, technology, and capital investment have made factories extraordinarily productive.
+**Manufacturing** contributes 10% of GDP but employs only 8% of workers. Each manufacturing worker produces about $220,000 in value annually---far above the economy-wide average. Automation, technology, and capital investment have made factories extraordinarily productive.
 
 **Leisure and hospitality** employs 11% of workers but produces only about 4% of GDP. Restaurants, hotels, and entertainment venues pay relatively low wages for work that's hard to automate.
 

@@ -1,4 +1,4 @@
-# Chapter 11: Information, Technology, and Media
+# 11. Information, Technology, and Media
 
 The information sector occupies an anomalous position in the American economy: relatively small in employment but enormous in market capitalization, geographically concentrated yet ubiquitous in daily life, and governed by regulatory frameworks designed for technologies that no longer exist. This chapter examines the economic structure of technology, telecommunications, and media—industries that have reshaped how Americans work, shop, communicate, and consume entertainment.
 

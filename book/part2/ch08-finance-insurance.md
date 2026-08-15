@@ -1,4 +1,4 @@
-# Chapter 8. Finance and Insurance
+# 8. Finance and Insurance
 
 The four largest American banks hold more assets than the annual GDP of Japan. BlackRock manages $10 trillion---more than the GDP of every country except the United States and China. The finance and insurance sector accounts for about 7.5% of GDP but touches every transaction in the economy: mortgages that fund housing, loans that capitalize businesses, insurance that makes risk manageable, and the payment systems that enable commerce. American finance is both remarkably concentrated at the top and remarkably fragmented at the bottom, with a handful of global giants coexisting with 4,500 community banks serving small towns across the country.
 

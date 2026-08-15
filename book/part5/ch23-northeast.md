@@ -300,7 +300,6 @@ The 2008 financial crisis demonstrated the shock transmission mechanisms analyze
 
 ---
 
-**Word count:** 4,300 words
 
 *Note: This chapter focuses on economic structure and geography. For treatment of specific industries (financial services, healthcare, technology), see the relevant sector chapters in Part II.*
 

@@ -1,4 +1,4 @@
-# Chapter 9: Manufacturing
+# 9. Manufacturing
 
 American manufacturing occupies a paradoxical position in the national imagination. Politicians of both parties invoke factory jobs as the backbone of the middle class, yet manufacturing employment has declined relentlessly for decades. Commentators lament "deindustrialization," yet American factories produce more output than ever before. The manufacturing sector commands policy attention far exceeding its share of employment—roughly 8% of the workforce—because of its perceived strategic importance, its geographic concentration in politically pivotal states, and nostalgia for an era when a high school graduate could support a family on assembly-line wages. This chapter examines manufacturing as it actually exists: a high-productivity sector that generates substantial economic value with an ever-shrinking workforce, concentrated in specific subsectors and regions, and increasingly subject to industrial policy intervention.
 

@@ -2,7 +2,7 @@
 
 An MRI of your knee costs $3,000 in the United States. The same scan, on the same machine, costs $300 in Japan. That tenfold price gap for an identical service captures everything strange about American healthcare.
 
-Americans spend more on healthcare than on anything else except housing: nearly $4.5 trillion in 2022, or 17% of GDP. More than 20 million people work in healthcare and social assistance, making it the largest private-sector employer in the country. By any measure, this is the largest healthcare system in the world.
+Americans spend more on healthcare than on anything else except housing: nearly $4.5 trillion in 2022, or 17% of GDP. More than 22 million people work in healthcare and social assistance, making it the largest private-sector employer in the country. By any measure, this is the largest healthcare system in the world.
 
 Yet the money does not buy better outcomes. Americans die younger than citizens of peer countries. Infant mortality runs higher. Chronic disease runs rampant. The dollars flow through a byzantine maze of hospitals, insurers, pharmaceutical companies, and physician practices---each extracting value, each adding complexity.
 
@@ -20,8 +20,8 @@ In healthcare, the person receiving care (patient) differs from the person payin
 
 - **National health expenditure (2022)**: $4.5 trillion
 - **Share of GDP**: 17.3%
-- **Employment**: 20.5 million (healthcare and social assistance)
-- **Share of total employment**: 13%
+- **Employment**: 22.0 million (healthcare and social assistance)
+- **Share of total employment**: 14%
 - **Establishments**: Over 900,000 healthcare establishments
 
 Healthcare spending has outpaced economic growth for decades. In 1960, healthcare claimed just 5% of GDP; by 1980, 9%; by 2000, 13%; today, nearly 18%. An aging population, technological advances, rising incomes, and perverse payment incentives all fuel this growth.
@@ -255,7 +255,7 @@ These differences partly reflect regional price variation---healthcare is much m
 
 ### Employment
 
-Healthcare and social assistance employs about 20.5 million workers, divided roughly as:
+Healthcare and social assistance employs about 22 million workers, divided roughly as:
 
 - **Hospitals**: 5.3 million
 - **Ambulatory care (physician offices, outpatient centers)**: 8.5 million

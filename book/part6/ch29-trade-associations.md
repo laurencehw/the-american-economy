@@ -241,7 +241,6 @@ PhRMA has been largely successful at maintaining the pricing status quo, though 
 
 ---
 
-**Word count:** roughly 2,200 words
 
 *Note: For treatment of specific regulatory agencies and policy areas, see relevant chapters in Part II and Chapter 28.*
 
