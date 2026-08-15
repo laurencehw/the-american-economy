@@ -142,6 +142,26 @@ Yet the machine keeps running. The question for the coming decades is not whethe
 
 That question cannot be answered by economic analysis alone. It depends on political choices, institutional reforms, and social solidarities that lie beyond the scope of GDP statistics. Economics can illuminate the trade-offs; it cannot make the choices. Those remain the work of democratic politics in an unfinished republic.
 
+## Data Sources and Further Reading
+
+### Key Data Sources
+
+This chapter synthesizes data presented throughout the book. The underlying statistics come from:
+
+- **Bureau of Economic Analysis (bea.gov)**: GDP, industry accounts, regional data
+- **Bureau of Labor Statistics (bls.gov)**: Employment, wages, productivity
+- **Federal Reserve (fred.stlouisfed.org)**: Financial accounts, monetary data
+- **Congressional Budget Office (cbo.gov)**: Fiscal projections
+- **Census Bureau (census.gov)**: Population, migration, business statistics
+
+### Further Reading
+
+- Gordon, Robert J. *The Rise and Fall of American Growth* (2016)---The definitive account of American productivity and living standards, 1870-1970 and after
+- Cowen, Tyler. *The Great Stagnation* (2011)---A contrarian view of the productivity slowdown
+- Irwin, Douglas. *Clashing over Commerce* (2017)---The history of American trade policy
+- Tooze, Adam. *Crashed* (2018)---The 2008 crisis and its global aftermath
+- Case, Anne, and Angus Deaton. *Deaths of Despair and the Future of Capitalism* (2020)---On the geographic and social divergence documented in Part V
+
 ## Exercises
 
 ### Review Questions

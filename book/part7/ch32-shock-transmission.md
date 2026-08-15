@@ -45,7 +45,7 @@ The structural features documented in Chapters 23-27 (regional economies) determ
 Financial channels amplify shocks through leverage and interconnection:
 
 - **Asset price changes** affect household and corporate balance sheets. The 2006-2012 housing crash destroyed $8 trillion in household wealth, contracting consumption far beyond what direct job losses would have caused.
-- **Credit conditions** tighten during downturns as banks pull back lending, creating a vicious cycle: economic weakness leads to tighter credit, which deepens the weakness.
+- **Credit conditions** tighten during downturns as banks pull back lending, creating a vicious cycle: economic weakness leads to tighter credit, which deepens the weakness (Bernanke and Gertler 1995).
 - **Financial institution stress** can cascade through the system. The 2008 crisis showed how losses at one institution—Lehman Brothers—could freeze credit markets globally.
 
 The financial architecture described in Chapters 18-20 determines how these channels operate. Highly levered systems amplify shocks; well-capitalized systems absorb them.
@@ -168,7 +168,7 @@ The oil shock illustrates the transmission framework, but other shocks activate 
 
 ### The China Shock (2000-2010)
 
-The China shock—the surge in imports following China's WTO accession—transmitted primarily through product market competition, with devastating effects on specific communities.
+The China shock—the surge in imports following China's WTO accession—transmitted primarily through product market competition, with devastating effects on specific communities (Autor, Dorn, and Hanson 2016).
 
 **Transmission mechanism**: Unlike oil, where prices adjusted to balance supply and demand, the China shock worked through quantities. American factories lost market share to Chinese imports. Plants that couldn't match Chinese costs closed. Workers lost jobs.
 
@@ -184,7 +184,7 @@ The housing bust transmitted primarily through balance sheets—the wealth effec
 
 **Wealth destruction**: American homeowners lost $8 trillion in home equity between 2006 and 2009. For households whose homes represented their primary asset, this wealth destruction was catastrophic.
 
-**Consumption collapse**: Mian and Sufi documented that zip codes with larger house price declines experienced larger drops in consumer spending. Households that felt poorer spent less—on cars, appliances, restaurants, and everything else.
+**Consumption collapse**: Mian and Sufi (2014) documented that zip codes with larger house price declines experienced larger drops in consumer spending. Households that felt poorer spent less—on cars, appliances, restaurants, and everything else.
 
 **Financial contagion**: The housing bust became a financial crisis because mortgages had been securitized and distributed throughout the financial system. When housing prices fell and defaults rose, the securities backed by those mortgages fell in value. Banks holding these securities faced insolvency. The uncertainty about who held how much toxic paper froze interbank lending, transmitting a housing shock into a credit crisis affecting the entire economy.
 

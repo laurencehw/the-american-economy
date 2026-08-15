@@ -4,7 +4,7 @@ In 2024, Chevron announced it was moving its corporate headquarters from the San
 
 ## The Great Shift
 
-The Sunbelt---stretching from the Carolinas through Georgia, Florida, Texas, Arizona, and Nevada---has captured the lion's share of American growth for two decades. This is not simply population movement; it represents a structural reallocation of economic activity from the Northeast and Midwest to the South and Southwest.
+The Sunbelt---stretching from the Carolinas through Georgia, Florida, Texas, Arizona, and Nevada---has captured the lion's share of American growth for two decades. This is not simply population movement; it represents a structural reallocation of economic activity from the Northeast and Midwest to the South and Southwest (Moretti 2012).
 
 The shift accelerated after 2020. Remote work untethered millions of knowledge workers from expensive coastal metros; lower taxes and warmer weather suddenly became accessible without career sacrifice. Corporate relocations followed, drawn by the same cost arbitrage plus the desire to locate near migrating talent. The Sunbelt absorbed the resulting influx with a mixture of triumphalism and infrastructure strain.
 
@@ -353,7 +353,7 @@ The government sector (Chapter 4) plays a larger role in Sunbelt prosperity than
 
 ### Review Questions
 
-1. Between 2019 and 2024, Texas added 2.3 million residents and Florida added 1.9 million---together absorbing more population than the bottom 30 states combined. The chapter distinguishes between "extensive" growth (more people, more jobs) and "intensive" growth (higher productivity per worker). Using per capita income data from the chapter (Texas at $67,500, Florida at $70,000, versus the national average of $70,000), explain why the Sunbelt's rapid total GDP growth may overstate its economic performance relative to the Northeast or West.
+1. Between 2019 and 2024, Texas added 2.3 million residents and Florida added 1.8 million---together gaining more people than the 30 slowest-growing states combined. The chapter distinguishes between "extensive" growth (more people, more jobs) and "intensive" growth (higher productivity per worker). Using per capita income data from the chapter (Texas at $67,500, Georgia at $60,000, Arizona at $63,000, and Florida at $70,000, versus the national average of $70,000), explain why the Sunbelt's rapid total GDP growth may overstate its economic performance relative to the Northeast or West.
 
 2. Houston is described as "the command center" of global energy, with every major integrated oil company now headquartered in its metropolitan area. But the chapter also notes Houston's diversification into the Texas Medical Center (120,000 employees) and energy transition technologies. Evaluate the risks and benefits of Houston's continued concentration in energy. How does the city's pivot toward hydrogen, carbon capture, and renewables represent an attempt to leverage existing engineering talent for a different purpose?
 
