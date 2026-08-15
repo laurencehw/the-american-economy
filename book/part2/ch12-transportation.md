@@ -183,7 +183,7 @@ America's seaports are the gateways for international trade. Container ports han
 <figcaption>Figure 12.8: Top U.S. container ports by TEUs. Los Angeles-Long Beach dominates trans-Pacific trade; Savannah has gained share since the 2021 congestion crisis. Source: AAPA (2023)</figcaption>
 </figure>
 
-The San Pedro Bay ports (Los Angeles and Long Beach) together form the nation's largest port complex, handling about 40% of containerized imports. Their dominance reflects proximity to Asia---the great circle route from Shanghai to LA is several days shorter than to East Coast ports via the Panama Canal.
+The San Pedro Bay ports (Los Angeles and Long Beach) together form the nation's largest port complex, handling roughly one-third of containerized imports. Their dominance reflects proximity to Asia---the great circle route from Shanghai to LA is several days shorter than to East Coast ports via the Panama Canal.
 
 The 2021-2022 port congestion crisis exposed the fragility of this concentration. Ships anchored for weeks waiting to unload, contributing to supply chain disruptions that raised prices nationwide. The crisis accelerated a shift toward East Coast and Gulf ports, with Savannah in particular gaining share.
 

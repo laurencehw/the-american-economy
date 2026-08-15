@@ -1,13 +1,13 @@
 # 5. Real Estate, Rental, and Leasing
 
-American housing wealth exceeds $50 trillion—more than the entire market capitalization of U.S. stocks. Unlike a stock portfolio, you cannot diversify this asset. You live in one place, work in one metro, and your largest holding sits immovable on a single plot of land. Every business requires premises. Every worker needs a home. For most households, housing plays a triple role—shelter, investment vehicle, retirement plan—creating dynamics found nowhere else in the economy. When prices rise, existing homeowners grow wealthier while aspiring buyers face exclusion. When prices fall, household balance sheets implode, as 2008 demonstrated with devastating clarity.
+American housing wealth exceeds $50 trillion—rivaling the entire market capitalization of U.S. listed equities. Unlike a stock portfolio, you cannot diversify this asset. You live in one place, work in one metro, and your largest holding sits immovable on a single plot of land. Every business requires premises. Every worker needs a home. For most households, housing plays a triple role—shelter, investment vehicle, retirement plan—creating dynamics found nowhere else in the economy. When prices rise, existing homeowners grow wealthier while aspiring buyers face exclusion. When prices fall, household balance sheets implode, as 2008 demonstrated with devastating clarity.
 
 ## Overview
 
 **Size and Scope**
 
 - **GDP Share:** 13–14% of GDP strictly defined; rising to 16–17% when including housing services and residential investment. Real estate is consistently the single largest sector of the American economy.
-- **Asset Value:** The total value of the U.S. housing stock exceeds **$50 trillion** (2024)—a figure that dwarfs the capitalization of the entire U.S. stock market.
+- **Asset Value:** The total value of the U.S. housing stock exceeds **$50 trillion** (2024)—a sum rivaling the capitalization of the entire U.S. stock market.
 - **Commercial Real Estate:** An additional $20+ trillion in office, retail, industrial, and multifamily properties.
 - **Employment:** Approximately 2.3 million workers in real estate activities proper (agents, property managers, appraisers), plus millions more in construction, mortgage finance, and related services.
 - **Establishments:** Over 800,000 firms operate in the sector, ranging from accidental sole-proprietor landlords renting out a spare bedroom to multinational Real Estate Investment Trusts (REITs) with properties on four continents.
@@ -17,7 +17,7 @@ Real estate sits at the intersection of shelter, investment, and finance. For mo
 {% hint style="warning" %}
 **Housing as Wealth Engine**
 
-American households hold over $50 trillion in housing wealth—more than the combined value of all U.S. stocks. For most families, their home represents 60-70% of total wealth, making housing policy inseparable from wealth inequality.
+American households hold over $50 trillion in housing wealth—a sum rivaling the combined value of all U.S. listed stocks. For most families, their home represents 60-70% of total wealth, making housing policy inseparable from wealth inequality.
 {% endhint %}
 
 ## How the Industry Works

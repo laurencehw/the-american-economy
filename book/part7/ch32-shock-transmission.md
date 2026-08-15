@@ -75,7 +75,7 @@ Chapter 2 introduced this episode through the lens of input-output linkages---ba
 
 <figure>
 <img src="../_figures/ch32/ch32_oil_shock_timeline.png" alt="Timeline of 2014-2016 oil price collapse showing Brent crude falling from $115 to $28 per barrel" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 32.2: The 2014-2016 oil price collapse. Brent crude fell from $115 to $28 per barrel; the U.S. rig count collapsed 80% from 1,600 to 316. The shock devastated energy-producing regions while benefiting consumers elsewhere. Source: EIA, Baker Hughes</figcaption>
+<figcaption>Figure 32.2: The 2014-2016 oil price collapse. Brent crude fell from $115 to $28 per barrel; the U.S. oil rig count collapsed 80% from 1,600 to 316. The shock devastated energy-producing regions while benefiting consumers elsewhere. Source: EIA, Baker Hughes</figcaption>
 </figure>
 
 ### The Initial Shock
@@ -90,7 +90,7 @@ The direct impact hit the oil and gas industry immediately:
 
 **Employment**: The oil and gas extraction sector shed over 150,000 jobs between late 2014 and early 2016. Oilfield services lost even more—drillers, equipment operators, service technicians.
 
-**Investment**: Active rig counts plummeted from 1,600 to 316—an 80% decline. Capital expenditures by exploration and production companies fell by more than half. Projects were cancelled, drilling programs suspended, expansion plans shelved.
+**Investment**: Active oil rig counts plummeted from 1,600 to 316—an 80% decline. Capital expenditures by exploration and production companies fell by more than half. Projects were cancelled, drilling programs suspended, expansion plans shelved.
 
 **Corporate stress**: Over 100 North American oil and gas producers filed for bankruptcy in 2015-2016. High-yield energy bonds, which had funded much of the shale boom, suffered default rates exceeding 15%.
 
@@ -257,7 +257,7 @@ The 2021-2022 supply chain crisis revealed vulnerabilities in global production 
 
 - **Single points of failure**: Concentration of semiconductor production in Taiwan, pharmaceutical ingredients in China, and container shipping through a few major ports creates systemic risk.
 - **Just-in-time inventory**: Optimizing for efficiency left no buffer for disruption. The system that worked brilliantly in normal times failed spectacularly under stress.
-- **Logistics bottlenecks**: The LA/Long Beach port complex handles 40% of containerized imports. When it congested, the entire country felt the effects.
+- **Logistics bottlenecks**: The LA/Long Beach port complex handles roughly one-third of containerized imports. When it congested, the entire country felt the effects.
 
 ### Financial Leverage
 
