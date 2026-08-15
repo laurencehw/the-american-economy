@@ -19,7 +19,7 @@ Americans spend over $1.5 trillion annually on education, making it one of the l
 <figcaption>Figure 15.1: U.S. educational enrollment by sector. Public K-12 schools enroll the overwhelming majority of students, making education the single largest expenditure for state and local governments---exceeding Medicaid and infrastructure combined. Source: NCES</figcaption>
 </figure>
 
-Education's share of GDP is about 7%, comparable to healthcare in the 1980s before that sector's explosive growth. Education is the single largest expenditure category for state and local governments, exceeding Medicaid and infrastructure combined.
+Education's share of GDP is about 6% ($1.6 trillion of $27.8 trillion), comparable to healthcare in the mid-1960s before that sector's explosive growth. Education is the single largest expenditure category for state and local governments, exceeding Medicaid and infrastructure combined.
 
 The sector is unusual because most spending flows through government, but the industry surrounding education---publishers, test makers, technology providers, and for-profit schools---is thoroughly commercial. The College Board, technically a nonprofit, generates $1.5 billion in annual revenue. Pearson, the world's largest education company, is a London-listed corporation. Understanding education in America means understanding both the public mission and the private interests.
 
