@@ -10,19 +10,19 @@ This concentration determines policy, politics, and opportunity. Where you live 
 
 | State | GDP (2023) | Share of U.S. | Population |
 |-------|-----------|---------------|------------|
-| California | $3.25 trillion | 12% | 39 million |
-| Texas | $2.10 trillion | 8% | 30 million |
-| New York | $1.79 trillion | 7% | 19 million |
-| Florida | $1.29 trillion | 5% | 22 million |
-| Illinois | $886 billion | 3% | 12 million |
+| California | $3.83 trillion | 13.8% | 39.0 million |
+| Texas | $2.64 trillion | 9.5% | 30.5 million |
+| New York | $2.18 trillion | 7.8% | 19.6 million |
+| Florida | $1.62 trillion | 5.8% | 22.6 million |
+| Illinois | $1.10 trillion | 4.0% | 12.6 million |
 
 *Source: Bureau of Economic Analysis, Regional Economic Accounts, 2023*
 
 California's economy exceeds that of India or the United Kingdom. It would rank among the world's five largest countries. Texas has grown rapidly, riding oil production and business-friendly policies to become America's second-largest economy. New York punches above its population weight, reflecting the concentration of finance, media, and professional services in Manhattan.
 
 <figure>
-<img src="../_figures/ch03/ch03_state_gdp.png" alt="Choropleth: California, Texas, New York, Florida, and Illinois produce 35% of national GDP" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 3.0: State GDP (2023). California dominates at $3.25 trillion, followed by Texas and New York. The top five states produce 35% of national output; the top ten exceed 50%. Source: BEA Regional GDP</figcaption>
+<img src="../_figures/ch03/ch03_state_gdp.png" alt="Choropleth: California, Texas, New York, Florida, and Illinois produce about 41% of national GDP" style="width: 100%; max-width: 800px;">
+<figcaption>Figure 3.0: State GDP (2023). California dominates at $3.83 trillion, followed by Texas and New York. The top five states produce about 41% of national output; the top ten about 56%. Source: BEA Regional GDP</figcaption>
 </figure>
 
 ### The Productivity Divide
@@ -30,22 +30,22 @@ California's economy exceeds that of India or the United Kingdom. It would rank 
 GDP per capita varies enormously across states:
 
 **Highest:**
-- Washington, D.C.: $260,000 (distorted by small population and federal concentration)
-- New York: $111,000
-- Massachusetts: $105,000
-- Washington State: $95,000
-- California: $83,000
+- Washington, D.C.: $255,000 (distorted by small population and federal concentration)
+- New York: $110,000
+- Massachusetts: $104,000
+- Washington State: $102,000
+- California: $98,000
 
 **Lowest:**
-- Mississippi: $30,000
-- West Virginia: $32,000
-- Arkansas: $35,000
-- Alabama: $37,000
-- New Mexico: $38,000
+- Mississippi: $51,000
+- West Virginia: $57,000
+- Arkansas: $58,000
+- Alabama: $60,000
+- New Mexico: $65,000
 
 *Source: Bureau of Economic Analysis, Regional Economic Accounts, 2023*
 
-The gap is striking: a worker in Massachusetts produces (on average) three times as much value as a worker in Mississippi. This reflects differences in industry mix, educational attainment, capital investment, and agglomeration effects.
+The gap is striking: a worker in Massachusetts produces (on average) about twice as much value as a worker in Mississippi. This reflects differences in industry mix, educational attainment, capital investment, and agglomeration effects.
 
 ### Regional Patterns
 
@@ -93,11 +93,11 @@ At the top, concentration is extreme:
 
 *Source: Bureau of Economic Analysis, Gross Domestic Product by Metropolitan Area, 2023*
 
-The top eight metros produce nearly $8 trillion---about 30% of GDP. Add the next dozen, and you've accounted for half the economy.
+The top eight metros produce $8 trillion---about 29% of GDP. Add the next dozen, and you've accounted for nearly half the economy.
 
 <figure>
 <img src="../_figures/ch03/ch03_top_metros_gdp.png" alt="Top metros by GDP: New York $2.3T, Los Angeles $1.3T, Chicago $800B" style="width: 100%; max-width: 800px;">
-<figcaption>Figure 3.2: The top 20 metropolitan areas by GDP. The top eight metros alone produce nearly $8 trillion---about 30% of national output---reflecting the intense geographic concentration of the American economy. Source: BEA Metropolitan GDP (2023)</figcaption>
+<figcaption>Figure 3.2: The top 20 metropolitan areas by GDP. The top eight metros alone produce $8 trillion---about 29% of national output---reflecting the intense geographic concentration of the American economy. Source: BEA Metropolitan GDP (2023)</figcaption>
 </figure>
 
 <figure>

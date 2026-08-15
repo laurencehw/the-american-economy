@@ -8,7 +8,7 @@ The Sunbelt---stretching from the Carolinas through Georgia, Florida, Texas, Ari
 
 The shift accelerated after 2020. Remote work untethered millions of knowledge workers from expensive coastal metros; lower taxes and warmer weather suddenly became accessible without career sacrifice. Corporate relocations followed, drawn by the same cost arbitrage plus the desire to locate near migrating talent. The Sunbelt absorbed the resulting influx with a mixture of triumphalism and infrastructure strain.
 
-The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents---growing from 29 million to 31.3 million. Florida added 1.9 million, growing from 21.5 million to 23.4 million. Together, these two states absorbed more population than the bottom 30 states combined. Meanwhile, New York lost 250,000 residents, Illinois lost 270,000, and California essentially flatlined despite substantial international immigration.
+The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents---growing from 29.0 million to 31.3 million. Florida added 1.8 million, growing from 21.5 million to 23.3 million. Together, these two states gained more people than the 30 slowest-growing states combined. Meanwhile, the coastal giants told a more complicated story than the headlines suggested. California essentially flatlined (39.4 million in both 2019 and 2024), losing residents to domestic migration while international immigration held its population steady. New York shed roughly 400,000 residents between 2020 and 2022---the pandemic exodus---but rebounded to 20.0 million by 2024, half a million above its 2019 level. Illinois was roughly flat. The Sunbelt's gains came less from the collapse of the coasts than from a sustained reallocation of domestic migration toward cheaper, warmer metro areas.
 
 **Growth Differentials (2023-2024)**
 
@@ -29,17 +29,17 @@ The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents-
 <figcaption>Figure 24.2: Sunbelt state GDP growth since 2019, indexed to 100. All Sunbelt states have outpaced national growth, with Texas and Florida leading. Source: BEA</figcaption>
 </figure>
 
-The South alone accounted for 87% of U.S. population growth in 2023. Texas and Florida added nearly 800,000 residents between them in a single year---equivalent to adding a city the size of Seattle.
+The South accounted for about two-thirds of U.S. population growth in 2023---and nearly 90% in 2022, when domestic migration dominated the growth pattern. Texas and Florida added more than 1.1 million residents between them in 2023 alone---equivalent to adding a city the size of Seattle.
 
 The Sunbelt's projected growth over the next decade exceeds 7%, adding 11 million people. The rest of the country is projected to grow by 0.3%.
 
 ### The Economic Composition
 
-The Sunbelt economy is more diverse than stereotypes suggest. Texas alone had a GDP of $2.3 trillion in 2023---larger than Italy's national economy. Florida's $1.4 trillion economy would rank as the world's 15th largest if it were a separate country. Georgia's $781 billion economy exceeds that of Switzerland.
+The Sunbelt economy is more diverse than stereotypes suggest. Texas alone had a GDP of $2.6 trillion in 2023---larger than Italy's national economy. Florida's $1.6 trillion economy would rank among the world's 15 largest if it were a separate country. Georgia's $836 billion economy is larger than Belgium's.
 
 Energy remains central to Texas---the state produces 43% of U.S. crude oil and 25% of natural gas---but healthcare, technology, manufacturing, and professional services have grown to match it. Florida's economy tilts toward tourism, real estate, and financial services, but aerospace and biomedical manufacturing have gained ground. Georgia's economy balances logistics, media production, and a growing technology sector.
 
-The Sunbelt's per capita income tells a different story than total output. Texas ($67,500), Florida ($70,000), Georgia ($60,000), and Arizona ($63,000) all trail the national average of $70,000. The region's economic growth has been extensive---more people, more jobs---rather than intensive growth in productivity per worker. This creates a different economic character than the high-productivity coastal metros.
+The Sunbelt's per capita income tells a different story than total output. Texas ($67,500), Georgia ($60,000), and Arizona ($63,000) all trail the national average of $70,000; Florida ($70,000) merely matches it. The region's economic growth has been extensive---more people, more jobs---rather than intensive growth in productivity per worker. This creates a different economic character than the high-productivity coastal metros.
 
 ## Key Metropolitan Economies
 
@@ -84,7 +84,7 @@ The metroplex's corporate tax base creates a different fiscal dynamic than most 
 Austin's emergence as a technology center represents one of the most successful economic development stories in American history. A college town with a state government and a guitar scene has become a major technology hub, home to Dell, Apple's largest office outside California, Tesla's headquarters, Oracle's headquarters, and thousands of startups.
 
 **Key Statistics:**
-- Metropolitan GDP: $180 billion
+- Metropolitan GDP: $248 billion
 - Tech employment: 200,000+
 - Population growth 2010-2024: 45%
 
@@ -101,7 +101,7 @@ The music and creative culture that made Austin famous increasingly feels like a
 Miami's reinvention as a financial center has been remarkably rapid. When Citadel, the hedge fund managing $60 billion in assets, relocated from Chicago to Miami in 2022, it signaled that the city had arrived as a serious destination for elite finance.
 
 **Key Statistics:**
-- Metropolitan GDP: $400 billion
+- Metropolitan GDP: $534 billion
 - International banking assets: $260 billion
 - Daily international flights: 200+
 
@@ -118,7 +118,7 @@ The city's role as the gateway to Latin America continues to drive trade and ban
 Atlanta's economy rests on two pillars: moving things and making things (where "things" increasingly means content).
 
 **Key Statistics:**
-- Metropolitan GDP: $450 billion
+- Metropolitan GDP: $571 billion
 - Hartsfield-Jackson airport: World's busiest by passenger traffic
 - Fortune 500 headquarters: 16
 
@@ -137,7 +137,7 @@ The region's rapid suburban growth has created governance challenges. The 10-cou
 Phoenix has emerged as the epicenter of America's semiconductor reshoring effort. TSMC's Arizona fabs represent $65 billion in investment---the largest foreign direct investment in American history. Intel is expanding its facilities. The CHIPS Act has directed billions more toward Arizona projects.
 
 **Key Statistics:**
-- Metropolitan GDP: $280 billion
+- Metropolitan GDP: $398 billion
 - Semiconductor investment announced: $100 billion+
 - Population growth 2010-2024: 25%
 
@@ -154,7 +154,7 @@ Phoenix's housing market experienced one of the most extreme boom-bust-recovery 
 Charlotte's improbable rise as America's second-largest banking center---after New York---reflects the consolidation of regional banking over four decades. NationsBank's merger with Bank of America, First Union's evolution into Wachovia and then Wells Fargo's acquisition, Truist's formation from BB&T and SunTrust: Charlotte captured the headquarters each time.
 
 **Key Statistics:**
-- Metropolitan GDP: $230 billion
+- Metropolitan GDP: $256 billion
 - Bank of America employees in region: 15,000
 - Financial services employment: 100,000+
 

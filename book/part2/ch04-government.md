@@ -334,7 +334,7 @@ Mandatory spending grows automatically as the population ages and healthcare cos
 
 ### Deficits and Debt
 
-The federal government has run deficits in most years since 1970. Annual deficits of $1-2 trillion since 2020 have pushed the national debt above $35 trillion (roughly 120% of GDP). Interest costs (roughly $700 billion annually) are now larger than defense spending.
+The federal government has run deficits in most years since 1970. Annual deficits of $1-2 trillion since 2020 have pushed the national debt above $35 trillion (roughly 120% of GDP). Net interest costs (roughly $880 billion in FY2024) now exceed defense spending.
 
 Debt sustainability depends on the relationship between interest rates (r) and economic growth (g):
 - If r < g: Debt-to-GDP ratio can stabilize even with deficits

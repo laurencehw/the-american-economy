@@ -383,21 +383,21 @@
 
     <script>
         const sectors = [
-            {name: "Professional & Business Services", gdp: 3557, gdpShare: 13.0, employment: 22.9, empShare: 14.6, color: "#2563eb", type: "services"},
-            {name: "Real Estate", gdp: 3283, gdpShare: 12.0, employment: 2.3, empShare: 1.5, color: "#7c3aed", type: "services"},
-            {name: "Government", gdp: 3010, gdpShare: 11.0, employment: 23.1, empShare: 14.7, color: "#dc2626", type: "services"},
-            {name: "Manufacturing", gdp: 3010, gdpShare: 11.0, employment: 12.6, empShare: 8.0, color: "#ea580c", type: "goods"},
-            {name: "Healthcare & Social Services", gdp: 2462, gdpShare: 9.0, employment: 26.4, empShare: 16.8, color: "#16a34a", type: "services"},
-            {name: "Finance & Insurance", gdp: 2189, gdpShare: 8.0, employment: 9.1, empShare: 5.8, color: "#0891b2", type: "services"},
-            {name: "Information (Tech/Media)", gdp: 1642, gdpShare: 6.0, employment: 2.9, empShare: 1.8, color: "#4f46e5", type: "services"},
-            {name: "Retail Trade", gdp: 1642, gdpShare: 6.0, employment: 15.6, empShare: 9.9, color: "#db2777", type: "services"},
-            {name: "Wholesale Trade", gdp: 1642, gdpShare: 6.0, employment: 6.1, empShare: 3.9, color: "#9333ea", type: "services"},
-            {name: "Construction", gdp: 1094, gdpShare: 4.0, employment: 8.1, empShare: 5.2, color: "#ca8a04", type: "goods"},
-            {name: "Arts, Entertainment & Food", gdp: 1094, gdpShare: 4.0, employment: 16.8, empShare: 10.7, color: "#e11d48", type: "services"},
-            {name: "Transportation & Warehousing", gdp: 958, gdpShare: 3.5, employment: 6.2, empShare: 3.9, color: "#059669", type: "services"},
-            {name: "Utilities", gdp: 438, gdpShare: 1.6, employment: 0.58, empShare: 0.4, color: "#64748b", type: "goods"},
-            {name: "Mining", gdp: 383, gdpShare: 1.4, employment: 0.65, empShare: 0.4, color: "#78716c", type: "goods"},
-            {name: "Agriculture", gdp: 274, gdpShare: 1.0, employment: 2.6, empShare: 1.7, color: "#65a30d", type: "goods"}
+            {name: "Real Estate", gdp: 3808, gdpShare: 13.7, employment: 2.3, empShare: 1.5, color: "#7c3aed", type: "services"},
+            {name: "Professional & Business Services", gdp: 3610, gdpShare: 13.0, employment: 22.9, empShare: 14.6, color: "#2563eb", type: "services"},
+            {name: "Government", gdp: 3099, gdpShare: 11.1, employment: 23.1, empShare: 14.7, color: "#dc2626", type: "services"},
+            {name: "Manufacturing", gdp: 2817, gdpShare: 10.1, employment: 12.6, empShare: 8.0, color: "#ea580c", type: "goods"},
+            {name: "Finance & Insurance", gdp: 2076, gdpShare: 7.5, employment: 9.1, empShare: 5.8, color: "#0891b2", type: "services"},
+            {name: "Healthcare & Social Services", gdp: 2044, gdpShare: 7.3, employment: 26.4, empShare: 16.8, color: "#16a34a", type: "services"},
+            {name: "Retail Trade", gdp: 1780, gdpShare: 6.4, employment: 15.6, empShare: 9.9, color: "#db2777", type: "services"},
+            {name: "Wholesale Trade", gdp: 1653, gdpShare: 5.9, employment: 6.1, empShare: 3.9, color: "#9333ea", type: "services"},
+            {name: "Information (Tech/Media)", gdp: 1491, gdpShare: 5.4, employment: 2.9, empShare: 1.8, color: "#4f46e5", type: "services"},
+            {name: "Construction", gdp: 1225, gdpShare: 4.4, employment: 8.1, empShare: 5.2, color: "#ca8a04", type: "goods"},
+            {name: "Arts, Entertainment & Food", gdp: 1220, gdpShare: 4.4, employment: 16.8, empShare: 10.7, color: "#e11d48", type: "services"},
+            {name: "Transportation & Warehousing", gdp: 946, gdpShare: 3.4, employment: 6.2, empShare: 3.9, color: "#059669", type: "services"},
+            {name: "Utilities", gdp: 458, gdpShare: 1.6, employment: 0.58, empShare: 0.4, color: "#64748b", type: "goods"},
+            {name: "Mining", gdp: 412, gdpShare: 1.5, employment: 0.65, empShare: 0.4, color: "#78716c", type: "goods"},
+            {name: "Agriculture", gdp: 270, gdpShare: 1.0, employment: 2.6, empShare: 1.7, color: "#65a30d", type: "goods"}
         ];
 
         // Calculate productivity
@@ -514,7 +514,7 @@
                 <div class="stat-card">
                     <div class="stat-value">$${(totalGDP / 1000).toFixed(1)}T</div>
                     <div class="stat-label">Selected GDP</div>
-                    <div class="stat-change positive">${((totalGDP / 27360) * 100).toFixed(1)}% of total</div>
+                    <div class="stat-change positive">${((totalGDP / 27812) * 100).toFixed(1)}% of total</div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-value">${totalEmp.toFixed(1)}M</div>

@@ -10,7 +10,7 @@ The United States consumes more energy than any country except China, burning th
   - Petroleum products: $600 billion
   - Natural gas (non-electric): $150 billion
   - Other: $300 billion
-- GDP contribution: $500 billion directly (utilities, extraction, refining); $800 billion including related sectors (pipeline construction, energy equipment, environmental services)
+- GDP contribution: roughly $940 billion directly (utilities, oil and gas extraction, petroleum refining); roughly $1.1 trillion including all mining
 - Employment: 1.2 million direct (utilities, extraction, refining); 3 million including support services
 - Key subsectors: Electric utilities, oil and gas extraction, petroleum refining, pipelines, renewable generation, energy services
 

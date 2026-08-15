@@ -5,7 +5,7 @@ Every time you order something online and it arrives the next day, you're witnes
 ## Overview
 
 **Size and Scope**
-- GDP contribution: $935 billion (Transportation and Warehousing, NAICS 48-49)
+- GDP contribution: $946 billion (Transportation and Warehousing, NAICS 48-49)
 - Broader economic footprint: roughly $1.8 trillion including private trucking fleets
 - Employment: 6.58 million workers
 - Freight moved: roughly 20 billion tons annually

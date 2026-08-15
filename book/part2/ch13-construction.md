@@ -10,7 +10,7 @@ This is not a statistical artifact. Goolsbee and Syverson (2023) systematically 
 
 **Size and Scope**
 
-- **GDP Contribution:** **$1.3 trillion** (4.5% of GDP)
+- **GDP Contribution:** **$1.2 trillion** (4.4% of GDP)
 - **Gross Output:** $2.2 trillion annually (including intermediate inputs)
 - **Employment:** 8.3 million workers
 - **Establishments:** 800,000 firms, the vast majority with fewer than 10 employees

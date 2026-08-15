@@ -1,6 +1,6 @@
 # 7. Professional and Business Services
 
-Walk into any office tower in Manhattan, Chicago, or San Francisco and you will find floors of lawyers, consultants, accountants, and software engineers. Most Americans never hire an M&A attorney or a management consultant, yet professional services generates $2.3 trillion annually and employs 22 million workers. These firms sell expertise---legal judgment, strategic advice, audited financials---and their concentration in a handful of elite metros shapes the economic geography of American cities.
+Walk into any office tower in Manhattan, Chicago, or San Francisco and you will find floors of lawyers, consultants, accountants, and software engineers. Most Americans never hire an M&A attorney or a management consultant, yet professional and business services generates $3.6 trillion annually and employs 22 million workers. These firms sell expertise---legal judgment, strategic advice, audited financials---and their concentration in a handful of elite metros shapes the economic geography of American cities.
 
 Professional and business services (NAICS 54-56) spans industries united by a single feature: they sell expertise, not physical goods. A law firm sells legal judgment. McKinsey sells strategic advice. Deloitte sells audit opinions and tax planning. Advertising agencies sell creative campaigns and media placement. MBAs, JDs, and CPAs staff these firms, clustered in towers along Park Avenue and Lake Shore Drive, where proximity to clients and competitors drives billion-dollar deals. Since 1980, this sector has added over 12 million jobs while manufacturing shed 6 million.
 
@@ -8,7 +8,7 @@ Professional and business services (NAICS 54-56) spans industries united by a si
 
 ### Size and Scope
 
-- **GDP contribution (2023)**: $2.3 trillion (approximately 9% of GDP)
+- **GDP contribution (2023)**: $3.6 trillion (approximately 13% of GDP, combining NAICS 54-56)
 - **Employment**: 22.4 million workers (Professional, Scientific, Technical Services: 10.2M; Administrative Services: 9.5M; Management of Companies: 2.7M)
 - **Establishments**: Over 1.1 million firms
 - **Growth**: One of the fastest-growing sectors over the past three decades

@@ -107,7 +107,7 @@ When a bank makes a loan, it doesn't lend out existing deposits. It creates a ne
 | **Assets** | **Liabilities** |
 | +$100,000 Loan | +$100,000 Deposit |
 
-The borrower now has $100,000 in their account that didn't exist before. The bank created it by keystroke. The Bank of England stated this clearly in 2014: "Whenever a bank makes a loan, it simultaneously creates a matching deposit in the borrower's bank account, thereby creating new money."
+The borrower now has $100,000 in their account that didn't exist before. The bank created it by keystroke.
 
 **What About Reserves?**
 

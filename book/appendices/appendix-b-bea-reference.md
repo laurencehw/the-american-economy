@@ -8,28 +8,28 @@ The following table shows value added (GDP contribution) by major industry, sort
 
 | Industry | GDP ($ billions) | Share of GDP | 10-Year Real Growth | NAICS |
 |----------|-----------------|--------------|--------------------:|-------|
-| Real estate, rental, leasing | $2,843 | 10.4% | +25% | 53 |
-| Professional, scientific, technical services | $2,426 | 8.9% | +35% | 54 |
-| Government | $2,217 | 8.1% | +10% | — |
-| Finance and insurance | $2,191 | 8.0% | +22% | 52 |
-| Health care and social assistance | $2,074 | 7.6% | +18% | 62 |
-| Manufacturing | $2,041 | 7.5% | +12% | 31-33 |
-| Retail trade | $1,573 | 5.8% | +20% | 44-45 |
-| Information | $1,471 | 5.4% | +45% | 51 |
-| Wholesale trade | $1,433 | 5.2% | +15% | 42 |
-| Construction | $1,184 | 4.3% | +28% | 23 |
-| Transportation and warehousing | $926 | 3.4% | +22% | 48-49 |
-| Other services | $640 | 2.3% | +8% | 81 |
-| Accommodation and food services | $622 | 2.3% | +5% | 72 |
-| Administrative and waste services | $552 | 2.0% | +18% | 56 |
-| Utilities | $391 | 1.4% | +6% | 22 |
-| Management of companies | $384 | 1.4% | +30% | 55 |
-| Educational services | $375 | 1.4% | +12% | 61 |
-| Arts, entertainment, recreation | $303 | 1.1% | +15% | 71 |
-| Mining | $290 | 1.1% | -20% | 21 |
-| Agriculture, forestry, fishing | $243 | 0.9% | +5% | 11 |
+| Real estate, rental, leasing | $3,808 | 13.7% | +25% | 53 |
+| Government | $3,099 | 11.1% | +10% | — |
+| Manufacturing | $2,817 | 10.1% | +12% | 31-33 |
+| Professional, scientific, technical services | $2,221 | 8.0% | +35% | 54 |
+| Finance and insurance | $2,076 | 7.5% | +22% | 52 |
+| Health care and social assistance | $2,044 | 7.3% | +18% | 62 |
+| Retail trade | $1,780 | 6.4% | +20% | 44-45 |
+| Wholesale trade | $1,653 | 5.9% | +15% | 42 |
+| Information | $1,491 | 5.4% | +45% | 51 |
+| Construction | $1,225 | 4.4% | +28% | 23 |
+| Transportation and warehousing | $946 | 3.4% | +22% | 48-49 |
+| Accommodation and food services | $916 | 3.3% | +5% | 72 |
+| Administrative and waste services | $885 | 3.2% | +18% | 56 |
+| Other services | $589 | 2.1% | +8% | 81 |
+| Management of companies | $504 | 1.8% | +30% | 55 |
+| Utilities | $458 | 1.6% | +6% | 22 |
+| Mining | $412 | 1.5% | -20% | 21 |
+| Educational services | $316 | 1.1% | +12% | 61 |
+| Arts, entertainment, recreation | $304 | 1.1% | +15% | 71 |
+| Agriculture, forestry, fishing | $270 | 1.0% | +5% | 11 |
 
-*Source: BEA Industry Accounts, 2023 data. Growth rates are approximate 10-year real (chained 2017 dollar) growth, 2013-2023.*
+*Source: BEA, Value Added by Industry (GDP-by-Industry Table 1), 2023; total GDP $27,812 billion. Growth rates are approximate 10-year real (chained 2017 dollar) growth, 2013-2023.*
 
 Note: Information (NAICS 51) shows the fastest growth, driven by software, data processing, and streaming. Mining's decline reflects the oil price collapse of 2014-2016 and structural shift away from coal. Accommodation and food services shows weak growth because of the COVID-19 shock, from which the sector had not fully recovered in value-added terms by 2023.
 
@@ -37,70 +37,71 @@ Note: Information (NAICS 51) shows the fastest growth, driven by software, data 
 
 | Subsector | Value Added ($ billions) | NAICS |
 |-----------|-------------------------|-------|
-| Chemical products | $382 | 325 |
-| Computer and electronic products | $291 | 334 |
-| Food, beverage, tobacco | $251 | 311-312 |
-| Motor vehicles and parts | $195 | 336 |
-| Petroleum and coal products | $176 | 324 |
-| Machinery | $153 | 333 |
-| Miscellaneous manufacturing | $133 | 339 |
-| Fabricated metal products | $127 | 332 |
-| Plastics and rubber products | $87 | 326 |
-| Electrical equipment, appliances | $74 | 335 |
-| Primary metals | $59 | 331 |
-| Nonmetallic mineral products | $58 | 327 |
-| Paper products | $52 | 322 |
-| Printing and support activities | $33 | 323 |
-| Furniture and related products | $30 | 337 |
-| Textile mills and products | $21 | 313-314 |
-| Wood products | $38 | 321 |
-| Apparel and leather | $11 | 315-316 |
+| Chemical products | $514.6 | 325 |
+| Food, beverage, tobacco | $346.8 | 311-312 |
+| Computer and electronic products | $293.8 | 334 |
+| Petroleum and coal products | $218.0 | 324 |
+| Machinery | $198.3 | 333 |
+| Other transportation equipment | $190.8 | 3364 |
+| Fabricated metal products | $187.9 | 332 |
+| Motor vehicles, bodies, trailers, parts | $182.7 | 3361-3363 |
+| Miscellaneous manufacturing | $108.6 | 339 |
+| Plastics and rubber products | $101.8 | 326 |
+| Primary metals | $83.2 | 331 |
+| Electrical equipment, appliances | $75.7 | 335 |
+| Nonmetallic mineral products | $75.6 | 327 |
+| Paper products | $73.7 | 322 |
+| Wood products | $62.3 | 321 |
+| Printing and support activities | $41.0 | 323 |
+| Furniture and related products | $33.7 | 337 |
+| Textile mills and products | $16.2 | 313-314 |
+| Apparel and leather | $11.7 | 315-316 |
 
-*Source: BEA Industry Accounts, 2023 data*
+*Source: BEA, Value Added by Industry (GDP-by-Industry Table 1), 2023. Manufacturing total: $2,817 billion (durable goods $1,492B; nondurable goods $1,324B).*
 
 ## State GDP Rankings (2023)
 
 | Rank | State | GDP ($ billions) | Share of U.S. |
 |------|-------|-----------------|---------------|
-| 1 | California | $4,080 | 14.6% |
-| 2 | Texas | $2,356 | 8.4% |
-| 3 | New York | $2,140 | 7.7% |
-| 4 | Florida | $1,523 | 5.5% |
-| 5 | Illinois | $1,050 | 3.8% |
-| 6 | Pennsylvania | $931 | 3.3% |
-| 7 | Ohio | $800 | 2.9% |
-| 8 | Georgia | $788 | 2.8% |
-| 9 | New Jersey | $752 | 2.7% |
-| 10 | Washington | $741 | 2.7% |
+| 1 | California | $3,827 | 13.8% |
+| 2 | Texas | $2,637 | 9.5% |
+| 3 | New York | $2,183 | 7.8% |
+| 4 | Florida | $1,625 | 5.8% |
+| 5 | Illinois | $1,101 | 4.0% |
+| 6 | Pennsylvania | $966 | 3.5% |
+| 7 | Ohio | $884 | 3.2% |
+| 8 | Georgia | $836 | 3.0% |
+| 9 | New Jersey | $807 | 2.9% |
+| 10 | Washington | $801 | 2.9% |
 
-*Source: BEA Regional Accounts, 2023 data*
+*Source: BEA GDP by State (SAGDP2), 2023*
 
 ## Metropolitan Area GDP (Top 20, 2023)
 
 | Rank | Metro Area | GDP ($ billions) | 5-Year Real Growth |
 |------|------------|-----------------|-------------------|
-| 1 | New York-Newark-Jersey City | $2,160 | +8% |
-| 2 | Los Angeles-Long Beach-Anaheim | $1,105 | +6% |
-| 3 | Chicago-Naperville-Elgin | $886 | +5% |
-| 4 | Washington-Arlington-Alexandria | $715 | +7% |
-| 5 | San Francisco-Oakland-Berkeley | $696 | +4% |
-| 6 | Boston-Cambridge-Newton | $641 | +10% |
-| 7 | Dallas-Fort Worth-Arlington | $613 | +15% |
-| 8 | Philadelphia-Camden-Wilmington | $558 | +5% |
-| 9 | Houston-The Woodlands-Sugar Land | $558 | +9% |
-| 10 | San Jose-Sunnyvale-Santa Clara | $467 | +7% |
-| 11 | Seattle-Tacoma-Bellevue | $450 | +11% |
-| 12 | Atlanta-Sandy Springs-Alpharetta | $449 | +14% |
-| 13 | Miami-Fort Lauderdale-Pompano Beach | $415 | +16% |
-| 14 | Phoenix-Mesa-Chandler | $310 | +18% |
-| 15 | San Diego-Chula Vista-Carlsbad | $283 | +9% |
-| 16 | Detroit-Warren-Dearborn | $280 | +4% |
-| 17 | Minneapolis-St. Paul-Bloomington | $278 | +6% |
-| 18 | Denver-Aurora-Lakewood | $255 | +10% |
-| 19 | Baltimore-Columbia-Towson | $225 | +3% |
-| 20 | Tampa-St. Petersburg-Clearwater | $204 | +19% |
+| 1 | New York-Newark-Jersey City | $2,299 | +8% |
+| 2 | Los Angeles-Long Beach-Anaheim | $1,295 | +6% |
+| 3 | Chicago-Naperville-Elgin | $895 | +5% |
+| 4 | San Francisco-Oakland-Berkeley | $779 | +4% |
+| 5 | Dallas-Fort Worth-Arlington | $745 | +15% |
+| 6 | Washington-Arlington-Alexandria | $715 | +7% |
+| 7 | Houston-The Woodlands-Sugar Land | $697 | +9% |
+| 8 | Boston-Cambridge-Newton | $610 | +10% |
+| 9 | Atlanta-Sandy Springs-Alpharetta | $571 | +14% |
+| 10 | Seattle-Tacoma-Bellevue | $567 | +11% |
+| 11 | Philadelphia-Camden-Wilmington | $558 | +5% |
+| 12 | Miami-Fort Lauderdale-Pompano Beach | $534 | +16% |
+| 13 | San Jose-Sunnyvale-Santa Clara | $423 | +7% |
+| 14 | Phoenix-Mesa-Chandler | $398 | +18% |
+| 15 | Minneapolis-St. Paul-Bloomington | $351 | +6% |
+| 16 | Detroit-Warren-Dearborn | $331 | +4% |
+| 17 | San Diego-Chula Vista-Carlsbad | $315 | +9% |
+| 18 | Denver-Aurora-Lakewood | $312 | +10% |
+| 19 | Baltimore-Columbia-Towson | $260 | +3% |
+| 20 | Riverside-San Bernardino-Ontario | $257 | — |
 
-*Source: BEA Metropolitan Area Accounts, 2023 data. Growth rates are approximate 5-year real GDP growth (2018-2023).*
+*Source: BEA GDP by County/Metropolitan Area (CAGDP2), 2023. Growth rates are approximate 5-year real GDP growth (2018-2023).*
 
 ## How to Read BEA Industry Tables
 

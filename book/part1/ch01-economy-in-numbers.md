@@ -1,12 +1,12 @@
 # 1. The American Economy in Numbers
 
-The United States generates $27 trillion in annual output. New York's metropolitan area alone outproduces Canada. California exceeds India. Texas, Russia. Four percent of the world's population, one-quarter of its GDP.
+The United States generates $27.8 trillion in annual output. New York's metropolitan area alone outproduces Canada. California exceeds India. Texas, Russia. Four percent of the world's population, one-quarter of its GDP.
 
-What does a $27 trillion economy look like from the inside---who works in it, what they make, and where? The statistics that follow answer these questions and frame the chapters ahead.
+What does a $27.8 trillion economy look like from the inside---who works in it, what they make, and where? The statistics that follow answer these questions and frame the chapters ahead.
 
 ## The Big Picture
 
-**Gross Domestic Product (2023):** $27.4 trillion
+**Gross Domestic Product (2023):** $27.8 trillion
 
 {% hint style="info" %}
 **Gross Domestic Product (GDP)** measures the total market value of all final goods and services produced within a country's borders during a specific period. "Final" means goods sold to end users---not intermediate inputs that will be processed further.
@@ -14,7 +14,7 @@ What does a $27 trillion economy look like from the inside---who works in it, wh
 
 GDP measures the total value of goods and services produced within U.S. borders over a year---the standard benchmark for economic size, though an imperfect one (it misses unpaid labor, ignores environmental costs, and conflates activity with welfare).
 
-The daily output runs to $75 billion. Hourly, $3 billion. At any moment, the American economy produces wealth at a rate no other nation matches.
+The daily output runs to $76 billion. Hourly, more than $3 billion. At any moment, the American economy produces wealth at a rate no other nation matches.
 
 **Employment:** 157 million nonfarm workers
 
@@ -36,12 +36,12 @@ The United States remains the world's largest economy by conventional measures, 
 
 | Rank | Economy | GDP (2023) |
 |:----:|---------|----------:|
-| 1 | **United States** | **$27.4T** |
-| 2 | European Union | $18.6T |
-| 3 | China | $18.0T |
+| 1 | **United States** | **$27.8T** |
+| 2 | European Union | $18.4T |
+| 3 | China | $17.8T |
 | 4 | Germany | $4.5T |
 | 5 | Japan | $4.2T |
-| 6 | India | $3.7T |
+| 6 | India | $3.6T |
 
 *Source: IMF World Economic Outlook, October 2023*
 
@@ -49,7 +49,7 @@ What makes America distinctive isn't just size but productivity. American worker
 
 ## What Gets Produced: GDP by Industry
 
-Where does $27 trillion come from? The answer may surprise you: the largest industries aren't the ones that dominate headlines.
+Where does $27.8 trillion come from? The answer may surprise you: the largest industries aren't the ones that dominate headlines.
 
 ### The Composition of Output
 
@@ -57,20 +57,20 @@ Where does $27 trillion come from? The answer may surprise you: the largest indu
 
 | Industry | Share of GDP | Value Added |
 |----------|------------:|------------:|
-| Professional & Business Services | 13% | $3.6T |
-| Real Estate | 12% | $3.3T |
-| Government | 11% | $3.0T |
-| Manufacturing | 11% | $3.0T |
-| Healthcare & Social Services | 9% | $2.5T |
-| Finance & Insurance | 8% | $2.2T |
-| Information (Tech/Media) | 6% | $1.6T |
-| Retail Trade | 6% | $1.6T |
-| Wholesale Trade | 6% | $1.6T |
-| Construction | 4% | $1.1T |
-| Transportation & Warehousing | 3.5% | $960B |
-| Other | ~10.5% | ~$2.9T |
+| Real Estate, Rental & Leasing | 13.7% | $3.8T |
+| Professional & Business Services | 13.0% | $3.6T |
+| Government | 11.1% | $3.1T |
+| Manufacturing | 10.1% | $2.8T |
+| Finance & Insurance | 7.5% | $2.1T |
+| Healthcare & Social Services | 7.3% | $2.0T |
+| Retail Trade | 6.4% | $1.8T |
+| Wholesale Trade | 5.9% | $1.7T |
+| Information (Tech/Media) | 5.4% | $1.5T |
+| Construction | 4.4% | $1.2T |
+| Transportation & Warehousing | 3.4% | $950B |
+| Other | 11.7% | $3.3T |
 
-*Source: Bureau of Economic Analysis, GDP by Industry (Table 1.5.5, 2023 annual data). Note: Shares sum to more than 100% due to rounding and the exclusion of some smaller sectors from the "Other" residual.*
+*Source: Bureau of Economic Analysis, Value Added by Industry (2023). "Professional & Business Services" combines professional, scientific, and technical services; management of companies; and administrative and waste services. "Other" includes agriculture, mining, utilities, private education, accommodation and food services, and other services.*
 
 Several patterns stand out:
 
@@ -81,11 +81,11 @@ Several patterns stand out:
 
 **Services dominate.** The goods-producing sectors---manufacturing, construction, mining, agriculture---together account for less than 20% of GDP. The remaining 80%+ comes from services: professional services, healthcare, finance, retail, government, real estate. This is sometimes called the "post-industrial" economy, though it's more accurate to say we've shifted what we produce rather than stopped producing.
 
-**Real estate is huge.** The real estate sector's 12% share includes the imputed rent that homeowners "pay" themselves, but it also reflects genuine economic activity: property management, real estate services, and the housing market's central role in the economy.
+**Real estate is the largest sector.** Its 13.7% share---the biggest in the economy---includes the imputed rent that homeowners "pay" themselves, but it also reflects genuine economic activity: property management, real estate services, and the housing market's central role in the economy.
 
-**Professional services lead.** The largest private-sector contributor isn't manufacturing or tech---it's the sprawling category of professional and business services: law firms, accounting practices, consulting, engineering, advertising, staffing agencies, and corporate headquarters functions.
+**Professional services lead the private economy.** Setting aside real estate (much of whose value added is imputed rent), the largest contributor is the sprawling category of professional and business services: law firms, accounting practices, consulting, engineering, advertising, staffing agencies, and corporate headquarters functions.
 
-**Manufacturing still matters.** Despite decades of relative decline, manufacturing produces $3 trillion in value---more than the entire GDP of the United Kingdom. The sector has become more capital-intensive: it produces more output with fewer workers than ever before.
+**Manufacturing still matters.** Despite decades of relative decline, manufacturing produces $2.8 trillion in value added---more than the entire GDP of Italy. The sector has become more capital-intensive: it produces more output with fewer workers than ever before.
 
 ### What GDP Measures (and Doesn't)
 
@@ -107,7 +107,7 @@ Despite these limitations, GDP remains the standard measure because it's compreh
 {% hint style="info" %}
 **Nominal vs. Real GDP**
 
-All dollar figures in this book are nominal (current-dollar) values unless otherwise noted. Nominal GDP measures output at today's prices; real GDP adjusts for inflation, allowing meaningful comparison across years. The $27.4 trillion figure is nominal 2023 GDP. In chained 2017 dollars (the BEA's standard real measure), the same output is approximately $22.4 trillion. For comparing the economy's size at a point in time---which is this book's primary purpose---nominal figures are appropriate. For tracking growth over long periods, real GDP is more meaningful because it strips out price changes.
+All dollar figures in this book are nominal (current-dollar) values unless otherwise noted. Nominal GDP measures output at today's prices; real GDP adjusts for inflation, allowing meaningful comparison across years. The $27.8 trillion figure is nominal 2023 GDP. In chained 2017 dollars (the BEA's standard real measure), the same output is approximately $22.4 trillion. For comparing the economy's size at a point in time---which is this book's primary purpose---nominal figures are appropriate. For tracking growth over long periods, real GDP is more meaningful because it strips out price changes.
 {% endhint %}
 
 ## Who Works: Employment by Sector
@@ -145,13 +145,13 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 Compare these rankings with GDP share, and you'll notice striking divergences:
 
-**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce 9% of GDP as measured by value added in the BEA industry accounts. This apparent gap deserves explanation: BEA measures value added by healthcare *providers* alone---hospitals, clinics, physicians' offices. Total national health expenditure, a broader measure tracked by CMS, reaches 18% of GDP because it also counts insurance administration, government program overhead, out-of-pocket spending, and employer contributions that appear under other sectors' value added in BEA accounts. The two numbers measure different things: industry output vs. total societal spending. Both are correct; neither is complete. These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
+**Healthcare and education** employ more people than any other sector (17% of the workforce) but produce about 8.5% of GDP as measured by value added in the BEA industry accounts. This apparent gap deserves explanation: BEA measures value added by healthcare *providers* alone---hospitals, clinics, physicians' offices. Total national health expenditure, a broader measure tracked by CMS, reaches 18% of GDP because it also counts insurance administration, government program overhead, out-of-pocket spending, and employer contributions that appear under other sectors' value added in BEA accounts. The two numbers measure different things: industry output vs. total societal spending. Both are correct; neither is complete. These are labor-intensive services where productivity gains are difficult. You can't automate a nursing home visit or a kindergarten class the way you can automate a factory.
 
-**Manufacturing** contributes 11% of GDP but employs only 8% of workers. Each manufacturing worker produces about $240,000 in value annually---far above the economy-wide average. Automation, technology, and capital investment have made factories extraordinarily productive.
+**Manufacturing** contributes 10% of GDP but employs only 8% of workers. Each manufacturing worker produces about $225,000 in value annually---far above the economy-wide average. Automation, technology, and capital investment have made factories extraordinarily productive.
 
 **Leisure and hospitality** employs 11% of workers but produces only about 4% of GDP. Restaurants, hotels, and entertainment venues pay relatively low wages for work that's hard to automate.
 
-**Information/tech** shows the reverse: 2% of employment but 6% of GDP. Tech workers are among the most productive (and highly paid) in the economy.
+**Information/tech** shows the reverse: 2% of employment but over 5% of GDP. Tech workers are among the most productive (and highly paid) in the economy.
 
 <figure>
 <img src="../_figures/ch01/ch01_gdp_vs_employment.png" alt="GDP vs employment share: finance and tech produce high GDP per worker, hospitality the reverse" style="width: 100%; max-width: 800px;">
@@ -192,7 +192,7 @@ Read that again: 0.3% of firms---about 20,000 large enterprises---employ more th
 
 ### The Fortune 500
 
-The largest American corporations are staggeringly large. The Fortune 500's combined revenues approach $20 trillion---about 70% of GDP (though revenue and value-added aren't directly comparable). These 500 companies employ over 30 million people.
+The largest American corporations are staggeringly large. The Fortune 500's combined revenues approach $20 trillion---about two-thirds of GDP (though revenue and value-added aren't directly comparable). These 500 companies employ over 30 million people.
 
 The composition of the Fortune 500 has shifted dramatically over decades:
 
@@ -268,7 +268,7 @@ Understanding NAICS codes matters for anyone working with economic data. The sys
 
 Statistics are only as useful as your ability to interpret them. A few principles:
 
-**Levels vs. changes.** GDP of $27 trillion is a level; GDP growth of 2.5% is a change. Both matter, but they answer different questions. Levels tell you about size and scale; changes tell you about dynamics and momentum.
+**Levels vs. changes.** GDP of $27.8 trillion is a level; GDP growth of 2.5% is a change. Both matter, but they answer different questions. Levels tell you about size and scale; changes tell you about dynamics and momentum.
 
 **Nominal vs. real.** Nominal figures are in current dollars; real figures adjust for inflation. A nominal GDP increase could reflect more production, higher prices, or both. Real GDP strips out the price effect to measure actual output growth. For comparing over time, always use real figures.
 
@@ -300,9 +300,9 @@ These limitations don't invalidate economic statistics, but they do counsel humi
 
 ## Key Takeaways
 
-1. **The American economy is enormous**: $27 trillion in GDP, 157 million workers, 8 million establishments. Only China approaches its scale.
+1. **The American economy is enormous**: $27.8 trillion in GDP, 157 million workers, 8 million establishments. Only China approaches its scale.
 
-2. **Services dominate**: Over 80% of GDP comes from services, not goods production. Professional services, real estate, healthcare, and finance are the largest sectors.
+2. **Services dominate**: Over 80% of GDP comes from services, not goods production. Real estate, professional services, government, and manufacturing are the largest sectors by value added.
 
 3. **Employment and output diverge**: Labor-intensive sectors (healthcare, leisure) employ disproportionately many workers; capital-intensive sectors (manufacturing, tech) produce disproportionately much output.
 
@@ -329,9 +329,9 @@ These limitations don't invalidate economic statistics, but they do counsel humi
 
 ### Review Questions
 
-1. The United States produces $27 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
+1. The United States produces $27.8 trillion in GDP. Name the three largest sectors by GDP contribution and explain why their rankings might surprise someone unfamiliar with the economy.
 
-2. Manufacturing contributes about 11% of GDP but only 8% of employment. Healthcare contributes about 9% of GDP but 17% of employment. What concept explains this divergence, and what are its implications for wages in each sector?
+2. Manufacturing contributes about 10% of GDP but only 8% of employment. Healthcare and education contribute about 8.5% of GDP but 17% of employment. What concept explains this divergence, and what are its implications for wages in each sector?
 
 3. The text states that 0.3% of firms employ 54% of American workers. How does this challenge the common narrative that small businesses are the "backbone" of the economy? In what sense is the narrative still partially correct?
 
