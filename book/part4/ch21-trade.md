@@ -31,7 +31,7 @@ The persistent trade deficit—America imports far more than it exports—reflec
 
 America's largest trading relationships have shifted significantly, with North American neighbors gaining share as China's position has declined.
 
-**Table 21.2: Top U.S. Trading Partners (Goods, 2024)**
+**Table 21.2: Top U.S. Trading Partners (Goods, 2023)**
 
 | Rank | Partner | Total Trade | Trade Balance |
 |------|---------|-------------|---------------|
@@ -46,7 +46,7 @@ America's largest trading relationships have shifted significantly, with North A
 | 9 | Vietnam | $165 billion | -$124 billion |
 | 10 | Taiwan | $128 billion | -$48 billion |
 
-*Source: Census Bureau, Foreign Trade Statistics, 2024*
+*Source: Census Bureau, Foreign Trade Statistics, 2023*
 
 <figure>
 <img src="../_figures/ch21/ch21_top_partners.png" alt="Bar chart of top U.S. trading partners with Mexico surpassing China in 2023" style="width: 100%; max-width: 800px;">
@@ -68,7 +68,10 @@ While goods trade shows a persistent deficit, services trade runs a surplus. The
 | Travel | $195 billion | $180 billion | +$15 billion |
 | Transport | $105 billion | $145 billion | -$40 billion |
 | Business services | $220 billion | $140 billion | +$80 billion |
-| **Total services** | **$920 billion** | **$680 billion** | **+$240 billion** |
+| Other services (telecom, insurance, education, government) | $357 billion | $265 billion | +$92 billion |
+| **Total services** | **$1.16 trillion** | **$830 billion** | **+$327 billion** |
+
+Category rows are approximate; totals are BEA balance-of-payments figures for 2024.
 
 *Source: Bureau of Economic Analysis, International Services, 2024*
 
