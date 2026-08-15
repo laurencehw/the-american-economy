@@ -93,7 +93,7 @@ Money flows in a circle: businesses pay wages and profits to households; househo
 
 The real economy has more moving parts:
 
-**Government** collects taxes and purchases goods and services. Federal, state, and local governments together spend about $10 trillion annually---nearly 40% of GDP when you include transfer payments like Social Security.
+**Government** collects taxes and purchases goods and services. Federal, state, and local governments together spend about $10 trillion annually---over one-third of GDP when you include transfer payments like Social Security.
 
 **Financial institutions** intermediate between savers and borrowers. Households deposit savings in banks; banks lend to businesses and homebuyers. The financial sector doesn't produce goods, but it lubricates every transaction.
 
@@ -215,7 +215,7 @@ The consumer pays $3 for the bread. That $3 is divided among all these participa
 
 A smartphone's value chain is global:
 
-**Mining** (0.1% of U.S. GDP, but critical): Rare earth elements from China, cobalt from Congo, lithium from Australia, copper from Chile. American mining contributes some materials, but the supply chain is overwhelmingly international.
+**Mining** (a tiny fraction of U.S. GDP, but critical): Rare earth elements from China, cobalt from Congo, lithium from Australia, copper from Chile. American mining contributes some materials, but the supply chain is overwhelmingly international.
 
 **Component manufacturing** spans dozens of countries:
 - Semiconductors: designed in California, fabricated in Taiwan or South Korea

@@ -2,7 +2,7 @@
 
 ## What This Book Is About
 
-This book offers a concrete, institutional guide to how the American economy actually works. Not abstract theory, but the real ecosystem: which industries dominate, where they're located, who the major players are, how money flows, what the government does with 40% of GDP, how trade works with neighbors, what people buy, and how it all connects.
+This book offers a concrete, institutional guide to how the American economy actually works. Not abstract theory, but the real ecosystem: which industries dominate, where they're located, who the major players are, how money flows, what the government does with over one-third of GDP, how trade works with neighbors, what people buy, and how it all connects.
 
 The United States has a nearly $28 trillion economy---the largest in the world. But what does that actually mean? Where does the money come from and where does it go? Who works in what industries, and where? How do the pieces fit together?
 

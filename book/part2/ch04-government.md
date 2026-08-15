@@ -8,7 +8,7 @@ The United States has 89,500 governments. One federal. Fifty state. The rest---o
 The Census Bureau counts 89,500 government units: 1 federal, 50 state, 3,031 counties, 19,502 municipalities, 16,097 townships, 12,957 school districts, and 37,683 special districts. Each has taxing authority, a budget, and employees. No other developed nation fragments public authority so extensively.
 {% endhint %}
 
-Together these governments spend $10 trillion annually---40% of GDP. They employ 23 million workers, more than manufacturing and construction combined. The federal government alone commands $6.5 trillion, exceeding Japan's entire economic output. State and local governments add another $3.5 trillion (net of federal transfers).
+Together these governments spend $10 trillion annually---over one-third of GDP. They employ 23 million workers, more than manufacturing and construction combined. The federal government alone commands $6.5 trillion, exceeding Japan's entire economic output. State and local governments add another $3.5 trillion (net of federal transfers).
 
 The division of labor follows a rough pattern. Washington handles defense, Social Security, Medicare, and macroeconomic stabilization. States run universities, prisons, highways, and Medicaid. Local governments educate children, patrol streets, fight fires, and pump water. But the layers overlap constantly. Federal grants fund state programs. State mandates constrain local budgets. Shared programs blur accountability.
 
@@ -18,15 +18,15 @@ The result: a system that is simultaneously massive and fragmented, powerful and
 
 ### Revenue: Where the Money Comes From
 
-**Federal Revenue** (roughly $4.5 trillion, FY 2024):
+**Federal Revenue** (roughly $4.5 trillion, FY 2023):
 
 | Source | Amount | Share |
 |--------|--------|-------|
 | Individual income tax | $2.2T | 49% |
-| Payroll taxes (Social Security, Medicare) | $1.5T | 33% |
+| Payroll taxes (Social Security, Medicare) | $1.6T | 36% |
 | Corporate income tax | $420B | 9% |
 | Excise taxes | $75B | 2% |
-| Other (customs, estate, fees) | $305B | 7% |
+| Other (customs, estate, fees) | $200B | 4% |
 
 *Source: Office of Management and Budget, FY 2024*
 
@@ -49,16 +49,16 @@ State and local governments are generally required to balance their operating bu
 
 ### Spending: What Government Buys
 
-**Federal Spending by Function** (roughly $6.5 trillion):
+**Federal Spending by Function** (roughly $6.7 trillion, FY 2024):
 
 | Category | Amount | Share | Notes |
 |----------|--------|-------|-------|
-| Social Security | $1.4T | 22% | Mandatory |
-| Medicare | $900B | 14% | Mandatory |
+| Social Security | $1.4T | 21% | Mandatory |
+| Medicare | $900B | 13% | Mandatory |
 | Medicaid/CHIP | $600B | 9% | Mandatory (grants to states) |
 | Defense | $850B | 13% | Discretionary |
-| Interest on debt | $700B | 11% | Mandatory |
-| Other mandatory | $700B | 11% | SNAP, UI, veterans, etc. |
+| Interest on debt | $880B | 13% | Mandatory |
+| Other mandatory | $700B | 10% | SNAP, UI, veterans, etc. |
 | Non-defense discretionary | $800B | 12% | Education, transportation, R&D, etc. |
 | Other | $550B | 8% | |
 
