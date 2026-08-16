@@ -49,7 +49,7 @@ What makes America distinctive isn't just size but productivity. American worker
 
 ## What Gets Produced: GDP by Industry
 
-Where does $27.8 trillion come from? The answer may surprise you: the largest industries aren't the ones that dominate headlines.
+Where does $27.8 trillion come from? The composition defies headlines: the largest industries aren't the ones that dominate the news.
 
 ### The Composition of Output
 
@@ -184,7 +184,7 @@ The distribution is highly skewed:
 
 *Source: Census Bureau, Statistics of U.S. Businesses (SUSB), 2021*
 
-Read that again: 0.3% of firms---about 20,000 large enterprises---employ more than half of all American workers. The American economy is, in an important sense, an economy of large corporations surrounded by millions of small businesses.
+A mere 0.3% of firms---about 20,000 large enterprises---employ more than half of all American workers. The American economy is, in an important sense, an economy of large corporations surrounded by millions of small businesses.
 
 {% hint style="warning" %}
 **Common Misconception**: "Small businesses create most jobs." This is true only for *gross* job creation. Small businesses also destroy many jobs through failure. At any given time, most Americans work for large, established firms---not startups or small businesses.
