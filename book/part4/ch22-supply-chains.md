@@ -290,7 +290,7 @@ The result: automakers parked tens of thousands of unfinished vehicles, waiting 
 
 ### Lessons and Responses
 
-The crisis forced corporate reevaluation of supply chain strategy (Chapter 32 analyzes how such disruptions propagate through the broader economy):
+The crisis forced corporate reevaluation of supply chain strategy ([Chapter 32](../part7/ch32-shock-transmission.md) analyzes how such disruptions propagate through the broader economy):
 
 {% hint style="warning" %}
 **The Bullwhip Effect**

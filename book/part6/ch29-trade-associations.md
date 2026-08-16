@@ -242,7 +242,7 @@ PhRMA has been largely successful at maintaining the pricing status quo, though 
 ---
 
 
-*Note: For treatment of specific regulatory agencies and policy areas, see relevant chapters in Part II and Chapter 28.*
+*Note: For treatment of specific regulatory agencies and policy areas, see relevant chapters in Part II and [Chapter 28](ch28-federal-governance.md).*
 
 ## Exercises
 

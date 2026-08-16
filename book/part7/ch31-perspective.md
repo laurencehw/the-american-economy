@@ -39,7 +39,7 @@ Public discourse laments the decline of manufacturing while overlooking that the
 
 ### Geographic Diversity
 
-As the regional chapters demonstrated (see Chapter 3 for the analytical framework), the United States contains multitudes. The San Francisco Bay Area, with its $1.2 trillion economy concentrated in technology, bears little resemblance to the Houston metro area, built on energy and healthcare. The Northeast Corridor's density-dependent service economy operates by different rules than the resource economies of rural America. This diversity provides resilience---regional shocks rarely become national crises---but also creates the political tensions of an economy that distributes its gains unevenly across space.
+As the regional chapters demonstrated (see [Chapter 3](../part1/ch03-geography.md) for the analytical framework), the United States contains multitudes. The San Francisco Bay Area, with its $1.2 trillion economy concentrated in technology, bears little resemblance to the Houston metro area, built on energy and healthcare. The Northeast Corridor's density-dependent service economy operates by different rules than the resource economies of rural America. This diversity provides resilience---regional shocks rarely become national crises---but also creates the political tensions of an economy that distributes its gains unevenly across space.
 
 ### Institutional Arrangements
 
@@ -116,7 +116,7 @@ For all its dynamism, the American economy faces structural tensions that are no
 
 The divergence between superstar metros and left-behind places has become the primary axis of economic---and political---polarization. Five states account for about 40% of national GDP. A handful of metropolitan areas capture the vast majority of venture capital investment. The economic logic of agglomeration, which pulls talent and capital toward dense, educated metros, clashes with the political logic of the Senate and Electoral College, which amplify the voice of less populous states and regions.
 
-This divergence has human costs, as Chapter 32 documents through the lens of shock transmission and its lasting geographic effects. Life expectancy, educational attainment, and economic mobility vary dramatically across regions. Deaths of despair---from opioids, alcohol, and suicide---concentrated in regions that lost manufacturing employment in the 1990s and 2000s. The phrase "two Americas" has become cliche, but the data support it.
+This divergence has human costs, as [Chapter 32](ch32-shock-transmission.md) documents through the lens of shock transmission and its lasting geographic effects. Life expectancy, educational attainment, and economic mobility vary dramatically across regions. Deaths of despair---from opioids, alcohol, and suicide---concentrated in regions that lost manufacturing employment in the 1990s and 2000s. The phrase "two Americas" has become cliche, but the data support it.
 
 ### The Cost Disease
 

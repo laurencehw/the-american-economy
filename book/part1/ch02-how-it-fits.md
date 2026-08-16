@@ -364,7 +364,7 @@ Texas unemployment rose from 4.2% to 5.4%; North Dakota's unemployment tripled f
 **Offsetting effects (forward linkages)**:
 Lower oil prices helped consumers and oil-importing industries. Gasoline savings left households with more to spend elsewhere. Airlines' fuel costs dropped. Chemical manufacturers using oil as feedstock saw input costs fall. These positive effects partially offset the damage to oil-producing regions---but the geography was different. Oil states lost while consuming states gained.
 
-**The lesson**: I-O analysis reveals that a shock to one sector doesn't stay contained. The 2014-2016 oil collapse was an "oil sector" event, but its effects propagated through steel, trucking, hospitality, real estate, state governments, and ultimately into household spending patterns across energy-dependent regions. (For a fuller treatment of how this shock moved through financial markets, labor markets, and geographic channels beyond I-O linkages, see Chapter 32.)
+**The lesson**: I-O analysis reveals that a shock to one sector doesn't stay contained. The 2014-2016 oil collapse was an "oil sector" event, but its effects propagated through steel, trucking, hospitality, real estate, state governments, and ultimately into household spending patterns across energy-dependent regions. (For a fuller treatment of how this shock moved through financial markets, labor markets, and geographic channels beyond I-O linkages, see [Chapter 32](../part7/ch32-shock-transmission.md).)
 
 ### Case Study: The CHIPS Act Investment Boom (A Positive Shock)
 

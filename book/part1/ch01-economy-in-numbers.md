@@ -158,7 +158,7 @@ Compare these rankings with GDP share, and you'll notice striking divergences:
 <figcaption>Figure 1.3: The GDP-employment gap by sector. Manufacturing and tech produce far more output per worker than healthcare or leisure services. This divergence drives wage inequality and shapes automation's impact. Source: BEA, BLS (2023)</figcaption>
 </figure>
 
-These gaps explain much about wage inequality, regional divergence, and the political economy of trade and automation. Industries that can substitute capital for labor tend to have rising productivity, higher wages, and falling employment shares. Industries that can't---healthcare, education, personal services---absorb more workers but face persistent cost pressures. The distributional consequences of these sectoral differences are examined in the Interlude on inequality; their geographic expression in Chapter 3; and their political implications in Chapter 30 (Labor Markets).
+These gaps explain much about wage inequality, regional divergence, and the political economy of trade and automation. Industries that can substitute capital for labor tend to have rising productivity, higher wages, and falling employment shares. Industries that can't---healthcare, education, personal services---absorb more workers but face persistent cost pressures. The distributional consequences of these sectoral differences are examined in the Interlude on inequality; their geographic expression in [Chapter 3](ch03-geography.md); and their political implications in [Chapter 30](../part6/ch30-labor.md) (Labor Markets).
 
 {% hint style="success" %}
 **Deep Dive: The Baumol Effect**

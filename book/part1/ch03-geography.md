@@ -324,7 +324,7 @@ Economic policy debates---over trade, immigration, climate, taxation---often pit
 
 ### Data Exercises
 
-7. **Your metro's economy**: Using the BEA's GDP-by-metropolitan-area data (bea.gov/data/gdp/gdp-metropolitan-area), find the GDP and top industries for the metro area nearest to you. How does its per capita GDP compare to the national average? What are the three largest industries by GDP share, and how do they compare to the national sectoral composition in Chapter 1?
+7. **Your metro's economy**: Using the BEA's GDP-by-metropolitan-area data (bea.gov/data/gdp/gdp-metropolitan-area), find the GDP and top industries for the metro area nearest to you. How does its per capita GDP compare to the national average? What are the three largest industries by GDP share, and how do they compare to the national sectoral composition in [Chapter 1](ch01-economy-in-numbers.md)?
 
 8. **County-level analysis**: Using the BLS Quarterly Census of Employment and Wages (bls.gov/qcew), look up employment data for a rural county and an urban county in the same state. Compare: (a) total employment, (b) the share of employment in the three largest industries, and (c) average weekly wages. What structural differences do you observe?
 

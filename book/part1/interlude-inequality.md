@@ -55,22 +55,22 @@ These shifts are not the result of population growth or demographic change. They
 
 Income inequality has multiple structural causes, most of which connect to the sectoral analysis in Part II:
 
-**The education premium**. Workers with a bachelor's degree earn 65% more than those with only a high school diploma---up from about 40% in 1980. Graduate and professional degrees command even larger premiums. As the economy has shifted toward knowledge-intensive sectors (Chapter 7, Professional Services; Chapter 11, Technology), demand for educated workers has outpaced supply, driving up their wages relative to less-educated workers.
+**The education premium**. Workers with a bachelor's degree earn 65% more than those with only a high school diploma---up from about 40% in 1980. Graduate and professional degrees command even larger premiums. As the economy has shifted toward knowledge-intensive sectors ([Chapter 7](../part2/ch07-professional-services.md), Professional Services; [Chapter 11](../part2/ch11-tech-media.md), Technology), demand for educated workers has outpaced supply, driving up their wages relative to less-educated workers.
 
-**The decline of mid-wage jobs**. Automation and offshoring have hollowed out the middle of the wage distribution. Manufacturing jobs (Chapter 9) that once paid $25-35/hour have been replaced by a combination of higher-paid technical jobs and lower-paid service jobs. The labor market has "polarized" into high-skill, high-wage work and low-skill, low-wage work, with less in between.
+**The decline of mid-wage jobs**. Automation and offshoring have hollowed out the middle of the wage distribution. Manufacturing jobs ([Chapter 9](../part2/ch09-manufacturing.md)) that once paid $25-35/hour have been replaced by a combination of higher-paid technical jobs and lower-paid service jobs. The labor market has "polarized" into high-skill, high-wage work and low-skill, low-wage work, with less in between.
 
-**The rise of winner-take-all markets**. In technology (Chapter 11), finance (Chapter 8), professional services (Chapter 7), and entertainment, top performers capture disproportionate rewards. Network effects, global markets, and scalable production mean that the best software engineer, fund manager, or athlete can serve a much larger market than their predecessors could---and capture a much larger share of the revenue.
+**The rise of winner-take-all markets**. In technology ([Chapter 11](../part2/ch11-tech-media.md)), finance ([Chapter 8](../part2/ch08-finance-insurance.md)), professional services ([Chapter 7](../part2/ch07-professional-services.md)), and entertainment, top performers capture disproportionate rewards. Network effects, global markets, and scalable production mean that the best software engineer, fund manager, or athlete can serve a much larger market than their predecessors could---and capture a much larger share of the revenue.
 
 **The shift from labor to capital income**. At the top of the distribution, the composition of income changes dramatically. For households in the top 10%, 70% of income comes from wages and salaries. For the top 1%, this falls to 40%; capital gains, business income, and investment returns comprise the majority. For the top 0.1%, capital income dominates almost entirely. This distinction matters: the rise in top-end inequality is driven less by wage differences between occupations (though those are real) and more by the concentration of capital ownership and the appreciation of financial assets. A CEO's $20 million compensation package is mostly stock-based; a hedge fund manager's carried interest is taxed as capital gains. The sectoral wage gaps described above explain inequality in the broad middle of the distribution; capital income concentration explains inequality at the very top.
 
-**Institutional changes**. Union membership has fallen from 35% of private-sector workers in the 1950s to under 6% today (Chapter 30). The federal minimum wage has been $7.25 since 2009, losing 30% of its purchasing power to inflation. Corporate governance has shifted toward maximizing shareholder value, which has directed more income to capital owners and top executives.
+**Institutional changes**. Union membership has fallen from 35% of private-sector workers in the 1950s to under 6% today ([Chapter 30](../part6/ch30-labor.md)). The federal minimum wage has been $7.25 since 2009, losing 30% of its purchasing power to inflation. Corporate governance has shifted toward maximizing shareholder value, which has directed more income to capital owners and top executives.
 
 **Tax policy**. Top marginal income tax rates fell from 70% in 1980 to 37% today. Capital gains are taxed at lower rates than wage income (20% vs. up to 37% for ordinary income). These policy choices amplify pre-tax inequality into even larger after-tax differences---and disproportionately benefit those whose income comes from capital rather than labor.
 
 {% hint style="success" %}
 **Deep Dive: The China Shock and Regional Inequality**
 
-Economists David Autor, David Dorn, and Gordon Hanson documented that regions most exposed to Chinese import competition after 2001 experienced sharply higher unemployment, lower wages, higher disability claims, and worse health outcomes. The effects were persistent: twenty years later, affected communities had not recovered. This research demonstrated that trade's costs are not spread evenly across the economy but concentrated in specific places and populations---contributing to both income inequality and the geographic divergence described in Chapter 3.
+Economists David Autor, David Dorn, and Gordon Hanson documented that regions most exposed to Chinese import competition after 2001 experienced sharply higher unemployment, lower wages, higher disability claims, and worse health outcomes. The effects were persistent: twenty years later, affected communities had not recovered. This research demonstrated that trade's costs are not spread evenly across the economy but concentrated in specific places and populations---contributing to both income inequality and the geographic divergence described in [Chapter 3](ch03-geography.md).
 {% endhint %}
 
 ## Wealth Distribution: The Deeper Divide
@@ -103,7 +103,7 @@ Several mechanisms amplify wealth inequality beyond income inequality:
 
 **Asset appreciation**. The wealthy hold their assets primarily in equities and real estate, which have appreciated dramatically. The S&P 500 returned 10% annually over the past four decades. A family that owned $1 million in stocks in 1990 holds $17 million today from appreciation alone---no additional saving required. Meanwhile, a family with $5,000 in a savings account earned negligible returns.
 
-**Homeownership as the dividing line**. For middle-class families, home equity is the primary form of wealth. Homeownership rates vary dramatically by income, race, and geography. In high-cost metros (Chapter 3), rising home prices created enormous wealth for existing owners while locking out newcomers. For renters---disproportionately low-income, young, and minority---rising housing costs are a pure expense, building no wealth.
+**Homeownership as the dividing line**. For middle-class families, home equity is the primary form of wealth. Homeownership rates vary dramatically by income, race, and geography. In high-cost metros ([Chapter 3](ch03-geography.md)), rising home prices created enormous wealth for existing owners while locking out newcomers. For renters---disproportionately low-income, young, and minority---rising housing costs are a pure expense, building no wealth.
 
 **Inheritance and intergenerational transmission**. Wealth is passed between generations. The Federal Reserve estimates that $70 trillion will be transferred via inheritance over the next 25 years---overwhelmingly within already-wealthy families. This perpetuates inequality across generations independent of individual effort or talent.
 
@@ -138,7 +138,7 @@ The roots of the racial wealth gap are structural and historical:
 
 ## Geographic Inequality
 
-As Chapter 3 documented, economic activity concentrates geographically. So do income and wealth.
+As [Chapter 3](ch03-geography.md) documented, economic activity concentrates geographically. So do income and wealth.
 
 **Metro divergence**: Per capita income in the San Francisco metro area exceeds $100,000; in the McAllen, Texas metro area, it's $25,000. This 4:1 ratio within a single country is extraordinary by international standards.
 
@@ -157,9 +157,9 @@ Women working full-time earned 84 cents for every dollar earned by men in 2023--
 
 The gap varies dramatically by occupation and sector:
 
-- In healthcare (Chapter 6), women dominate nursing and allied health but are underrepresented among surgeons and specialists---the highest-paid positions.
-- In finance (Chapter 8), women hold 50%+ of entry-level positions but less than 25% of C-suite and managing director roles.
-- In technology (Chapter 11), women represent 28% of the workforce, and the gap widens at senior levels.
+- In healthcare ([Chapter 6](../part2/ch06-healthcare.md)), women dominate nursing and allied health but are underrepresented among surgeons and specialists---the highest-paid positions.
+- In finance ([Chapter 8](../part2/ch08-finance-insurance.md)), women hold 50%+ of entry-level positions but less than 25% of C-suite and managing director roles.
+- In technology ([Chapter 11](../part2/ch11-tech-media.md)), women represent 28% of the workforce, and the gap widens at senior levels.
 
 {% hint style="info" %}
 **Explained vs. Unexplained Gap**
@@ -167,7 +167,7 @@ The gap varies dramatically by occupation and sector:
 Economists decompose the gender pay gap into "explained" factors (differences in occupation, industry, hours worked, education, experience) and an "unexplained" residual. Roughly 55-60% of the gap is "explained" by these measurable differences; the remaining 40-45% persists after controlling for all observable characteristics. The unexplained portion is consistent with---though does not definitively prove---discrimination, negotiation differences, and unmeasured factors like willingness to relocate or work unpredictable hours.
 {% endhint %}
 
-A key structural factor is the **motherhood penalty**: women's earnings decline significantly after having children, while men's do not. Research by Henrik Kleven and colleagues shows that 10 years after a first birth, women earn 40% less than comparable women without children. This reflects some combination of reduced hours, career interruptions, employer discrimination against mothers, and sorting into more flexible but lower-paying positions. The childcare infrastructure---or lack thereof---documented in Chapter 30 is central to this dynamic.
+A key structural factor is the **motherhood penalty**: women's earnings decline significantly after having children, while men's do not. Research by Henrik Kleven and colleagues shows that 10 years after a first birth, women earn 40% less than comparable women without children. This reflects some combination of reduced hours, career interruptions, employer discrimination against mothers, and sorting into more flexible but lower-paying positions. The childcare infrastructure---or lack thereof---documented in [Chapter 30](../part6/ch30-labor.md) is central to this dynamic.
 
 ## Intergenerational Mobility
 
@@ -191,10 +191,10 @@ The factors most strongly correlated with local mobility are: residential segreg
 
 The distributional patterns described above are not separate from the sectoral and geographic analysis in the rest of this book. They *are* the structural economy experienced at the household level:
 
-- **Sector determines wages**: A worker in information technology (Chapter 11) earns a median of $100,000+; a worker in leisure and hospitality (Chapter 17) earns a median of $22,000. Sectoral composition drives local income levels.
+- **Sector determines wages**: A worker in information technology ([Chapter 11](../part2/ch11-tech-media.md)) earns a median of $100,000+; a worker in leisure and hospitality ([Chapter 17](../part2/ch17-leisure-hospitality.md)) earns a median of $22,000. Sectoral composition drives local income levels.
 - **Geography determines opportunity**: Being born in San Jose versus McAllen correlates more strongly with adult income than most individual characteristics.
-- **Financial architecture shapes wealth**: Access to the capital markets (Chapter 19) and homeownership (Chapter 5) determines which households build wealth and which do not.
-- **Institutions set the rules**: Federal governance (Chapter 28), labor law (Chapter 30), tax policy, and regulatory choices determine how the gains from production are divided.
+- **Financial architecture shapes wealth**: Access to the capital markets ([Chapter 19](../part3/ch19-capital-markets.md)) and homeownership ([Chapter 5](../part2/ch05-real-estate.md)) determines which households build wealth and which do not.
+- **Institutions set the rules**: Federal governance ([Chapter 28](../part6/ch28-federal-governance.md)), labor law ([Chapter 30](../part6/ch30-labor.md)), tax policy, and regulatory choices determine how the gains from production are divided.
 
 The economy described in the chapters ahead is not a neutral machine. It produces extraordinary abundance---and distributes it very unevenly. Keeping both facts in view is essential for understanding how America actually works.
 
@@ -241,7 +241,7 @@ As you read the sector chapters in Part II, watch for how each industry's struct
 
 2. The median white household holds six times the wealth of the median Black household. Why does controlling for income differences *not* eliminate this gap? Identify at least three historical and structural factors that contribute independently.
 
-3. Explain the concept of "job polarization." How does it relate to the sectoral structure described in Part II---specifically, the decline of manufacturing employment (Chapter 9) and the growth of both professional services (Chapter 7) and leisure/hospitality (Chapter 17)?
+3. Explain the concept of "job polarization." How does it relate to the sectoral structure described in Part II---specifically, the decline of manufacturing employment ([Chapter 9](../part2/ch09-manufacturing.md)) and the growth of both professional services ([Chapter 7](../part2/ch07-professional-services.md)) and leisure/hospitality ([Chapter 17](../part2/ch17-leisure-hospitality.md))?
 
 4. The text states that roughly 50% of children born in 1980 earned more than their parents, compared to 90% of those born in 1940. What economic and structural changes over that period might explain this decline in absolute mobility?
 

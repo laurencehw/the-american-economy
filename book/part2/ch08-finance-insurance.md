@@ -42,7 +42,7 @@ Banks perform **maturity transformation**: they borrow short (deposits that can 
 | Loans: 65% | Equity capital: 10% |
 | Other: 5% | |
 
-Banks make money on the **net interest margin (NIM)**---the spread between what they earn on loans and what they pay on deposits. Historical NIM for US banks has declined from 4-4.5% in the 1990s to 2.5-3.5% today, reflecting lower interest rates, competition from fintech, and regulation requiring more liquid (low-yield) assets. For a deeper explanation of how banks actually create money and how the payment system works, see Chapter 18.
+Banks make money on the **net interest margin (NIM)**---the spread between what they earn on loans and what they pay on deposits. Historical NIM for US banks has declined from 4-4.5% in the 1990s to 2.5-3.5% today, reflecting lower interest rates, competition from fintech, and regulation requiring more liquid (low-yield) assets. For a deeper explanation of how banks actually create money and how the payment system works, see [Chapter 18](../part3/ch18-how-finance-works.md).
 
 ### Revenue Streams
 
@@ -70,7 +70,7 @@ Banks make money on the **net interest margin (NIM)**---the spread between what 
 
 ### The Shadow Banking System
 
-Beyond traditional banks, a parallel system of credit intermediation operates with less regulation and no deposit insurance. Money market funds ($6 trillion), repo markets ($5 trillion), and private credit ($1.5 trillion) perform bank-like functions without bank-like protections. The 2008 crisis was fundamentally a run on shadow banking. For detailed treatment of how shadow banking works and its role in financial crises, see Chapter 18.
+Beyond traditional banks, a parallel system of credit intermediation operates with less regulation and no deposit insurance. Money market funds ($6 trillion), repo markets ($5 trillion), and private credit ($1.5 trillion) perform bank-like functions without bank-like protections. The 2008 crisis was fundamentally a run on shadow banking. For detailed treatment of how shadow banking works and its role in financial crises, see [Chapter 18](../part3/ch18-how-finance-works.md).
 
 ## Industry Structure
 

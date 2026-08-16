@@ -20,7 +20,7 @@ Economic shocks transmit through multiple channels simultaneously. Understanding
 
 ### Input-Output Linkages: The Production Network
 
-The input-output framework introduced in Chapter 2 provides the foundation for understanding how shocks propagate through the production network. Every industry purchases inputs from other industries and sells its output to downstream buyers. A shock to one sector creates ripples throughout this network.
+The input-output framework introduced in [Chapter 2](../part1/ch02-how-it-fits.md) provides the foundation for understanding how shocks propagate through the production network. Every industry purchases inputs from other industries and sells its output to downstream buyers. A shock to one sector creates ripples throughout this network.
 
 **Direct effects** are the immediate impact on the shocked sector itself. When oil prices collapse, oil production falls.
 
@@ -71,7 +71,7 @@ Shocks unfold over multiple time horizons:
 
 ## Case Study: The 2014-2016 Oil Price Collapse
 
-Chapter 2 introduced this episode through the lens of input-output linkages---backward linkages to suppliers, forward linkages to consumers, and the resulting multiplier effects. Here we return to the same shock but trace it through *all four* transmission channels: production networks, geographic concentration, financial amplification, and labor market adjustment. The difference in scope shows why the I-O framework alone, while powerful, tells only part of the story.
+[Chapter 2](../part1/ch02-how-it-fits.md) introduced this episode through the lens of input-output linkages---backward linkages to suppliers, forward linkages to consumers, and the resulting multiplier effects. Here we return to the same shock but trace it through *all four* transmission channels: production networks, geographic concentration, financial amplification, and labor market adjustment. The difference in scope shows why the I-O framework alone, while powerful, tells only part of the story.
 
 <figure>
 <img src="../_figures/ch32/ch32_oil_shock_timeline.png" alt="Timeline of 2014-2016 oil price collapse showing Brent crude falling from $115 to $28 per barrel" style="width: 100%; max-width: 800px;">

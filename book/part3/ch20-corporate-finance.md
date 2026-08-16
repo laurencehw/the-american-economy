@@ -188,7 +188,7 @@ Wachtell, Lipton, Rosen & Katz occupies a unique position: a small partnership (
 
 ## Private Equity's Role
 
-Private equity firms have become central actors in corporate America. (See also Chapter 19 for PE as an investment category.)
+Private equity firms have become central actors in corporate America. (See also [Chapter 19](ch19-capital-markets.md) for PE as an investment category.)
 
 ### How PE Changes Corporate Finance
 

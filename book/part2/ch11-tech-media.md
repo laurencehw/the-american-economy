@@ -97,7 +97,7 @@ The technology industry exhibits extreme concentration at the top. Five companie
 
 **Alphabet/Google** ($307 billion revenue, 190,000 employees) controls approximately 90% of the global search market, a position the Department of Justice found to be an illegal monopoly in August 2024. Google achieved this dominance partly through product quality but also through billions in payments to be the default search engine on Apple devices and web browsers—payments that effectively foreclosed competition. Google also dominates online video (YouTube), mobile operating systems (Android, 70% global market share), web browsers (Chrome, 65%), and digital maps. The remedies phase of the antitrust case may require structural changes to this interconnected empire.
 
-**Apple** ($383 billion revenue, 161,000 employees) is the world's most valuable company, built on the iPhone's success and the ecosystem surrounding it. Apple designs in California but manufactures primarily in Asia, exemplifying the global supply chains examined in Chapter 21. Apple's profit margins are exceptionally high for a hardware company because the company captures value across the entire stack: designing its own chips, controlling the operating system, and taking commissions on software sales. The App Store generated an estimated $85 billion in gross revenue in 2023, with Apple keeping $25-30 billion after its 15-30% commission.
+**Apple** ($383 billion revenue, 161,000 employees) is the world's most valuable company, built on the iPhone's success and the ecosystem surrounding it. Apple designs in California but manufactures primarily in Asia, exemplifying the global supply chains examined in [Chapter 21](../part4/ch21-trade.md). Apple's profit margins are exceptionally high for a hardware company because the company captures value across the entire stack: designing its own chips, controlling the operating system, and taking commissions on software sales. The App Store generated an estimated $85 billion in gross revenue in 2023, with Apple keeping $25-30 billion after its 15-30% commission.
 
 **Amazon** ($575 billion revenue, 1.5 million employees) straddles multiple industries. Its e-commerce marketplace hosts over 60% of its retail sales from third-party sellers, from whom Amazon collects fees averaging 15-20% of sale price plus fulfillment fees. The FTC's ongoing antitrust case alleges Amazon uses its dual role as platform and retailer to self-preference its own products and extract excessive fees. AWS remains Amazon's profit engine, generating over $20 billion in annual operating income.
 
@@ -162,7 +162,7 @@ The technology industry is extraordinarily concentrated geographically. Five met
 <figcaption>Figure 11.5: Major technology employment hubs. Five metros---San Francisco-San Jose, Seattle, New York, Boston, and Austin---account for roughly half of all U.S. software employment, a geographic concentration driven by network effects that persist despite high costs and remote-work trends. Source: BLS QCEW</figcaption>
 </figure>
 
-**Silicon Valley** (San Jose-San Francisco metropolitan area) remains the undisputed center of the technology industry despite decades of predictions about its decline (see Chapter 26 for Silicon Valley's role in the broader Western regional economy). The region hosts the headquarters of Alphabet, Apple, Meta, and thousands of smaller companies. Stanford University and UC Berkeley provide both research and talent pipelines. Venture capital is heavily concentrated: Sand Hill Road in Menlo Park hosts the largest concentration of VC firms in the world. The region's dysfunction—housing costs that make $200,000 salaries feel inadequate, traffic congestion, homelessness—has not displaced its network effects.
+**Silicon Valley** (San Jose-San Francisco metropolitan area) remains the undisputed center of the technology industry despite decades of predictions about its decline (see [Chapter 26](../part5/ch26-west.md) for Silicon Valley's role in the broader Western regional economy). The region hosts the headquarters of Alphabet, Apple, Meta, and thousands of smaller companies. Stanford University and UC Berkeley provide both research and talent pipelines. Venture capital is heavily concentrated: Sand Hill Road in Menlo Park hosts the largest concentration of VC firms in the world. The region's dysfunction—housing costs that make $200,000 salaries feel inadequate, traffic congestion, homelessness—has not displaced its network effects.
 
 **Seattle** hosts the headquarters of Amazon and Microsoft, plus major engineering offices for Google, Meta, and others. The region's slightly lower cost of living (relative to the Bay Area) and strong engineering culture at the University of Washington have attracted talent. Seattle's tech employment has grown faster than Silicon Valley's in recent years.
 
@@ -336,7 +336,7 @@ Generative AI has transformed the technology landscape since ChatGPT's November 
 - **Amazon** invested $8 billion in Anthropic, the safety-focused AI lab founded by former OpenAI researchers.
 - **Apple** has been notably slower to deploy consumer-facing AI, announcing "Apple Intelligence" features in 2024 that relied partly on external models.
 
-The AI boom has concentrated capital and talent at the largest companies. Training frontier models requires hundreds of millions of dollars in computing costs, favoring companies with cloud infrastructure and deep pockets---a dynamic that reinforces the capital market advantages discussed in Chapter 19. Whether AI will ultimately disrupt Big Tech incumbents or entrench them remains unclear.
+The AI boom has concentrated capital and talent at the largest companies. Training frontier models requires hundreds of millions of dollars in computing costs, favoring companies with cloud infrastructure and deep pockets---a dynamic that reinforces the capital market advantages discussed in [Chapter 19](../part3/ch19-capital-markets.md). Whether AI will ultimately disrupt Big Tech incumbents or entrench them remains unclear.
 
 ### AI and the Labor Market: Cross-Cutting Effects
 
@@ -368,7 +368,7 @@ Data has become a distinct economic asset—the raw material that powers AI mode
 
 **Personal Data as Currency**: Consumers generate valuable data through their daily activities but capture almost none of its value. Proposals for "data dividends" or treating data as a property right have gained attention but not traction. The asymmetry between data generators (consumers) and data exploiters (platforms) remains a defining feature of the digital economy.
 
-The data economy sits awkwardly between this chapter's technology sector and Chapter 7's professional services. Data brokers are neither traditional tech companies nor consulting firms. Yet the decisions made about data—who collects it, who owns it, how it's used—will shape the AI-driven economy of the coming decades.
+The data economy sits awkwardly between this chapter's technology sector and [Chapter 7](ch07-professional-services.md)'s professional services. Data brokers are neither traditional tech companies nor consulting firms. Yet the decisions made about data—who collects it, who owns it, how it's used—will shape the AI-driven economy of the coming decades.
 
 ### Streaming Consolidation
 
@@ -494,7 +494,7 @@ The company's challenges remain significant. Content costs continue rising. Comp
 
 ### Review Questions
 
-1. The chapter notes that Big Tech's five largest companies employ fewer than 2 million workers but are worth over $10 trillion---roughly 25% of the entire S&P 500. What structural features of technology business models (advertising, cloud infrastructure, platform fees, ecosystem lock-in) explain how these firms generate enormous market value with relatively few employees? How does this contrast with the retail sector discussed in Chapter 10, where Walmart alone employs 2.1 million people?
+1. The chapter notes that Big Tech's five largest companies employ fewer than 2 million workers but are worth over $10 trillion---roughly 25% of the entire S&P 500. What structural features of technology business models (advertising, cloud infrastructure, platform fees, ecosystem lock-in) explain how these firms generate enormous market value with relatively few employees? How does this contrast with the retail sector discussed in [Chapter 10](ch10-retail-wholesale.md), where Walmart alone employs 2.1 million people?
 
 2. Google and Meta together capture roughly 50% of all digital advertising spending in the United States---over $150 billion annually. Explain the key differences between Google's search advertising model (pay-per-click keyword auctions where legal terms can cost $50+ per click) and Meta's social media advertising model (targeted by demographics, interests, and "lookalike audiences" from detailed user data). Why might a personal injury law firm choose Google while a direct-to-consumer clothing brand might choose Meta?
 

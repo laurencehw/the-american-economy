@@ -243,7 +243,7 @@ CEQA (California Environmental Quality Act) is the poster child for regulatory d
 
 ### Zoning
 
-Land-use regulation, covered in Chapter 5, is the dominant constraint on residential construction. Zoning determines what can be built where, and restrictive zoning in high-demand areas has created the housing affordability crisis.
+Land-use regulation, covered in [Chapter 5](ch05-real-estate.md), is the dominant constraint on residential construction. Zoning determines what can be built where, and restrictive zoning in high-demand areas has created the housing affordability crisis.
 
 ## Trade Associations and Lobbying
 

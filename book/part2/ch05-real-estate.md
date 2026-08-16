@@ -287,7 +287,7 @@ The housing crash transmitted to the broader economy primarily through the **wea
 
 ### Financial Contagion
 
-The housing shock became a financial crisis through the securitization chain examined in Chapter 18:
+The housing shock became a financial crisis through the securitization chain examined in [Chapter 18](../part3/ch18-how-finance-works.md):
 
 1. **Mortgage defaults** caused losses on mortgage-backed securities
 2. **MBS holders** (banks, investment funds, insurance companies) faced writedowns
@@ -369,7 +369,7 @@ A less-discussed threat to housing markets is the emerging insurance crisis. Pro
 - **The Mortgage-Insurance Link**: Fannie Mae and Freddie Mac require borrowers to maintain property insurance. If private insurance becomes unavailable or unaffordable, homeowners face a choice between sky-high premiums, inadequate state-backed plans, or losing access to conventional mortgages entirely.
 - **Value Implications**: In areas where insurance costs have doubled or tripled, home values are effectively capped by what buyers can afford in total housing costs (mortgage + insurance + taxes). Some coastal Florida properties have seen 20-30% value declines attributable primarily to insurance cost increases.
 
-The insurance crisis intersects with the housing crisis: if climate risk makes coastal and wildfire-prone areas uninsurable, the housing stock in those areas loses significant value, potentially triggering localized housing busts. This represents a slow-motion version of the 2008 geographic concentration—except instead of speculative excess, the underlying cause is physical climate risk. See Chapter 8 for more on the insurance industry's challenges.
+The insurance crisis intersects with the housing crisis: if climate risk makes coastal and wildfire-prone areas uninsurable, the housing stock in those areas loses significant value, potentially triggering localized housing busts. This represents a slow-motion version of the 2008 geographic concentration—except instead of speculative excess, the underlying cause is physical climate risk. See [Chapter 8](ch08-finance-insurance.md) for more on the insurance industry's challenges.
 
 ### 6. The Rent Control Debate Returns
 
