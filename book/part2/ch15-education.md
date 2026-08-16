@@ -579,6 +579,18 @@ UC remains a remarkable institution---world-class research combined with genuine
 *Technology and AI*: AI tutoring systems and online learning platforms are expanding access, but tools like ChatGPT are disrupting traditional assessment and raising fundamental questions about what education should teach.
 {% endhint %}
 
+## Key Takeaways
+
+1. **Education is a $1.6 trillion system that is barely a system**: About 6% of GDP flows through 13,000 independent K-12 districts, thousands of colleges, and a growing private sector---with no central coordination.
+
+2. **Most spending flows through government**: K-12 is funded by local property taxes (45%), state formulas (47%), and federal programs (8%)---a structure that bakes funding inequality into geography.
+
+3. **Higher education's business model is under strain**: State appropriations fell from about three-quarters of public university revenue (1980) to roughly 40%, shifting costs to tuition and driving the student debt question.
+
+4. **The surrounding industry is substantial**: Textbooks, testing, education technology, and for-profit schools form a multi-billion-dollar private ecosystem with very different incentives than the public core.
+
+5. **Returns to education remain high but uneven**: The college wage premium persists, but for-profit outcomes and credential value vary enormously---making information and accountability central policy questions.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

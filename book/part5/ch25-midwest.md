@@ -266,6 +266,18 @@ Economists use "China shock" to describe the sudden surge in Chinese manufacturi
 
 The China shock of the 2000s provides the Midwest's clearest case study of the shock transmission framework developed in [Chapter 32](../part7/ch32-shock-transmission.md). When Chinese manufacturing imports surged after WTO accession in 2001, the impact was not uniform---it concentrated in counties with industries directly competing with Chinese production. Autor, Dorn, and Hanson's research, cited in the Further Reading, documented how trade-exposed Midwest communities experienced persistent employment losses, depressed wages, and rising transfer dependency that persisted for over a decade. The shock propagated through labor market channels (displaced workers competing for remaining jobs) and geographic channels (reduced spending by unemployed workers depressing local service employment). Meanwhile, the rural Midwest's agricultural economy ([Chapter 16](../part2/ch16-agriculture.md)) operates on a separate logic: commodity markets link Corn Belt farmers directly to global demand, making farm incomes sensitive to Chinese soybean purchases, Brazilian harvests, and renewable fuel mandates rather than to the manufacturing dynamics that drive metropolitan employment.
 
+## Key Takeaways
+
+1. **The Midwest produces more industrial output than ever with far fewer workers**: Manufacturing employment collapsed since the 1970s, but automation and capital intensity mean the region remains an industrial powerhouse---the paradox at the heart of the Rust Belt narrative.
+
+2. **Chicago is the region's only true global metropolis**: With a GDP near $900 billion, it stands apart as a world financial and logistics center, even as it grapples with population loss and corporate departures.
+
+3. **The Battery Belt is the region's new industrial policy**: CHIPS Act and IRA investments are directing tens of billions into EV batteries and semiconductors (Intel's $20 billion Ohio fab), reshaping the Midwest's economic geography.
+
+4. **Demographics are the region's structural headwind**: An aging manufacturing workforce, flat or declining populations in most states, and outmigration of the young constrain growth even where investment arrives.
+
+5. **Agriculture ties the Midwest to energy and export markets**: Corn and soybeans link the region to ethanol demand and Chinese purchases, making farm income a function of energy prices and geopolitics.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

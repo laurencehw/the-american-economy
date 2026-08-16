@@ -575,6 +575,18 @@ BlackRock's scale creates both influence and scrutiny. Its holdings make it a to
 
 ---
 
+## Key Takeaways
+
+1. **Money is a hierarchy, and banks create it**: Currency sits atop a pyramid of bank deposits and Federal Reserve reserves. When a bank makes a loan it simultaneously creates a matching deposit---loans create deposits, not the reverse.
+
+2. **The payment system is the economy's plumbing**: Fedwire settles roughly $4 trillion daily in real time; CHIPS nets international dollar payments. Intraday credit keeps these flows moving.
+
+3. **Shadow banking performs bank functions outside the safety net**: Money market funds, repo, and securitization intermediate credit without deposit insurance---and runs on these instruments were the core of the 2008 crisis.
+
+4. **Haircuts and collateral govern financial stability**: When haircuts rise (as in 2007-08, from single digits to 50%+ on some assets), institutions must deleverage abruptly, turning a price correction into a credit crunch.
+
+5. **The Fed steers through rates and reserves**: The 2022-23 tightening---from near zero to 5.25-5.50%---was the fastest cycle in 40 years, demonstrating how monetary policy transmits through every market described in this chapter.
+
 ## Data Sources and Further Reading
 
 ### Government Sources

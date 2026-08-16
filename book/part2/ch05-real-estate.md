@@ -417,6 +417,18 @@ D.R. Horton calls itself "America's Builder," and the title is earned through sh
 
 The company operates less like a traditional construction firm and more like a manufacturing operation. Standardized floor plans minimize design costs. Bulk purchasing of lumber, appliances, and finishes provides leverage with suppliers. Vertical integration into mortgage (DHI Mortgage) and title services captures additional margin. The model works in boom times (volume multiplies) and busts (they can cut land purchases and survive on lower volumes)—D.R. Horton emerged from 2008 stronger than almost any competitor. They are, in effect, the Walmart of homebuilding: winning on cost, scale, and logistics rather than luxury or craft.
 
+## Key Takeaways
+
+1. **Real estate is the largest sector of the economy**: At roughly 13.7% of GDP, it consistently outpaces every other industry. Housing wealth (over $50 trillion) rivals the capitalization of the entire U.S. stock market.
+
+2. **Housing supply is inelastic where demand is highest**: Zoning---especially single-family-only rules---constrains construction in productive metros, creating affordability crises and blocking labor mobility. Economists call the resulting price wedge the "zoning tax."
+
+3. **Real estate is the economy's premier shock transmitter**: The 2006-2012 bust destroyed roughly $8 trillion in household wealth and triggered the deepest recession since the 1930s, with losses concentrated in the supply-constrained "Sand States."
+
+4. **The post-pandemic market is defined by lock-in and office distress**: Homeowners holding ~3% mortgages refuse to sell, strangling existing-home supply, while downtown office vacancy (20-35% in major CBDs) threatens property values and municipal tax bases.
+
+5. **Real estate is increasingly financialized**: REITs let investors hold property like stocks, and institutional buyers have entered single-family housing---though they still own only an estimated 2-3% of the national stock.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

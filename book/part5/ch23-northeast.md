@@ -282,6 +282,18 @@ The Northeast Corridor is best understood through the input-output framework dev
 
 The 2008 financial crisis demonstrated the shock transmission mechanisms analyzed in [Chapter 32](../part7/ch32-shock-transmission.md). The crisis originated in the corridor's financial institutions, propagated first through inter-firm credit channels (counterparty exposure among Wall Street banks), then transmitted to the real economy through labor market contractions (200,000 financial services layoffs in the New York metro alone during 2008--2009), and finally radiated geographically as reduced demand for professional services rippled outward from the corridor to client firms nationwide. The corridor's role as a shock originator and transmitter---not merely a shock absorber---distinguishes it from every other American region and underscores the systemic importance of its financial architecture to the national economy.
 
+## Key Takeaways
+
+1. **The Northeast Corridor is a single mega-region**: Boston, New York, Philadelphia, and Washington form a continuous economic zone linked by the Acela corridor---generating about 20% of U.S. GDP on a sliver of its land.
+
+2. **Density is the region's engine and its constraint**: Agglomeration economies make the corridor extraordinarily productive, but century-old infrastructure and severe housing costs now threaten the model that depends on face-to-face density.
+
+3. **Each anchor metro has a distinct pillar**: New York (global finance and media), Washington (government and defense), Boston (biotech and higher education), Philadelphia (healthcare and pharmaceuticals)---specialization that reinforces the whole.
+
+4. **The region leads in knowledge intensity**: A disproportionate share of NIH funding, research universities, and professional services concentrates here, even as manufacturing long ago departed.
+
+5. **Affordability is the corridor's central challenge**: All four metros rank among the nation's most expensive housing markets; the "missing middle" of housing supply constrains the labor pools that density requires.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

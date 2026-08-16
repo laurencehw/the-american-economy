@@ -460,6 +460,18 @@ AECOM's business is heavily tied to government infrastructure spending. It ranks
 *Technology and AI*: AI tools are automating routine legal research, audit procedures, and financial analysis, threatening traditional billable-hour models while creating opportunities in LegalTech and advisory around AI adoption itself.
 {% endhint %}
 
+## Key Takeaways
+
+1. **Professional services is the largest private-sector category**: Combining NAICS 54-56, it accounts for roughly 13% of GDP and 22.6 million workers---firms that sell expertise (legal, consulting, accounting, engineering, staffing) rather than physical goods.
+
+2. **The sector is bifurcated**: High-margin knowledge work (law, management consulting, engineering) coexists with lower-margin administrative and temporary-staffing services, producing a wide internal wage distribution.
+
+3. **Agglomeration drives the sector**: Proximity to clients and competitors concentrates professional services in major metro cores (Manhattan, the Loop, the Financial District), making the sector a key engine of urban economies.
+
+4. **Growth reflects the knowledge economy's rise**: Since 1980 the sector has more than doubled as firms outsourced non-core functions, even as manufacturing shed millions of jobs.
+
+5. **Occupational licensing shapes supply**: Bar associations, medical boards, and accounting bodies restrict entry---protecting consumers, critics argue, but also raising prices and limiting competition.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

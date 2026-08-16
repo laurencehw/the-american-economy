@@ -448,6 +448,18 @@ Yet complete decoupling is neither possible nor desirable. Global supply chains 
 
 The supply chain of the future will be more regional, more redundant, and more expensive than the pre-2020 model. Whether it will also be more resilient remains to be tested.
 
+## Key Takeaways
+
+1. **Globalization works through value chains, not finished goods**: Intermediate goods are the largest category of trade; a single product crosses borders many times as components, so "made in" labels mislead.
+
+2. **Semiconductors are the most concentrated supply chain on earth**: TSMC fabricates over 90% of the most advanced logic chips, and ASML is the sole supplier of EUV lithography---extraordinary single points of failure for the global economy.
+
+3. **Chokepoints concentrate systemic risk**: The San Pedro Bay ports (roughly one-third of U.S. container imports), the Strait of Malacca, and a handful of critical suppliers mean that localized disruptions propagate globally.
+
+4. **The 2021-22 crisis exposed just-in-time fragility**: Port congestion, container imbalances, and semiconductor shortages showed that lean, efficiency-optimized chains have little slack---contributing directly to inflation.
+
+5. **Resilience is now a policy objective**: Reshoring, friend-shoring, and industrial policy (the CHIPS Act above all) represent a deliberate shift from cost minimization toward supply-chain security.
+
 ## Data Sources and Further Reading
 
 ### Data Sources

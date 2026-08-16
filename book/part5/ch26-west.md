@@ -319,6 +319,18 @@ The West's economy illustrates several of this book's core analytical frameworks
 
 The West also demonstrates how wealth effects propagate through the housing market ([Chapter 5](../part2/ch05-real-estate.md)). When Bay Area tech companies go public or issue equity compensation, employee stock windfalls translate into housing demand---each major IPO or vesting cycle injects billions in purchasing power into a supply-constrained market, bidding up prices that then spill into adjacent metros (Sacramento, Reno, Boise) as priced-out buyers relocate. Natural resource economics ([Chapter 14](../part2/ch14-energy.md)) governs the region's energy sector, from Wyoming coal to North Dakota oil to the Great Plains wind corridor, while federal land ownership---the federal government controls over 45% of land in the Western states---makes the government sector analysis of [Chapter 4](../part2/ch04-government.md) uniquely relevant. Federal land management decisions on grazing, mining, timber, and recreation directly shape rural Western economies in ways that have no parallel east of the Mississippi, linking public sector choices to private sector outcomes through channels the national accounts framework is designed to trace.
 
+## Key Takeaways
+
+1. **California is an economy unto itself**: At roughly $4.0 trillion (2024), it would rank among the world's largest economies, leading the nation in manufacturing value, agriculture, and technology---yet it is losing residents to domestic outmigration.
+
+2. **The Bay Area remains the venture capital capital**: Over half of U.S. venture funding flows through the region, sustaining an innovation ecosystem (Stanford, Berkeley, Sand Hill Road) that no rival has replicated---at extraordinary cost.
+
+3. **The West is a patchwork of specialized hubs**: Los Angeles (entertainment and trade), Seattle (cloud and aerospace), San Diego (biotech and defense), Salt Lake City (software), Portland (hardware manufacturing), Las Vegas (tourism).
+
+4. **Housing unaffordability is the region's defining constraint**: San Jose and San Francisco price-to-income ratios exceed 9-10x, pricing out middle-class workers and driving the outmigration that reshapes other regions.
+
+5. **Water is the West's binding limit**: The Colorado River serves 40 million people but runs structurally over-allocated; Lake Mead and Powell hover near historic lows, forcing the growth model to confront physical reality.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

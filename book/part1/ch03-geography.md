@@ -278,7 +278,7 @@ Economic policy debates---over trade, immigration, climate, taxation---often pit
 
 ## Key Takeaways
 
-1. **Economic activity is geographically concentrated.** Five states produce half of GDP. Eight metros produce 30%. Most rural counties are losing population and employment.
+1. **Economic activity is geographically concentrated.** Five states produce about 41% of GDP. The eight largest metros produce about 29%. Most rural counties are losing population and employment.
 
 2. **Agglomeration economies explain clustering.** Knowledge spillovers, labor pooling, and input sharing make dense metros more productive---but also more expensive.
 

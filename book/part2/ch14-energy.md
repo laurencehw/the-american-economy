@@ -821,6 +821,18 @@ Duke serves 8.2 million electric customers across six states (North Carolina, So
 
 Duke illustrates the tensions facing traditional utilities: pressure to decarbonize, need to maintain reliability, desire to grow rate base, and exposure to regulatory and political risk.
 
+## Key Takeaways
+
+1. **Energy is a nearly $1 trillion sector that powers everything**: Utilities, oil and gas extraction, and refining contribute roughly $940 billion directly; the sector's importance exceeds its GDP share because it is an input to every other industry.
+
+2. **The shale revolution remade American energy**: Oil production collapsed from 10 million barrels/day (1970) to 5 million (2008), then surged past 13 million (2024)---making the U.S. the world's largest producer, centered on the Permian Basin.
+
+3. **Electricity generation has switched fuels**: Coal fell from 48% of generation (2008) to 16%; natural gas rose to 43%; wind and solar are the fastest-growing sources. New solar and wind are now cheaper than operating many existing coal plants.
+
+4. **The sector is capital-intensive and geographically fixed**: Multi-billion-dollar plants, pipelines, and refineries create long asset lives and path dependence---and concentrate wealth and risk in specific regions (Gulf Coast, Permian, Appalachia).
+
+5. **Energy policy is climate policy**: Transportation (29% of U.S. greenhouse gas emissions) and electricity are the decarbonization frontiers; the IRA represents the largest deliberate energy investment shift in American history.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

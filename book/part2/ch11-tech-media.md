@@ -460,6 +460,18 @@ The company's challenges remain significant. Content costs continue rising. Comp
 *Technology and AI*: AI is simultaneously the industry's most important product and its most disruptive force, reshaping everything from content creation to software development itself.
 {% endhint %}
 
+## Key Takeaways
+
+1. **The official "information sector" understates tech's footprint**: NAICS 51 contributes about $1.5 trillion (5% of GDP) and employs roughly 3 million workers---but Amazon is classified as retail, and every sector now employs software engineers.
+
+2. **Market value concentrates like no other sector**: The five largest companies (Apple, Microsoft, Alphabet, Amazon, Meta) are worth over $10 trillion---roughly a quarter of the S&P 500---while employing fewer than 2 million people combined.
+
+3. **Advertising is the consumer internet's business model**: Google and Meta capture roughly half of U.S. digital advertising, funding the "free" internet through targeted, auction-sold, precisely measured ads.
+
+4. **Telecom is an oligopoly with limited wireline competition**: Three carriers (T-Mobile, Verizon, AT&T) dominate wireless; cable companies dominate wireline broadband, and in many markets cable is the only high-speed option.
+
+5. **Streaming transformed media economics**: The shift from bundled cable to direct-to-consumer streaming has fragmented audiences, exploded content spending, and forced consolidation.
+
 ## Data Sources and Further Reading
 
 ### Government Sources

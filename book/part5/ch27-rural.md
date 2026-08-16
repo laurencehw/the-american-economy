@@ -327,6 +327,18 @@ The employment impact is more limited. Construction provides temporary jobs; ong
 
 The rural economy's challenges crystallize the geography-of-production framework from [Chapter 3](../part1/ch03-geography.md): agglomeration and dispersion forces are in perpetual tension, and in rural America, the dispersion forces (lower land costs, natural resource proximity) have progressively lost ground to the agglomeration forces (thick labor markets, knowledge spillovers, specialized services) that concentrate economic activity in metropolitan areas. The result is not equilibrium but cumulative divergence---as skilled workers leave, the labor markets that remain grow thinner, intensifying the monopsony dynamics analyzed in [Chapter 30](../part6/ch30-labor.md). When a rural county has one hospital, one school district, and one major employer, workers face wage-setting power that competitive labor market models fail to capture; empirical research consistently finds that rural wages fall below marginal productivity in ways consistent with monopsony, depressing both incomes and labor force participation. Finally, the cost disease framework applied to healthcare ([Chapter 6](../part2/ch06-healthcare.md)) and education ([Chapter 15](../part2/ch15-education.md)) operates with particular severity in low-density areas: a rural hospital must maintain the same emergency capabilities as an urban one but spreads fixed costs across far fewer patients, while a rural school district must offer the same curriculum with far fewer students to absorb overhead. These structurally higher per-unit costs explain why rural public services deteriorate even when per capita spending appears adequate---and why federal transfers constitute 30--40% of income in the most rural counties, reflecting not dependency but the arithmetic of providing modern services at pre-modern population densities.
 
+## Key Takeaways
+
+1. **Rural America is vast and varied**: About 46 million people (14% of the population) spread across 72% of the land---from booming energy counties to declining farm towns, defying any single narrative.
+
+2. **Agriculture employs few but anchors much**: Only about 2.6 million farm jobs remain, yet agriculture, food processing, and related sectors structure much of rural economic life.
+
+3. **Energy creates the highest-wage rural jobs---with extreme volatility**: Oil, gas, and coal booms lift regions like the Permian and Bakken, but price collapses (2014-16, 2020) devastate them, and renewables are redrawing the map.
+
+4. **The rural-urban divide is economic and political**: Lower incomes, lower educational attainment, and thinner infrastructure (broadband gaps, hospital closures) feed the geographic polarization documented in the Interlude.
+
+5. **Place-based challenges resist aggregate solutions**: Monopsony labor markets, outmigration of the young, and dependence on federal transfers mean rural prosperity depends on targeted policy, not national growth alone.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

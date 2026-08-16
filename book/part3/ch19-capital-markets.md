@@ -555,6 +555,18 @@ These markets are not self-regulating. The 2008 crisis demonstrated how intercon
 
 For the American economy, capital markets serve as the circulatory system—moving resources to their highest-valued uses, enabling risk sharing, and providing price signals that guide investment. How well they perform that function depends on market structure, regulation, and the incentives of participants.
 
+## Key Takeaways
+
+1. **American capital markets are the deepest in the world**: Roughly $51 trillion in equity market capitalization, $26 trillion in Treasury debt held by the public (2023), and $10 trillion in corporate bonds outstanding---no other country comes close.
+
+2. **Equity markets concentrate in two exchanges but fragment in trading**: NYSE and NASDAQ dominate listings, while actual trading is split across exchanges, alternative venues, and dark pools, with high-frequency firms making most markets.
+
+3. **The Treasury market is the foundation of global finance**: It is the benchmark for all other interest rates and the collateral underpinning the repo and shadow-banking systems described in Chapter 18.
+
+4. **Private markets have grown dramatically**: Private equity (about $4.7 trillion) and venture capital (about $1.2 trillion) in assets now finance a large share of corporate activity away from public exchanges.
+
+5. **Derivatives transfer risk at enormous notional scale**: About $95 trillion in listed notional value lets market makers hedge---but the same instruments can amplify shocks when leverage and confidence turn.
+
 ## Data Sources and Further Reading
 
 ### Data Sources

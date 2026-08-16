@@ -311,6 +311,18 @@ The stores deliberately avoid optimization. Costco doesn't tell you where things
 
 Costco's treatment of workers is famously generous by retail standards. Average wages exceed $28/hour; benefits are comprehensive; turnover is a fraction of industry norms. The company's co-founder, Jim Sinegal, argued that happy, productive workers more than pay for themselves. The stock market has agreed: Costco's share price has consistently outperformed competitors.
 
+## Key Takeaways
+
+1. **Retail is the economy's visible interface**: About 15.5 million workers (10% of employment) sell to consumers; add wholesale and the distribution system employs over 21 million. Margins are thin---retail typically nets 2-6%, grocery 1-2%.
+
+2. **Scale is the decisive advantage**: Walmart, Amazon, Costco, and Target together capture over $1.1 trillion in sales. Their logistics networks, purchasing leverage, and data systems are nearly impossible to replicate.
+
+3. **The online/offline distinction has evaporated**: Stores now function as fulfillment nodes; Walmart ships roughly half its online orders from stores. E-commerce is about 15-16% of retail, with Amazon holding roughly 37-38% of it.
+
+4. **Wholesale is a logistics business, not a merchandising one**: Distributors like McKesson, Cencora, and Cardinal Health move goods on 1-3% margins---competing on delivery reliability rather than product.
+
+5. **Category structures differ sharply**: Grocery is a low-margin scale game; home improvement an effective Home Depot/Lowe's duopoly; pharmacy distribution a near-oligopoly of three firms.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

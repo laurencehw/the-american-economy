@@ -435,6 +435,18 @@ The new framework prioritizes resilience over efficiency, security over cost min
 
 What's clear is that trade is no longer just economics. It has become a tool of statecraft, an instrument of industrial policy, and a fault line in domestic politics. For businesses, navigating this landscape requires attention to policy as much as markets—and the assumption that rules will continue changing.
 
+## Key Takeaways
+
+1. **The U.S. runs a persistent goods trade deficit**: In 2024 the United States traded about $5.4 trillion in goods, importing roughly $1.2 trillion more than it exported---financed by foreign purchases of American assets.
+
+2. **Much "international trade" is intrafirm**: About 43% of U.S. goods trade is related-party---companies shipping components to themselves across borders, which complicates any narrative of arm's-length competition.
+
+3. **The partner map has shifted toward neighbors**: Mexico and Canada have gained share while China's has fallen, reflecting both tariffs and nearshoring---a structural reorientation of North American supply chains.
+
+4. **Services trade runs a surplus**: The United States exports more services (finance, intellectual property, business services, travel) than it imports---a roughly $327 billion surplus (2024) that offsets part of the goods deficit.
+
+5. **Trade is governed by an institutional architecture**: Treaties (USMCA), the WTO, and enforcement mechanisms shape flows, even as that architecture has come under strain from unilateral tariff policy.
+
 ## Data Sources and Further Reading
 
 ### Data Sources

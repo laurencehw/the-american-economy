@@ -452,6 +452,18 @@ Amazon's logistics ambitions extend beyond its own packages. The company offers 
 *Technology and AI*: Autonomous vehicles, route-optimization algorithms, and logistics AI promise productivity gains but raise urgent questions about displacement of millions of driving jobs.
 {% endhint %}
 
+## Key Takeaways
+
+1. **Transportation is a $946 billion network industry**: Its value lies not in any single mode but in interconnection---a container can move from ship to rail to truck with each handoff choreographed by logistics software.
+
+2. **Trucking dominates freight**: About 44% of ton-miles and a larger share by value, because trucks offer door-to-door service. The industry is competitive with thin margins; railroads, by contrast, operate as a geographic duopoly---Union Pacific and BNSF in the West, CSX and Norfolk Southern in the East---run under precision scheduled railroading.
+
+3. **Deregulation (1978-80) transformed the sector**: Airlines, trucking, and railroads were all deregulated in rapid succession, unleashing productivity gains---and consolidation. Airlines have merged into a four-carrier oligopoly controlling roughly 70% of domestic capacity.
+
+4. **Gateways are chokepoints**: The San Pedro Bay ports handle roughly one-third of containerized imports; the LA/Long Beach complex, Memphis (FedEx), and Chicago (rail intermodal) are single points of failure whose disruption propagates nationwide.
+
+5. **Logistics is being restructured by e-commerce and Amazon**: Amazon now moves about 27% of U.S. parcel volume---more than UPS or FedEx---while industrial real estate has boomed past 17 billion square feet.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

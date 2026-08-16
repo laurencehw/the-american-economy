@@ -404,6 +404,18 @@ The contrast with commercial construction is stark. D.R. Horton achieves product
 *Technology and AI*: Modular construction, Building Information Modeling (BIM), and emerging robotics offer paths to higher productivity in a sector that has resisted efficiency gains for decades.
 {% endhint %}
 
+## Key Takeaways
+
+1. **Construction is cyclical and foundational**: About $1.2 trillion of GDP (4.4%) and 8.1 million workers build the economy's physical stock---but employment fell 30% in the 2008-09 crash and took a decade to recover.
+
+2. **The productivity puzzle is real**: Unlike manufacturing, construction has seen stagnant productivity for decades. Fragmentation (general contractors self-perform only 10-30% of work), land-use regulation, and the small-firm size distribution all contribute.
+
+3. **The workforce is distinctive and tight**: 97% male, roughly 30% foreign-born (over 50% in some trades in Texas and California), with a 10%+ unemployment rate reflecting seasonal and project-based churn rather than slack.
+
+4. **Industrial policy is driving a supercycle**: CHIPS Act fabs (Intel Ohio, TSMC Arizona, Samsung Texas, Micron New York) and IRA clean-energy projects have triggered the largest concentrated construction boom in decades.
+
+5. **Costs are rising on all fronts**: Materials spiked (lumber +300% during the pandemic), labor inflation runs 5-8% annually in hot markets, and interest rates determine project feasibility.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

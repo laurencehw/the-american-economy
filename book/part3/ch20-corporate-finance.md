@@ -569,6 +569,18 @@ The infrastructure of corporate finance—investment banks, law firms, PE firms,
 
 For the American economy, corporate finance practices shape investment patterns, employment decisions, and wealth distribution. The shift toward financial optimization and shareholder primacy—celebrated by some as disciplined capital allocation, criticized by others as extractive short-termism—is one of the defining features of contemporary American capitalism.
 
+## Key Takeaways
+
+1. **The pecking order dominates corporate financing**: Firms fund investment first from internal funds (retained earnings plus depreciation, about 76%), then debt (about 24%), with equity issuance a last resort---confirming that retained earnings, not Wall Street, build most of America.
+
+2. **Capital structure reflects industry economics**: Utilities, telecoms, and REITs run 40-60% leverage on stable cash flows and tangible collateral; technology firms run 5-15% on intangibles and high margins.
+
+3. **M&A is the highest-profile corporate-finance activity**: Roughly $2 trillion in announced deals annually, led by strategic buyers, with private equity buyouts and (post-2021, much-reduced) SPACs filling out the mix.
+
+4. **Shareholder payouts dwarf investment in some years**: S&P 500 buybacks ($795 billion) plus dividends ($590 billion) exceeded capital expenditures ($850 billion) in 2023---the empirical heart of the short-termism debate.
+
+5. **Governance mediates the separation of ownership and control**: Boards, executive pay (mostly equity-linked), shareholder activism (Elliott Management), and say-on-pay votes are the mechanisms by which dispersed owners discipline managers.
+
 ## Data Sources and Further Reading
 
 ### Data Sources

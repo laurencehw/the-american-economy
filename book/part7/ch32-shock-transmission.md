@@ -295,6 +295,18 @@ This returns us to the book's central premise: the American economy is not an ab
 
 ---
 
+## Key Takeaways
+
+1. **Shocks propagate through structure**: Input-output linkages, geographic concentration, financial balance sheets, and labor markets are the channels that turn a localized event into a national one---structure is destiny.
+
+2. **The 2014-2016 oil collapse shows geographic transmission**: A 76% price decline devastated energy regions (rig counts fell 80%, Permian unemployment doubled) while benefiting consumers elsewhere---net national effects near zero, but concentrated pain.
+
+3. **Different shocks travel different channels**: The China shock worked through product-market competition, the housing bust through household and bank balance sheets (Mian and Sufi 2014), and monetary tightening through interest-sensitive sectors---each demanding a different policy response.
+
+4. **Concentration is the root of vulnerability**: Concentrated industries, fragile supply chains, leveraged balance sheets, and low-diversity metros are precisely where shocks land hardest.
+
+5. **Policy can redirect but not eliminate shocks**: Industrial policy, trade measures, and automatic stabilizers can reshape exposure and cushion impact, but they cannot remove the volatility inherent in a dynamic economy.
+
 ## Data Sources and Further Reading
 
 ### Academic Sources

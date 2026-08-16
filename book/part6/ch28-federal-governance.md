@@ -198,6 +198,18 @@ The agency operates through five divisions: Corporation Finance (disclosure), Tr
 
 The SEC's effectiveness is perpetually debated. Critics argue its disclosure-based approach fails to prevent fraud; defenders note the agency operates with limited resources against a vast, sophisticated industry. Enforcement actions, while numerous, often result in settlements that neither admit nor deny wrongdoing.
 
+## Key Takeaways
+
+1. **Economic governance is divided among competing centers of power**: Treasury, the White House (OMB, CEA, NEC), and Congress make fiscal policy; the Federal Reserve independently makes monetary policy; dozens of regulatory agencies shape markets---a system of deliberate fragmentation.
+
+2. **Fed independence is the system's most consequential design choice**: Insulating monetary policy from electoral politics aims to anchor inflation expectations, but it places the Fed in perennial tension with elected officials.
+
+3. **The statistical infrastructure underpins everything**: BEA, BLS, and Census produce the data that markets, policymakers, and this book rely on---a public good that is cheap to take for granted and expensive to lose.
+
+4. **The budget process has atrophied**: Mandatory spending grows automatically, discretionary spending lurches through continuing resolutions, and debt-ceiling brinkmanship substitutes for regular order---even as net interest costs rival defense.
+
+5. **Recent decades expanded the administrative state's economic role**: From the CHIPS Program Office to IRA tax credits to aggressive antitrust, the federal government has moved from referee toward active participant in shaping industrial structure.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

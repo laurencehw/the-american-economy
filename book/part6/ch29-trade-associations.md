@@ -222,6 +222,18 @@ The association's strategy combines direct lobbying with broader communications.
 
 PhRMA has been largely successful at maintaining the pricing status quo, though the Inflation Reduction Act's Medicare negotiation provisions marked a significant policy shift.
 
+## Key Takeaways
+
+1. **Organized business is the economy's most persistent political actor**: Trade associations---from the Chamber of Commerce and NAM to hundreds of industry groups---aggregate firm interests into sustained lobbying, independent of any single company.
+
+2. **The Big Four business associations anchor the system**: The Chamber, NAM, the Business Roundtable, and the National Federation of Independent Business represent overlapping but distinct constituencies (broad business, manufacturers, CEOs, small firms).
+
+3. **Industry-specific associations wield technical power**: Groups like the American Petroleum Institute, PhRMA, and the American Bankers Association shape regulation through expertise as much as through spending.
+
+4. **Political spending is large but only part of influence**: Associations spend hundreds of millions per cycle, yet their deeper power lies in drafting legislation, supplying comment letters, and maintaining revolving-door relationships.
+
+5. **The policy infrastructure extends beyond lobbying**: Think tanks, legal organizations, and coordinated networks amplify business influence, making "who governs the economy" a question about institutions, not just elections.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

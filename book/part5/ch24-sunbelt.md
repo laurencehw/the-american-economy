@@ -328,6 +328,18 @@ The Sunbelt's growth exemplifies several analytical frameworks developed earlier
 
 The government sector ([Chapter 4](../part2/ch04-government.md)) plays a larger role in Sunbelt prosperity than the region's low-tax branding suggests. Military installations---Fort Liberty (formerly Bragg) in North Carolina, Fort Cavazos (formerly Hood) in Texas, MacDill in Florida, Fort Moore in Georgia---pump billions in federal payroll into local economies. The sectoral balance identity from [Chapter 2](../part1/ch02-how-it-fits.md) reveals a structural feature that Sunbelt boosters rarely acknowledge: most Sunbelt states are net recipients of federal transfers, receiving more in federal spending (military, Medicare, Social Security, agricultural subsidies) than their residents pay in federal taxes. Florida and Arizona are particularly large net beneficiaries. The Sunbelt's growth model thus depends partly on fiscal flows from the high-tax northeastern and western states whose economic models it criticizes---a dependency that the national accounts framework makes visible even when political rhetoric obscures it.
 
+## Key Takeaways
+
+1. **The Sunbelt is capturing America's growth**: The South and Southwest have absorbed the lion's share of population and economic expansion for two decades, accelerating after 2020 as remote work untethered knowledge workers from expensive coasts (Moretti 2012).
+
+2. **Growth is extensive, not intensive**: The Sunbelt adds people and jobs faster than anywhere, but per capita income (Texas $67,500, Georgia $60,000, Arizona $63,000) trails or merely matches the $70,000 national average---total GDP growth overstates living standards.
+
+3. **The regional economy is more diverse than stereotypes**: Energy remains central to Texas, but healthcare, technology, manufacturing, and logistics have grown to match it; Florida tilts to tourism and finance, Georgia to logistics and media.
+
+4. **Growth concentrates in specialized metros**: Houston (energy), Dallas (corporate HQs), Austin (technology), Miami (finance and trade), Atlanta (logistics and media), Phoenix (semiconductors)---each developing a distinct economic identity.
+
+5. **Water and heat are the long-run constraints**: The Sunbelt's growth model collides with physical limits---aquifer depletion, Colorado River shortages, and extreme heat---that no amount of migration can indefinitely override.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

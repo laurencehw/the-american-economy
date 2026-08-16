@@ -142,6 +142,18 @@ Yet the machine keeps running. The question for the coming decades is not whethe
 
 That question cannot be answered by economic analysis alone. It depends on political choices, institutional reforms, and social solidarities that lie beyond the scope of GDP statistics. Economics can illuminate the trade-offs; it cannot make the choices. Those remain the work of democratic politics in an unfinished republic.
 
+## Key Takeaways
+
+1. **The American economy is defined by its service scale, financialization, and geographic diversity**: Over 80% of GDP is services; finance is woven into daily life (30-year mortgages, 401(k)s); and distinct regional economies operate by different rules within one national market.
+
+2. **Industrial policy has returned**: The CHIPS Act and IRA mark a deliberate shift from market-neutral policy toward actively shaping where and what America produces---the most significant change in economic governance in decades.
+
+3. **Three transformations are underway simultaneously**: The return of industrial policy, the energy transition, and the intelligence economy (AI) are each reshaping the structure documented in this book.
+
+4. **Persistent tensions will define the coming decades**: Geographic divergence, cost disease in healthcare and housing, and fiscal sustainability are structural problems that growth alone does not solve.
+
+5. **The central question is distributional, not aggregative**: Whether the economy's gains are shared broadly across people and places---or concentrate further---is a political choice that economics can illuminate but not make.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

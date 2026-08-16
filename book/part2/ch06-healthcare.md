@@ -399,6 +399,18 @@ CVS exemplifies healthcare's vertical integration trend. What began as a retail 
 
 CVS's strategy bets that integrating pharmacy, insurance, and primary care can improve outcomes and reduce costs. The company is positioning its retail locations as healthcare destinations, not just pharmacies.
 
+## Key Takeaways
+
+1. **Healthcare is the largest spending category in the economy**: Nearly $4.5 trillion in 2022 (about 17% of GDP, now approaching 18%), employing 22 million people---yet it delivers mediocre outcomes relative to peer nations.
+
+2. **The three-party structure distorts incentives**: The patient receives care, the insurer pays, and the physician decides. This separation of consumption, payment, and decision-making weakens the price discipline present in normal markets.
+
+3. **No single payer dominates**: Private insurance (~30%), Medicare (~21%), Medicaid (~18%), and out-of-pocket spending (~10%) fragment the system, complicating cost control and creating coverage gaps.
+
+4. **Prices, not utilization, drive high spending**: Americans do not see the doctor dramatically more often than peers abroad; they pay far more per service, with wide geographic variation that the Dartmouth Atlas has documented.
+
+5. **Hospitals are the central cost battleground**: Hospital care alone consumes roughly 30% of health spending, and ongoing consolidation is increasing provider market power and prices.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
