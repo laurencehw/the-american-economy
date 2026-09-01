@@ -20,6 +20,8 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from . import inventory
+
 FRED = "fred"
 BLS = "bls"
 MANUAL = "manual"
@@ -69,6 +71,27 @@ class TableClaim:
     units: str = ""
     tolerance_pct: float = 2.0
     note: str = ""
+
+    def reference_year(self, repo: Path) -> int | None:
+        """The year the table's own caption declares, if any.
+
+        The comparison uses this rather than the latest available year, so the
+        report answers "is the book right for the year it claims?" before it
+        answers "how far has the number moved since?".
+        """
+        lines = (repo / self.path).read_text(encoding="utf-8").split("\n")
+        start = next(
+            (i for i, l in enumerate(lines) if l.startswith(f"**Table {self.table_number}:")),
+            None,
+        )
+        if start is None:
+            return None
+        # The year may sit in the caption or in the source line beneath the table
+        # (Table 1.3 says "Employment by Sector" and dates itself in its source).
+        source = next(
+            (l for l in lines[start:start + 40] if l.strip().lower().startswith("*source")), ""
+        )
+        return inventory.reference_year(lines[start], source)
 
     def locate(self, repo: Path) -> list[tuple[str, float, int]] | None:
         """Return [(row label, book value, line number)], or None if not found."""

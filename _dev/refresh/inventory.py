@@ -129,7 +129,7 @@ def _classify(source_text: str) -> str:
     return "unknown"
 
 
-def _reference_year(caption_title: str, source_text: str) -> int | None:
+def reference_year(caption_title: str, source_text: str = "") -> int | None:
     """Latest year mentioned in the caption, else in the source line.
 
     The caption wins because a caption year names the data's period, whereas a
@@ -194,7 +194,7 @@ def scan(book_dir: Path) -> Inventory:
                     source_text=source_text,
                     rows=end - sep - 1,
                     kind=kind,
-                    year=_reference_year(title, source_text),
+                    year=reference_year(title, source_text),
                     benchmark=bool(BENCHMARK_SOURCES.search(source_text)),
                 )
             )

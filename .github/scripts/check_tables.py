@@ -77,6 +77,10 @@ for root, dirs, files in os.walk(BOOK_DIR):
 
         for sep, end in tables(lines):
             checked += 1
+            # Counted per table found, not per caption parsed: a malformed caption
+            # would otherwise leave the counter behind and report every later table
+            # in the file as out of sequence.
+            expected_number += 1
             # The caption is the nearest non-blank line above the header row.
             k = sep - 2
             while k >= 0 and not lines[k].strip():
@@ -87,7 +91,6 @@ for root, dirs, files in os.walk(BOOK_DIR):
                 errors.append(f"  {fpath}:{sep + 1} — table has no numbered caption")
             else:
                 prefix, number = match.group(1), int(match.group(2))
-                expected_number += 1
                 if expected_prefix and prefix != expected_prefix:
                     errors.append(
                         f"  {fpath}:{k + 1} — caption says Table {prefix}.{number}, "
@@ -107,7 +110,7 @@ for root, dirs, files in os.walk(BOOK_DIR):
                     )
 
             if not any(ATTRIBUTION.match(l.strip()) for l in lines[end:end + 4]):
-                errors.append(f"  {fpath}:{end} — table has no source line")
+                errors.append(f"  {fpath}:{end + 1} — table has no source line")
 
 print(f"Checked {checked} tables.")
 

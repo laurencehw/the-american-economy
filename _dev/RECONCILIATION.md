@@ -19,18 +19,20 @@ All 189 tables parsed cleanly: caption, source line, and reference year.
 
 What the book says, against the series its source line names. `book_scale` in the registry converts the book's units to the series' units before comparing.
 
-| Claim | Book says | Year | Series | Series says | Divergence | Status |
-|-------|----------:|:----:|--------|------------:|-----------:|--------|
-| U.S. nominal GDP | 27.8 | 2023 | `GDP` | — | — | ❔ not fetched |
-| U.S. real GDP (chained 2017 dollars) | 22.4 | — | `GDPC1` | — | — | ❔ not fetched |
-| Total nonfarm payroll employment | 157 | — | `PAYEMS` | — | — | ❔ not fetched |
-| Manufacturing employment | 12.9 | 2023 | `MANEMP` | — | — | ❔ not fetched |
-| Outstanding student loan debt | 1.77 | 2024 | `SLOAS` | — | — | ❔ not fetched |
-| Union membership rate (all wage and salary workers) | 9.9% | — | `_manual_` | — | — | 🔍 manual check |
-| National health expenditure as a share of GDP | 17.6% | 2023 | `_manual_` | — | — | 🔍 manual check |
-| Manufacturing value added as a share of GDP | 10.1% | 2023 | `_manual_` | — | — | 🔍 manual check |
-| U.S. goods trade deficit | 1.2 | — | `BOPGTB` | — | — | ❔ not fetched |
-| Housing share of household consumption | 33% | — | `_manual_` | — | — | 🔍 manual check |
+The **Divergence** column compares the book against the series *for the year the book claims*, so it answers whether the figure was right as stated. The **Latest** column is the newest complete year, and is what a refresh would move the figure to.
+
+| Claim | Book says | Year | Series | Series (same yr) | Divergence | Latest | Status |
+|-------|----------:|:----:|--------|-----------------:|-----------:|-------:|--------|
+| U.S. nominal GDP | 27.8 | 2023 | `GDP` | — | — | — | ❔ not fetched |
+| U.S. real GDP (chained 2017 dollars) | 22.4 | — | `GDPC1` | — | — | — | ❔ not fetched |
+| Total nonfarm payroll employment | 157 | — | `PAYEMS` | — | — | — | ❔ not fetched |
+| Manufacturing employment | 12.9 | 2023 | `MANEMP` | — | — | — | ❔ not fetched |
+| Outstanding student loan debt | 1.77 | 2024 | `SLOAS` | — | — | — | ❔ not fetched |
+| Union membership rate (all wage and salary workers) | 9.9% | — | `_manual_` | — | — | — | 🔍 manual check |
+| National health expenditure as a share of GDP | 17.6% | 2023 | `_manual_` | — | — | — | 🔍 manual check |
+| Manufacturing value added as a share of GDP | 10.1% | 2023 | `_manual_` | — | — | — | 🔍 manual check |
+| U.S. goods trade deficit | 1.2 | — | `BOPGTB` | — | — | — | ❔ not fetched |
+| Housing share of household consumption | 33% | — | `_manual_` | — | — | — | 🔍 manual check |
 
 ### Claims needing a manual check
 
@@ -64,21 +66,23 @@ No single machine-readable series carries these. Each names where to look.
 
 BLS CES supersectors. 'Mining & Utilities' is a book-specific combination.
 
-| Row | Book says | Series | Series says | Divergence |
-|-----|----------:|--------|------------:|-----------:|
-| Education & Health Services | 25.9M | `USEHS` | — | — |
-| Government | 23.1M | `USGOVT` | — | — |
-| Professional & Business Services | 22.6M | `USPBS` | — | — |
-| Leisure & Hospitality | 16.7M | `USLAH` | — | — |
-| Retail Trade | 15.6M | `USTRADE` | — | — |
-| Manufacturing | 12.9M | `MANEMP` | — | — |
-| Financial Activities | 9.2M | `USFIRE` | — | — |
-| Construction | 8.1M | `USCONS` | — | — |
-| Transportation & Warehousing | 6.6M | `CES4300000001` | — | — |
-| Wholesale Trade | 6.1M | `USWTRADE` | — | — |
-| Other Services | 5.9M | `CES8000000001` | — | — |
-| Information | 3M | `USINFO` | — | — |
-| Mining & Utilities | 1.2M | _manual_ | — | — |
+Compared against **2023**, the year this table declares. The Latest column shows where a refresh would move each row.
+
+| Row | Book says | Series (same yr) | Divergence | Latest |
+|-----|----------:|-----------------:|-----------:|-------:|
+| Education & Health Services (`USEHS`) | 25.9M | — | — | — |
+| Government (`USGOVT`) | 23.1M | — | — | — |
+| Professional & Business Services (`USPBS`) | 22.6M | — | — | — |
+| Leisure & Hospitality (`USLAH`) | 16.7M | — | — | — |
+| Retail Trade (`USTRADE`) | 15.6M | — | — | — |
+| Manufacturing (`MANEMP`) | 12.9M | — | — | — |
+| Financial Activities (`USFIRE`) | 9.2M | — | — | — |
+| Construction (`USCONS`) | 8.1M | — | — | — |
+| Transportation & Warehousing (`CES4300000001`) | 6.6M | — | — | — |
+| Wholesale Trade (`USWTRADE`) | 6.1M | — | — | — |
+| Other Services (`CES8000000001`) | 5.9M | — | — | — |
+| Information (`USINFO`) | 3M | — | — | — |
+| Mining & Utilities (_manual_) | 1.2M | — | — | — |
 
 ## 4. Vintage audit
 

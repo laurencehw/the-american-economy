@@ -20,6 +20,8 @@ class ClaimResult:
     line: int | None
     series_year: int | None = None
     series_value: float | None = None
+    latest_year: int | None = None      # newest complete year, when it differs
+    latest_value: float | None = None
     error: str = ""
 
     @property
@@ -75,13 +77,17 @@ def reconcile_claims(repo: Path, *, offline: bool, refresh: bool) -> list[ClaimR
         if claim.provider != registry.MANUAL:
             try:
                 series = sources.fetch(claim.provider, claim.series_id, offline=offline, refresh=refresh)
-                target = year or series.latest_complete_year()
                 annual = series.annual()
+                latest = series.latest_complete_year()
+                # Compare against the year the book claims, so the report answers
+                # "is this right for its stated year?" before "has it moved since?".
+                # latest_complete_year() rather than max() so a partial current
+                # year is never used as the comparison basis.
+                target = year if year in annual else latest
                 if target in annual:
                     result.series_year, result.series_value = target, annual[target]
-                elif annual:
-                    latest = max(annual)
-                    result.series_year, result.series_value = latest, annual[latest]
+                    if latest in annual and latest != target:
+                        result.latest_year, result.latest_value = latest, annual[latest]
                 else:
                     result.error = "series returned no annual observations"
             except sources.FetchError as exc:
@@ -94,20 +100,29 @@ def reconcile_tables(repo: Path, *, offline: bool, refresh: bool) -> list[tuple[
     out = []
     for table in registry.TABLE_CLAIMS:
         located = table.locate(repo) or []
+        stated_year = table.reference_year(repo)
         rows = []
         for label, value, line in located:
             series_id = table.rows.get(label, "")
             row = {"label": label, "book": value, "line": line, "series_id": series_id,
-                   "value": None, "year": None, "error": ""}
+                   "value": None, "year": None, "latest_value": None, "latest_year": None,
+                   "error": ""}
             if not series_id:
                 row["error"] = "no single series matches this row"
             else:
                 try:
                     series = sources.fetch(table.provider, series_id, offline=offline, refresh=refresh)
                     annual = series.annual()
-                    year = series.latest_complete_year()
-                    if year in annual:
-                        row["year"], row["value"] = year, annual[year]
+                    latest = series.latest_complete_year()
+                    # The table declares a reference year; check it against that
+                    # year, not against today. A 2023 table is not wrong because
+                    # employment has moved since 2023 — it is out of date, which
+                    # the "latest" column reports separately.
+                    target = stated_year if stated_year in annual else latest
+                    if target in annual:
+                        row["year"], row["value"] = target, annual[target]
+                        if latest in annual and latest != target:
+                            row["latest_year"], row["latest_value"] = latest, annual[latest]
                     else:
                         row["error"] = "series returned no annual observations"
                 except sources.FetchError as exc:
@@ -172,8 +187,12 @@ def render(repo: Path, *, offline: bool, refresh: bool, as_of: int | None = None
     add("What the book says, against the series its source line names. `book_scale` in the "
         "registry converts the book's units to the series' units before comparing.")
     add("")
-    add("| Claim | Book says | Year | Series | Series says | Divergence | Status |")
-    add("|-------|----------:|:----:|--------|------------:|-----------:|--------|")
+    add("The **Divergence** column compares the book against the series *for the year the "
+        "book claims*, so it answers whether the figure was right as stated. The **Latest** "
+        "column is the newest complete year, and is what a refresh would move the figure to.")
+    add("")
+    add("| Claim | Book says | Year | Series | Series (same yr) | Divergence | Latest | Status |")
+    add("|-------|----------:|:----:|--------|-----------------:|-----------:|-------:|--------|")
     for result in claims:
         claim = result.claim
         series_label = claim.series_id if claim.series_id else "_manual_"
@@ -184,9 +203,11 @@ def render(repo: Path, *, offline: bool, refresh: bool, as_of: int | None = None
             "manual": "🔍 manual check", "error": "❔ not fetched",
         }[result.status]
         book_text = _fmt(result.book_value) + ("%" if claim.units == "percent" else "")
+        latest = (f"{_fmt(result.latest_value)} ({result.latest_year})"
+                  if result.latest_value is not None else "—")
         add(f"| {claim.label} | {book_text} | "
             f"{result.book_year or '—'} | `{series_label}` | {_fmt(result.series_value)} | "
-            f"{div_text} | {status} |")
+            f"{div_text} | {latest} | {status} |")
     add("")
 
     manual = [r for r in claims if r.claim.provider == registry.MANUAL]
@@ -223,8 +244,12 @@ def render(repo: Path, *, offline: bool, refresh: bool, as_of: int | None = None
         if table.note:
             add(f"{table.note}")
             add("")
-        add("| Row | Book says | Series | Series says | Divergence |")
-        add("|-----|----------:|--------|------------:|-----------:|")
+        stated = table.reference_year(repo)
+        add(f"Compared against **{stated or 'the latest complete year'}**, the year this table "
+            "declares. The Latest column shows where a refresh would move each row.")
+        add("")
+        add("| Row | Book says | Series (same yr) | Divergence | Latest |")
+        add("|-----|----------:|-----------------:|-----------:|-------:|")
         for row in rows:
             if row["value"] is not None and row["book"] is not None:
                 scaled = row["book"] * table.book_scale
@@ -232,9 +257,11 @@ def render(repo: Path, *, offline: bool, refresh: bool, as_of: int | None = None
                 div_text = f"{divergence:+.1f}%"
             else:
                 div_text = "—"
+            latest = (f"{_fmt(row['latest_value'])} ({row['latest_year']})"
+                      if row["latest_value"] is not None else "—")
             series_label = f"`{row['series_id']}`" if row["series_id"] else "_manual_"
-            add(f"| {row['label']} | {_fmt(row['book'])}M | {series_label} | "
-                f"{_fmt(row['value'])} | {div_text} |")
+            add(f"| {row['label']} ({series_label}) | {_fmt(row['book'])}M | "
+                f"{_fmt(row['value'])} | {div_text} | {latest} |")
         add("")
 
     # --- 4. Vintage audit ----------------------------------------------------

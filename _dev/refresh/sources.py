@@ -188,15 +188,24 @@ def fetch(provider: str, series_id: str, *, offline: bool = False,
           refresh: bool = False, years: int = 12) -> Series:
     """Return a series, from cache when possible.
 
-    ``offline`` never touches the network; a cached copy is returned if one
-    exists and FetchError is raised otherwise. This is the mode to use where
-    egress is blocked.
+    Three modes, in precedence order:
+
+    * ``offline`` — never touches the network. Returns a cached copy of any age
+      if one exists, and raises FetchError otherwise. Use where egress is
+      blocked.
+    * ``refresh`` — ignores the cache entirely and re-fetches.
+    * default — uses the cache while it is within ``CACHE_TTL``, else fetches.
     """
-    cached = _read_cache(provider, series_id, None if (offline or not refresh) else CACHE_TTL)
-    if cached is not None and (offline or not refresh):
-        return cached
     if offline:
+        cached = _read_cache(provider, series_id, None)
+        if cached is not None:
+            return cached
         raise FetchError(f"offline and no cached copy of {provider}:{series_id}")
+
+    if not refresh:
+        cached = _read_cache(provider, series_id, CACHE_TTL)
+        if cached is not None:
+            return cached
 
     if provider == "fred":
         series = _fetch_fred(series_id)
