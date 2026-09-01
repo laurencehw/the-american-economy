@@ -1,0 +1,19 @@
+name: Check Table Conventions
+
+on:
+  push:
+    paths:
+      - 'book/**/*.md'
+  pull_request:
+    paths:
+      - 'book/**/*.md'
+
+jobs:
+  check-tables:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check that tables are numbered and sourced
+        run: |
+          python3 .github/scripts/check_tables.py

@@ -13,7 +13,15 @@ Each sector chapter in Part II follows a consistent template:
 7. **Trade Associations and Lobbying**: How the industry organizes politically
 8. **Recent Trends**: Structural changes underway
 9. **Firm Profiles**: Brief profiles of 2-3 exemplary firms
-10. **Data Sources and Further Reading**: Where to learn more
+10. **Key Takeaways**: The five points worth carrying out of the chapter
+11. **Connections**: Where this sector meets the rest of the book
+12. **Data Sources and Further Reading**: Where to learn more
+13. **Exercises**: Review questions, data exercises, and a longer investigation
+
+Chapters outside Part II depart from the template where the subject demands
+it---the regional chapters in Part V are organized geographically, and Part III
+follows the flow of funds---but every chapter ends with Key Takeaways,
+Connections, Data Sources, and Exercises.
 
 ## Conventions
 
@@ -32,7 +40,40 @@ Industries are classified using the North American Industry Classification Syste
 
 ### Dollar Figures
 
-Unless otherwise noted, dollar figures are nominal (not adjusted for inflation) and refer to the 2022-2023 period.
+Unless otherwise noted, dollar figures are nominal (not adjusted for inflation).
+Nominal figures are the right choice for this book's main purpose, which is
+describing the economy's structure at a point in time: they show what each
+sector is actually worth in today's prices. For growth over long periods, use
+real (inflation-adjusted) figures instead---Chapter 1 explains the distinction.
+
+### Data Vintage
+
+Economic data arrives with a lag and is revised afterwards, so a book like this
+one is always describing a recent past rather than the present. The convention
+here:
+
+- **The book's reference year is 2023** for national accounts data (GDP by
+  industry, value added, employment shares), because that is the most recent
+  year for which the full BEA industry accounts and the Census business
+  statistics are simultaneously available and revised.
+- **Later data is used where it exists and matters**---firm revenues, market
+  capitalizations, energy generation, and trade flows are generally 2024,
+  and a few institutional facts are 2025.
+- **Every table states its own reference year**, either in the caption or in
+  the source line beneath it. Where a table's year differs from the chapter's
+  surrounding discussion, the table's year governs.
+
+When you need current numbers rather than structural ones, go to the source.
+Appendix A lists where each series lives and how quickly it updates.
+
+### Tables and Figures
+
+Tables are numbered by chapter (Table 14.3 is the third table in Chapter 14;
+the Interlude uses I, appendices use their letter) and each carries a source
+line. Tables that illustrate a mechanism rather than report measured data---a
+stylized bank balance sheet, for instance---say so in place of a citation.
+Figures are numbered the same way and their captions state the key point, so
+the figures can be read on their own.
 
 ### Firm Data
 
@@ -69,8 +110,10 @@ Throughout this book, you'll find interactive visualizations that let you explor
 
 The appendices provide more detail on:
 
-- Data sources and how to access them
-- How to read BEA industry tables
-- NAICS codes and what they mean
+- **Appendix A**: Data sources, how to access them, and when each series is published
+- **Appendix B**: How to read BEA industry tables, with the underlying figures
+- **Appendix C**: NAICS codes and what they mean
+- **Appendix D**: A glossary of the terms used throughout the book
+- **Appendix E**: Consolidated references
 
 These are designed for readers who want to do their own analysis or verify the numbers in the text.
