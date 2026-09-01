@@ -25,6 +25,8 @@ The sector's employment footprint is enormous relative to its economic output. F
 
 ### Key Subsectors
 
+**Table 17.1: Leisure and Hospitality Subsectors**
+
 | Subsector | Employment | Establishments | Annual Revenue |
 |-----------|-----------|----------------|----------------|
 | Restaurants and food services | 12.4 million | 1,000,000+ | $1.1 trillion |
@@ -124,6 +126,8 @@ The leisure and hospitality sector is simultaneously one of the most concentrate
 
 **Fast food and fast casual**: The segment is dominated by a small number of enormous chains.
 
+**Table 17.2: Largest U.S. Restaurant Chains**
+
 | Company | US Locations | US System Sales | Headquarters |
 |---------|-------------|----------------|--------------|
 | McDonald's | 13,400 | $53 billion | Chicago, IL |
@@ -144,6 +148,8 @@ Chick-fil-A is the outlier. With fewer than 3,000 locations (compared to McDonal
 ### Hotels
 
 The global hotel industry is dominated by five companies that together control over 40% of US rooms:
+
+**Table 17.3: Largest U.S. Hotel Companies**
 
 | Company | US Hotels | US Rooms | Revenue | Model |
 |---------|-----------|----------|---------|-------|
@@ -202,6 +208,8 @@ These seasonal economies face acute labor challenges---they need workers for fou
 ### The Largest Low-Wage Employer
 
 Leisure and hospitality is the largest low-wage employer in the American economy. The median hourly wage across the sector is $16.60---the lowest of any major industry and 60% of the all-industry median. Nearly half of all workers earning at or below the federal minimum wage work in food service.
+
+**Table 17.4: Key Leisure and Hospitality Occupations**
 
 | Occupation | Employment | Median Hourly Wage |
 |------------|-----------|-------------------|
@@ -273,6 +281,8 @@ The FDA Food Code provides a model framework for food safety that most states ad
 Destination marketing organizations (DMOs), often funded through hotel occupancy taxes, promote tourism at the city, regional, and state level. The combined spending on tourism promotion by state and local governments exceeds $2 billion annually. Brand USA, the national tourism marketing entity created in 2010, promotes inbound international travel.
 
 ## Trade Associations and Lobbying
+
+**Table 17.5: Major Hospitality Trade Associations**
 
 | Association | Members/Focus | Key Issues |
 |-------------|---------------|------------|

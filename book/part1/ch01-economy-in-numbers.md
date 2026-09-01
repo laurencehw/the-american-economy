@@ -32,7 +32,7 @@ From corner stores to corporate headquarters, the American economy comprises abo
 
 The United States remains the world's largest economy by conventional measures, though China has closed the gap dramatically:
 
-**Table 1.0: Global GDP Comparison (2023)**
+**Table 1.1: Global GDP Comparison (2023)**
 
 | Rank | Economy | GDP (2023) |
 |:----:|---------|----------:|
@@ -53,7 +53,7 @@ Where does $27.8 trillion come from? The composition defies headlines: the large
 
 ### The Composition of Output
 
-**Table 1.1: GDP by Major Industry (2023)**
+**Table 1.2: GDP by Major Industry (2023)**
 
 | Industry | Share of GDP | Value Added |
 |----------|------------:|------------:|
@@ -116,7 +116,7 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 ### Where Americans Work (2023)
 
-**Table 1.2: Employment by Sector**
+**Table 1.3: Employment by Sector**
 
 | Sector | Employment | Share |
 |--------|----------:|------:|
@@ -174,7 +174,7 @@ American business spans an enormous range of scales. At one extreme, a Fortune 5
 
 The distribution is highly skewed:
 
-**Table 1.3: Firm Size Distribution**
+**Table 1.4: Firm Size Distribution**
 
 | Firm Size | Share of Firms | Share of Employment |
 |-----------|---------------:|--------------------:|

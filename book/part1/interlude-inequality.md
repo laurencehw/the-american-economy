@@ -12,6 +12,8 @@ Understanding distribution is not a political aside---it is structural economics
 
 Median household income in the United States was $80,600 in 2023 (Census Bureau). This is the income level at which half of households earn more and half earn less. But the median conceals enormous dispersion:
 
+**Table I.1: The Household Income Distribution (2023)**
+
 | Percentile | Household Income (2023) | Context |
 |------------|------------------------|---------|
 | 10th | ~$17,000 | Below the poverty line for a family of two |
@@ -81,6 +83,8 @@ Income inequality tells only part of the story. Wealth---the accumulated stock o
 
 The Federal Reserve's Survey of Consumer Finances (SCF) provides the most comprehensive picture:
 
+**Table I.2: Wealth Concentration by Group (2022)**
+
 | Group | Share of Total Wealth (2022) | Median Net Worth |
 |-------|------------------------------|------------------|
 | Top 1% | 30% | ~$13.7 million |
@@ -112,6 +116,8 @@ Several mechanisms amplify wealth inequality beyond income inequality:
 ## The Racial Wealth Gap
 
 The most striking dimension of wealth inequality in America runs along racial lines.
+
+**Table I.3: Median Household Net Worth by Race (2022)**
 
 | Group | Median Household Net Worth (2022) |
 |-------|-----------------------------------|

@@ -54,6 +54,8 @@ The trucking industry divides into distinct segments:
 
 **Owner-Operators:** Independent truckers who own their rigs and either lease to carriers or operate under their own authority. Owner-operators make up 11-16% of the driver workforce and represent the entrepreneurial dream of trucking---and its economic precarity.
 
+**Table 12.1: Largest U.S. Trucking and Logistics Firms (2023)**
+
 | Rank | Company | 2023 Revenue | Segment |
 |------|---------|--------------|---------|
 | 1 | UPS | $100.3B | Integrated |
@@ -94,6 +96,8 @@ Only seven "Class I" railroads (those with over $500 million in annual revenue) 
 - **CSX:** Operating 20,000 route miles primarily east of the Mississippi
 - **Norfolk Southern:** Operating 19,500 route miles with a strong intermodal network
 
+**Table 12.2: The Class I Railroads (2023)**
+
 | Railroad | 2023 Revenue | Owner | Geography |
 |----------|--------------|-------|-----------|
 | Union Pacific | $24.1B | Public | Western US |
@@ -130,6 +134,8 @@ Rail's labor relations remain contentious. In 2022, a potential national rail st
 The airline industry that deregulation created in 1978 has consolidated into a stable oligopoly dominated by four carriers: American, Delta, United, and Southwest. Together they control about 70% of domestic passenger traffic.
 
 ### The Big Four
+
+**Table 12.3: The Big Four Airlines**
 
 | Airline | Domestic Share | Headquarters | Hubs |
 |---------|---------------|--------------|------|
@@ -169,6 +175,8 @@ Passenger airlines also carry significant cargo in their belly holds, but the ai
 America's seaports are the gateways for international trade. Container ports handle the manufactured goods that stock retail shelves; bulk ports move grain, coal, and petroleum.
 
 ### Major Container Ports
+
+**Table 12.4: Largest U.S. Container Ports (2023)**
 
 | Port | 2023 TEUs | Key Trade Lane |
 |------|-----------|----------------|
@@ -277,6 +285,8 @@ The late 1970s and early 1980s brought revolutionary changes to transportation r
 **Federal Maritime Commission (FMC):** Regulates ocean shipping, with new authority under the Ocean Shipping Reform Act of 2022 to address carrier practices that contributed to the port congestion crisis.
 
 ## Trade Associations and Lobbying
+
+**Table 12.5: Major Transportation Trade Associations**
 
 | Association | Membership | Focus |
 |-------------|------------|-------|

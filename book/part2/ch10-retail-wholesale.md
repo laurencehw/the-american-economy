@@ -80,6 +80,8 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 
 ### The Big Four (2024 US Sales)
 
+**Table 10.1: The Big Four Retailers (2024 U.S. Sales)**
+
 | Rank | Company | US Revenue | Market Position |
 |------|---------|------------|-----------------|
 | 1 | **Walmart** | $569B | 37% of US online grocery market |
@@ -207,6 +209,8 @@ Sunday closing laws have mostly vanished, though remnants affect car sales and a
 
 ### Major Associations
 
+**Table 10.2: Major Retail and Wholesale Associations**
+
 | Association | Focus |
 |-------------|-------|
 | **National Retail Federation (NRF)** | "Voice of retail"—lobbies on taxes, labor laws, trade policy, shrinkage |
@@ -214,6 +218,8 @@ Sunday closing laws have mostly vanished, though remnants affect car sales and a
 | **National Grocers Association (NGA)** | Independent and regional grocers |
 | **National Automobile Dealers Association (NADA)** | Auto dealers—extremely powerful at state level |
 | **Retail Industry Leaders Association (RILA)** | Large retail companies |
+
+*Source: Association public disclosures (IRS Form 990) and association websites*
 
 ### Political Influence
 

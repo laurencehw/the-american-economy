@@ -17,6 +17,8 @@ Professional services has been a major engine of employment growth since the 198
 
 ### Key Subsectors
 
+**Table 7.1: Professional Services Subsectors (2023)**
+
 | Subsector | Revenue (2023 est.) | Employment | Key Players |
 |-----------|-------------------|------------|-------------|
 | Legal services | $370 billion | 1.1 million | Kirkland & Ellis, Latham & Watkins, DLA Piper |
@@ -84,7 +86,7 @@ The US legal services market ($370 billion) is the world's largest, reflecting b
 
 **Market structure**: Highly fragmented overall (130,000+ law firms), but concentrated at the top. The AmLaw 100 (largest 100 firms by revenue) generate about 40% of total legal revenue. The AmLaw 10 alone account for nearly $30 billion.
 
-**Largest firms by revenue (2023)**:
+**Table 7.2: Largest U.S. Law Firms by Revenue (2023)**
 
 | Rank | Firm | Revenue | Lawyers | PPP* |
 |------|------|---------|---------|------|
@@ -121,7 +123,7 @@ PPP measures a law firm's profitability by dividing total partner profits by num
 
 The accounting industry is dominated by the **Big 4**: Deloitte, PwC, EY, and KPMG. These firms audit virtually all large public companies and provide tax and consulting services to corporations worldwide.
 
-**Big 4 statistics (2023)**:
+**Table 7.3: The Big Four Accounting Firms (2023)**
 
 | Firm | Global Revenue | US Revenue | US Employees |
 |------|----------------|------------|--------------|
@@ -129,6 +131,8 @@ The accounting industry is dominated by the **Big 4**: Deloitte, PwC, EY, and KP
 | PwC | $53B | $21B | 75,000 |
 | EY | $50B | $20B | 78,000 |
 | KPMG | $36B | $14B | 40,000 |
+
+*Source: Firm annual reviews (Deloitte, PwC, EY, KPMG), FY 2023*
 
 {% hint style="warning" %}
 **Too Big to Fail? The Big 4 Problem**
@@ -206,12 +210,16 @@ The advertising industry ($280 billion) creates and places marketing communicati
 
 **Market structure**: Consolidated at the top into four major holding companies:
 
+**Table 7.4: Largest Advertising and Marketing Groups**
+
 | Holding Company | Headquarters | Revenue | Major Agencies |
 |----------------|--------------|---------|----------------|
 | WPP | London | $18B | Ogilvy, Grey, GroupM |
 | Omnicom | New York | $14B | BBDO, DDB, OMD |
 | Publicis | Paris | $14B | Saatchi, Leo Burnett, Starcom |
 | IPG | New York | $11B | McCann, FCB, UM |
+
+*Source: Company annual reports, 2023*
 
 These holding companies own dozens of individual agencies, allowing them to serve competing clients through different subsidiaries.
 
@@ -230,7 +238,7 @@ A&E services ($380 billion) design buildings, infrastructure, and industrial fac
 
 **Market structure**: Highly fragmented. No firm dominates; the largest (AECOM, Jacobs) have market shares under 5%.
 
-**Largest firms (by US revenue)**:
+**Table 7.5: Largest Management Consulting Firms by U.S. Revenue**
 
 | Firm | US Revenue | Specialty |
 |------|------------|-----------|
@@ -239,6 +247,8 @@ A&E services ($380 billion) design buildings, infrastructure, and industrial fac
 | WSP | $4B | Transportation, buildings |
 | Stantec | $3B | Environmental, buildings |
 | HDR | $2.5B | Healthcare, transportation |
+
+*Source: Company disclosures and industry press estimates, 2023*
 
 **Business model**: Fee-based professional services, typically as a percentage of construction cost (5-15% depending on project complexity). Work is project-based and highly cyclical—architecture billings are a leading indicator of construction activity.
 
@@ -251,6 +261,8 @@ Professional services are among the most geographically concentrated industries 
 ### Metropolitan Concentration
 
 The top 10 metropolitan areas account for over 50% of professional services employment:
+
+**Table 7.6: Professional Services Employment by Metro Area**
 
 | Metro Area | Prof. Services Employment | Specialization |
 |------------|--------------------------|----------------|
@@ -285,6 +297,8 @@ Agglomeration economies explain the clustering:
 
 Professional services employs the most educated workforce in the economy:
 
+**Table 7.7: Professional Services Occupations and Credentials**
+
 | Occupation | Typical Education | Credential |
 |------------|------------------|------------|
 | Lawyer | J.D. (3 years post-college) | Bar admission |
@@ -292,6 +306,8 @@ Professional services employs the most educated workforce in the economy:
 | Management consultant | MBA common, not required | None required |
 | Architect | B.Arch or M.Arch | State license |
 | Engineer (PE) | B.S. Engineering | Professional Engineer license |
+
+*Source: BLS, Occupational Outlook Handbook*
 
 Credentialing creates barriers to entry that limit competition and support high wages. The bar exam, CPA exam, and architectural licensing exam all restrict supply of practitioners.
 
@@ -360,6 +376,8 @@ SOX increased audit costs substantially but arguably improved audit quality and 
 
 ### Major Associations
 
+**Table 7.8: Major Professional Services Associations**
+
 | Association | Members | Focus |
 |-------------|---------|-------|
 | American Bar Association | 400,000 lawyers | Legal profession standards, lobbying |
@@ -367,6 +385,8 @@ SOX increased audit costs substantially but arguably improved audit quality and 
 | Management Consultancies Association | Major consulting firms | Industry promotion |
 | American Institute of Architects | 98,000 architects | Licensing, building codes |
 | 4A's | Advertising agencies | Industry standards, self-regulation |
+
+*Source: Association public disclosures (IRS Form 990) and association websites*
 
 ### Political Activity
 

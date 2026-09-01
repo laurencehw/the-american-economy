@@ -104,7 +104,7 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 
 ### Major Players
 
-**Engineering and Heavy Civil**
+**Table 13.1: Engineering and Heavy Civil**
 
 | Company | Revenue | Specialty |
 |---------|---------|-----------|
@@ -116,7 +116,7 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 
 *Source: Engineering News-Record Top 400 Contractors, 2024*
 
-**Commercial Building**
+**Table 13.2: Commercial Building**
 
 | Company | Revenue | Market |
 |---------|---------|--------|
@@ -127,7 +127,7 @@ Allen (1985) identified another factor: **de-skilling**. The shift from large-sc
 
 *Source: Engineering News-Record Top 400 Contractors, 2024*
 
-**Homebuilders**
+**Table 13.3: Homebuilders**
 
 | Company | Revenue | Homes/Year |
 |---------|---------|------------|
@@ -249,12 +249,16 @@ Land-use regulation, covered in [Chapter 5](ch05-real-estate.md), is the dominan
 
 ### Major Associations
 
+**Table 13.4: Major Construction Trade Associations**
+
 | Association | Membership | Focus |
 |-------------|------------|-------|
 | **Associated General Contractors (AGC)** | 27,000+ firms | General contractors; infrastructure, commercial |
 | **National Association of Home Builders (NAHB)** | 140,000+ members | Residential builders; housing policy |
 | **Associated Builders and Contractors (ABC)** | 23,000+ members | Open-shop/merit-shop contractors |
 | **North America's Building Trades Unions (NABTU)** | 3 million workers | Union labor; prevailing wage, apprenticeship |
+
+*Source: Association public disclosures (IRS Form 990) and association websites*
 
 ### Political Dynamics
 

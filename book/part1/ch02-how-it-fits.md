@@ -20,6 +20,8 @@ An input-output table is a matrix. Each row shows what an industry sells---to ot
 
 Consider a simplified example:
 
+**Table 2.1: A Simplified Input-Output Table**
+
 |  | Agriculture | Manufacturing | Services | Final Demand | Total Output |
 |---|------------|---------------|----------|--------------|--------------|
 | **Agriculture** | 10 | 30 | 5 | 55 | 100 |
@@ -158,12 +160,16 @@ The Federal Reserve adopted Copeland's framework, creating what are now called t
 
 At any moment, the Z.1 accounts show the accumulated stocks:
 
+**Table 2.2: Sectoral Balance Sheets (Financial Accounts)**
+
 | Sector | Assets | Liabilities | Net Worth |
 |--------|--------|-------------|-----------|
 | Households | roughly $175 trillion | roughly $20 trillion | roughly $155 trillion |
 | Nonfinancial Business | roughly $55 trillion | roughly $35 trillion | roughly $20 trillion |
 | Federal Government | roughly $5 trillion | roughly $35 trillion | -$30 trillion |
 | Financial Sector | roughly $130 trillion | roughly $125 trillion | roughly $5 trillion |
+
+*Source: Federal Reserve, Financial Accounts of the United States (Z.1), 2024*
 
 Household net worth---about $155 trillion---is the most important number for financial stability. When asset prices rise, households feel wealthier and spend more (the "wealth effect"). When prices crash, as in 2008, consumption collapses.
 
@@ -255,6 +261,8 @@ Input-output tables track industry-to-industry transactions. But ultimately, the
 ### Consumer Expenditure
 
 American households spend about $18 trillion annually. The breakdown reveals priorities:
+
+**Table 2.3: Household Consumption by Category**
 
 | Category | Share | Annual Amount |
 |----------|-------|---------------|

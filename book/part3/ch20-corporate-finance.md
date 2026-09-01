@@ -49,11 +49,15 @@ Different industries have systematically different capital structures, reflectin
 | Technology | 5-15% | High margins, intangible assets |
 | Pharma/Biotech | 10-20% | R&D-intensive, uncertain cash flows |
 
+*Source: Illustrative industry medians compiled from company filings*
+
 Technology companies carry minimal debt despite having the financial capacity for more. Their intangible assets (software, patents, brand) make poor collateral, and their high profit margins generate abundant internal funds. Apple typically borrows at the tightest spreads in the market—but historically chose to maintain minimal debt until it discovered that issuing bonds to fund buybacks was more tax-efficient than repatriating overseas cash. (For technology firms, "internal funds" are often boosted by stock-based compensation: by paying employees in equity rather than cash, companies preserve liquidity, though this creates dilution that buybacks must later offset.)
 
 ### The Rise of Corporate Cash Piles
 
 Large corporations—especially technology firms—accumulated enormous cash balances in the 2010s:
+
+**Table 20.3: Largest Corporate Cash Holdings**
 
 | Company | Peak Cash Holdings | Year |
 |---------|-------------------|------|
@@ -62,6 +66,8 @@ Large corporations—especially technology firms—accumulated enormous cash bal
 | Alphabet | $140 billion | 2023 |
 | Amazon | $86 billion | 2022 |
 | Berkshire Hathaway | $325 billion | 2024 |
+
+*Source: Company annual reports (Form 10-K)*
 
 Several forces drove cash accumulation:
 
@@ -82,6 +88,8 @@ The corporate bond market totals $10 trillion outstanding, dominated by large in
 
 The largest corporate bond issuers are no longer industrial giants—they're technology companies and banks:
 
+**Table 20.4: Largest Investment-Grade Corporate Issuers**
+
 | Company | Bonds Outstanding | Credit Rating |
 |---------|-------------------|---------------|
 | Apple | $100+ billion | AA+ |
@@ -91,6 +99,8 @@ The largest corporate bond issuers are no longer industrial giants—they're tec
 | Bank of America | $180+ billion | A |
 | AT&T | $140+ billion | BBB+ |
 | Verizon | $120+ billion | BBB+ |
+
+*Source: Company annual reports (Form 10-K); ratings from S&P Global and Moody's*
 
 **The AAA Club:**
 
@@ -121,7 +131,7 @@ High-yield issuers pay significantly more—spreads of 300-500 basis points over
 
 Mergers and acquisitions represent the highest-profile activity in corporate finance. The U.S. M&A market totaled $2 trillion in announced deals in 2024, representing about 54% of global activity.
 
-**Deal Activity by Type:**
+**Table 20.5: M&A Deal Activity by Type**
 
 | Category | Share of Value | Characteristics |
 |----------|----------------|-----------------|
@@ -135,7 +145,7 @@ Mergers and acquisitions represent the highest-profile activity in corporate fin
 <figcaption>Figure 20.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv</figcaption>
 </figure>
 
-**The Largest Deals (Recent History):**
+**Table 20.6: Largest Recent M&A Deals**
 
 | Deal | Value | Year |
 |------|-------|------|
@@ -145,11 +155,13 @@ Mergers and acquisitions represent the highest-profile activity in corporate fin
 | Chevron-Hess | $53 billion | 2024 |
 | Capital One-Discover | $35 billion | 2024 |
 
+*Source: Public deal announcements and company filings*
+
 ### The Advisory Business
 
 Investment banks advise on M&A transactions, typically earning fees of 0.5-1% of deal value for large transactions (higher percentages for smaller deals).
 
-**Top M&A Advisors by Deal Value (2024):**
+**Table 20.7: Top M&A Advisors by Deal Value (2024)**
 
 | Bank | Market Position | Specialty |
 |------|-----------------|-----------|
@@ -159,7 +171,9 @@ Investment banks advise on M&A transactions, typically earning fees of 0.5-1% of
 | Centerview Partners | Top boutique | Complex situations |
 | Lazard | Top boutique | Restructuring, activism defense |
 
-**Mid-Market Specialists:**
+*Source: M&A league tables (LSEG and Dealogic), 2024*
+
+**Table 20.8: Mid-Market M&A Advisory Specialists**
 
 | Bank | Position | Focus |
 |------|----------|-------|
@@ -168,13 +182,15 @@ Investment banks advise on M&A transactions, typically earning fees of 0.5-1% of
 | William Blair | Regional leader | Private companies |
 | Harris Williams | PE specialist | PE portfolio exits |
 
+*Source: Company reports and M&A league tables, 2024*
+
 The boutique advisory firms (Centerview, Evercore, Lazard, Moelis, PJT Partners) have gained share from bulge-bracket banks by offering senior banker attention and avoiding conflicts of interest.
 
 ### The Legal Architecture
 
 Law firms are essential to deal execution, handling due diligence, contract negotiation, regulatory filings, and litigation risk.
 
-**Top M&A Law Firms:**
+**Table 20.9: Leading M&A Law Firms**
 
 | Firm | Specialty | Notable |
 |------|-----------|---------|
@@ -183,6 +199,8 @@ Law firms are essential to deal execution, handling due diligence, contract nego
 | Skadden, Arps | Public M&A | Global reach |
 | Simpson Thacher | PE, financing | Leveraged buyouts |
 | Paul, Weiss | PE, complex deals | High-stakes litigation |
+
+*Source: M&A league tables (LSEG and Dealogic), 2024*
 
 Wachtell, Lipton, Rosen & Katz occupies a unique position: a small partnership (250 lawyers) that handles the most complex and contentious public company transactions, charging premium rates and generating the highest revenue per partner in the industry.
 
@@ -202,7 +220,7 @@ PE ownership transforms corporate finance in several ways:
 
 **Management incentives**: Executives receive significant equity stakes, aligning their interests with owners.
 
-**Table 20.3: Public vs. PE-Owned Capital Structure**
+**Table 20.10: Public vs. PE-Owned Capital Structure**
 
 | Metric | Public Company | PE-Owned |
 |--------|----------------|----------|
@@ -225,7 +243,7 @@ Critics argue dividend recaps transfer risk to employees and creditors while PE 
 
 American corporate boards have evolved significantly in recent decades.
 
-**Size and Structure:**
+**Table 20.11: Private Equity: Size and Structure, 2000 vs. 2024**
 
 | Characteristic | 2000 | 2024 |
 |----------------|------|------|
@@ -234,6 +252,8 @@ American corporate boards have evolved significantly in recent decades.
 | CEO also chairman | 75% | 45% |
 | Women directors | 12% | 34% |
 | Racial/ethnic minority directors | 10% | 26% |
+
+*Source: Author's compilation from Bain & Company, Global Private Equity Report*
 
 **Key Committees:**
 
@@ -246,7 +266,7 @@ American corporate boards have evolved significantly in recent decades.
 
 CEO pay has grown dramatically relative to average worker compensation.
 
-**Table 20.4: CEO-to-Worker Pay Ratio (S&P 500)**
+**Table 20.12: CEO-to-Worker Pay Ratio (S&P 500)**
 
 | Year | Ratio | Average CEO Pay |
 |------|-------|-----------------|
@@ -262,6 +282,8 @@ CEO pay has grown dramatically relative to average worker compensation.
 
 Modern CEO pay consists primarily of equity-linked compensation:
 
+**Table 20.13: Composition of CEO Compensation**
+
 | Component | Share | Form |
 |-----------|-------|------|
 | Base salary | 8-12% | Cash |
@@ -269,6 +291,8 @@ Modern CEO pay consists primarily of equity-linked compensation:
 | Performance shares | 40-50% | Stock vesting over 3 years, tied to TSR/EPS |
 | Stock options | 15-25% | Right to buy stock at fixed price |
 | Perquisites | 2-5% | Jet, security, etc. |
+
+*Source: Company proxy statements (DEF 14A) and executive compensation surveys*
 
 **Total Shareholder Return (TSR)** has become the dominant performance metric—stock price appreciation plus dividends, often measured relative to peers. This ties CEO wealth directly to stock performance, for better or worse.
 
@@ -278,7 +302,7 @@ Modern CEO pay consists primarily of equity-linked compensation:
 
 Activist investors acquire stakes in public companies and push for changes—board seats, strategic shifts, operational improvements, or capital returns.
 
-**Major Activists:**
+**Table 20.14: Major Activist Investors**
 
 | Firm | Founder | Style | 2024 Campaigns |
 |------|---------|-------|----------------|
@@ -287,6 +311,8 @@ Activist investors acquire stakes in public companies and push for changes—boa
 | Trian Partners | Nelson Peltz | Strategic, board seats | 5 |
 | Icahn Enterprises | Carl Icahn | Confrontational | 3 |
 | Third Point | Dan Loeb | Media-savvy | 4 |
+
+*Source: Schedule 13D filings and firm disclosures*
 
 **Notable 2024 Campaigns:**
 
@@ -334,7 +360,7 @@ Chief Financial Officers face a constant capital allocation question: what to do
 3. **Pursue M&A**: Acquisitions for growth or synergies
 4. **Return capital**: Buybacks, dividends, or debt paydown
 
-**Table 20.5: S&P 500 Capital Allocation (2023)**
+**Table 20.15: S&P 500 Capital Allocation (2023)**
 
 | Use of Funds | Amount | Share |
 |--------------|--------|-------|
@@ -371,7 +397,7 @@ Critics argue buybacks represent short-termism—returning cash rather than inve
 
 Fortune 500 headquarters cluster in a few metropolitan areas:
 
-**Table 20.6: Fortune 500 Headquarters by Metro (2024)**
+**Table 20.16: Fortune 500 Headquarters by Metro (2024)**
 
 | Metro Area | Fortune 500 HQs | Major Companies |
 |------------|-----------------|-----------------|
@@ -382,6 +408,8 @@ Fortune 500 headquarters cluster in a few metropolitan areas:
 | San Francisco Bay | 20 | Apple, Alphabet, Chevron |
 | Atlanta | 17 | Home Depot, UPS, Coca-Cola |
 | Minneapolis | 16 | Target, UnitedHealth, 3M |
+
+*Source: Fortune 500 list, 2024*
 
 **Recent Shifts:**
 
@@ -414,6 +442,8 @@ Traditional bank lending to corporations has declined as a share of financing, r
 
 Private credit assets under management have grown from $500 billion in 2015 to over $1.7 trillion in 2024. Major players include:
 
+**Table 20.17: Largest Private Credit Managers**
+
 | Firm | Private Credit AUM | Parent/Affiliate |
 |------|-------------------|------------------|
 | Ares Management | $240 billion | Standalone |
@@ -421,6 +451,8 @@ Private credit assets under management have grown from $500 billion in 2015 to o
 | Blackstone Credit | $300+ billion | Blackstone |
 | Blue Owl | $150 billion | Standalone |
 | KKR Credit | $100+ billion | KKR |
+
+*Source: Company reports and disclosures, 2024*
 
 Private credit offers borrowers flexibility (looser covenants, faster execution) and lenders higher yields than public markets. But the rapid growth raises concerns about credit quality in untested conditions.
 
@@ -442,7 +474,7 @@ The surviving conglomerates typically share characteristics: disciplined capital
 
 The opposite trend is also underway: corporations spinning off divisions to create "pure-play" companies.
 
-**Recent Breakups:**
+**Table 20.18: Recent Corporate Breakups**
 
 | Parent | Spinoff | Year | Rationale |
 |--------|---------|------|-----------|
@@ -450,6 +482,8 @@ The opposite trend is also underway: corporations spinning off divisions to crea
 | GE | Vernova, Aerospace | 2023-24 | End of conglomerate model |
 | 3M | Solventum (healthcare) | 2024 | Focus remaining business |
 | Kellanova | WK Kellogg (cereal) | 2023 | Snacks vs. cereal strategies |
+
+*Source: Company announcements and filings*
 
 The theory: focused companies can be valued more precisely, managed more effectively, and compensated more appropriately. The sum of the parts exceeds the whole.
 

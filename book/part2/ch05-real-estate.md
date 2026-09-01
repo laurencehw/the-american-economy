@@ -89,7 +89,7 @@ Homebuilding has consolidated dramatically. The 2008 crash wiped out smaller bui
 - **Market Concentration:** The top 10 homebuilders now control approximately **45% of new home sales**, up from 27% two decades ago.
 - **Business Model:** Large builders function like manufacturing operations, not craftsmen. They buy land years in advance, developing "land pipelines" that ensure steady production. They use standardized floor plans, bulk purchasing, and vertical integration (some own mortgage and title companies) to minimize costs.
 
-**Major Homebuilders (2024)**
+**Table 5.1: Major Homebuilders (2024)**
 
 | Rank | Company | Revenue | Homes Closed | Headquarters |
 |------|---------|---------|--------------|--------------|
@@ -225,6 +225,8 @@ The Fair Housing Act of 1968 prohibits discrimination in housing based on race, 
 Real estate is among the most politically active sectors in America. Property rights and development rules are decided at every level of government, making lobbying essential.
 
 ### Major Trade Associations
+
+**Table 5.2: Major Real Estate Trade Associations**
 
 | Association | Members | Focus |
 |-------------|---------|-------|

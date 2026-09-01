@@ -221,6 +221,8 @@ The Federal Reserve System produces financial and monetary data.
 
 Knowing when data arrives---and how much it is revised---is essential for interpreting economic statistics in real time.
 
+**Table A.1: Publication Calendar for Key U.S. Economic Data**
+
 | Release | Frequency | Typical Timing | Lag | Revision Magnitude |
 |---------|-----------|---------------|-----|-------------------|
 | Employment Situation (BLS) | Monthly | First Friday of month | ~5 days | ±30,000-100,000 jobs in annual benchmark |
@@ -235,6 +237,8 @@ Knowing when data arrives---and how much it is revised---is essential for interp
 | State GDP (BEA) | Quarterly | ~6 months lag | 180 days | Substantial revisions possible |
 | Economic Census (Census) | Every 5 years | 2-3 years after reference year | 2-3 years | Benchmark data; not revised |
 | Census of Agriculture (USDA) | Every 5 years | ~2 years after reference year | 2 years | Benchmark data |
+
+*Source: Compiled from BEA, BLS, Census Bureau, and Federal Reserve release schedules*
 
 ### Revision Caveats
 

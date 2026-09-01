@@ -78,6 +78,8 @@ Food processing varies by category. Meat packing has consolidated into an oligop
 
 The largest American manufacturers by revenue (excluding pure energy companies):
 
+**Table 9.1: Largest U.S. Manufacturers (2023)**
+
 | Company | Sector | 2023 Revenue | Notes |
 |---------|--------|--------------|-------|
 | Apple | Electronics | $383B | Design in US, manufacturing contracted to Asia |

@@ -10,7 +10,7 @@ The region's industrial legacy shapes everything else. The Great Lakes provided 
 
 Population tells the story of transition. Illinois has declined from 12.8 million in 2019 to 12.7 million in 2024---a modest loss that nonetheless signals stagnation in what was once America's most dynamic industrial region. Ohio has stabilized at 11.9 million after decades of decline. Michigan, at 10.1 million, has finally stopped shrinking. The hemorrhaging has slowed, but growth remains elusive.
 
-**Regional Economic Overview (2024)**
+**Table 25.1: Regional Economic Overview (2024)**
 
 | State | GDP | Manufacturing Share | Population Trend |
 |-------|-----|---------------------|------------------|
@@ -143,7 +143,7 @@ The city's moderate costs---substantially below Chicago, Columbus, or the Twin C
 
 The "Rust Belt to recovery" narrative has shifted from hope to reality---at least in selected locations. Federal industrial policy has directed enormous investment into the region.
 
-**Major Industrial Policy Investments:**
+**Table 25.2: Major Industrial Policy Investments**
 
 | Company | Location | Investment | Product |
 |---------|----------|------------|---------|
@@ -194,7 +194,7 @@ Corporate agriculture has transformed the business model. Family farms persist a
 
 The Midwest's demographic trajectory presents its greatest long-term challenge. The region is aging; young people continue leaving for the coasts and the Sunbelt; without international immigration, populations would decline outright.
 
-**Net Domestic Migration (2020-2024)**
+**Table 25.3: Net Domestic Migration (2020-2024)**
 
 | State | Net Migration |
 |-------|---------------|

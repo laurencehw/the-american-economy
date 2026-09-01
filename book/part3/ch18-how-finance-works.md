@@ -23,6 +23,8 @@ The first insight is that not all money is equal. Money exists in a hierarchy, w
 
 At the top sits currency—physical dollars issued by the Federal Reserve. If you hold a $100 bill, no one owes you anything. It is money, full stop. But currency is a tiny fraction of the monetary system:
 
+**Table 18.1: Forms of Money in the United States (2024)**
+
 | Form | Amount (2024) |
 |------|---------------|
 | Currency in circulation | $2.3 trillion |
@@ -36,6 +38,8 @@ Most dollars aren't physical. They're entries on balance sheets.
 **Level 2: Reserves (Bank Deposits at the Fed)**
 
 Banks don't settle with each other using currency. They settle using reserves—deposits at the Federal Reserve. When JPMorgan owes Bank of America $1 billion, JPMorgan's reserve account at the Fed is debited and BofA's is credited. No trucks of cash move.
+
+**Table 18.2: Federal Reserve Balances Through the Policy Cycle**
 
 | Period | Reserve Balances |
 |--------|------------------|
@@ -52,6 +56,8 @@ The explosion of reserves after 2008 reflects quantitative easing—the Fed buyi
 
 What households and firms call "money" is mostly bank deposits—entries on bank balance sheets representing the bank's promise to pay currency or transfer reserves on demand.
 
+**Table 18.3: Bank Deposits by Type (2024)**
+
 | Type | Amount (2024) |
 |------|---------------|
 | Checkable deposits | $5 trillion |
@@ -66,6 +72,8 @@ Deposits are promises to pay currency/reserves. They're not currency itself. Thi
 **Level 4: Shadow Money (Private Promises)**
 
 Below bank deposits sits a vast layer of money-like claims issued by non-banks:
+
+**Table 18.4: Money Market Instruments**
 
 | Instrument | Amount | Issuer |
 |------------|--------|--------|
@@ -102,10 +110,14 @@ The traditional "money multiplier" story—where banks lend out existing deposit
 
 When a bank makes a loan, it doesn't lend out existing deposits. It creates a new deposit:
 
+**Table 18.5: A Bank Balance Sheet After Making a Loan**
+
 | Bank Balance Sheet (After Loan) | |
 |---------------------------------|--|
 | **Assets** | **Liabilities** |
 | +$100,000 Loan | +$100,000 Deposit |
+
+*Source: Author's schematic*
 
 The borrower now has $100,000 in their account that didn't exist before. The bank created it by keystroke.
 
@@ -123,12 +135,16 @@ This is *endogenous money*: the money supply responds to demand for credit, not 
 
 ### A Simplified Bank Balance Sheet
 
+**Table 18.6: A Simplified Bank Balance Sheet**
+
 | Assets | % | Liabilities | % |
 |--------|---|-------------|---|
 | Cash and reserves | 10% | Deposits | 80% |
 | Securities (Treasuries, MBS) | 25% | Wholesale funding | 10% |
 | Loans | 60% | Equity capital | 10% |
 | Other | 5% | |
+
+*Source: Author's schematic. Proportions approximate FDIC aggregate industry balance sheet shares*
 
 **Assets**: What the bank owns or is owed. Reserves are highly liquid but earn little. Securities are moderately liquid and can be sold or pledged as collateral. Loans are illiquid but higher-yielding.
 
@@ -158,12 +174,16 @@ Money exists to be spent. The payments system is the infrastructure through whic
 
 Fedwire is the Federal Reserve's real-time gross settlement (RTGS) system. Every payment settles individually, in real time, in central bank money.
 
+**Table 18.7: Fedwire Funds Service at a Glance**
+
 | Metric | Value |
 |--------|-------|
 | Daily payments | $4 trillion |
 | Daily transactions | 500,000 |
 | Average payment | $8 million |
 | Operating hours | 22 hours/day |
+
+*Source: Federal Reserve, Fedwire Funds Service annual statistics, 2024*
 
 Fedwire handles wholesale payments: bank-to-bank transfers, Treasury securities settlement, large corporate transactions. Once a Fedwire payment settles, it cannot be reversed—the recipient has final, unconditional money.
 
@@ -173,11 +193,15 @@ Banks often need to make payments before receiving offsetting inflows. The Fed e
 
 The Clearing House Interbank Payments System (CHIPS) is a private alternative owned by large banks:
 
+**Table 18.8: CHIPS at a Glance**
+
 | Metric | Value |
 |--------|-------|
 | Daily payments | $1.8 trillion |
 | Daily transactions | 400,000 |
 | Primary use | Cross-border dollar payments, FX settlement |
+
+*Source: The Clearing House, CHIPS volume statistics, 2024*
 
 Unlike Fedwire, CHIPS uses *netting*: payments accumulate during the day, and only net balances settle (in reserves via Fedwire) at day's end. This economizes on reserves—$1.8 trillion in gross payments might net to $50 billion in actual reserve movements.
 
@@ -185,11 +209,15 @@ Unlike Fedwire, CHIPS uses *netting*: payments accumulate during the day, and on
 
 A common confusion: SWIFT is not a payment system. SWIFT (Society for Worldwide Interbank Financial Telecommunication) is a messaging network—it tells banks what to do but doesn't move money.
 
+**Table 18.9: Payment Messaging vs. Settlement**
+
 | System | Function | What Moves |
 |--------|----------|------------|
 | SWIFT | Messaging | Information |
 | Fedwire | Settlement | Reserves |
 | CHIPS | Clearing + Settlement | Net reserve balances |
+
+*Source: Author's schematic*
 
 When Russia was excluded from SWIFT in 2022, it couldn't receive payment instructions through the standard network—but the underlying dollar clearing infrastructure remained unchanged. The real chokepoint is access to Fedwire and correspondent banking relationships, not the messaging layer.
 
@@ -201,11 +229,15 @@ The Automated Clearing House (ACH) handles smaller, less time-sensitive payments
 - Government benefits (Social Security, IRS refunds)
 - Consumer transfers (Venmo and Zelle use ACH rails)
 
+**Table 18.10: The ACH Network at a Glance**
+
 | Metric | Value |
 |--------|-------|
 | Annual volume | $80 trillion |
 | Annual transactions | 30 billion |
 | Average payment | $2,600 |
+
+*Source: Nacha, ACH Network volume statistics, 2024*
 
 ACH is slow by design—payments traditionally took 1-2 business days to settle. The Fed's FedNow (launched 2023) brings real-time retail payments to the US, finally catching up with systems in the UK, India, and elsewhere.
 
@@ -223,6 +255,8 @@ Shadow banking is credit intermediation outside the traditional banking system. 
 
 Pozsar et al. (2010) defined shadow banking as "credit intermediation involving entities and activities outside the regular banking system." The key characteristics:
 
+**Table 18.11: Traditional Banking vs. Shadow Banking**
+
 | Traditional Banking | Shadow Banking |
 |--------------------|----------------|
 | Deposit insurance (FDIC) | No equivalent |
@@ -230,6 +264,8 @@ Pozsar et al. (2010) defined shadow banking as "credit intermediation involving 
 | Reserve requirements | None |
 | Regulatory capital standards | Limited or none |
 | Regular examination | Minimal oversight |
+
+*Source: Author's schematic*
 
 Shadow banks perform the same economic function as banks—maturity transformation, credit transformation, liquidity creation—but without the regulatory infrastructure that makes traditional banking stable.
 
@@ -249,11 +285,15 @@ A repurchase agreement (repo) is effectively a short-term collateralized loan:
 
 Repo funds the securities holdings of broker-dealers, hedge funds, and other institutions. When haircuts spike—as they did in 2008—the effect is equivalent to a massive margin call across the entire system.
 
+**Table 18.12: Repo Haircuts Before and During the Crisis**
+
 | Collateral Type | Typical Haircut (2006) | Haircut (Crisis Peak 2008) |
 |-----------------|------------------------|---------------------------|
 | Treasury bonds | 2% | 2% |
 | Agency MBS | 2-4% | 5-10% |
 | AAA ABS/CDO | 3-5% | 50-100% (or no bid) |
+
+*Source: Gorton and Metrick, "Securitized Banking and the Run on Repo," Journal of Financial Economics (2012)*
 
 A haircut increase from 5% to 50% means an institution needs 10x more equity to hold the same position. This forced massive deleveraging.
 
@@ -301,11 +341,15 @@ Banks actively traded reserves in the federal funds market. Daily volume exceede
 
 Quantitative easing flooded the system with reserves. With $3+ trillion in reserves, banks don't need to borrow from each other. The federal funds market shrank.
 
+**Table 18.13: Monetary Policy Implementation: Corridor vs. Floor**
+
 | | Pre-2008 | Post-2008 |
 |--|----------|-----------|
 | Reserve balances | $15-50 billion | $2-4 trillion |
 | Fed funds volume | $150+ billion/day | $50-80 billion/day |
 | System | Corridor (scarce reserves) | Floor (abundant reserves) |
+
+*Source: Author's summary of Federal Reserve monetary policy implementation frameworks*
 
 The Fed now uses a floor system:
 
@@ -353,11 +397,15 @@ The mechanism creates a vicious feedback loop. Small shocks get amplified throug
 
 Bank lending is strongly procyclical. The Fed's Senior Loan Officer Survey shows:
 
+**Table 18.14: Procyclical Lending Standards**
+
 | Measure | Boom | Recession |
 |---------|------|-----------|
 | Standards tightening | -20% (easing) | +60% (tightening) |
 | Demand increasing | +30% | -40% |
 | Spreads | Narrow | Wide |
+
+*Source: Illustrative. Patterns drawn from the Federal Reserve's Senior Loan Officer Opinion Survey*
 
 In booms, banks compete by easing terms: lower down payments, fewer covenants, lower spreads. In recessions, banks tighten dramatically: raising standards, cutting credit lines, demanding more collateral.
 
@@ -455,11 +503,15 @@ Bank regulation aims to prevent failures, protect depositors, and ensure credit 
 
 Basel III requires banks to hold capital buffers against losses:
 
+**Table 18.15: Bank Capital Requirements**
+
 | Requirement | Minimum | With Buffers |
 |-------------|---------|--------------|
 | Common Equity Tier 1 (CET1) | 4.5% | 7.0%+ |
 | Total Capital | 8.0% | 10.5%+ |
 | Leverage Ratio | 3.0% | 5.0% (US) |
+
+*Source: Federal Reserve, Regulation Q, implementing the Basel III capital framework*
 
 Different assets require different amounts of capital. Cash and Treasuries carry 0% risk weight. Residential mortgages carry 50%. Corporate loans carry 100%. This encourages banks to hold "safe" assets—though March 2023 revealed that long-duration Treasuries and agency MBS can sink a bank through interest rate risk even with zero credit risk.
 
@@ -475,6 +527,8 @@ Annual stress tests assess whether banks can survive hypothetical crises. The Fe
 
 ### The Regulatory Alphabet
 
+**Table 18.16: U.S. Financial Regulators and Their Jurisdictions**
+
 | Agency | Jurisdiction |
 |--------|--------------|
 | Federal Reserve | Bank holding companies, state member banks, systemic supervision |
@@ -483,6 +537,8 @@ Annual stress tests assess whether banks can survive hypothetical crises. The Fe
 | SEC | Securities firms, investment funds |
 | CFPB | Consumer financial products |
 | State regulators | Insurance companies, state-chartered banks |
+
+*Source: Author's compilation from agency authorizing statutes*
 
 This fragmented structure reflects historical accidents more than rational design. The 2008 crisis exposed gaps—no one supervised AIG's Financial Products unit adequately—but consolidation has proven politically impossible.
 

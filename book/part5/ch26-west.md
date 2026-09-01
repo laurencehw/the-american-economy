@@ -18,7 +18,7 @@ The American West---the Pacific Coast states plus the Mountain West---represents
 
 California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds the entire output of the United Kingdom. The state leads the nation in manufacturing (by value), agriculture, entertainment, and technology. One in eight Americans lives in California; one in seven dollars of American output is produced there.
 
-**California's Scale (2024)**
+**Table 26.1: California's Scale (2024)**
 
 | Metric | Value | National Rank |
 |--------|-------|---------------|
@@ -178,7 +178,7 @@ Las Vegas faces acute water constraints. The Southern Nevada Water Authority has
 
 The West's economic success has created its most severe challenge: housing costs that threaten the regional economic model.
 
-**Housing Cost Comparison (2024)**
+**Table 26.2: Housing Cost Comparison (2024)**
 
 | Metro | Median Home Price | Median Household Income | Price/Income Ratio |
 |-------|-------------------|------------------------|-------------------|

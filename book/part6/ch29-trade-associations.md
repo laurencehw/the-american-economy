@@ -65,7 +65,7 @@ NFIB has increasingly turned to litigation, filing lawsuits challenging regulati
 
 While the Big Four represent business generally, industry-specific associations often outspend them on issues affecting their sectors.
 
-**Major Industry Associations (2024)**
+**Table 29.1: Major Industry Associations (2024)**
 
 | Association | Industry | Lobbying Spending | Membership |
 |-------------|----------|-------------------|------------|
@@ -157,7 +157,7 @@ Trade associations have become one channel for this spending. A company contribu
 
 Think tanks provide the intellectual framework that makes lobbying effective. A policy proposal with academic imprimatur and detailed analysis commands more attention than naked advocacy.
 
-**Major Think Tanks**
+**Table 29.2: Major Think Tanks**
 
 | Organization | Orientation | Budget (2024) |
 |--------------|-------------|---------------|

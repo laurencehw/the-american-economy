@@ -291,6 +291,8 @@ Retirement systems diverge similarly. The U.S. relies heavily on employer-sponso
 
 **Table: Institutional Comparison—U.S. vs. Key Trading Partners**
 
+**Table 21.7: Institutional Comparison: U.S. vs. Key Trading Partners**
+
 | Dimension | United States | Germany | Japan | United Kingdom |
 |-----------|--------------|---------|-------|----------------|
 | **Employment protection** | At-will (minimal) | Strong; 1–7 months notice, works councils | Very strong; abusive dismissal doctrine | Moderate; 1–12 weeks notice, redundancy pay |

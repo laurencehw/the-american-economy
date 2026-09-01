@@ -30,6 +30,8 @@ Healthcare spending has outpaced economic growth for decades. In 1960, healthcar
 
 The healthcare sector divides into several distinct segments, each with its own business logic:
 
+**Table 6.1: National Health Expenditure by Subsector (2022)**
+
 | Subsector | Spending (2022) | Share |
 |-----------|----------------|-------|
 | Hospital care | $1.35 trillion | 30% |
@@ -160,6 +162,8 @@ The hospital sector includes roughly 6,100 hospitals in the United States:
 
 Hospital markets have consolidated significantly over the past two decades. The largest health systems now operate dozens or hundreds of hospitals across multiple states.
 
+**Table 6.2: Largest Hospital Systems**
+
 | System | Hospitals | Beds | Revenue | Headquarters |
 |--------|-----------|------|---------|--------------|
 | HCA Healthcare | 182 | 47,000 | $60B | Nashville, TN |
@@ -264,6 +268,8 @@ Healthcare and social assistance employs about 22 million workers, divided rough
 
 ### Key Occupations
 
+**Table 6.3: Key Healthcare Occupations**
+
 | Occupation | Employment | Median Wage |
 |------------|------------|-------------|
 | Registered nurses | 3.1 million | $81,000 |
@@ -309,6 +315,8 @@ Healthcare employs workers across the wage spectrum, from low-wage home health a
 ## Trade Associations and Lobbying
 
 Healthcare is one of the most heavily lobbied industries in America. Major trade associations include:
+
+**Table 6.4: Major Healthcare Trade Associations**
 
 | Association | Represents | Focus |
 |-------------|------------|-------|

@@ -110,7 +110,7 @@ The divergence between rural and metropolitan America has accelerated across mul
 
 Since the 2008 financial crisis, metropolitan areas have captured over 90% of net new job growth. Rural recovery has been slower and less complete.
 
-**Key Metrics (2024):**
+**Table 27.1: Key Metrics (2024)**
 
 | Measure | Rural | Urban |
 |---------|-------|-------|

@@ -33,7 +33,7 @@ The sector has consolidated dramatically since the 1990s. Deregulation (the Gram
 
 Banks perform **maturity transformation**: they borrow short (deposits that can be withdrawn on demand) and lend long (30-year mortgages, multi-year business loans). This is socially valuable---it funds long-term investment while providing liquidity to savers---but inherently fragile.
 
-**The bank balance sheet:**
+**Table 8.1: A Stylized Commercial Bank Balance Sheet**
 
 | Assets | Liabilities |
 |--------|-------------|
@@ -41,6 +41,8 @@ Banks perform **maturity transformation**: they borrow short (deposits that can 
 | Securities: 20% | Wholesale funding: 10% |
 | Loans: 65% | Equity capital: 10% |
 | Other: 5% | |
+
+*Source: Author's schematic. Proportions approximate FDIC aggregate industry balance sheet shares*
 
 Banks make money on the **net interest margin (NIM)**---the spread between what they earn on loans and what they pay on deposits. Historical NIM for US banks has declined from 4-4.5% in the 1990s to 2.5-3.5% today, reflecting lower interest rates, competition from fintech, and regulation requiring more liquid (low-yield) assets. For a deeper explanation of how banks actually create money and how the payment system works, see [Chapter 18](../part3/ch18-how-finance-works.md).
 
@@ -78,7 +80,7 @@ Beyond traditional banks, a parallel system of credit intermediation operates wi
 
 The US banking system is simultaneously concentrated and fragmented:
 
-**The Big Four** (by total assets, 2024):
+**Table 8.2: Largest U.S. Commercial Banks**
 
 | Rank | Bank | Total Assets | Deposits | US Branches |
 |------|------|--------------|----------|-------------|
@@ -105,6 +107,8 @@ Community banks hold only 12% of industry assets but operate 30% of branches and
 
 Investment banking is dominated by a handful of global firms:
 
+**Table 8.3: Largest U.S. Investment Banks (2023)**
+
 | Rank | Firm | 2023 Revenue | Primary Business |
 |------|------|--------------|------------------|
 | 1 | JPMorgan | $50B (IB segment) | Full service |
@@ -113,11 +117,13 @@ Investment banking is dominated by a handful of global firms:
 | 4 | Bank of America | $22B (IB segment) | Underwriting, advisory |
 | 5 | Citigroup | $20B (IB segment) | Global markets |
 
+*Source: Company annual reports (Form 10-K), 2023*
+
 The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of America, Citi) dominates M&A advisory, securities underwriting, and institutional trading. Boutique advisory firms (Evercore, Lazard, Centerview, PJT) have gained share in M&A but lack the capital markets capabilities of the giants.
 
 ### Insurance: Three Distinct Markets
 
-**Life Insurance** ($900 billion in premiums):
+**Table 8.4: Largest U.S. Life Insurers ($900 billion in premiums)**
 
 | Rank | Company | Premiums | Business Focus |
 |------|---------|----------|----------------|
@@ -127,7 +133,9 @@ The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of Amer
 | 4 | Northwestern Mutual | $33B | Mutual, wealth management |
 | 5 | Lincoln Financial | $18B | Annuities, life |
 
-**Property & Casualty Insurance** ($800 billion in premiums):
+*Source: National Association of Insurance Commissioners and AM Best premium data, 2023*
+
+**Table 8.5: Largest U.S. Property and Casualty Insurers ($800 billion in premiums)**
 
 | Rank | Company | Premiums | Business Focus |
 |------|---------|----------|----------------|
@@ -137,7 +145,9 @@ The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of Amer
 | 4 | Allstate | $55B | Auto, home |
 | 5 | Liberty Mutual | $50B | Commercial, personal |
 
-**Health Insurance** ($1.3 trillion in premiums):
+*Source: National Association of Insurance Commissioners and AM Best premium data, 2023*
+
+**Table 8.6: Largest U.S. Health Insurers ($1.3 trillion in premiums)**
 
 | Rank | Company | Premiums | Enrollment |
 |------|---------|----------|------------|
@@ -158,6 +168,8 @@ Health insurance is increasingly dominated by vertically integrated conglomerate
 
 Asset management has been transformed by the shift from active to passive (index) investing:
 
+**Table 8.7: Largest Traditional Asset Managers**
+
 | Rank | Firm | AUM | Business Model |
 |------|------|-----|----------------|
 | 1 | BlackRock | $10.0T | Index funds, ETFs, active |
@@ -166,6 +178,8 @@ Asset management has been transformed by the shift from active to passive (index
 | 4 | State Street | $4.1T | ETFs (SPDRs), institutional |
 | 5 | Capital Group | $2.5T | Active (American Funds) |
 
+*Source: Company reports and disclosures, 2024*
+
 The "Big Three" (BlackRock, Vanguard, State Street) collectively manage $23 trillion and are the largest shareholders in most S&P 500 companies. This concentration raises governance questions: these firms vote the shares they manage, giving them enormous influence over corporate decisions.
 
 <figure>
@@ -173,7 +187,7 @@ The "Big Three" (BlackRock, Vanguard, State Street) collectively manage $23 tril
 <figcaption>Figure 8.4: Largest U.S. asset managers by assets under management. BlackRock and Vanguard together manage nearly $20 trillion—more than the GDP of every country except the U.S. and China. Source: Company reports, Pensions & Investments (2024)</figcaption>
 </figure>
 
-**Alternative asset managers** (private equity, hedge funds, real estate):
+**Table 8.8: Largest Alternative Asset Managers**
 
 | Rank | Firm | AUM | Primary Strategy |
 |------|------|-----|------------------|
@@ -182,6 +196,8 @@ The "Big Three" (BlackRock, Vanguard, State Street) collectively manage $23 tril
 | 3 | KKR | $550B | Private equity, infrastructure |
 | 4 | Carlyle | $420B | Private equity, credit |
 | 5 | Bridgewater | $125B | Hedge fund (macro) |
+
+*Source: Company reports and disclosures, 2024*
 
 Private equity has grown from a niche strategy to a major force, with implications across the economy. PE firms own companies employing millions of workers, from hospital systems to retail chains to single-family rental homes.
 
@@ -257,6 +273,8 @@ Charlotte's rise reflects deliberate strategy: North Carolina's banking laws wer
 
 Banking presence varies dramatically by state:
 
+**Table 8.9: States with the Highest Finance Concentration**
+
 | High Concentration | Finance % of State GDP |
 |--------------------|----------------------|
 | New York | 19% |
@@ -264,17 +282,25 @@ Banking presence varies dramatically by state:
 | Connecticut | 11% |
 | South Dakota | 9% (credit card banks) |
 
+*Source: BEA, GDP by State (finance and insurance value added), 2023*
+
+**Table 8.10: States with the Lowest Finance Concentration**
+
 | Low Concentration | Finance % of State GDP |
 |-------------------|----------------------|
 | Wyoming | 3% |
 | Montana | 3% |
 | West Virginia | 4% |
 
+*Source: BEA, GDP by State (finance and insurance value added), 2023*
+
 Delaware and South Dakota host major credit card operations due to favorable usury laws (no interest rate caps), illustrating how state regulation shapes financial geography.
 
 ## The Workforce
 
 ### Employment by Segment
+
+**Table 8.11: Finance and Insurance Employment by Segment**
 
 | Segment | Employment | Avg Wage | Trend |
 |---------|------------|----------|-------|
@@ -283,6 +309,8 @@ Delaware and South Dakota host major credit card operations due to favorable usu
 | Insurance agencies | 1.1 million | $60,000 | Growing |
 | Securities/commodities | 950,000 | $180,000 | Growing |
 | Other finance | 1.0 million | $90,000 | Growing |
+
+*Source: BLS, Quarterly Census of Employment and Wages and Occupational Employment and Wage Statistics, 2023*
 
 ### Occupational Mix
 
@@ -372,6 +400,8 @@ The 2008 crisis revealed that some institutions are "too big to fail"---their fa
 
 ### Major Trade Associations
 
+**Table 8.12: Major Financial Trade Associations**
+
 | Association | Members | Focus |
 |-------------|---------|-------|
 | American Bankers Association | Banks of all sizes | Banking industry interests |
@@ -380,6 +410,8 @@ The 2008 crisis revealed that some institutions are "too big to fail"---their fa
 | SIFMA | Securities firms | Capital markets |
 | American Council of Life Insurers | Life insurers | Life/annuity industry |
 | American Property Casualty Insurance | P&C insurers | Property/casualty |
+
+*Source: Association public disclosures (IRS Form 990) and OpenSecrets lobbying data*
 
 ### Lobbying Activity
 

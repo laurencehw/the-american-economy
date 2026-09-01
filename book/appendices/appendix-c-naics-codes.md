@@ -4,6 +4,8 @@ The North American Industry Classification System (NAICS) is the standard framew
 
 ## Two-Digit NAICS Sectors
 
+**Table C.1: Two-Digit NAICS Sectors and Corresponding Chapters**
+
 | Code | Sector | Book Chapter |
 |------|--------|--------------|
 | 11 | Agriculture, Forestry, Fishing and Hunting | Ch. 25 (Rural America) |
@@ -27,9 +29,13 @@ The North American Industry Classification System (NAICS) is the standard framew
 | 81 | Other Services (except Public Administration) | Various |
 | 92 | Public Administration | Ch. 4 (Government) |
 
+*Source: Census Bureau, North American Industry Classification System (NAICS) 2022*
+
 ## Key Three-Digit Subsectors
 
 ### Manufacturing (31-33)
+
+**Table C.2: NAICS Manufacturing Subsectors (31-33)**
 
 | Code | Subsector | Notable Products |
 |------|-----------|------------------|
@@ -51,7 +57,11 @@ The North American Industry Classification System (NAICS) is the standard framew
 | 337 | Furniture and Related Products | Household furniture |
 | 339 | Miscellaneous Manufacturing | Medical devices, toys |
 
+*Source: Census Bureau, North American Industry Classification System (NAICS) 2022*
+
 ### Information (51)
+
+**Table C.3: NAICS Information Subsectors (51)**
 
 | Code | Subsector | Key Industries |
 |------|-----------|----------------|
@@ -62,7 +72,11 @@ The North American Industry Classification System (NAICS) is the standard framew
 | 518 | Data Processing, Hosting | Cloud computing, data centers |
 | 519 | Other Information Services | Search engines, portals |
 
+*Source: Census Bureau, North American Industry Classification System (NAICS) 2022*
+
 ### Finance and Insurance (52)
+
+**Table C.4: NAICS Finance and Insurance Subsectors (52)**
 
 | Code | Subsector | Key Industries |
 |------|-----------|----------------|
@@ -72,7 +86,11 @@ The North American Industry Classification System (NAICS) is the standard framew
 | 524 | Insurance Carriers and Related | Life, health, P&C insurance |
 | 525 | Funds, Trusts, Financial Vehicles | Pension funds, REITs |
 
+*Source: Census Bureau, North American Industry Classification System (NAICS) 2022*
+
 ### Professional Services (54)
+
+**Table C.5: NAICS Professional Services Subsectors (54)**
 
 | Code | Subsector | Key Industries |
 |------|-----------|----------------|
@@ -86,7 +104,11 @@ The North American Industry Classification System (NAICS) is the standard framew
 | 5417 | Scientific Research | R&D services |
 | 5418 | Advertising, PR | Ad agencies, PR firms |
 
+*Source: Census Bureau, North American Industry Classification System (NAICS) 2022*
+
 ### Healthcare (62)
+
+**Table C.6: NAICS Health Care Subsectors (62)**
 
 | Code | Subsector | Key Industries |
 |------|-----------|----------------|
@@ -95,7 +117,11 @@ The North American Industry Classification System (NAICS) is the standard framew
 | 623 | Nursing and Residential Care | Nursing homes, assisted living |
 | 624 | Social Assistance | Child care, social services |
 
+*Source: Census Bureau, North American Industry Classification System (NAICS) 2022*
+
 ### Transportation (48-49)
+
+**Table C.7: NAICS Transportation Subsectors (48-49)**
 
 | Code | Subsector | Key Industries |
 |------|-----------|----------------|
@@ -110,6 +136,8 @@ The North American Industry Classification System (NAICS) is the standard framew
 | 491 | Postal Service | USPS |
 | 492 | Couriers and Messengers | FedEx, UPS |
 | 493 | Warehousing and Storage | Logistics facilities |
+
+*Source: Census Bureau, North American Industry Classification System (NAICS) 2022*
 
 ## NAICS vs. SIC
 
@@ -138,6 +166,8 @@ When comparing data across time, check whether NAICS codes remained consistent o
 
 ### Data Sources by NAICS
 
+**Table C.8: Data Sources by NAICS Level**
+
 | Source | Geographic Detail | Time Frequency |
 |--------|------------------|----------------|
 | BEA GDP by Industry | National | Annual |
@@ -146,6 +176,8 @@ When comparing data across time, check whether NAICS codes remained consistent o
 | BLS OES | Metro, State | Annual |
 | Census CBP | County | Annual |
 | Census Economic Census | County | 5-year |
+
+*Source: Author's compilation from agency documentation*
 
 ### Common Pitfalls
 

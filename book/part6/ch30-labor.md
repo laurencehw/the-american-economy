@@ -6,7 +6,7 @@ In September 2023, the United Auto Workers launched a strike against all three D
 
 Union membership has declined for decades, from 35% of private-sector workers in the 1950s to under 6% today. The total union membership rate---including public sector workers, where unions remain strong---stands at 9.9%, representing 14.3 million workers.
 
-**Union Membership Trends**
+**Table 30.1: Union Membership Trends**
 
 | Year | Total Rate | Private Sector | Public Sector |
 |------|-----------|----------------|---------------|
@@ -346,7 +346,7 @@ The American labor force includes 29 million foreign-born workers---about 18% of
 
 Foreign-born workers are overrepresented at both ends of the skill spectrum. They account for a disproportionate share of workers with less than a high school education (agriculture, construction labor, food preparation) and also a disproportionate share of workers with advanced degrees (medicine, engineering, computer science, academic research).
 
-**Foreign-Born Workers by Industry (2024)**
+**Table 30.2: Foreign-Born Workers by Industry (2024)**
 
 | Industry | Foreign-Born Share |
 |----------|-------------------|
@@ -439,7 +439,7 @@ Paid eldercare faces the same structural problems as childcare: the work is phys
 
 The connection between care infrastructure and labor supply is not speculative. International evidence is clear: countries that invest in subsidized childcare and parental leave have higher female labor force participation rates.
 
-**Female Labor Force Participation in Selected Countries (2023)**
+**Table 30.3: Female Labor Force Participation in Selected Countries (2023)**
 
 | Country | Rate | Public Childcare Spending (% of GDP) |
 |---------|------|--------------------------------------|

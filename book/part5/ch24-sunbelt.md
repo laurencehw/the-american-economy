@@ -10,7 +10,7 @@ The shift accelerated after 2020. Remote work untethered millions of knowledge w
 
 The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents---growing from 29.0 million to 31.3 million. Florida added 1.8 million, growing from 21.5 million to 23.3 million. Together, these two states gained more people than the 30 slowest-growing states combined. Meanwhile, the coastal giants told a more complicated story than the headlines suggested. California essentially flatlined (39.4 million in both 2019 and 2024), losing residents to domestic migration while international immigration held its population steady. New York shed roughly 400,000 residents between 2020 and 2022---the pandemic exodus---but rebounded to 20.0 million by 2024, half a million above its 2019 level. Illinois was roughly flat. The Sunbelt's gains came less from the collapse of the coasts than from a sustained reallocation of domestic migration toward cheaper, warmer metro areas.
 
-**Growth Differentials (2023-2024)**
+**Table 24.1: Sunbelt vs. National Growth Differentials (2023-2024)**
 
 | Region | Population Growth | GDP Growth |
 |--------|-------------------|------------|
@@ -168,7 +168,7 @@ For decades, the Sunbelt offered a distinctive arbitrage: coastal-quality wages 
 
 Between 2020 and 2024, home prices in Austin increased 60%. Phoenix, Tampa, and Dallas saw increases of 40-50%. The "affordability advantage" that drew middle-class families from California and New York has diminished significantly.
 
-**Housing Price Growth 2020-2024**
+**Table 24.2: Housing Price Growth 2020-2024**
 
 | Metro | Price Increase |
 |-------|---------------|

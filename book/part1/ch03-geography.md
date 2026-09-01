@@ -8,6 +8,8 @@ This concentration determines policy, politics, and opportunity. Where you live 
 
 ### Economic Giants
 
+**Table 3.1: The Largest State Economies (2023)**
+
 | State | GDP (2023) | Share of U.S. | Population |
 |-------|-----------|---------------|------------|
 | California | $3.83 trillion | 13.8% | 39.0 million |
@@ -79,6 +81,8 @@ Economic activity concentrates in metropolitan areas---urban cores plus surround
 {% endhint %}
 
 At the top, concentration is extreme:
+
+**Table 3.2: The Largest Metropolitan Economies (2023)**
 
 | Metro Area | GDP (2023) | Notable Industries |
 |------------|-----------|-------------------|
