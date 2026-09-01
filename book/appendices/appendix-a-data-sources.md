@@ -254,7 +254,7 @@ Most monthly and quarterly series are published in both seasonally adjusted (SA)
 
 2. **Understand Seasonal Adjustment**: Most monthly/quarterly data is seasonally adjusted. Use adjusted figures for trend analysis, unadjusted for specific period comparisons.
 
-3. **Note Geographic Coverage**: Some series cover all establishments; others sample. The CES survey covers ~145,000 businesses; the QCEW covers 95%+ of all jobs. Sampling error increases at detailed geographic and industry levels.
+3. **Note Geographic Coverage**: Some series cover all establishments; others sample. The CES survey samples roughly 119,000 businesses covering about 629,000 worksites; the QCEW is a census rather than a sample and covers 95%+ of all jobs. Sampling error increases at detailed geographic and industry levels.
 
 4. **Mind NAICS Changes**: The NAICS classification system is revised every 5 years. Historical comparisons may require concordances. The 2022 revision significantly reclassified parts of information and retail.
 

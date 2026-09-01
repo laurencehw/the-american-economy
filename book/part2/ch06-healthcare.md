@@ -2,7 +2,7 @@
 
 An MRI of your knee costs $3,000 in the United States. The same scan, on the same machine, costs $300 in Japan. That tenfold price gap for an identical service captures everything strange about American healthcare.
 
-Americans spend more on healthcare than on anything else except housing: nearly $4.5 trillion in 2022, or 17% of GDP. More than 22 million people work in healthcare and social assistance, making it the largest private-sector employer in the country. By any measure, this is the largest healthcare system in the world.
+Americans spend more on healthcare than on anything else except housing: $4.5 trillion in 2022, or 17.3% of GDP, rising to $4.9 trillion and 17.6% of GDP in 2023. More than 22 million people work in healthcare and social assistance, making it the largest private-sector employer in the country. By any measure, this is the largest healthcare system in the world.
 
 Yet the money does not buy better outcomes. Americans die younger than citizens of peer countries. Infant mortality runs higher. Chronic disease runs rampant. The dollars flow through a byzantine maze of hospitals, insurers, pharmaceutical companies, and physician practices---each extracting value, each adding complexity.
 
@@ -24,7 +24,7 @@ In healthcare, the person receiving care (patient) differs from the person payin
 - **Share of total employment**: 14%
 - **Establishments**: Over 900,000 healthcare establishments
 
-Healthcare spending has outpaced economic growth for decades. In 1960, healthcare claimed just 5% of GDP; by 1980, 9%; by 2000, 13%; today, nearly 18%. An aging population, technological advances, rising incomes, and perverse payment incentives all fuel this growth.
+Healthcare spending has outpaced economic growth for decades. In 1960, healthcare claimed 5.0% of GDP; by 1980, 8.9%; by 2000, 13.3%; by 2023, 17.6%. An aging population, technological advances, rising incomes, and perverse payment incentives all fuel this growth.
 
 ### Key Subsectors
 
@@ -409,7 +409,7 @@ CVS's strategy bets that integrating pharmacy, insurance, and primary care can i
 
 ## Key Takeaways
 
-1. **Healthcare is the largest spending category in the economy**: Nearly $4.5 trillion in 2022 (about 17% of GDP, now approaching 18%), employing 22 million people---yet it delivers mediocre outcomes relative to peer nations.
+1. **Healthcare is the largest spending category in the economy**: $4.9 trillion in 2023 (17.6% of GDP), employing 22 million people---yet it delivers mediocre outcomes relative to peer nations.
 
 2. **The three-party structure distorts incentives**: The patient receives care, the insurer pays, and the physician decides. This separation of consumption, payment, and decision-making weakens the price discipline present in normal markets.
 
@@ -443,7 +443,7 @@ CVS's strategy bets that integrating pharmacy, insurance, and primary care can i
 
 2. Explain the "three-party problem" in healthcare: the patient receives care, the insurer pays, and the physician decides treatment. How does this separation break normal price signals? Compare this to a market where the consumer both chooses and pays for a service (e.g., a restaurant meal). What specific distortions does the three-party structure create?
 
-3. Healthcare spending has grown from 5% of GDP in 1960 to nearly 18% today. The chapter identifies four drivers: an aging population, technological advances, rising incomes, and perverse payment incentives. Which of these drivers is most amenable to policy intervention? Which is least? Explain your reasoning.
+3. Healthcare spending has grown from 5.0% of GDP in 1960 to 17.6% in 2023. The chapter identifies four drivers: an aging population, technological advances, rising incomes, and perverse payment incentives. Which of these drivers is most amenable to policy intervention? Which is least? Explain your reasoning.
 
 4. The three largest Pharmacy Benefit Managers---CVS Caremark, Express Scripts (Cigna), and OptumRx (UnitedHealth)---control about 80% of the market. What role do PBMs play between drug manufacturers, insurers, and pharmacies? Why has this level of concentration drawn antitrust and regulatory scrutiny?
 

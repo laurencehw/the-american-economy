@@ -228,13 +228,13 @@ When you hear that GDP grew 2.5% last year, that number comes from BEA.
 
 The BLS, part of the Labor Department, measures employment, unemployment, wages, and prices. Key products include:
 
-- **Current Employment Statistics (CES)**: The monthly jobs report that moves markets, based on a survey of 670,000 establishments
+- **Current Employment Statistics (CES)**: The monthly jobs report that moves markets, based on a survey of roughly 119,000 businesses covering about 629,000 individual worksites
 - **Current Population Survey (CPS)**: The source of the unemployment rate, based on a household survey
 
 {% hint style="success" %}
 **Deep Dive: Why Economic Data Gets Revised**
 
-The BLS publishes employment data 3 weeks after each month ends. How? Surveys. The initial estimate samples 670,000 establishments. Over subsequent months, more responses arrive and benchmarks are applied. The "final" number may differ from the initial release by 100,000+ jobs. Markets react to the first number, but researchers should use revised data.
+The BLS publishes employment data 3 weeks after each month ends. How? Surveys. The initial estimate samples roughly 119,000 businesses covering about 629,000 worksites. Over subsequent months, more responses arrive and benchmarks are applied. The "final" number may differ from the initial release by 100,000+ jobs. Markets react to the first number, but researchers should use revised data.
 {% endhint %}
 - **Consumer Price Index (CPI)**: The main measure of inflation
 - **Occupational Employment Statistics (OES)**: Detailed wage and employment data by occupation
