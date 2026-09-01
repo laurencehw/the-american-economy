@@ -34,6 +34,10 @@ _Updated September 2026. Aligned with `REVIEW.md` (10-point scale)._
 - ✅ `how-to-use.md` conventions corrected; explicit data-vintage policy adopted
 - ✅ Interactive visualizations stamped with data vintage
 - ✅ `.github/ISSUE_TEMPLATE/` added (the README had promised it)
+- ✅ `_dev/refresh_data.py` built: table inventory, claim registry, FRED/BLS fetchers,
+  reconciliation report, 16 tests, CI registry check
+- ✅ Fixed a false positive in the table source check — the substring `author` matched
+  "Port Authorities", exempting ten tables that had no source line
 
 ---
 
@@ -44,30 +48,41 @@ and it is late 2026. The vintage policy adopted this session makes that honest b
 does not make it current, and a living textbook cannot stay three years behind its
 own sources.
 
-### 1. Build `_dev/refresh_data.py` (do this first)
+### 1. ✅ `_dev/refresh_data.py` is built
 
-Every table in the book now names its own source series and reference year. That makes
-the refresh enumerable rather than a manual audit — which was much of the point of the
-table work. Build the script before doing any manual updating.
+Done. See `_dev/README.md` for usage. `--check` runs in CI on every push touching
+`book/`, so the registry cannot silently drift from the manuscript.
 
-The script should:
+**Run it with network access first.** It was written in an environment that blocks
+egress to fred.stlouisfed.org, api.bls.gov and apps.bea.gov, so the comparison columns
+in the current `RECONCILIATION.md` are empty:
 
-1. Parse `book/**/*.md` for `**Table N.M: ...**` captions and the `*Source: ...*` line
-   beneath each, producing an inventory of (table, series, stated year).
-2. Pull the corresponding series from the BEA, BLS, and FRED APIs for the tables backed
-   by government data (roughly 110 of the 189; the rest are firm-level or schematic).
-3. Emit a reconciliation report: for each table, what the book says vs. what the series
-   now says, flagged by magnitude of divergence.
-4. Leave the editing to a human — the goal is a reviewable diff, not automated prose
-   rewriting.
+```bash
+python3 _dev/refresh_data.py --report
+```
 
-Estimated effort: one session. Payoff: converts the annual currency problem from a
-crisis into a chore.
+That populates the headline-claim and sector-table comparisons. The vintage audit and
+worklist in the report are already complete — they come from the manuscript, not the
+network.
 
-### 2. Roll the national accounts anchor
+**Expect some series IDs to be wrong.** They are asserted from memory, not verified
+against FRED. A wrong ID produces a named fetch failure in the report's "Series not
+retrieved" section rather than passing silently as agreement, so the first online run
+doubles as a validation pass on the registry. Fix any failures in
+`_dev/refresh/registry.py` and re-run.
 
-Once the reconciliation report exists, move the book's anchor year from 2023 to the
-most recent fully revised year. Order of operations:
+### 2. Give the 24 undated tables a reference year
+
+`RECONCILIATION.md` §4 names them. A table that states no year cannot be checked by
+this tool or trusted by a reader, and it blocks everything downstream. Mostly Ch 19–20
+(capital markets and corporate finance) and the Ch 7–14 association tables. Cheap work:
+open each, establish what year the figures are, and put it in the caption.
+
+### 3. Roll the national accounts anchor
+
+Move the book's anchor year from 2023 to the most recent fully revised year. The report
+counts 56 tables in the anchor group and 75 tables three years old or more. Order of
+operations:
 
 1. **Ch 1, Ch 3, Appendix B** and `book/_interactive/data/economic-data.json` — these
    define the aggregates every other chapter references. Do them together and in one
@@ -86,7 +101,7 @@ Re-run `check_tables.py` after each stage; update each caption's stated year as 
 
 ## Tier 2: Attribution and Precision (9.2 → 9.4)
 
-### 3. In-text attribution for contested claims
+### 4. In-text attribution for contested claims
 
 Appendix E is a good bibliography, but the text rarely points to it. Attach a source to
 the 50–80 claims that are research-derived or contested rather than definitional — the
@@ -98,7 +113,7 @@ Start with the chapters making the strongest empirical claims: Ch 9 (China shock
 Interlude (mobility, top income shares), Ch 14 (LCOE, transition costs), Ch 30
 (monopsony, immigration wage effects).
 
-### 4. Hedging pass
+### 5. Hedging pass
 
 "Roughly" appears 302 times, 61 in Ch 14 alone. Replace it with the precise figure
 wherever an official series exists; keep it where the estimate is genuinely approximate
@@ -109,23 +124,23 @@ its hedges to signal real uncertainty, not as filler.
 
 ## Tier 3: Remaining Coverage (9.4 → 9.5)
 
-### 5. Arts, entertainment, and recreation
+### 6. Arts, entertainment, and recreation
 Fold into an expanded Ch 17 rather than adding a standalone chapter. Hollywood, music,
 professional sports, and gaming are economically significant and analytically
 interesting — winner-take-all dynamics and extreme geographic concentration in
 LA/Nashville/NYC. The glossary already defines winner-take-all markets.
 
-### 6. Early childhood education and care
+### 7. Early childhood education and care
 Ch 15 runs K-12 through graduate school and barely mentions pre-K. The economics —
 market failure, subsidy structure, wage suppression in care work — connect directly to
 Ch 30's childcare and labor force participation section, which already gestures at it.
 
-### 7. Ch 11 platform economics
+### 8. Ch 11 platform economics
 The thinnest analytical treatment among the large sector chapters relative to the
 sector's importance. Two-sided market pricing, the attention economy's measurement
 problems, and the antitrust theories actually being litigated.
 
-### 8. Appendix C depth
+### 9. Appendix C depth
 NAICS coverage is uneven: manufacturing gets 17 subsectors, healthcare 4. Add 4-digit
 codes for finance, professional services, and information, and add guidance on
 classifying platform companies — the question a student is most likely to actually
@@ -135,8 +150,12 @@ have.
 
 ## Recommended Order for the Next Session
 
-1. Build `refresh_data.py` and generate the first reconciliation report.
-2. Read the report and fix whatever it flags as materially wrong — that is a data
-   audit, and it takes precedence over the anchor roll.
-3. Roll the anchor for Ch 1 / Ch 3 / Appendix B / interactive JSON in one commit.
-4. If time remains, start the in-text attribution pass on Ch 9 and the Interlude.
+1. Run `python3 _dev/refresh_data.py --report` somewhere with network access. Fix any
+   series IDs that fail to fetch, and re-run until the registry is clean.
+2. Act on whatever the report flags as materially diverged — that is the data audit,
+   and it takes precedence over the anchor roll.
+3. Check the four manual claims (report §2): CMS health share, BEA manufacturing share,
+   BLS union rate, CEX housing share. The last is already known to be wrong — the book
+   says 33%, the April 2026 audit put it at 32.9%.
+4. Give the 24 undated tables a reference year.
+5. Roll the anchor for Ch 1 / Ch 3 / Appendix B / interactive JSON in one commit.
