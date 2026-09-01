@@ -158,6 +158,16 @@ That question cannot be answered by economic analysis alone. It depends on polit
 
 5. **The central question is distributional, not aggregative**: Whether the economy's gains are shared broadly across people and places---or concentrate further---is a political choice that economics can illuminate but not make.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 1 (The American Economy in Numbers)](../part1/ch01-economy-in-numbers.md) is the statistical portrait this chapter interprets.
+- [Chapter 32 (How Shocks Move Through the Economy)](ch32-shock-transmission.md) provides the analytical machinery for the vulnerabilities identified here.
+- [the Interlude on inequality](../part1/interlude-inequality.md) supplies the distributional evidence behind the 'vibecession' discussion.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) covers the AI transformation this chapter identifies as one of three simultaneous transitions.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the energy transition, the second of the three.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

@@ -331,6 +331,16 @@ The West also demonstrates how wealth effects propagate through the housing mark
 
 5. **Water is the West's binding limit**: The Colorado River serves 40 million people but runs structurally over-allocated; Lake Mead and Powell hover near historic lows, forcing the growth model to confront physical reality.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) explains the technology sector that dominates California's output.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) covers the housing economics behind the region's affordability crisis.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the water constraint and the electricity system this chapter treats as existential.
+- [Chapter 16 (Agriculture)](../part2/ch16-agriculture.md) explains Central Valley agriculture, the largest agricultural economy in the country.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers immigration, which supplies a larger share of this region's workforce than any other.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

@@ -352,6 +352,16 @@ Deere has sparked controversy over its equipment software policies, with farmers
 
 5. **Concentration varies from duopoly to fragmentation**: Commercial aerospace is essentially a Boeing-Airbus duopoly; food processing is an oligopoly in meatpacking; much of the rest is competitive.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) follows manufacturing inputs across borders, where the reshoring debate is actually settled.
+- [Chapter 21 (Trade)](../part4/ch21-trade.md) covers the trade policy---tariffs, the China shock, industrial policy---that shapes this sector.
+- [Chapter 25 (The Midwest)](../part5/ch25-midwest.md) is where the employment losses and the battery-belt gains are geographically concentrated.
+- [Chapter 14 (Energy)](ch14-energy.md) supplies the energy costs that determine where energy-intensive manufacturing locates.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) traces what the loss of union manufacturing jobs did to the wage structure.
+
 ## Data Sources and Further Reading
 
 ### Government Sources

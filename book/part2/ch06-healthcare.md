@@ -419,6 +419,16 @@ CVS's strategy bets that integrating pharmacy, insurance, and primary care can i
 
 5. **Hospitals are the central cost battleground**: Hospital care alone consumes roughly 30% of health spending, and ongoing consolidation is increasing provider market power and prices.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 4 (Government)](ch04-government.md) funds nearly half of this spending through Medicare, Medicaid, and the tax exclusion for employer coverage.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers the healthcare workforce shortages and the wage structure of the largest employing sector.
+- [Chapter 8 (Finance and Insurance)](ch08-finance-insurance.md) explains health insurers as financial institutions---underwriters managing risk pools and float.
+- [Chapter 15 (Education)](ch15-education.md) produces the clinical workforce, and shares healthcare's exposure to Baumol's cost disease.
+- [Chapter 27 (Rural America)](../part5/ch27-rural.md) documents rural hospital closures, the sharpest geographic expression of this system's economics.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

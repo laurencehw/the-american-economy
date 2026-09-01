@@ -541,6 +541,16 @@ The firm also advises governments: BlackRock helped the Fed design its corporate
 
 5. **Finance is large in reach but modest in direct output**: Though it touches every transaction in the economy, the sector accounts for only about 7.5% of GDP---its importance lies in intermediation, not measured value added.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 18 (How American Finance Works)](../part3/ch18-how-finance-works.md) explains the monetary mechanics underneath this chapter's institutional map---what banks actually do when they lend.
+- [Chapter 19 (Capital Markets)](../part3/ch19-capital-markets.md) covers the markets these institutions trade in.
+- [Chapter 5 (Real Estate)](ch05-real-estate.md) is the collateral: mortgages and commercial real estate dominate bank loan books.
+- [Chapter 28 (Federal Economic Governance)](../part6/ch28-federal-governance.md) describes the fragmented regulatory structure that supervises the firms profiled here.
+- [the Interlude on inequality](../part1/interlude-inequality.md) connects finance's wage premium to top-end income concentration.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

@@ -220,6 +220,16 @@ As you read the sector chapters in Part II, watch for how each industry's struct
 
 6. **Distribution is structural, not incidental.** Sector, geography, financial access, and institutional rules determine who benefits from economic growth. Understanding the economy requires understanding its distributional outcomes.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) supplies the labor-market mechanisms---union decline, monopsony, occupational licensing---behind the wage distribution described here.
+- [Chapter 19 (Capital Markets)](../part3/ch19-capital-markets.md) explains how capital income, which dominates top-end incomes, is actually generated.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) connects wealth concentration to housing, the single largest asset for most households and the main channel of the racial wealth gap.
+- [Chapter 15 (Education)](../part2/ch15-education.md) examines education as the conventional remedy for inequality, and the debt that now accompanies it.
+- [Chapter 3 (The Geography of Production)](ch03-geography.md) maps the geographic dimension of the divergence traced here.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

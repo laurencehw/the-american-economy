@@ -473,6 +473,16 @@ Taken together, the nonprofit sector represents a distinctive feature of America
 
 5. **The budget process has degraded**: Continuing resolutions, debt-ceiling brinkmanship, and the absence of regular appropriations have replaced orderly fiscal decision-making, even as scorekeepers (CBO, GAO, OMB) continue to track the numbers.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 28 (Federal Economic Governance)](../part6/ch28-federal-governance.md) looks inside the federal apparatus this chapter sizes, at how policy is actually made.
+- [Chapter 6 (Healthcare)](ch06-healthcare.md) is where the largest share of federal spending goes: Medicare and Medicaid dominate the budget tables here.
+- [Chapter 27 (Rural America)](../part5/ch27-rural.md) shows what federal transfers mean in places where they are the largest single income source.
+- [Chapter 29 (Trade Associations)](../part6/ch29-trade-associations.md) describes the organized interests that shape the spending and regulation catalogued here.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers public-sector unions, which now account for the majority of remaining union membership.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

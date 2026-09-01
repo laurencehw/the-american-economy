@@ -472,6 +472,16 @@ The company's challenges remain significant. Content costs continue rising. Comp
 
 5. **Streaming transformed media economics**: The shift from bundled cable to direct-to-consumer streaming has fragmented audiences, exploded content spending, and forced consolidation.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 19 (Capital Markets)](../part3/ch19-capital-markets.md) covers the venture capital and public markets that finance this sector.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) examines what AI and automation do to the labor market beyond the tech sector itself.
+- [Chapter 3 (The Geography of Production)](../part1/ch03-geography.md) explains the agglomeration economics behind extreme tech clustering.
+- [Chapter 26 (The West)](../part5/ch26-west.md) is where that clustering happens, and what it does to housing costs and local politics.
+- [Chapter 29 (Trade Associations)](../part6/ch29-trade-associations.md) describes how platform firms organize politically around antitrust and content regulation.
+
 ## Data Sources and Further Reading
 
 ### Government Sources

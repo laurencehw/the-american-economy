@@ -340,6 +340,16 @@ The government sector ([Chapter 4](../part2/ch04-government.md)) plays a larger 
 
 5. **Water and heat are the long-run constraints**: The Sunbelt's growth model collides with physical limits---aquifer depletion, Colorado River shortages, and extreme heat---that no amount of migration can indefinitely override.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 23 (The Northeast Corridor)](ch23-northeast.md) is the region losing population and firms to the Sunbelt.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) explains the housing dynamics that both drove and now threaten the cost advantage.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the water and grid constraints that Texas and Arizona growth runs into.
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) and Chapter 22 cover the battery and semiconductor investments reshaping the region.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) explains the right-to-work regime behind the Sunbelt's labor cost advantage.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

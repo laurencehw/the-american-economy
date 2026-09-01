@@ -307,6 +307,16 @@ This returns us to the book's central premise: the American economy is not an ab
 
 5. **Policy can redirect but not eliminate shocks**: Industrial policy, trade measures, and automatic stabilizers can reshape exposure and cushion impact, but they cannot remove the volatility inherent in a dynamic economy.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 2 (How It All Fits Together)](../part1/ch02-how-it-fits.md) supplies the input-output framework this chapter applies.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) provides the background on the oil sector for the 2014-16 case study.
+- [Chapter 18 (How American Finance Works)](../part3/ch18-how-finance-works.md) explains the credit channel, one of the four transmission mechanisms used here.
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) is the case study for supply-side shock propagation.
+- [Chapter 31 (The American Economy in Perspective)](ch31-perspective.md) draws out what this analysis implies about the economy's future vulnerabilities.
+
 ## Data Sources and Further Reading
 
 ### Academic Sources

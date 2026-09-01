@@ -573,6 +573,16 @@ For the American economy, capital markets serve as the circulatory system—movi
 
 5. **Derivatives transfer risk at enormous notional scale**: About $95 trillion in listed notional value lets market makers hedge---but the same instruments can amplify shocks when leverage and confidence turn.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 20 (Corporate Finance)](ch20-corporate-finance.md) is the issuer's side of these markets: how firms actually decide to raise capital.
+- [Chapter 18 (How American Finance Works)](ch18-how-finance-works.md) explains the monetary system underneath the Treasury and repo markets described here.
+- [the Interlude on inequality](../part1/interlude-inequality.md) connects capital income to the top of the income distribution.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) is where venture capital concentrates, and why.
+- [Chapter 8 (Finance and Insurance)](../part2/ch08-finance-insurance.md) profiles the asset managers and banks that intermediate these markets.
+
 ## Data Sources and Further Reading
 
 ### Data Sources

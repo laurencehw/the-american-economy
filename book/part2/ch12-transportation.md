@@ -474,6 +474,16 @@ Amazon's logistics ambitions extend beyond its own packages. The company offers 
 
 5. **Logistics is being restructured by e-commerce and Amazon**: Amazon now moves about 27% of U.S. parcel volume---more than UPS or FedEx---while industrial real estate has boomed past 17 billion square feet.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) explains what moves through the ports, rails, and warehouses described here, and why.
+- [Chapter 10 (Retail and Wholesale)](ch10-retail-wholesale.md) is the demand side: e-commerce reshaped freight patterns and warehouse geography.
+- [Chapter 14 (Energy)](ch14-energy.md) supplies diesel and jet fuel, the sector's dominant input cost and its main decarbonization problem.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers the Teamsters, rail labor, and the independent-contractor question in trucking.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) uses port congestion as a case study in how a physical bottleneck becomes an inflation shock.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

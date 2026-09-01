@@ -409,6 +409,16 @@ Despite the controversy, Live Nation's financial performance has been extraordin
 
 7. **Technology and delivery platforms are reshaping the sector**, from ghost kitchens and mobile ordering to dynamic pricing and automated service---though the fundamental labor intensity of hospitality limits the pace of transformation.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) analyzes the low-wage labor market this sector defines, including minimum wage and scheduling law.
+- [the Interlude on inequality](../part1/interlude-inequality.md) places hospitality wages in the broader distribution.
+- [Chapter 24 (The Sunbelt)](../part5/ch24-sunbelt.md) and Chapter 26 host the tourism economies where this sector dominates regional employment.
+- [Chapter 10 (Retail and Wholesale)](ch10-retail-wholesale.md) shares this sector's workforce and its exposure to consumer spending cycles.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) uses the April 2020 collapse described here as the clearest case of a demand shock.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

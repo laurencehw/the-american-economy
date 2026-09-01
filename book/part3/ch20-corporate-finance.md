@@ -615,6 +615,16 @@ For the American economy, corporate finance practices shape investment patterns,
 
 5. **Governance mediates the separation of ownership and control**: Boards, executive pay (mostly equity-linked), shareholder activism (Elliott Management), and say-on-pay votes are the mechanisms by which dispersed owners discipline managers.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 19 (Capital Markets)](ch19-capital-markets.md) covers the markets in which the financing decisions here are executed.
+- [Chapter 7 (Professional Services)](../part2/ch07-professional-services.md) supplies the legal and advisory services that deal-making consumes.
+- [the Interlude on inequality](../part1/interlude-inequality.md) places executive compensation and the CEO-to-worker ratio in the distributional context.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) examines what private equity ownership does to employment and wages at portfolio companies.
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) shows industrial firms' capital allocation under industrial policy incentives.
+
 ## Data Sources and Further Reading
 
 ### Data Sources

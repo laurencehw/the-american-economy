@@ -294,6 +294,16 @@ The 2008 financial crisis demonstrated the shock transmission mechanisms analyze
 
 5. **Affordability is the corridor's central challenge**: All four metros rank among the nation's most expensive housing markets; the "missing middle" of housing supply constrains the labor pools that density requires.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 3 (The Geography of Production)](../part1/ch03-geography.md) supplies the agglomeration framework this chapter applies.
+- [Chapter 8 (Finance and Insurance)](../part2/ch08-finance-insurance.md) and Chapter 19 explain the finance industry that anchors New York.
+- [Chapter 15 (Education)](../part2/ch15-education.md) covers the university and research complex that anchors Boston.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) explains the housing constraint that is now the corridor's binding limit.
+- [Chapter 24 (The Sunbelt)](ch24-sunbelt.md) is the region competing for the corridor's firms and residents.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

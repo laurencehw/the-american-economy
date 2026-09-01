@@ -859,6 +859,16 @@ Duke illustrates the tensions facing traditional utilities: pressure to decarbon
 
 5. **Energy policy is climate policy**: Transportation (29% of U.S. greenhouse gas emissions) and electricity are the decarbonization frontiers; the IRA represents the largest deliberate energy investment shift in American history.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) traces the 2014-16 oil shock analyzed here through the rest of the economy.
+- [Chapter 9 (Manufacturing)](ch09-manufacturing.md) is the largest industrial consumer, and the sector most exposed to electricity prices.
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) covers the critical-minerals supply chains that the energy transition depends on.
+- [Chapter 16 (Agriculture)](ch16-agriculture.md) is both a large energy consumer (fertilizer, diesel) and an energy producer (ethanol, wind leases).
+- [Chapter 27 (Rural America)](../part5/ch27-rural.md) is where extraction, generation, and transmission physically sit, and where the transition's costs concentrate.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

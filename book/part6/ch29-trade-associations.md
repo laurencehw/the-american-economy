@@ -234,6 +234,16 @@ PhRMA has been largely successful at maintaining the pricing status quo, though 
 
 5. **The policy infrastructure extends beyond lobbying**: Think tanks, legal organizations, and coordinated networks amplify business influence, making "who governs the economy" a question about institutions, not just elections.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 28 (Federal Economic Governance)](ch28-federal-governance.md) describes the government institutions these associations lobby.
+- [Chapter 30 (Labor Markets)](ch30-labor.md) covers labor's countervailing organization, and how it compares in scale and method.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) and the other sector chapters each describe their own trade associations in context.
+- [Chapter 21 (Trade)](../part4/ch21-trade.md) shows trade associations at their most consequential, in tariff and agreement politics.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) covers the platform firms now among the largest lobbying spenders.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

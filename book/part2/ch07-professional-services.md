@@ -492,6 +492,16 @@ AECOM's business is heavily tied to government infrastructure spending. It ranks
 
 5. **Occupational licensing shapes supply**: Bar associations, medical boards, and accounting bodies restrict entry---protecting consumers, critics argue, but also raising prices and limiting competition.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 8 (Finance and Insurance)](ch08-finance-insurance.md) and Chapter 20 are where much of this sector's output is consumed: legal, accounting, and advisory work is largely demanded by finance.
+- [Chapter 11 (Tech and Media)](ch11-tech-media.md) competes for the same technical labor and increasingly automates the document review and analysis described here.
+- [Chapter 23 (The Northeast Corridor)](../part5/ch23-northeast.md) and Chapter 26 host the metros where professional services concentrate most heavily.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers occupational licensing, which structures entry into law, accounting, and engineering.
+- [Chapter 20 (Corporate Finance)](../part3/ch20-corporate-finance.md) shows the deal-making that generates the advisory fees discussed here.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

@@ -424,6 +424,16 @@ The oil shock (2014-2016) and the CHIPS boom (2022-2025) illustrate the same I-O
 
 7. **Critical infrastructure creates systemic risk.** Energy, finance, transportation, and telecommunications are nodes whose failure cascades through everything.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 1 (The American Economy in Numbers)](ch01-economy-in-numbers.md) supplies the sector sizes that the input-output framework here connects.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) applies this chapter's propagation logic to real shocks, tracing the 2014-16 oil collapse through the same linkages.
+- [Chapter 18 (How American Finance Works)](../part3/ch18-how-finance-works.md) explains the financial plumbing behind the flow-of-funds accounts introduced here.
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) extends the value-chain analysis across borders, where the same logic produces very different vulnerabilities.
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) is where the CHIPS Act case study's demand shock actually lands.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

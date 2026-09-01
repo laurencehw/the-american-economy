@@ -605,6 +605,16 @@ UC remains a remarkable institution---world-class research combined with genuine
 
 5. **Returns to education remain high but uneven**: The college wage premium persists, but for-profit outcomes and credential value vary enormously---making information and accountability central policy questions.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) connects educational attainment to the wage structure and to labor force participation.
+- [the Interlude on inequality](../part1/interlude-inequality.md) examines whether education still functions as the mobility mechanism it is assumed to be.
+- [Chapter 6 (Healthcare)](ch06-healthcare.md) shares the cost-disease dynamics that drive both sectors' prices above general inflation.
+- [Chapter 4 (Government)](ch04-government.md) funds K-12 through state and local budgets, where education is the largest single line.
+- [Chapter 19 (Capital Markets)](../part3/ch19-capital-markets.md) holds the endowments---university capital is managed like institutional capital anywhere.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

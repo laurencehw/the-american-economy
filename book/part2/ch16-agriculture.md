@@ -481,6 +481,16 @@ Tyson has faced recurring controversies: antitrust investigations into price-fix
 
 7. **The agricultural workforce depends heavily on immigrant labor.** From field crops to meatpacking, immigrant workers---both authorized and unauthorized---perform much of the physical labor in American food production. The H-2A visa program has grown dramatically but remains contentious.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 27 (Rural America)](../part5/ch27-rural.md) is where farming happens, and where consolidation has hollowed out the surrounding communities.
+- [Chapter 21 (Trade)](../part4/ch21-trade.md) covers agricultural exports, which absorb a large share of U.S. output and drive farm income.
+- [Chapter 14 (Energy)](ch14-energy.md) supplies the fertilizer and fuel that dominate the cost structure described here.
+- [Chapter 12 (Transportation)](ch12-transportation.md) moves the crop: grain moves by rail and barge, and basis prices track freight rates.
+- [Chapter 10 (Retail and Wholesale)](ch10-retail-wholesale.md) is the buyer, and concentration in food retail shapes what farmers receive.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

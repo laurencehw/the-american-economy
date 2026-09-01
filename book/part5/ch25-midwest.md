@@ -278,6 +278,16 @@ The China shock of the 2000s provides the Midwest's clearest case study of the s
 
 5. **Agriculture ties the Midwest to energy and export markets**: Corn and soybeans link the region to ethanol demand and Chinese purchases, making farm income a function of energy prices and geopolitics.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) provides the manufacturing analysis this region embodies.
+- [Chapter 16 (Agriculture)](../part2/ch16-agriculture.md) covers the farm economy that occupies most of the region's land.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) traces the UAW and the decline of the union wage premium.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the battery and EV supply-chain investments now landing here.
+- [the Interlude on inequality](../part1/interlude-inequality.md) places the region's income trajectory in the national distribution.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

@@ -210,6 +210,16 @@ The SEC's effectiveness is perpetually debated. Critics argue its disclosure-bas
 
 5. **Recent decades expanded the administrative state's economic role**: From the CHIPS Program Office to IRA tax credits to aggressive antitrust, the federal government has moved from referee toward active participant in shaping industrial structure.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 4 (Government)](../part2/ch04-government.md) sizes the government whose institutions this chapter describes.
+- [Chapter 18 (How American Finance Works)](../part3/ch18-how-finance-works.md) explains the monetary policy the Fed conducts, and the plumbing behind it.
+- [Chapter 8 (Finance and Insurance)](../part2/ch08-finance-insurance.md) covers the financial firms the agencies profiled here supervise.
+- [Chapter 29 (Trade Associations)](ch29-trade-associations.md) describes the interests that lobby the institutions catalogued here.
+- [Chapter 1 (The American Economy in Numbers)](../part1/ch01-economy-in-numbers.md) depends directly on the statistical agencies described here.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

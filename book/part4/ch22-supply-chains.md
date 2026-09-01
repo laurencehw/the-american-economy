@@ -476,6 +476,16 @@ The supply chain of the future will be more regional, more redundant, and more e
 
 5. **Resilience is now a policy objective**: Reshoring, friend-shoring, and industrial policy (the CHIPS Act above all) represent a deliberate shift from cost minimization toward supply-chain security.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 21 (Trade)](ch21-trade.md) provides the aggregate trade picture these supply chains produce.
+- [Chapter 12 (Transportation)](../part2/ch12-transportation.md) covers the ports, rail, and trucking that physically move these chains.
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) is the domestic end of the reshoring effort described here.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the critical minerals that battery and semiconductor chains depend on.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) treats the 2021-22 disruption as a case study in shock propagation.
+
 ## Data Sources and Further Reading
 
 ### Data Sources

@@ -310,6 +310,16 @@ These limitations don't invalidate economic statistics, but they do counsel humi
 
 5. **Statistics require interpretation**: Understanding what GDP measures (and doesn't), the difference between nominal and real, and the sources of data is essential for informed analysis.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 2 (How It All Fits Together)](ch02-how-it-fits.md) turns this chapter's static portrait into a system, showing how the sectors tabulated here buy from and sell to one another.
+- [Chapter 3 (The Geography of Production)](ch03-geography.md) redistributes these same national totals across states and metros, where the concentration is far sharper than the aggregates suggest.
+- [the Interlude on inequality](interlude-inequality.md) asks who receives the $27.8 trillion counted here---the question GDP by construction cannot answer.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) picks up the productivity gap between labor-intensive and capital-intensive sectors and follows it into wages.
+- [Appendix B](../appendices/appendix-b-bea-reference.md) reproduces the underlying BEA industry table, with growth rates and NAICS codes for every line in Table 1.2.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

@@ -420,6 +420,16 @@ The contrast with commercial construction is stark. D.R. Horton achieves product
 
 5. **Costs are rising on all fronts**: Materials spiked (lumber +300% during the pandemic), labor inflation runs 5-8% annually in hot markets, and interest rates determine project feasibility.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 5 (Real Estate)](ch05-real-estate.md) is the demand side: housing starts, commercial development, and property values drive this sector.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers the skilled-trades shortage and the immigration questions behind construction labor supply.
+- [Chapter 4 (Government)](ch04-government.md) funds the infrastructure work: IIJA spending flows through the contractors profiled here.
+- [Chapter 14 (Energy)](ch14-energy.md) is where a large share of new construction demand now originates, in grid and generation projects.
+- [Chapter 24 (The Sunbelt)](../part5/ch24-sunbelt.md) shows construction at its most cyclical, in the fastest-growing metros.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources

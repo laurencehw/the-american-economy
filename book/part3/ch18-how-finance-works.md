@@ -643,6 +643,16 @@ BlackRock's scale creates both influence and scrutiny. Its holdings make it a to
 
 5. **The Fed steers through rates and reserves**: The 2022-23 tightening---from near zero to 5.25-5.50%---was the fastest cycle in 40 years, demonstrating how monetary policy transmits through every market described in this chapter.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 8 (Finance and Insurance)](../part2/ch08-finance-insurance.md) maps the institutions whose mechanics this chapter explains.
+- [Chapter 19 (Capital Markets)](ch19-capital-markets.md) covers the markets where the money-market instruments described here are actually traded.
+- [Chapter 28 (Federal Economic Governance)](../part6/ch28-federal-governance.md) describes the regulatory architecture and the politics of Fed independence.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) uses the credit channel developed here as one of its four transmission mechanisms.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) is where monetary policy transmission is most visible, through mortgage rates.
+
 ## Data Sources and Further Reading
 
 ### Government Sources

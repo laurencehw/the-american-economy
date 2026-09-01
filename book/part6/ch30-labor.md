@@ -473,6 +473,16 @@ It is tempting to categorize childcare and eldercare as "social" issues distinct
 
 5. **Care infrastructure constrains labor supply**: The United States' low public investment in childcare and eldercare helps explain why female labor force participation has plateaued below peer nations. Addressing care infrastructure is not just social policy---it is labor market and macroeconomic policy.
 
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [the Interlude on inequality](../part1/interlude-inequality.md) supplies the distributional context for the wage structure analyzed here.
+- [Chapter 6 (Healthcare)](../part2/ch06-healthcare.md) and Chapter 15 are the two largest employing sectors, and both face structural labor shortages.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) covers the AI and automation technologies whose labor-market effects this chapter assesses.
+- [Chapter 26 (The West)](../part5/ch26-west.md) and Chapter 16 are where immigration's labor-supply role is most visible.
+- [Chapter 20 (Corporate Finance)](../part3/ch20-corporate-finance.md) connects executive compensation and private equity ownership to worker outcomes.
+
 ## Data Sources and Further Reading
 
 ### Key Data Sources
