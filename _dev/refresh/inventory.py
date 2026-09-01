@@ -14,7 +14,7 @@ from pathlib import Path
 CAPTION = re.compile(r"^\*\*Table ([0-9A-Z]+)\.(\d+):\s*(.+?)\*\*\s*$")
 SEPARATOR = re.compile(r"^\|[ :|-]+\|\s*$")
 SOURCE_LINE = re.compile(
-    r"^\*(?:Source|Sources|Note):\s*(.+?)\*\s*$"
+    r"^\*(?:Source|Sources):\s*(.+?)\*\s*$"
     r"|^\*((?:Illustrative|Author's (?:schematic|summary|compilation|synthesis))\b.*?)\*\s*$",
     re.IGNORECASE,
 )
@@ -39,11 +39,11 @@ AGENCIES: list[tuple[str, re.Pattern[str]]] = [
     ("USASpending", re.compile(r"(?i)USASpending")),
     ("OECD", re.compile(r"(?i)\bOECD\b|Programme for International Student")),
     ("World Bank", re.compile(r"(?i)World Bank")),
-    ("company filings", re.compile(r"(?i)10-K|annual report|company (reports|disclosures|filings|announcements)|proxy statement|Form 990|firm annual review")),
+    ("company filings", re.compile(r"(?i)10-K|annual report|company (reports|disclosures|filings|announcements|data)|proxy statement|Form 990|firm annual review|Schedule 13D|exchange listing")),
     ("industry body", re.compile(r"(?i)association|league table|PitchBook|Nacha|Clearing House|AM Best|NAIC|Drewry|Fortune 500|PEI 300|Bain")),
     ("academic", re.compile(r"(?i)Journal of|Gorton|Metrick")),
     ("NCES", re.compile(r"(?i)National Center for Education Statistics|Digest of Education")),
-    ("OMB", re.compile(r"(?i)Office of Management and Budget")),
+    ("OMB", re.compile(r"(?i)Office of Management and Budget|budget justifications|congressional appropriations")),
     ("CBO", re.compile(r"(?i)Congressional Budget Office")),
     ("DOT", re.compile(r"(?i)Department of Transportation|T-100")),
     ("FDIC", re.compile(r"(?i)\bFDIC\b")),
@@ -61,6 +61,15 @@ AGENCIES: list[tuple[str, re.Pattern[str]]] = [
 # current, or which have no reference year at all. Excluded from staleness scoring.
 UNDATED_KINDS = {"schematic", "author", "academic"}
 
+# Some sources are revised on a fixed multi-year cycle rather than annually. For
+# these the reference year is the vintage of the instrument, not the age of a
+# measurement: NAICS 2022 is the current classification, not three-year-old data.
+# Counting them as stale would inflate the worklist with work that does not exist.
+BENCHMARK_SOURCES = re.compile(
+    r"(?i)North American Industry Classification System|NAICS 20\d\d"
+    r"|Economic Census|Census of Agriculture|USMCA Agreement"
+)
+
 
 @dataclass
 class Table:
@@ -75,10 +84,16 @@ class Table:
     rows: int
     kind: str             # inferred originating agency, or "schematic"/"unknown"
     year: int | None      # reference year declared in caption or source line
+    benchmark: bool = False   # revised on a fixed cycle, so age is not staleness
 
     @property
     def dated(self) -> bool:
         return self.kind not in UNDATED_KINDS
+
+    @property
+    def refreshable(self) -> bool:
+        """Whether a newer vintage could exist for this table today."""
+        return self.dated and not self.benchmark
 
     def age(self, as_of: int) -> int | None:
         if self.year is None or not self.dated:
@@ -93,6 +108,12 @@ class Inventory:
 
     def dated(self) -> list[Table]:
         return [t for t in self.tables if t.dated and t.year is not None]
+
+    def refreshable(self) -> list[Table]:
+        return [t for t in self.tables if t.refreshable and t.year is not None]
+
+    def benchmarks(self) -> list[Table]:
+        return [t for t in self.tables if t.benchmark]
 
     def by_kind(self) -> dict[str, list[Table]]:
         out: dict[str, list[Table]] = {}
@@ -174,6 +195,7 @@ def scan(book_dir: Path) -> Inventory:
                     rows=end - sep - 1,
                     kind=kind,
                     year=_reference_year(title, source_text),
+                    benchmark=bool(BENCHMARK_SOURCES.search(source_text)),
                 )
             )
     return inv

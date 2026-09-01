@@ -11,7 +11,8 @@ Conventions enforced:
     ``*Source: ...*`` or, for a table that illustrates a mechanism rather than
     reporting measured data, ``*Author's schematic*`` or ``*Illustrative...*``.
     It must be the whole line -- prose that merely mentions a source does not
-    count. See book/how-to-use.md for the convention.
+    count, and a ``*Note:*`` caveat is not an attribution. A table may carry
+    both. See book/how-to-use.md for the convention.
 """
 import os
 import re
@@ -24,7 +25,7 @@ CAPTION = re.compile(r'^\*\*Table ([0-9A-Z]+)\.(\d+):\s*.+\*\*\s*$')
 # that happens to contain the word. Matching a bare substring let "Port
 # Authorities" satisfy the check, silently exempting several tables.
 ATTRIBUTION = re.compile(
-    r"^\*(?:Source|Sources|Note):\s*\S.*\*$"
+    r"^\*(?:Source|Sources):\s*\S.*\*$"
     r"|^\*(?:Illustrative|Author's (?:schematic|summary|compilation|synthesis))\b.*\*$",
     re.IGNORECASE,
 )
