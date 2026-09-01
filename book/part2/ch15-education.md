@@ -94,7 +94,7 @@ Education is fragmented on the public side, concentrated on the commercial side:
 - But consolidation increasing: University systems (UC, SUNY, Texas) operate multiple campuses
 - Online programs dominated by a handful of mega-enrollers
 
-**Commercial Education**: Concentrated
+**Table 15.1: Commercial Education Market Structure by Segment**
 
 | Segment | Top Players | Market Structure |
 |---------|-------------|------------------|
@@ -110,7 +110,7 @@ Education is fragmented on the public side, concentrated on the commercial side:
 
 ### Major Players
 
-**Public Systems (by enrollment)**
+**Table 15.2: Public Systems (by enrollment)**
 
 | Rank | System | Enrollment | Type |
 |------|--------|-----------|------|
@@ -122,7 +122,7 @@ Education is fragmented on the public side, concentrated on the commercial side:
 
 *Source: National Center for Education Statistics, Digest of Education Statistics, 2023*
 
-**Commercial Education Companies (by revenue)**
+**Table 15.3: Commercial Education Companies (by revenue)**
 
 | Rank | Company | Revenue | Business |
 |------|---------|---------|----------|
@@ -152,6 +152,8 @@ In higher education, elite institutions compete for prestige (rankings, research
 
 Per-pupil spending varies dramatically by state:
 
+**Table 15.4: Per-Pupil Spending: Highest and Lowest States**
+
 | Highest Spending | Per Pupil | Lowest Spending | Per Pupil |
 |------------------|-----------|-----------------|-----------|
 | New York | $29,000 | Utah | $9,000 |
@@ -167,6 +169,8 @@ These gaps reflect: property wealth, political preferences, cost of living, and 
 **Charter School Concentration**
 
 Charter schools cluster in urban areas and in states with permissive charter laws:
+
+**Table 15.5: Charter School Enrollment Share by State**
 
 | State | Charter Enrollment Share | Notes |
 |-------|-------------------------|-------|
@@ -211,6 +215,8 @@ The geography of higher education shapes regional economies. Universities anchor
 ### Employment Overview
 
 Education employs 13 million workers---about 8% of total employment:
+
+**Table 15.6: Education Employment by Segment**
 
 | Segment | Employment | Avg Wage |
 |---------|------------|----------|
@@ -308,6 +314,8 @@ Education is heavily lobbied from all directions:
 
 ### Major Trade Associations
 
+**Table 15.7: Major Education Associations**
+
 | Association | Members | Focus |
 |-------------|---------|-------|
 | National Education Association (NEA) | 3 million teachers | Teacher interests, public education funding |
@@ -389,6 +397,8 @@ Student debt was modest through the 1990s, when state appropriations covered mos
 
 Student debt is not distributed evenly:
 
+**Table 15.8: Student Debt by Borrower Group**
+
 | Borrower Group | Median Debt | Default Rate | Notes |
 |----------------|-------------|--------------|-------|
 | Bachelor's degree (public) | $25,000 | 3% | Best outcomes |
@@ -443,11 +453,15 @@ The COVID-era learning losses---equivalent to roughly half a year of instruction
 
 The Programme for International Student Assessment (PISA), administered to 15-year-olds in OECD countries every three years, places the U.S. in the middle of the pack among wealthy nations:
 
+**Table 15.9: U.S. PISA Performance in International Context (2022)**
+
 | Subject | U.S. Score (2022) | OECD Average | Top Performer |
 |---------|:-----------------:|:------------:|---------------|
 | Mathematics | 465 | 472 | Singapore (575) |
 | Reading | 504 | 476 | Ireland (516) |
 | Science | 499 | 485 | Japan (547) |
+
+*Source: OECD, Programme for International Student Assessment (PISA) 2022*
 
 The U.S. spends more per student than almost any other country ($17,000 per K-12 pupil vs. the OECD average of $11,000), yet achieves mediocre math outcomes and middling science results. Reading is a relative strength. This spending-outcome disconnect---America spends 55% more per student than the OECD average but produces average results---is one of the central puzzles of American education policy.
 
@@ -590,6 +604,16 @@ UC remains a remarkable institution---world-class research combined with genuine
 4. **The surrounding industry is substantial**: Textbooks, testing, education technology, and for-profit schools form a multi-billion-dollar private ecosystem with very different incentives than the public core.
 
 5. **Returns to education remain high but uneven**: The college wage premium persists, but for-profit outcomes and credential value vary enormously---making information and accountability central policy questions.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) connects educational attainment to the wage structure and to labor force participation.
+- [the Interlude on inequality](../part1/interlude-inequality.md) examines whether education still functions as the mobility mechanism it is assumed to be.
+- [Chapter 6 (Healthcare)](ch06-healthcare.md) shares the cost-disease dynamics that drive both sectors' prices above general inflation.
+- [Chapter 4 (Government)](ch04-government.md) funds K-12 through state and local budgets, where education is the largest single line.
+- [Chapter 19 (Capital Markets)](../part3/ch19-capital-markets.md) holds the endowments---university capital is managed like institutional capital anywhere.
 
 ## Data Sources and Further Reading
 

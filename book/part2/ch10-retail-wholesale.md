@@ -80,6 +80,8 @@ The retail landscape is bifurcated: a handful of colossal "power retailers" domi
 
 ### The Big Four (2024 US Sales)
 
+**Table 10.1: The Big Four Retailers (2024 U.S. Sales)**
+
 | Rank | Company | US Revenue | Market Position |
 |------|---------|------------|-----------------|
 | 1 | **Walmart** | $569B | 37% of US online grocery market |
@@ -207,6 +209,8 @@ Sunday closing laws have mostly vanished, though remnants affect car sales and a
 
 ### Major Associations
 
+**Table 10.2: Major Retail and Wholesale Associations**
+
 | Association | Focus |
 |-------------|-------|
 | **National Retail Federation (NRF)** | "Voice of retail"—lobbies on taxes, labor laws, trade policy, shrinkage |
@@ -214,6 +218,8 @@ Sunday closing laws have mostly vanished, though remnants affect car sales and a
 | **National Grocers Association (NGA)** | Independent and regional grocers |
 | **National Automobile Dealers Association (NADA)** | Auto dealers—extremely powerful at state level |
 | **Retail Industry Leaders Association (RILA)** | Large retail companies |
+
+*Source: Association public disclosures (IRS Form 990) and association websites*
 
 ### Political Influence
 
@@ -322,6 +328,16 @@ Costco's treatment of workers is famously generous by retail standards. Average 
 4. **Wholesale is a logistics business, not a merchandising one**: Distributors like McKesson, Cencora, and Cardinal Health move goods on 1-3% margins---competing on delivery reliability rather than product.
 
 5. **Category structures differ sharply**: Grocery is a low-margin scale game; home improvement an effective Home Depot/Lowe's duopoly; pharmacy distribution a near-oligopoly of three firms.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 12 (Transportation)](ch12-transportation.md) moves the goods: fulfillment and freight economics now determine retail competitiveness.
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) explains where the imported goods on retail shelves come from and how they get here.
+- [Chapter 11 (Tech and Media)](ch11-tech-media.md) covers the platform economics that reshaped this sector.
+- [Chapter 17 (Leisure and Hospitality)](ch17-leisure-hospitality.md) shares retail's low-wage, high-turnover workforce and its scheduling practices.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) analyzes monopsony power in local labor markets where a single large retailer dominates.
 
 ## Data Sources and Further Reading
 

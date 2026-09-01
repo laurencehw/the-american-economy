@@ -10,9 +10,9 @@ American manufacturing occupies a paradoxical position in the national imaginati
 American manufacturing presents a paradox: output has roughly doubled since the 1980s, but employment has fallen by a third. The divergence reflects extraordinary productivity growth—automation, computerization, and process improvements enable factories to produce more with fewer workers. This is economically valuable but means manufacturing will not return as a mass employer regardless of trade policy or reshoring efforts.
 {% endhint %}
 
-Manufacturing contributed roughly $3 trillion in value added to GDP in 2023—about 11% of the total economy. This share has declined from roughly 25% in the 1960s, but the decline primarily reflects the faster growth of services, not an absolute contraction of industrial output. Real manufacturing output has roughly doubled since the 1980s. American factories produce more aircraft, pharmaceuticals, chemicals, and vehicles than they did a generation ago.
+Manufacturing contributed $2.8 trillion in value added to GDP in 2023---10.1% of the total economy. This share has declined from roughly 25% in the 1960s, but the decline primarily reflects the faster growth of services, not an absolute contraction of industrial output. Real manufacturing output has roughly doubled since the 1980s. American factories produce more aircraft, pharmaceuticals, chemicals, and vehicles than they did a generation ago.
 
-The employment picture tells a different story. Manufacturing employed approximately 12.8 million workers as of early 2024—down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents roughly 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.
+The employment picture tells a different story. Manufacturing employed 12.9 million workers in 2023---down from 17.3 million in 2000 and 19.4 million at the 1979 peak. This represents roughly 8% of total nonfarm employment, compared to 22% in 1970. The decline has been persistent across business cycles: manufacturing employment briefly recovered after the 2008-2009 recession and again after the pandemic disruption, but the long-term trajectory remains downward.
 
 <figure>
 <img src="../_figures/ch09/ch09_manufacturing_annotated.png" alt="U.S. manufacturing employment declining from 19M in 1979 to 13M by 2024 with key events annotated" style="width: 100%; max-width: 800px;">
@@ -45,7 +45,7 @@ Manufacturing business models vary enormously by subsector:
 
 ### Subsector Composition
 
-Manufacturing's roughly $3 trillion GDP contribution distributes unevenly across subsectors:
+Manufacturing's $2.8 trillion in value added distributes unevenly across subsectors:
 
 <figure>
 <img src="../_figures/ch09/ch09_subsector_value_added.png" alt="Manufacturing value added: chemicals, transportation equipment, food, and computers lead" style="width: 100%; max-width: 800px;">
@@ -77,6 +77,8 @@ Food processing varies by category. Meat packing has consolidated into an oligop
 ### Major Manufacturers
 
 The largest American manufacturers by revenue (excluding pure energy companies):
+
+**Table 9.1: Largest U.S. Manufacturers (2023)**
 
 | Company | Sector | 2023 Revenue | Notes |
 |---------|--------|--------------|-------|
@@ -340,7 +342,7 @@ Deere has sparked controversy over its equipment software policies, with farmers
 
 ## Key Takeaways
 
-1. **Manufacturing output is large; employment is not**: The sector contributes about $2.8 trillion (10% of GDP) but employs only 12.9 million workers---high capital intensity means each worker produces roughly $220,000 in value annually, far above the economy-wide average.
+1. **Manufacturing output is large; employment is not**: The sector contributed $2.8 trillion in value added (10.1% of GDP) in 2023 but employs only 12.9 million workers---high capital intensity means each worker produces roughly $220,000 in value annually, far above the economy-wide average.
 
 2. **Production is fragmented into supply networks**: Modern manufacturing assembles components from multi-tier supplier networks, often spanning continents. This delivers efficiency but creates fragility, as the 2020-22 shortages demonstrated.
 
@@ -349,6 +351,16 @@ Deere has sparked controversy over its equipment software policies, with farmers
 4. **The sector is the center of industrial policy**: The CHIPS Act and IRA have directed hundreds of billions toward semiconductor fabs, batteries, and clean technology---the largest deliberate reshaping of American manufacturing geography since the postwar era.
 
 5. **Concentration varies from duopoly to fragmentation**: Commercial aerospace is essentially a Boeing-Airbus duopoly; food processing is an oligopoly in meatpacking; much of the rest is competitive.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) follows manufacturing inputs across borders, where the reshoring debate is actually settled.
+- [Chapter 21 (Trade)](../part4/ch21-trade.md) covers the trade policy---tariffs, the China shock, industrial policy---that shapes this sector.
+- [Chapter 25 (The Midwest)](../part5/ch25-midwest.md) is where the employment losses and the battery-belt gains are geographically concentrated.
+- [Chapter 14 (Energy)](ch14-energy.md) supplies the energy costs that determine where energy-intensive manufacturing locates.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) traces what the loss of union manufacturing jobs did to the wage structure.
 
 ## Data Sources and Further Reading
 

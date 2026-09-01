@@ -1,119 +1,161 @@
-# Next Session Plan: Moving from 8.2 to 9.5
+# Next Session Plan: Moving from 8.9 to 9.5
 
-_Updated April 2026. Prior session plan used a 4/5 scale — now aligned with REVIEW.md (10-point scale)._
-_Last major content commits: March 12, 2026 (PR #12)._
-
----
-
-## What Has Been Completed
-
-All Tier 1 items from the previous session plan are done:
-- ✅ Chapter 16: Agriculture and Food Production (added)
-- ✅ Chapter 17: Leisure and Hospitality (added)
-- ✅ Interlude: Who Benefits — Distribution and Inequality (added)
-- ✅ End-of-chapter exercises across all chapters
-- ✅ Cross-references and hint boxes added throughout (PR #12)
-- ✅ Labor chapter expanded and renamed (Ch30)
-- ✅ Data consistency pass (partial — Ch3 "five states" error corrected)
-- ✅ CHIPS Act positive shock case study added (Ch2)
-- ✅ International comparison table added (Ch31)
-- ✅ CI: Figure reference checker + markdown link checker (PR #13)
+_Updated September 2026. Aligned with `REVIEW.md` (10-point scale)._
 
 ---
 
-## Tier 1: High-Impact Changes (Target: 8.2 → 8.8)
+## Completed
 
-### 1. Fix 50 Missing Figures (Priority: Critical)
+### Earlier sessions
+- ✅ Chapters 16 (Agriculture) and 17 (Leisure and Hospitality) added
+- ✅ Interlude on distribution and inequality added
+- ✅ Three-tier exercises in all 33 chapters
+- ✅ Key Takeaways in all 33 chapters
+- ✅ All 118 figures generated; CI figure checker passes
+- ✅ Ch 3 "five states = half of GDP" error corrected (now 41%, internally consistent)
+- ✅ Ch 14 rebuilt: generation mix, LCOE, utilities and broadband, carbon pricing,
+  environmental economics, workforce transition
+- ✅ Ch 15 student debt and K-12 outcomes; Ch 16 externalities; Ch 30 monopsony,
+  immigration, childcare and labor force participation
+- ✅ Appendix A publication calendar; Appendix E consolidated references
+- ✅ CI: figure reference checker, markdown link checker
 
-A total of 50 figure references across the manuscript — including Ch11, the Inequality Interlude, and all chapters from Ch16 onwards — point to PNG files that do not exist in the repo. The CI checker (PR #13) will flag these on every future push.
-
-**Affected chapters**: ch11 (3 figs), ch16 (4), ch17 (5), ch18 (2), ch19 (2), ch20 (2), ch21 (2), ch22 (4), ch23 (2), ch24 (2), ch25 (2), ch26 (2), ch27 (3), ch28 (2), ch29 (1), ch30 (2), ch31 (3), ch32 (2), interlude (5)
-
-**Options:**
-- Generate placeholder figures programmatically using Python/matplotlib with correct data (preferred — adds real value)
-- Replace `<figure>` blocks with descriptive text tables as fallbacks until figures are created
-- Estimated effort: 2-3 sessions for full figure generation
-
-### 2. Data Audit Corrections (Priority: High)
-
-A systematic data audit (April 2026) against BEA, BLS, EIA, and CMS found the following issues:
-
-| Statistic | Book Says | Actual | Fix |
-|-----------|-----------|--------|-----|
-| Manufacturing GDP share (Ch1, Ch9) | 11% | 10.4% nominal / 10.2% real (2023 BEA) | Change to "about 10%" or "10-11%" with source note |
-| Coal share of electricity (Ch14) | 16% | ~15% (EIA 2024, Ember) | Update to 15% |
-| Solar share of electricity (Ch14) | 6% | ~7% (utility + distributed, EIA 2024) | Update to 7% |
-| Ch31 GDP figure | ">$29 trillion" | $29.2T nominal 2024 (BEA) | Already directionally correct; add precise figure |
-| Housing % of consumer spending (Ch2) | 33% | 32.9% (BLS CEX 2023) | Update to "32.9%" and remove "roughly" |
-| Student debt (Ch15) | $1.77T (2024) | $1.78T (2024, Fed) | Update to $1.78T and cite source |
-| Healthcare % of GDP (Ch6) | "nearly 17%" / "nearly 18%" | 17.6% (2023 CMS), 18.0% (2024 CMS) | Clarify which year; 2024 figure is now 18.0% exactly |
-
-**Also fix**: "roughly" appears 221 times across all chapters. Ch14 alone has 48 instances. Target: replace with precise figures wherever official data exists. Reserve "roughly" only for genuinely approximate estimates.
-
-### 3. Analytical Depth Improvements (Priority: High)
-
-Several chapters identified in the REVIEW.md still need the "why" analysis:
-
-- **Ch14 Energy**: Add a multiplier comparison table explaining why energy has high I-O multipliers (~2.5) vs. finance (~1.2). Currently the chapter describes generation but doesn't explain the economic structure behind energy's systemic importance.
-- **Ch28 Federal Governance**: Still reads as a reference document. Add a 500-word "Does Regulatory Fragmentation Work?" section evaluating whether overlapping jurisdiction enables or prevents regulatory arbitrage.
-- **Ch16 Agriculture**: Environmental externalities section is thin. Add a paragraph quantifying the Gulf dead zone costs and the economic case for externality pricing.
-- **Inequality Interlude**: Distinguish wage inequality from capital income inequality more clearly. While the 40% wage share is mentioned, the 60% capital income composition should be explicitly highlighted.
+### This session
+- ✅ All 189 tables numbered (`Table N.M`) and sourced; illustrative tables labelled
+  as such rather than given a spurious citation
+- ✅ `check_tables.py` added to CI — enforces caption, source, uniqueness, sequence,
+  and correct chapter/appendix prefix
+- ✅ Connections section in all 33 chapters; internal links 89 → 280, all resolving
+- ✅ Four cross-chapter numerical contradictions reconciled (manufacturing share, CES
+  sample size, healthcare GDP share, total GDP)
+- ✅ Ch 28 "Does Regulatory Fragmentation Work?" analysis added; perishable
+  officeholder facts replaced with durable institutional structure
+- ✅ Glossary re-sorted and extended to 139 terms
+- ✅ `how-to-use.md` conventions corrected; explicit data-vintage policy adopted
+- ✅ Interactive visualizations stamped with data vintage
+- ✅ `.github/ISSUE_TEMPLATE/` added (the README had promised it)
+- ✅ `_dev/refresh_data.py` built: table inventory, claim registry, FRED/BLS fetchers,
+  reconciliation report, 16 tests, CI registry check
+- ✅ Fixed a false positive in the table source check — the substring `author` matched
+  "Port Authorities", exempting ten tables that had no source line
 
 ---
 
-## Tier 2: Important Polish (Target: 8.8 → 9.2)
+## Tier 1: The Data Refresh (8.9 → 9.2)
 
-### 4. Cross-Cutting Theme Integration
+**This is the whole priority.** The manuscript is anchored to 2023 national accounts
+and it is late 2026. The vintage policy adopted this session makes that honest but
+does not make it current, and a living textbook cannot stay three years behind its
+own sources.
 
-Four themes need systematic integration via callout boxes in each sector chapter:
-- **Inequality**: Connect wage levels to Interlude's framework
-- **Demographics/aging**: Add to Ch6 (healthcare demand), Ch30 (labor supply), Ch31 (Social Security)
-- **Climate**: Consistent treatment across agriculture, transportation, energy
-- **AI/automation**: Extend Ch11's tech analysis to labor effects in Ch30 and productivity in Ch31
+### 1. ✅ `_dev/refresh_data.py` is built
 
-Estimated effort: 1 session (add 4 callout boxes per chapter systematically).
+Done. See `_dev/README.md` for usage. `--check` runs in CI on every push touching
+`book/`, so the registry cannot silently drift from the manuscript.
 
-### 5. "See Also" Cross-References
+**Run it with network access first.** It was written in an environment that blocks
+egress to fred.stlouisfed.org, api.bls.gov and apps.bea.gov, so the comparison columns
+in the current `RECONCILIATION.md` are empty:
 
-A scan of all chapters shows cross-references are still sparse outside the chapters updated in PR #12. Target: 5-10 cross-references per chapter. A single pass adding `> **See also**: [Chapter X](link)` callouts would significantly improve navigability.
+```bash
+python3 _dev/refresh_data.py --report
+```
 
-### 6. Utilities and Broadband Section (Ch14)
+That populates the headline-claim and sector-table comparisons. The vintage audit and
+worklist in the report are already complete — they come from the manuscript, not the
+network.
 
-Ch14 already has a utilities and broadband section (added in a prior session). Verify it is complete and properly cross-referenced.
+**Expect some series IDs to be wrong.** They are asserted from memory, not verified
+against FRED. A wrong ID produces a named fetch failure in the report's "Series not
+retrieved" section rather than passing silently as agreement, so the first online run
+doubles as a validation pass on the registry. Fix any failures in
+`_dev/refresh/registry.py` and re-run.
 
-### 7. Interactive Tool Data Timestamps
+### 2. Give the 24 undated tables a reference year
 
-The `_interactive/data/economic-data.json` file is static. Add a visible "Data as of Q4 2023" note to each interactive visualization so readers know the reference period. The data explorer and regional map are the most important.
+`RECONCILIATION.md` §4 names them. A table that states no year cannot be checked by
+this tool or trusted by a reader, and it blocks everything downstream. Mostly Ch 19–20
+(capital markets and corporate finance) and the Ch 7–14 association tables. Cheap work:
+open each, establish what year the figures are, and put it in the caption.
+
+### 3. Roll the national accounts anchor
+
+Move the book's anchor year from 2023 to the most recent fully revised year. The report
+counts 56 tables in the anchor group and 75 tables three years old or more. Order of
+operations:
+
+1. **Ch 1, Ch 3, Appendix B** and `book/_interactive/data/economic-data.json` — these
+   define the aggregates every other chapter references. Do them together and in one
+   commit so nothing is transiently inconsistent.
+2. **Each chapter's Overview section** — GDP contribution and employment, which are the
+   figures most often quoted back at the book.
+3. **Fast-moving series**: energy generation mix and LCOE (Ch 14), trade flows
+   (Ch 21-22), housing prices (Ch 5, 23-27), union density (Ch 30).
+4. **Firm-level tables** — revenues, market caps, AUM, headcount. Roughly 60 tables.
+   Lowest priority of the four; these date gracefully because readers expect firm
+   figures to be a snapshot.
+
+Re-run `check_tables.py` after each stage; update each caption's stated year as you go.
 
 ---
 
-## Tier 3: Nice-to-Haves (Target: 9.2 → 9.5)
+## Tier 2: Attribution and Precision (9.2 → 9.4)
 
-### 8. Arts, Entertainment, and Recreation
+### 4. In-text attribution for contested claims
 
-Could be folded into an expanded hospitality chapter (Ch17) or a short standalone. Hollywood, music industry, professional sports, and gaming are economically distinctive and analytically interesting (winner-take-all dynamics, geographic concentration in LA/Nashville/NYC).
+Appendix E is a good bibliography, but the text rarely points to it. Attach a source to
+the 50–80 claims that are research-derived or contested rather than definitional — the
+China shock employment estimates, Chetty's mobility work, Lazard's LCOE series, the
+concentration ratios. This does not mean converting the book to author-date citation
+throughout; it means a reader who wants to check the strongest claims can.
 
-### 9. Early Childhood Education
+Start with the chapters making the strongest empirical claims: Ch 9 (China shock), the
+Interlude (mobility, top income shares), Ch 14 (LCOE, transition costs), Ch 30
+(monopsony, immigration wage effects).
 
-The education chapter (Ch15) covers K-12 through graduate education but barely mentions pre-K. The economics of childcare (market failure, subsidy structure, wage suppression in care work) are directly relevant to the labor chapter (Ch30) discussion of female labor force participation.
+### 5. Hedging pass
 
-### 10. Improve Figure Alt Text
-
-Audit all `<figure>` tags across all chapters for descriptive alt text. Replace generic alt text with text that conveys the figure's key insight. Accessibility and screen-reader usability.
-
-### 11. Issue Templates
-
-Add `.github/ISSUE_TEMPLATE/` with:
-- `error-report.md` — for factual errors/outdated statistics
-- `content-suggestion.md` — for coverage gaps or new chapter ideas
-
-The README already promises this functionality but there are no templates.
+"Roughly" appears 302 times, 61 in Ch 14 alone. Replace it with the precise figure
+wherever an official series exists; keep it where the estimate is genuinely approximate
+(pipeline mileage, informal economy size). A book that teaches data literacy should use
+its hedges to signal real uncertainty, not as filler.
 
 ---
 
-## Session Priorities
+## Tier 3: Remaining Coverage (9.4 → 9.5)
 
-For the next working session, recommended order:
-1. Fix the most-referenced missing figures (ch18, ch19, ch31, interlude) — these are in heavily-read sections
-2. Apply data audit corrections (manufacturing %, coal %, solar %) — quick wins
-3. Add demographics/aging cross-references to Ch6, Ch30, Ch31
+### 6. Arts, entertainment, and recreation
+Fold into an expanded Ch 17 rather than adding a standalone chapter. Hollywood, music,
+professional sports, and gaming are economically significant and analytically
+interesting — winner-take-all dynamics and extreme geographic concentration in
+LA/Nashville/NYC. The glossary already defines winner-take-all markets.
+
+### 7. Early childhood education and care
+Ch 15 runs K-12 through graduate school and barely mentions pre-K. The economics —
+market failure, subsidy structure, wage suppression in care work — connect directly to
+Ch 30's childcare and labor force participation section, which already gestures at it.
+
+### 8. Ch 11 platform economics
+The thinnest analytical treatment among the large sector chapters relative to the
+sector's importance. Two-sided market pricing, the attention economy's measurement
+problems, and the antitrust theories actually being litigated.
+
+### 9. Appendix C depth
+NAICS coverage is uneven: manufacturing gets 17 subsectors, healthcare 4. Add 4-digit
+codes for finance, professional services, and information, and add guidance on
+classifying platform companies — the question a student is most likely to actually
+have.
+
+---
+
+## Recommended Order for the Next Session
+
+1. Run `python3 _dev/refresh_data.py --report` somewhere with network access. Fix any
+   series IDs that fail to fetch, and re-run until the registry is clean.
+2. Act on whatever the report flags as materially diverged — that is the data audit,
+   and it takes precedence over the anchor roll.
+3. Check the four manual claims (report §2): CMS health share, BEA manufacturing share,
+   BLS union rate, CEX housing share. The last is already known to be wrong — the book
+   says 33%, the April 2026 audit put it at 32.9%.
+4. Give the 24 undated tables a reference year.
+5. Roll the anchor for Ch 1 / Ch 3 / Appendix B / interactive JSON in one commit.

@@ -89,7 +89,7 @@ Homebuilding has consolidated dramatically. The 2008 crash wiped out smaller bui
 - **Market Concentration:** The top 10 homebuilders now control approximately **45% of new home sales**, up from 27% two decades ago.
 - **Business Model:** Large builders function like manufacturing operations, not craftsmen. They buy land years in advance, developing "land pipelines" that ensure steady production. They use standardized floor plans, bulk purchasing, and vertical integration (some own mortgage and title companies) to minimize costs.
 
-**Major Homebuilders (2024)**
+**Table 5.1: Major Homebuilders (2024)**
 
 | Rank | Company | Revenue | Homes Closed | Headquarters |
 |------|---------|---------|--------------|--------------|
@@ -225,6 +225,8 @@ The Fair Housing Act of 1968 prohibits discrimination in housing based on race, 
 Real estate is among the most politically active sectors in America. Property rights and development rules are decided at every level of government, making lobbying essential.
 
 ### Major Trade Associations
+
+**Table 5.2: Major Real Estate Trade Associations**
 
 | Association | Members | Focus |
 |-------------|---------|-------|
@@ -428,6 +430,16 @@ The company operates less like a traditional construction firm and more like a m
 4. **The post-pandemic market is defined by lock-in and office distress**: Homeowners holding ~3% mortgages refuse to sell, strangling existing-home supply, while downtown office vacancy (20-35% in major CBDs) threatens property values and municipal tax bases.
 
 5. **Real estate is increasingly financialized**: REITs let investors hold property like stocks, and institutional buyers have entered single-family housing---though they still own only an estimated 2-3% of the national stock.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 13 (Construction)](ch13-construction.md) builds what this chapter values, rents, and finances---and explains why supply responds so slowly to price.
+- [Chapter 8 (Finance and Insurance)](ch08-finance-insurance.md) holds the mortgages: real estate is the collateral behind a large share of the banking system's assets.
+- [the Interlude on inequality](../part1/interlude-inequality.md) treats home equity as the main store of middle-class wealth and the main source of the racial wealth gap.
+- [Chapter 26 (The West)](../part5/ch26-west.md) is where the affordability crisis is most acute, and where zoning politics have been most consequential.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) traces the 2006-12 housing collapse described here through the rest of the economy.
 
 ## Data Sources and Further Reading
 

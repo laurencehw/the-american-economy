@@ -37,7 +37,7 @@ Unlike the CEA's analytical focus, the NEC is process-oriented: convening meetin
 
 ## The Independent Fed
 
-The **Federal Reserve** operates outside the executive branch's policy apparatus, conducting monetary policy independently of political direction. The Fed Chair---currently Jerome Powell, whose term extends through May 2026---is arguably the most influential individual economic actor in the country.
+The **Federal Reserve** operates outside the executive branch's policy apparatus, conducting monetary policy independently of political direction. The Fed Chair is arguably the most influential individual economic actor in the country. The chair is nominated by the president and confirmed by the Senate to a four-year term as chair, running concurrently with a fourteen-year term as a governor---a structure designed so that the chair's authority rests on a board appointment no single president can revoke.
 
 The Fed's independence is institutional rather than constitutional: Congress could theoretically restructure or eliminate it. But the norm of Fed independence has become deeply entrenched since the Volcker era, and presidents generally avoid public criticism of monetary policy decisions.
 
@@ -66,7 +66,7 @@ Beyond the policy-making core, a constellation of regulatory agencies shapes eco
 <figcaption>Figure 28.1: Key financial regulatory agency budgets. The FDIC, funded by bank premiums, dwarfs the SEC and other agencies that rely on congressional appropriations. Source: Agency budget documents</figcaption>
 </figure>
 
-**Key Financial Regulatory Agencies (2025)**
+**Table 28.1: Key Financial Regulatory Agencies (2025)**
 
 | Agency | Focus | Budget | Staff |
 |--------|-------|--------|-------|
@@ -93,7 +93,7 @@ The **Office of the Comptroller of the Currency (OCC)**, an independent bureau w
 
 ### Other Economic Regulators
 
-The **Federal Trade Commission (FTC)** enforces antitrust law and consumer protection statutes, sharing antitrust authority with the Justice Department's Antitrust Division. The FTC's current leadership has pursued an aggressive enforcement agenda against technology platforms and expanded merger scrutiny.
+The **Federal Trade Commission (FTC)** enforces antitrust law and consumer protection statutes, sharing antitrust authority with the Justice Department's Antitrust Division---a division of labor settled by informal clearance agreements rather than statute. The FTC's posture has swung widely over the past decade, from the consumer-welfare standard that governed enforcement for forty years to a broader structural approach targeting technology platforms and vertical mergers.
 
 The **Occupational Safety and Health Administration (OSHA)**, within the Labor Department, sets workplace safety standards. With 2,200 employees covering millions of workplaces, OSHA relies heavily on employer self-compliance and targeted enforcement.
 
@@ -154,6 +154,118 @@ The rapid growth of cryptocurrency and digital assets has exposed jurisdictional
 
 Legislative clarity remains pending, leaving market participants uncertain about which rules apply and which agency enforces them.
 
+## Does Regulatory Fragmentation Work?
+
+The preceding sections describe the institutional architecture. The harder question is
+whether it functions---whether dividing economic authority among a dozen agencies with
+overlapping jurisdictions produces better regulation than a consolidated alternative
+would. Most other advanced economies have consolidated: the United Kingdom supervises
+banks and markets through two authorities, Germany through one. The United States has
+resisted every consolidation proposal put to it, including after 2008, when the case
+was strongest. Understanding why requires separating the arguments.
+
+### The Case Against Fragmentation
+
+**Regulatory arbitrage is real and measurable.** Until 2011, a thrift holding company
+could choose the Office of Thrift Supervision as its supervisor instead of the Federal
+Reserve. AIG did exactly that, using a small savings-and-loan to bring its entire
+derivatives operation---the Financial Products unit that ultimately required an $85
+billion rescue---under the supervision of an agency with no capacity to evaluate it.
+Countrywide switched from a national bank charter to a thrift charter in 2007. Both
+moves were legal, and both selected the least demanding available supervisor. Dodd-Frank
+abolished the OTS precisely because charter shopping had become a business strategy.
+
+**Gaps are worse than overlaps.** Overlapping jurisdiction produces duplication, which
+is expensive. Jurisdictional gaps produce nothing at all, which is dangerous. Credit
+default swaps sat in exactly such a gap before 2008: not securities, so outside the
+SEC's reach; explicitly exempted from CFTC oversight by the Commodity Futures
+Modernization Act of 2000; not insurance, so outside state regulators' reach. A $60
+trillion market had no prudential supervisor. The current dispute over whether digital
+assets are securities or commodities is the same structural problem recurring in a new
+market: the boundary is contested, so the space between the agencies goes unsupervised
+while they argue.
+
+**Fragmentation dissipates accountability.** When supervision fails, no single agency
+owns the failure. The 2023 collapse of Silicon Valley Bank involved the Federal Reserve
+Bank of San Francisco as primary supervisor, the Federal Reserve Board as rule-writer,
+the California Department of Financial Protection and Innovation as chartering
+authority, and the FDIC as insurer and resolver. Each conducted a post-mortem; each
+found the others partly responsible. A consolidated supervisor cannot make that
+argument.
+
+**Resources are allocated by accident rather than risk.** The CFTC regulates derivatives
+markets with notional values in the hundreds of trillions on a budget of $400 million
+and 550 staff---roughly a tenth of the SEC's headcount. The disparity does not reflect
+any judgment about relative systemic importance. It reflects that the two agencies
+report to different congressional committees: the SEC to Banking and Financial Services,
+the CFTC to Agriculture, a jurisdictional accident dating to when futures markets were
+mostly about crops.
+
+### The Case For Fragmentation
+
+**Competition among regulators can raise standards as well as lower them.** The
+charter-shopping story runs both directions. State regulators, not federal ones, brought
+the first major cases against predatory subprime lending in the early 2000s---and were
+preempted by the OCC, which asserted that national banks were exempt from state consumer
+protection law. Here the fragmented system's problem was too little regulatory
+competition, not too much: a single federal supervisor had the authority to shut down
+the state enforcement that was working. New York's Department of Financial Services has
+since played a similar role in sanctions and cryptocurrency enforcement, acting where
+federal agencies did not.
+
+**Specialization has real value.** Bank supervision, securities disclosure, and
+derivatives clearing are genuinely different activities requiring different expertise.
+Bank examiners assess credit quality and capital adequacy through on-site examination.
+Securities regulators police disclosure and fraud through filings review and
+enforcement. Consolidation risks producing an agency good at neither. The United
+Kingdom's Financial Services Authority, the model consolidated regulator, was broken
+back into two bodies after 2008 on precisely this reasoning: prudential and conduct
+regulation had been merged, and prudential supervision had atrophied.
+
+**Redundancy is a feature in a system that cannot afford to fail.** Two supervisors
+looking at the same institution occasionally means one catches what the other missed.
+The FDIC's independent examination authority over state-chartered banks exists because
+the insurer bears the loss and should not have to rely entirely on another agency's
+judgment about the risk it is insuring.
+
+**Fragmentation is a check on capture.** A single financial regulator is a single target
+for the industry it regulates. Capturing five agencies with different constituencies,
+funding mechanisms, and congressional overseers is harder. The FDIC funds itself through
+bank premiums, the CFPB through Federal Reserve transfers, the SEC and CFTC through
+appropriations---diversity that makes it difficult for any one channel of political
+pressure to reach all of them at once.
+
+### What the Evidence Suggests
+
+The honest assessment is that fragmentation's costs are concentrated and visible while
+its benefits are diffuse and counterfactual. We can name the failures it caused---AIG,
+credit default swaps, the OTS. We cannot observe the failures a consolidated regulator
+would have produced instead.
+
+But the record does support three narrower claims. First, gaps are more damaging than
+overlaps: the costly episodes involve activity that fell between agencies, not activity
+two agencies both examined. Second, supervisor choice is the specific mechanism that
+fails; where a firm can select its own regulator, it selects the weakest one, and
+Dodd-Frank's most durable structural reform was eliminating that choice rather than
+consolidating agencies. Third, funding independence matters more than organizational
+chart: the FDIC and the Federal Reserve, both self-funded, have historically been the
+most willing to act against industry preferences, while the appropriations-dependent SEC
+and CFTC have been most constrained.
+
+This points toward a different reform than consolidation. Closing gaps, eliminating
+charter shopping, and insulating agency funding would address the mechanisms that
+demonstrably fail, without discarding the specialization and capture-resistance that the
+fragmented system provides. That is roughly what Dodd-Frank attempted; whether it
+succeeded is the question the next crisis will answer.
+
+{% hint style="warning" %}
+**Common Misconception**: Overlapping regulatory jurisdiction is often described as
+simple bureaucratic waste. The costly regulatory failures in American financial history
+generally came from activity that *no* agency supervised---credit default swaps before
+2008---or from firms selecting their own supervisor, not from two agencies examining the
+same firm. Duplication is expensive; gaps are dangerous.
+{% endhint %}
+
 ## Institutional Profiles
 
 ### The Congressional Budget Office
@@ -176,7 +288,8 @@ The agency has maintained its nonpartisan reputation through multiple administra
 > - Established: 1913
 > - Board staff: 3,000
 > - System staff (including regional banks): 23,000
-> - Chair: Jerome Powell (appointed 2018, reappointed 2022)
+> - Governance: seven-member Board of Governors (14-year terms), 12 regional Reserve Banks
+> - Chair: four-year renewable term, presidentially nominated and Senate-confirmed
 
 The Federal Reserve's institutional design reflects early-20th-century compromises between those who wanted a central bank and those who feared concentrated financial power. The result---a hybrid of public and private governance, with 12 regional Reserve Banks owned by member banks but supervised by the presidentially appointed Board of Governors---is unlike any other central bank.
 
@@ -189,12 +302,12 @@ Today's Fed faces expanded responsibilities: monetary policy, bank supervision, 
 > **Quick Facts**
 > - Established: 1934
 > - Staff: 5,600
-> - Chair: Gary Gensler (appointed 2021)
+> - Governance: five commissioners (five-year staggered terms), no more than three from one party
 > - Budget: $2.6 billion
 
 The SEC was created during the New Deal to restore confidence in securities markets after the 1929 crash. Its core mission---requiring disclosure so investors can make informed decisions---has remained constant even as markets have transformed.
 
-The agency operates through five divisions: Corporation Finance (disclosure), Trading and Markets (market structure), Investment Management (funds), Enforcement (violations), and Economic and Risk Analysis (data). Recent priorities have included climate disclosure requirements, cryptocurrency enforcement, and market structure reforms.
+The agency operates through five divisions: Corporation Finance (disclosure), Trading and Markets (market structure), Investment Management (funds), Enforcement (violations), and Economic and Risk Analysis (data). Its enforcement priorities swing sharply with the chair: climate disclosure and aggressive crypto enforcement under one administration gave way to a markedly lighter posture on digital assets under the next, with no change in the underlying statute. This volatility is itself a feature of the design---commissioners serve staggered five-year terms, but the chair sets the agenda.
 
 The SEC's effectiveness is perpetually debated. Critics argue its disclosure-based approach fails to prevent fraud; defenders note the agency operates with limited resources against a vast, sophisticated industry. Enforcement actions, while numerous, often result in settlements that neither admit nor deny wrongdoing.
 
@@ -209,6 +322,18 @@ The SEC's effectiveness is perpetually debated. Critics argue its disclosure-bas
 4. **The budget process has atrophied**: Mandatory spending grows automatically, discretionary spending lurches through continuing resolutions, and debt-ceiling brinkmanship substitutes for regular order---even as net interest costs rival defense.
 
 5. **Recent decades expanded the administrative state's economic role**: From the CHIPS Program Office to IRA tax credits to aggressive antitrust, the federal government has moved from referee toward active participant in shaping industrial structure.
+
+6. **Fragmentation fails through gaps, not overlaps**: The expensive regulatory failures involved activity no agency supervised, or firms choosing their own supervisor---not two agencies examining the same firm. That distinction points toward closing gaps and ending charter shopping rather than consolidating agencies.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 4 (Government)](../part2/ch04-government.md) sizes the government whose institutions this chapter describes.
+- [Chapter 18 (How American Finance Works)](../part3/ch18-how-finance-works.md) explains the monetary policy the Fed conducts, and the plumbing behind it.
+- [Chapter 8 (Finance and Insurance)](../part2/ch08-finance-insurance.md) covers the financial firms the agencies profiled here supervise.
+- [Chapter 29 (Trade Associations)](ch29-trade-associations.md) describes the interests that lobby the institutions catalogued here.
+- [Chapter 1 (The American Economy in Numbers)](../part1/ch01-economy-in-numbers.md) depends directly on the statistical agencies described here.
 
 ## Data Sources and Further Reading
 

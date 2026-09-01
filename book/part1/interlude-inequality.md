@@ -12,6 +12,8 @@ Understanding distribution is not a political aside---it is structural economics
 
 Median household income in the United States was $80,600 in 2023 (Census Bureau). This is the income level at which half of households earn more and half earn less. But the median conceals enormous dispersion:
 
+**Table I.1: The Household Income Distribution (2023)**
+
 | Percentile | Household Income (2023) | Context |
 |------------|------------------------|---------|
 | 10th | ~$17,000 | Below the poverty line for a family of two |
@@ -81,6 +83,8 @@ Income inequality tells only part of the story. Wealth---the accumulated stock o
 
 The Federal Reserve's Survey of Consumer Finances (SCF) provides the most comprehensive picture:
 
+**Table I.2: Wealth Concentration by Group (2022)**
+
 | Group | Share of Total Wealth (2022) | Median Net Worth |
 |-------|------------------------------|------------------|
 | Top 1% | 30% | ~$13.7 million |
@@ -112,6 +116,8 @@ Several mechanisms amplify wealth inequality beyond income inequality:
 ## The Racial Wealth Gap
 
 The most striking dimension of wealth inequality in America runs along racial lines.
+
+**Table I.3: Median Household Net Worth by Race (2022)**
 
 | Group | Median Household Net Worth (2022) |
 |-------|-----------------------------------|
@@ -213,6 +219,16 @@ As you read the sector chapters in Part II, watch for how each industry's struct
 5. **Intergenerational mobility has declined.** A child born poor in the U.S. has a 7.5% chance of reaching the top quintile---lower than in most peer nations. Mobility varies enormously by geography.
 
 6. **Distribution is structural, not incidental.** Sector, geography, financial access, and institutional rules determine who benefits from economic growth. Understanding the economy requires understanding its distributional outcomes.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) supplies the labor-market mechanisms---union decline, monopsony, occupational licensing---behind the wage distribution described here.
+- [Chapter 19 (Capital Markets)](../part3/ch19-capital-markets.md) explains how capital income, which dominates top-end incomes, is actually generated.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) connects wealth concentration to housing, the single largest asset for most households and the main channel of the racial wealth gap.
+- [Chapter 15 (Education)](../part2/ch15-education.md) examines education as the conventional remedy for inequality, and the debt that now accompanies it.
+- [Chapter 3 (The Geography of Production)](ch03-geography.md) maps the geographic dimension of the divergence traced here.
 
 ## Data Sources and Further Reading
 

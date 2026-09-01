@@ -18,7 +18,7 @@ The American West---the Pacific Coast states plus the Mountain West---represents
 
 California defies comparison. With a GDP of $4.1 trillion in 2024, it exceeds the entire output of the United Kingdom. The state leads the nation in manufacturing (by value), agriculture, entertainment, and technology. One in eight Americans lives in California; one in seven dollars of American output is produced there.
 
-**California's Scale (2024)**
+**Table 26.1: California's Scale (2024)**
 
 | Metric | Value | National Rank |
 |--------|-------|---------------|
@@ -178,7 +178,7 @@ Las Vegas faces acute water constraints. The Southern Nevada Water Authority has
 
 The West's economic success has created its most severe challenge: housing costs that threaten the regional economic model.
 
-**Housing Cost Comparison (2024)**
+**Table 26.2: Housing Cost Comparison (2024)**
 
 | Metro | Median Home Price | Median Household Income | Price/Income Ratio |
 |-------|-------------------|------------------------|-------------------|
@@ -330,6 +330,16 @@ The West also demonstrates how wealth effects propagate through the housing mark
 4. **Housing unaffordability is the region's defining constraint**: San Jose and San Francisco price-to-income ratios exceed 9-10x, pricing out middle-class workers and driving the outmigration that reshapes other regions.
 
 5. **Water is the West's binding limit**: The Colorado River serves 40 million people but runs structurally over-allocated; Lake Mead and Powell hover near historic lows, forcing the growth model to confront physical reality.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) explains the technology sector that dominates California's output.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) covers the housing economics behind the region's affordability crisis.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the water constraint and the electricity system this chapter treats as existential.
+- [Chapter 16 (Agriculture)](../part2/ch16-agriculture.md) explains Central Valley agriculture, the largest agricultural economy in the country.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers immigration, which supplies a larger share of this region's workforce than any other.
 
 ## Data Sources and Further Reading
 

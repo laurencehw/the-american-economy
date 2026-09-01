@@ -221,6 +221,8 @@ The Federal Reserve System produces financial and monetary data.
 
 Knowing when data arrives---and how much it is revised---is essential for interpreting economic statistics in real time.
 
+**Table A.1: Publication Calendar for Key U.S. Economic Data**
+
 | Release | Frequency | Typical Timing | Lag | Revision Magnitude |
 |---------|-----------|---------------|-----|-------------------|
 | Employment Situation (BLS) | Monthly | First Friday of month | ~5 days | ±30,000-100,000 jobs in annual benchmark |
@@ -236,6 +238,8 @@ Knowing when data arrives---and how much it is revised---is essential for interp
 | Economic Census (Census) | Every 5 years | 2-3 years after reference year | 2-3 years | Benchmark data; not revised |
 | Census of Agriculture (USDA) | Every 5 years | ~2 years after reference year | 2 years | Benchmark data |
 
+*Source: Compiled from BEA, BLS, Census Bureau, and Federal Reserve release schedules*
+
 ### Revision Caveats
 
 GDP estimates illustrate the revision problem. The advance estimate of Q1 2023 GDP growth was 1.1% (annualized); the third estimate revised this to 2.0%---a near-doubling. Annual comprehensive revisions can change GDP levels by tens of billions of dollars and alter the picture of entire business cycles. The lesson: treat early estimates as useful signals, not settled facts.
@@ -250,7 +254,7 @@ Most monthly and quarterly series are published in both seasonally adjusted (SA)
 
 2. **Understand Seasonal Adjustment**: Most monthly/quarterly data is seasonally adjusted. Use adjusted figures for trend analysis, unadjusted for specific period comparisons.
 
-3. **Note Geographic Coverage**: Some series cover all establishments; others sample. The CES survey covers ~145,000 businesses; the QCEW covers 95%+ of all jobs. Sampling error increases at detailed geographic and industry levels.
+3. **Note Geographic Coverage**: Some series cover all establishments; others sample. The CES survey samples roughly 119,000 businesses covering about 629,000 worksites; the QCEW is a census rather than a sample and covers 95%+ of all jobs. Sampling error increases at detailed geographic and industry levels.
 
 4. **Mind NAICS Changes**: The NAICS classification system is revised every 5 years. Historical comparisons may require concordances. The 2022 revision significantly reclassified parts of information and retail.
 

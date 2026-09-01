@@ -6,6 +6,8 @@ This appendix provides reference tables for interpreting BEA industry data, whic
 
 The following table shows value added (GDP contribution) by major industry, sorted by size.
 
+**Table B.1: GDP by Industry (2023)**
+
 | Industry | GDP ($ billions) | Share of GDP | 10-Year Real Growth | NAICS |
 |----------|-----------------|--------------|--------------------:|-------|
 | Real estate, rental, leasing | $3,808 | 13.7% | +25% | 53 |
@@ -35,6 +37,8 @@ Note: Information (NAICS 51) shows the fastest growth, driven by software, data 
 
 ## Manufacturing Subsectors
 
+**Table B.2: Manufacturing Value Added by Subsector (2023)**
+
 | Subsector | Value Added ($ billions) | NAICS |
 |-----------|-------------------------|-------|
 | Chemical products | $514.6 | 325 |
@@ -61,6 +65,8 @@ Note: Information (NAICS 51) shows the fastest growth, driven by software, data 
 
 ## State GDP Rankings (2023)
 
+**Table B.3: State GDP Rankings (2023)**
+
 | Rank | State | GDP ($ billions) | Share of U.S. |
 |------|-------|-----------------|---------------|
 | 1 | California | $3,827 | 13.8% |
@@ -77,6 +83,8 @@ Note: Information (NAICS 51) shows the fastest growth, driven by software, data 
 *Source: BEA GDP by State (SAGDP2), 2023*
 
 ## Metropolitan Area GDP (Top 20, 2023)
+
+**Table B.4: Metropolitan Area GDP, Top 20 (2023)**
 
 | Rank | Metro Area | GDP ($ billions) | 5-Year Real Growth |
 |------|------------|-----------------|-------------------|

@@ -121,7 +121,7 @@ While IPOs channel capital *into* corporations, established companies increasing
 
 **Stock buybacks** allow companies to repurchase their own shares on the open market. When a company buys back stock, the shares are retired, reducing shares outstanding and increasing earnings per share (EPS) for remaining shareholders. Buybacks have become the dominant form of capital return, surpassing dividends for most large companies.
 
-**Table 19.3a: S&P 500 Capital Return (billions)**
+**Table 19.4: S&P 500 Capital Return (billions)**
 
 | Year | Buybacks | Dividends | Total |
 |------|----------|-----------|-------|
@@ -163,7 +163,7 @@ The practical implication: long-term investors have historically been rewarded f
 
 The U.S. Treasury market is the world's largest, most liquid government bond market. Treasury securities are the benchmark "risk-free" rate against which all other debt is priced.
 
-**Treasury securities come in several forms:**
+**Table 19.5: Types of Treasury Securities**
 
 | Type | Maturity | Features |
 |------|----------|----------|
@@ -173,9 +173,11 @@ The U.S. Treasury market is the world's largest, most liquid government bond mar
 | TIPS | 5, 10, 30 years | Principal adjusts with CPI |
 | FRNs | 2 years | Floating rate, tied to T-bill rate |
 
+*Source: U.S. Department of the Treasury, TreasuryDirect*
+
 The Treasury Department issues securities through regular auctions. Primary dealers—currently 24 banks and broker-dealers—are required to bid at every auction and make markets in Treasury securities. Primary dealers include JPMorgan, Goldman Sachs, Citigroup, Bank of America, and foreign banks like BNP Paribas and Nomura.
 
-**Who holds Treasury securities:**
+**Table 19.6: Holders of U.S. Treasury Securities**
 
 | Holder | Amount | Share |
 |--------|--------|-------|
@@ -226,7 +228,7 @@ Corporations borrow in bond markets to fund operations, acquisitions, and capita
 
 **Credit spreads**—the yield difference between corporate bonds and Treasuries—widen during economic stress and narrow during expansions. The ICE BofA High Yield Spread, tracking the average spread over Treasuries for high-yield bonds, ranges from 300 basis points (3%) in good times to 1,000+ basis points (10%) during crises.
 
-**Table 19.4: Corporate Bond Spreads (basis points over Treasuries)**
+**Table 19.7: Corporate Bond Spreads (basis points over Treasuries)**
 
 | Rating | Normal Spread | Crisis Spread (2008) |
 |--------|---------------|---------------------|
@@ -266,7 +268,7 @@ Derivatives—contracts whose value derives from an underlying asset—enable ri
 
 - **CBOE Global Markets** (Chicago): Dominates equity options, trades VIX futures, and operates stock exchanges.
 
-**Table 19.5: Major U.S. Futures Contracts (2023)**
+**Table 19.8: Major U.S. Futures Contracts (2023)**
 
 | Contract | Exchange | Notional Value/Day |
 |----------|----------|-------------------|
@@ -308,7 +310,7 @@ Private equity (PE) firms raise capital from institutional investors (pension fu
 5. Exit through sale or IPO
 6. Return capital to LPs; collect 20% carried interest on profits
 
-**Major PE firms:**
+**Table 19.9: Largest Private Equity Firms**
 
 | Firm | AUM | Headquarters | Notable Deals |
 |------|-----|--------------|---------------|
@@ -317,6 +319,8 @@ Private equity (PE) firms raise capital from institutional investors (pension fu
 | Apollo | $600 billion | New York | ADT, Caesars |
 | Carlyle | $400 billion | Washington, DC | Booz Allen, Hertz |
 | TPG | $220 billion | San Francisco | Spotify, Airbnb |
+
+*Source: Company disclosures and Private Equity International PEI 300, 2024*
 
 Private equity now manages more assets than hedge funds. Supporters argue PE improves operational efficiency and provides patient capital for transformations. Critics note heavy debt loads can destabilize companies, workers often face layoffs, and the carried interest tax treatment (taxed as capital gains rather than ordinary income) represents an unjustified subsidy.
 
@@ -331,7 +335,7 @@ Venture capital (VC) funds early-stage companies with high growth potential in e
 4. Hope that a few "home runs" more than offset losses on failed investments
 5. Exit through IPO or acquisition
 
-**Major VC firms:**
+**Table 19.10: Leading Venture Capital Firms**
 
 | Firm | Focus | Notable Investments | Location |
 |------|-------|---------------------|----------|
@@ -341,9 +345,11 @@ Venture capital (VC) funds early-stage companies with high growth potential in e
 | Kleiner Perkins | Tech, cleantech | Amazon, Google, Twitter | Menlo Park |
 | Founders Fund | Tech | SpaceX, Palantir, Airbnb | San Francisco |
 
+*Source: PitchBook and firm disclosures, 2024*
+
 VC investment totaled $170 billion in 2021 (a record driven by zero interest rates) before falling to $67 billion in 2023 as monetary tightening reduced risk appetite.
 
-**Table 19.6: U.S. Venture Capital Investment**
+**Table 19.11: U.S. Venture Capital Investment**
 
 | Year | Deal Value | Deal Count |
 |------|------------|------------|
@@ -373,7 +379,7 @@ Capital markets activity concentrates heavily in a few locations.
 
 **Charlotte** hosts major bank operations (Bank of America, Wells Fargo, Truist) but relatively little capital markets activity.
 
-**Table 19.7: Financial Services Employment by Metro (2023)**
+**Table 19.12: Financial Services Employment by Metro (2023)**
 
 | Metro Area | Finance Employment | Specialization |
 |------------|-------------------|----------------|
@@ -566,6 +572,16 @@ For the American economy, capital markets serve as the circulatory system—movi
 4. **Private markets have grown dramatically**: Private equity (about $4.7 trillion) and venture capital (about $1.2 trillion) in assets now finance a large share of corporate activity away from public exchanges.
 
 5. **Derivatives transfer risk at enormous notional scale**: About $95 trillion in listed notional value lets market makers hedge---but the same instruments can amplify shocks when leverage and confidence turn.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 20 (Corporate Finance)](ch20-corporate-finance.md) is the issuer's side of these markets: how firms actually decide to raise capital.
+- [Chapter 18 (How American Finance Works)](ch18-how-finance-works.md) explains the monetary system underneath the Treasury and repo markets described here.
+- [the Interlude on inequality](../part1/interlude-inequality.md) connects capital income to the top of the income distribution.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) is where venture capital concentrates, and why.
+- [Chapter 8 (Finance and Insurance)](../part2/ch08-finance-insurance.md) profiles the asset managers and banks that intermediate these markets.
 
 ## Data Sources and Further Reading
 

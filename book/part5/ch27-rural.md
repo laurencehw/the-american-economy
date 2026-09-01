@@ -110,7 +110,7 @@ The divergence between rural and metropolitan America has accelerated across mul
 
 Since the 2008 financial crisis, metropolitan areas have captured over 90% of net new job growth. Rural recovery has been slower and less complete.
 
-**Key Metrics (2024):**
+**Table 27.1: Key Metrics (2024)**
 
 | Measure | Rural | Urban |
 |---------|-------|-------|
@@ -338,6 +338,16 @@ The rural economy's challenges crystallize the geography-of-production framework
 4. **The rural-urban divide is economic and political**: Lower incomes, lower educational attainment, and thinner infrastructure (broadband gaps, hospital closures) feed the geographic polarization documented in the Interlude.
 
 5. **Place-based challenges resist aggregate solutions**: Monopsony labor markets, outmigration of the young, and dependence on federal transfers mean rural prosperity depends on targeted policy, not national growth alone.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 16 (Agriculture)](../part2/ch16-agriculture.md) covers the agriculture that anchors much of rural America.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the extraction and generation industries that define resource-rich rural counties.
+- [Chapter 6 (Healthcare)](../part2/ch06-healthcare.md) explains the economics behind rural hospital closures.
+- [Chapter 4 (Government)](../part2/ch04-government.md) quantifies the federal transfers that make up the largest income share in many rural counties.
+- [Chapter 3 (The Geography of Production)](../part1/ch03-geography.md) supplies the framework for reading rural decline as the other side of agglomeration.
 
 ## Data Sources and Further Reading
 

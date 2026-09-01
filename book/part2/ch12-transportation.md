@@ -54,6 +54,8 @@ The trucking industry divides into distinct segments:
 
 **Owner-Operators:** Independent truckers who own their rigs and either lease to carriers or operate under their own authority. Owner-operators make up 11-16% of the driver workforce and represent the entrepreneurial dream of trucking---and its economic precarity.
 
+**Table 12.1: Largest U.S. Trucking and Logistics Firms (2023)**
+
 | Rank | Company | 2023 Revenue | Segment |
 |------|---------|--------------|---------|
 | 1 | UPS | $100.3B | Integrated |
@@ -64,6 +66,8 @@ The trucking industry divides into distinct segments:
 | 6 | XPO | $4.6B | LTL/Brokerage |
 | 7 | Schneider | $5.5B | TL/Intermodal |
 | 8 | Werner | $3.0B | Truckload |
+
+*Source: Company annual reports (Form 10-K), 2023*
 
 <figure>
 <img src="../_figures/ch12/ch12_top_trucking.png" alt="Largest U.S. trucking companies by revenue: UPS, FedEx Freight, and XPO Logistics" style="width: 100%; max-width: 800px;">
@@ -93,6 +97,8 @@ Only seven "Class I" railroads (those with over $500 million in annual revenue) 
 **Eastern Duopoly:**
 - **CSX:** Operating 20,000 route miles primarily east of the Mississippi
 - **Norfolk Southern:** Operating 19,500 route miles with a strong intermodal network
+
+**Table 12.2: The Class I Railroads (2023)**
 
 | Railroad | 2023 Revenue | Owner | Geography |
 |----------|--------------|-------|-----------|
@@ -130,6 +136,8 @@ Rail's labor relations remain contentious. In 2022, a potential national rail st
 The airline industry that deregulation created in 1978 has consolidated into a stable oligopoly dominated by four carriers: American, Delta, United, and Southwest. Together they control about 70% of domestic passenger traffic.
 
 ### The Big Four
+
+**Table 12.3: The Big Four Airlines**
 
 | Airline | Domestic Share | Headquarters | Hubs |
 |---------|---------------|--------------|------|
@@ -170,6 +178,8 @@ America's seaports are the gateways for international trade. Container ports han
 
 ### Major Container Ports
 
+**Table 12.4: Largest U.S. Container Ports (2023)**
+
 | Port | 2023 TEUs | Key Trade Lane |
 |------|-----------|----------------|
 | Los Angeles | 10.7 million | Trans-Pacific (Asia) |
@@ -177,6 +187,8 @@ America's seaports are the gateways for international trade. Container ports han
 | Long Beach | 9.1 million | Trans-Pacific (Asia) |
 | Savannah | 5.9 million | Asia, Atlantic |
 | Houston | 4.0 million | Latin America, Gulf |
+
+*Source: American Association of Port Authorities, container traffic statistics, 2023*
 
 <figure>
 <img src="../_figures/ch12/ch12_top_ports.png" alt="Top U.S. container ports by TEU: Los Angeles, Long Beach, and New York-New Jersey" style="width: 100%; max-width: 800px;">
@@ -278,6 +290,8 @@ The late 1970s and early 1980s brought revolutionary changes to transportation r
 
 ## Trade Associations and Lobbying
 
+**Table 12.5: Major Transportation Trade Associations**
+
 | Association | Membership | Focus |
 |-------------|------------|-------|
 | American Trucking Associations | Trucking carriers | Safety regs, driver rules, infrastructure |
@@ -285,6 +299,8 @@ The late 1970s and early 1980s brought revolutionary changes to transportation r
 | Airlines for America (A4A) | Major airlines | Aviation policy, slots, taxes |
 | American Association of Port Authorities | Seaports | Port development, dredging |
 | Transportation Intermediaries Association | Freight brokers | Broker regulation |
+
+*Source: Association public disclosures (IRS Form 990) and association websites*
 
 The trucking lobby is particularly influential in state legislatures, fighting fuel taxes and defending against rail competition. The railroad lobby focuses on federal policy, including preserving the Staggers Act framework and limiting re-regulation. Airlines lobby intensively on slot allocation, international routes, and consumer protection rules.
 
@@ -463,6 +479,16 @@ Amazon's logistics ambitions extend beyond its own packages. The company offers 
 4. **Gateways are chokepoints**: The San Pedro Bay ports handle roughly one-third of containerized imports; the LA/Long Beach complex, Memphis (FedEx), and Chicago (rail intermodal) are single points of failure whose disruption propagates nationwide.
 
 5. **Logistics is being restructured by e-commerce and Amazon**: Amazon now moves about 27% of U.S. parcel volume---more than UPS or FedEx---while industrial real estate has boomed past 17 billion square feet.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) explains what moves through the ports, rails, and warehouses described here, and why.
+- [Chapter 10 (Retail and Wholesale)](ch10-retail-wholesale.md) is the demand side: e-commerce reshaped freight patterns and warehouse geography.
+- [Chapter 14 (Energy)](ch14-energy.md) supplies diesel and jet fuel, the sector's dominant input cost and its main decarbonization problem.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers the Teamsters, rail labor, and the independent-contractor question in trucking.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) uses port congestion as a case study in how a physical bottleneck becomes an inflation shock.
 
 ## Data Sources and Further Reading
 

@@ -10,7 +10,7 @@ The region's industrial legacy shapes everything else. The Great Lakes provided 
 
 Population tells the story of transition. Illinois has declined from 12.8 million in 2019 to 12.7 million in 2024---a modest loss that nonetheless signals stagnation in what was once America's most dynamic industrial region. Ohio has stabilized at 11.9 million after decades of decline. Michigan, at 10.1 million, has finally stopped shrinking. The hemorrhaging has slowed, but growth remains elusive.
 
-**Regional Economic Overview (2024)**
+**Table 25.1: Regional Economic Overview (2024)**
 
 | State | GDP | Manufacturing Share | Population Trend |
 |-------|-----|---------------------|------------------|
@@ -143,7 +143,7 @@ The city's moderate costs---substantially below Chicago, Columbus, or the Twin C
 
 The "Rust Belt to recovery" narrative has shifted from hope to reality---at least in selected locations. Federal industrial policy has directed enormous investment into the region.
 
-**Major Industrial Policy Investments:**
+**Table 25.2: Major Industrial Policy Investments**
 
 | Company | Location | Investment | Product |
 |---------|----------|------------|---------|
@@ -194,7 +194,7 @@ Corporate agriculture has transformed the business model. Family farms persist a
 
 The Midwest's demographic trajectory presents its greatest long-term challenge. The region is aging; young people continue leaving for the coasts and the Sunbelt; without international immigration, populations would decline outright.
 
-**Net Domestic Migration (2020-2024)**
+**Table 25.3: Net Domestic Migration (2020-2024)**
 
 | State | Net Migration |
 |-------|---------------|
@@ -277,6 +277,16 @@ The China shock of the 2000s provides the Midwest's clearest case study of the s
 4. **Demographics are the region's structural headwind**: An aging manufacturing workforce, flat or declining populations in most states, and outmigration of the young constrain growth even where investment arrives.
 
 5. **Agriculture ties the Midwest to energy and export markets**: Corn and soybeans link the region to ethanol demand and Chinese purchases, making farm income a function of energy prices and geopolitics.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) provides the manufacturing analysis this region embodies.
+- [Chapter 16 (Agriculture)](../part2/ch16-agriculture.md) covers the farm economy that occupies most of the region's land.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) traces the UAW and the decline of the union wage premium.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the battery and EV supply-chain investments now landing here.
+- [the Interlude on inequality](../part1/interlude-inequality.md) places the region's income trajectory in the national distribution.
 
 ## Data Sources and Further Reading
 

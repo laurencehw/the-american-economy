@@ -32,7 +32,7 @@ From corner stores to corporate headquarters, the American economy comprises abo
 
 The United States remains the world's largest economy by conventional measures, though China has closed the gap dramatically:
 
-**Table 1.0: Global GDP Comparison (2023)**
+**Table 1.1: Global GDP Comparison (2023)**
 
 | Rank | Economy | GDP (2023) |
 |:----:|---------|----------:|
@@ -53,7 +53,7 @@ Where does $27.8 trillion come from? The composition defies headlines: the large
 
 ### The Composition of Output
 
-**Table 1.1: GDP by Major Industry (2023)**
+**Table 1.2: GDP by Major Industry (2023)**
 
 | Industry | Share of GDP | Value Added |
 |----------|------------:|------------:|
@@ -116,7 +116,7 @@ Employment tells a different story than GDP. Some industries are labor-intensive
 
 ### Where Americans Work (2023)
 
-**Table 1.2: Employment by Sector**
+**Table 1.3: Employment by Sector**
 
 | Sector | Employment | Share |
 |--------|----------:|------:|
@@ -174,7 +174,7 @@ American business spans an enormous range of scales. At one extreme, a Fortune 5
 
 The distribution is highly skewed:
 
-**Table 1.3: Firm Size Distribution**
+**Table 1.4: Firm Size Distribution**
 
 | Firm Size | Share of Firms | Share of Employment |
 |-----------|---------------:|--------------------:|
@@ -228,13 +228,13 @@ When you hear that GDP grew 2.5% last year, that number comes from BEA.
 
 The BLS, part of the Labor Department, measures employment, unemployment, wages, and prices. Key products include:
 
-- **Current Employment Statistics (CES)**: The monthly jobs report that moves markets, based on a survey of 670,000 establishments
+- **Current Employment Statistics (CES)**: The monthly jobs report that moves markets, based on a survey of roughly 119,000 businesses covering about 629,000 individual worksites
 - **Current Population Survey (CPS)**: The source of the unemployment rate, based on a household survey
 
 {% hint style="success" %}
 **Deep Dive: Why Economic Data Gets Revised**
 
-The BLS publishes employment data 3 weeks after each month ends. How? Surveys. The initial estimate samples 670,000 establishments. Over subsequent months, more responses arrive and benchmarks are applied. The "final" number may differ from the initial release by 100,000+ jobs. Markets react to the first number, but researchers should use revised data.
+The BLS publishes employment data 3 weeks after each month ends. How? Surveys. The initial estimate samples roughly 119,000 businesses covering about 629,000 worksites. Over subsequent months, more responses arrive and benchmarks are applied. The "final" number may differ from the initial release by 100,000+ jobs. Markets react to the first number, but researchers should use revised data.
 {% endhint %}
 - **Consumer Price Index (CPI)**: The main measure of inflation
 - **Occupational Employment Statistics (OES)**: Detailed wage and employment data by occupation
@@ -309,6 +309,16 @@ These limitations don't invalidate economic statistics, but they do counsel humi
 4. **Large firms employ most workers**: 0.3% of firms account for 54% of employment. The American economy is structurally concentrated despite millions of small businesses.
 
 5. **Statistics require interpretation**: Understanding what GDP measures (and doesn't), the difference between nominal and real, and the sources of data is essential for informed analysis.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 2 (How It All Fits Together)](ch02-how-it-fits.md) turns this chapter's static portrait into a system, showing how the sectors tabulated here buy from and sell to one another.
+- [Chapter 3 (The Geography of Production)](ch03-geography.md) redistributes these same national totals across states and metros, where the concentration is far sharper than the aggregates suggest.
+- [the Interlude on inequality](interlude-inequality.md) asks who receives the $27.8 trillion counted here---the question GDP by construction cannot answer.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) picks up the productivity gap between labor-intensive and capital-intensive sectors and follows it into wages.
+- [Appendix B](../appendices/appendix-b-bea-reference.md) reproduces the underlying BEA industry table, with growth rates and NAICS codes for every line in Table 1.2.
 
 ## Data Sources and Further Reading
 

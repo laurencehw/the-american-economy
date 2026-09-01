@@ -291,6 +291,8 @@ Retirement systems diverge similarly. The U.S. relies heavily on employer-sponso
 
 **Table: Institutional Comparison—U.S. vs. Key Trading Partners**
 
+**Table 21.7: Institutional Comparison: U.S. vs. Key Trading Partners**
+
 | Dimension | United States | Germany | Japan | United Kingdom |
 |-----------|--------------|---------|-------|----------------|
 | **Employment protection** | At-will (minimal) | Strong; 1–7 months notice, works councils | Very strong; abusive dismissal doctrine | Moderate; 1–12 weeks notice, redundancy pay |
@@ -446,6 +448,16 @@ What's clear is that trade is no longer just economics. It has become a tool of 
 4. **Services trade runs a surplus**: The United States exports more services (finance, intellectual property, business services, travel) than it imports---a roughly $327 billion surplus (2024) that offsets part of the goods deficit.
 
 5. **Trade is governed by an institutional architecture**: Treaties (USMCA), the WTO, and enforcement mechanisms shape flows, even as that architecture has come under strain from unilateral tariff policy.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 22 (Supply Chains)](ch22-supply-chains.md) goes inside the trade flows measured here, to the production networks that generate them.
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) is the sector where trade policy bites hardest, and where the China shock landed.
+- [Chapter 16 (Agriculture)](../part2/ch16-agriculture.md) depends on export markets for a large share of output.
+- [Chapter 28 (Federal Economic Governance)](../part6/ch28-federal-governance.md) describes the agencies---USTR, Commerce, ITC---that administer trade policy.
+- [Chapter 25 (The Midwest)](../part5/ch25-midwest.md) is where the employment consequences of trade liberalization were concentrated.
 
 ## Data Sources and Further Reading
 

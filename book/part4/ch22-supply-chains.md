@@ -24,6 +24,8 @@ Most trade today involves intermediate goods—components used to make other pro
 | Consumer goods | 22% | Finished products |
 | Automotive | 8% | Vehicles and parts |
 
+*Source: Census Bureau, USA Trade Online, 2024*
+
 A semiconductor is an intermediate good when it goes into a smartphone, a capital good when it goes into factory equipment, and a consumer good when it's sold as a replacement chip. These categories overlap and blur.
 
 ### Intra-Firm Trade
@@ -42,6 +44,8 @@ Intra-firm trade has several implications:
 
 Production has fragmented across borders following a pattern economists call "global value chains" or "trade in tasks." Different stages of production locate where conditions are most favorable:
 
+**Table 22.2: What Determines Where a Production Stage Locates**
+
 | Stage | Location Drivers | Typical Geography |
 |-------|------------------|-------------------|
 | R&D and design | Talent, IP protection | U.S., Europe, Japan |
@@ -49,6 +53,8 @@ Production has fragmented across borders following a pattern economists call "gl
 | Component fabrication | Scale, infrastructure | Taiwan, Korea, China |
 | Assembly | Labor cost, logistics | China, Vietnam, Mexico |
 | Distribution | Market access | Regional hubs |
+
+*Source: Author's schematic*
 
 This fragmentation created efficiency gains—each stage locates optimally—but also vulnerabilities. Disruption at any link ripples through the entire chain.
 
@@ -99,7 +105,7 @@ No industry better illustrates the complexity and vulnerability of global supply
 
 Semiconductor production has fragmented by function:
 
-**Table 22.2: Semiconductor Value Chain Geography**
+**Table 22.3: Semiconductor Value Chain Geography**
 
 | Stage | U.S. Share | Dominant Players |
 |-------|------------|------------------|
@@ -151,7 +157,7 @@ The North American automotive industry functions as a single integrated producti
 
 The United States-Mexico-Canada Agreement tightened regional content requirements:
 
-**Table 22.3: USMCA Automotive Content Requirements**
+**Table 22.4: USMCA Automotive Content Requirements**
 
 | Requirement | Level | Purpose |
 |-------------|-------|---------|
@@ -160,13 +166,15 @@ The United States-Mexico-Canada Agreement tightened regional content requirement
 | Core parts | 75% | Engines, transmissions, etc. |
 | Steel/aluminum | 70% | Must be "melted and poured" in region |
 
+*Source: USMCA Agreement, Chapter 4 (Rules of Origin)*
+
 These rules aim to prevent vehicles from qualifying for duty-free treatment based on minimal regional processing. The labor value content requirement specifically targets the wage gap between Mexico and the U.S./Canada, incentivizing either higher Mexican wages or more U.S. production.
 
 ### The EV Transition
 
 Electric vehicles are reorganizing automotive supply chains. The key battleground is batteries.
 
-**Battery Supply Chain Control:**
+**Table 22.5: Battery Supply Chain Control by Stage**
 
 | Stage | China Share | Alternative Sources |
 |-------|-------------|---------------------|
@@ -190,6 +198,8 @@ These requirements are forcing automakers to build North American battery supply
 
 A corridor of battery and EV manufacturing investment stretches from Michigan through Ohio, Kentucky, Tennessee, and Georgia:
 
+**Table 22.6: Major Battery Belt Investments**
+
 | Project | Location | Investment |
 |---------|----------|------------|
 | Ford BlueOval City | Tennessee | $5.6 billion |
@@ -200,6 +210,8 @@ A corridor of battery and EV manufacturing investment stretches from Michigan th
 | BMW | South Carolina | $1.7 billion |
 | Rivian | Georgia | $5 billion |
 
+*Source: Company announcements and Department of Energy project tracking*
+
 This "Battery Belt" represents the largest manufacturing investment wave in decades, driven by IRA subsidies and proximity to existing automotive assembly plants.
 
 ## Pharmaceutical Supply Chains
@@ -208,7 +220,7 @@ Pharmaceutical manufacturing has concentrated in ways that create national secur
 
 ### The Dependency
 
-**Table 22.4: Pharmaceutical Supply Chain Geography**
+**Table 22.7: Pharmaceutical Supply Chain Geography**
 
 | Category | China/India Share | Risk Level |
 |----------|-------------------|------------|
@@ -279,7 +291,7 @@ This demand surge hit supply chains configured for normal patterns. Factories, s
 
 The result: automakers parked tens of thousands of unfinished vehicles, waiting for chips. Ford, GM, Toyota, and others lost billions in production.
 
-**Table 22.5: Supply Chain Crisis Metrics**
+**Table 22.8: Supply Chain Crisis Metrics**
 
 | Metric | Pre-Crisis | Peak Crisis | Resolution |
 |--------|------------|-------------|------------|
@@ -287,6 +299,8 @@ The result: automakers parked tens of thousands of unfinished vehicles, waiting 
 | Shanghai-LA container rate | $2,000 | $20,586 | $2,000 (2023) |
 | Auto production lost | — | 10+ million units | Recovered 2023 |
 | Inflation impact | — | 1-2 pp | Faded 2023 |
+
+*Source: Drewry World Container Index; Federal Reserve Bank of New York Global Supply Chain Pressure Index; port authority statistics*
 
 ### Lessons and Responses
 
@@ -342,7 +356,7 @@ Most companies are not abandoning China entirely. The market is too large (1.4 b
 
 Instead, the dominant strategy is "China Plus One": maintaining China operations while adding capacity elsewhere. Vietnam, India, Indonesia, and Mexico are primary beneficiaries.
 
-**Table 22.6: Alternative Manufacturing Destinations**
+**Table 22.9: Alternative Manufacturing Destinations**
 
 | Country | Strengths | Limitations |
 |---------|-----------|-------------|
@@ -351,6 +365,8 @@ Instead, the dominant strategy is "China Plus One": maintaining China operations
 | Indonesia | Scale, resources | Infrastructure, logistics |
 | Mexico | Proximity, USMCA | Security, capacity |
 | Thailand | Quality, infrastructure | Cost rising |
+
+*Source: Author's compilation from World Bank and national statistical agency data*
 
 ## Firm Profiles
 
@@ -459,6 +475,16 @@ The supply chain of the future will be more regional, more redundant, and more e
 4. **The 2021-22 crisis exposed just-in-time fragility**: Port congestion, container imbalances, and semiconductor shortages showed that lean, efficiency-optimized chains have little slack---contributing directly to inflation.
 
 5. **Resilience is now a policy objective**: Reshoring, friend-shoring, and industrial policy (the CHIPS Act above all) represent a deliberate shift from cost minimization toward supply-chain security.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 21 (Trade)](ch21-trade.md) provides the aggregate trade picture these supply chains produce.
+- [Chapter 12 (Transportation)](../part2/ch12-transportation.md) covers the ports, rail, and trucking that physically move these chains.
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) is the domestic end of the reshoring effort described here.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the critical minerals that battery and semiconductor chains depend on.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) treats the 2021-22 disruption as a case study in shock propagation.
 
 ## Data Sources and Further Reading
 

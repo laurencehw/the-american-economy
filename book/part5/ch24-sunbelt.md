@@ -10,7 +10,7 @@ The shift accelerated after 2020. Remote work untethered millions of knowledge w
 
 The numbers are stark. Between 2019 and 2024, Texas added 2.3 million residents---growing from 29.0 million to 31.3 million. Florida added 1.8 million, growing from 21.5 million to 23.3 million. Together, these two states gained more people than the 30 slowest-growing states combined. Meanwhile, the coastal giants told a more complicated story than the headlines suggested. California essentially flatlined (39.4 million in both 2019 and 2024), losing residents to domestic migration while international immigration held its population steady. New York shed roughly 400,000 residents between 2020 and 2022---the pandemic exodus---but rebounded to 20.0 million by 2024, half a million above its 2019 level. Illinois was roughly flat. The Sunbelt's gains came less from the collapse of the coasts than from a sustained reallocation of domestic migration toward cheaper, warmer metro areas.
 
-**Growth Differentials (2023-2024)**
+**Table 24.1: Sunbelt vs. National Growth Differentials (2023-2024)**
 
 | Region | Population Growth | GDP Growth |
 |--------|-------------------|------------|
@@ -168,7 +168,7 @@ For decades, the Sunbelt offered a distinctive arbitrage: coastal-quality wages 
 
 Between 2020 and 2024, home prices in Austin increased 60%. Phoenix, Tampa, and Dallas saw increases of 40-50%. The "affordability advantage" that drew middle-class families from California and New York has diminished significantly.
 
-**Housing Price Growth 2020-2024**
+**Table 24.2: Housing Price Growth 2020-2024**
 
 | Metro | Price Increase |
 |-------|---------------|
@@ -339,6 +339,16 @@ The government sector ([Chapter 4](../part2/ch04-government.md)) plays a larger 
 4. **Growth concentrates in specialized metros**: Houston (energy), Dallas (corporate HQs), Austin (technology), Miami (finance and trade), Atlanta (logistics and media), Phoenix (semiconductors)---each developing a distinct economic identity.
 
 5. **Water and heat are the long-run constraints**: The Sunbelt's growth model collides with physical limits---aquifer depletion, Colorado River shortages, and extreme heat---that no amount of migration can indefinitely override.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 23 (The Northeast Corridor)](ch23-northeast.md) is the region losing population and firms to the Sunbelt.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) explains the housing dynamics that both drove and now threaten the cost advantage.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the water and grid constraints that Texas and Arizona growth runs into.
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) and Chapter 22 cover the battery and semiconductor investments reshaping the region.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) explains the right-to-work regime behind the Sunbelt's labor cost advantage.
 
 ## Data Sources and Further Reading
 

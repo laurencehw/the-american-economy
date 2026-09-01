@@ -65,7 +65,7 @@ NFIB has increasingly turned to litigation, filing lawsuits challenging regulati
 
 While the Big Four represent business generally, industry-specific associations often outspend them on issues affecting their sectors.
 
-**Major Industry Associations (2024)**
+**Table 29.1: Major Industry Associations (2024)**
 
 | Association | Industry | Lobbying Spending | Membership |
 |-------------|----------|-------------------|------------|
@@ -157,7 +157,7 @@ Trade associations have become one channel for this spending. A company contribu
 
 Think tanks provide the intellectual framework that makes lobbying effective. A policy proposal with academic imprimatur and detailed analysis commands more attention than naked advocacy.
 
-**Major Think Tanks**
+**Table 29.2: Major Think Tanks**
 
 | Organization | Orientation | Budget (2024) |
 |--------------|-------------|---------------|
@@ -233,6 +233,16 @@ PhRMA has been largely successful at maintaining the pricing status quo, though 
 4. **Political spending is large but only part of influence**: Associations spend hundreds of millions per cycle, yet their deeper power lies in drafting legislation, supplying comment letters, and maintaining revolving-door relationships.
 
 5. **The policy infrastructure extends beyond lobbying**: Think tanks, legal organizations, and coordinated networks amplify business influence, making "who governs the economy" a question about institutions, not just elections.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 28 (Federal Economic Governance)](ch28-federal-governance.md) describes the government institutions these associations lobby.
+- [Chapter 30 (Labor Markets)](ch30-labor.md) covers labor's countervailing organization, and how it compares in scale and method.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) and the other sector chapters each describe their own trade associations in context.
+- [Chapter 21 (Trade)](../part4/ch21-trade.md) shows trade associations at their most consequential, in tariff and agreement politics.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) covers the platform firms now among the largest lobbying spenders.
 
 ## Data Sources and Further Reading
 

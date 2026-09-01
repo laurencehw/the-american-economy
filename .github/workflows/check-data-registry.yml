@@ -1,0 +1,25 @@
+name: Check Data Registry
+
+on:
+  push:
+    paths:
+      - 'book/**/*.md'
+      - '_dev/refresh/**'
+      - '_dev/refresh_data.py'
+  pull_request:
+    paths:
+      - 'book/**/*.md'
+      - '_dev/refresh/**'
+      - '_dev/refresh_data.py'
+
+jobs:
+  check-registry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify the reconciliation registry still matches the manuscript
+        run: python3 _dev/refresh_data.py --check
+
+      - name: Run the reconciliation tests
+        run: python3 -m unittest discover -s _dev/tests -v

@@ -6,7 +6,7 @@ In September 2023, the United Auto Workers launched a strike against all three D
 
 Union membership has declined for decades, from 35% of private-sector workers in the 1950s to under 6% today. The total union membership rate---including public sector workers, where unions remain strong---stands at 9.9%, representing 14.3 million workers.
 
-**Union Membership Trends**
+**Table 30.1: Union Membership Trends**
 
 | Year | Total Rate | Private Sector | Public Sector |
 |------|-----------|----------------|---------------|
@@ -346,7 +346,7 @@ The American labor force includes 29 million foreign-born workers---about 18% of
 
 Foreign-born workers are overrepresented at both ends of the skill spectrum. They account for a disproportionate share of workers with less than a high school education (agriculture, construction labor, food preparation) and also a disproportionate share of workers with advanced degrees (medicine, engineering, computer science, academic research).
 
-**Foreign-Born Workers by Industry (2024)**
+**Table 30.2: Foreign-Born Workers by Industry (2024)**
 
 | Industry | Foreign-Born Share |
 |----------|-------------------|
@@ -439,7 +439,7 @@ Paid eldercare faces the same structural problems as childcare: the work is phys
 
 The connection between care infrastructure and labor supply is not speculative. International evidence is clear: countries that invest in subsidized childcare and parental leave have higher female labor force participation rates.
 
-**Female Labor Force Participation in Selected Countries (2023)**
+**Table 30.3: Female Labor Force Participation in Selected Countries (2023)**
 
 | Country | Rate | Public Childcare Spending (% of GDP) |
 |---------|------|--------------------------------------|
@@ -472,6 +472,16 @@ It is tempting to categorize childcare and eldercare as "social" issues distinct
 4. **Immigration shapes specific sectors profoundly**: Foreign-born workers account for 18% of the labor force, concentrated at both the high-skill and low-skill ends. The economic evidence indicates that immigrants complement rather than substitute for most native workers, though workers most similar to new immigrants may experience modest wage effects.
 
 5. **Care infrastructure constrains labor supply**: The United States' low public investment in childcare and eldercare helps explain why female labor force participation has plateaued below peer nations. Addressing care infrastructure is not just social policy---it is labor market and macroeconomic policy.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [the Interlude on inequality](../part1/interlude-inequality.md) supplies the distributional context for the wage structure analyzed here.
+- [Chapter 6 (Healthcare)](../part2/ch06-healthcare.md) and Chapter 15 are the two largest employing sectors, and both face structural labor shortages.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) covers the AI and automation technologies whose labor-market effects this chapter assesses.
+- [Chapter 26 (The West)](../part5/ch26-west.md) and Chapter 16 are where immigration's labor-supply role is most visible.
+- [Chapter 20 (Corporate Finance)](../part3/ch20-corporate-finance.md) connects executive compensation and private equity ownership to worker outcomes.
 
 ## Data Sources and Further Reading
 

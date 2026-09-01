@@ -20,7 +20,7 @@ The corridor's economic dominance reflects centuries of path dependence. Colonia
 
 The six states that comprise the corridor's core---Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, and Maryland---plus the District of Columbia together generated $5.7 trillion in GDP in 2023, 20% of the national total. Per capita income across these states averaged $77,000, well above the national figure of $70,000. But these averages mask enormous variation: Connecticut and Massachusetts lead at $90,000 per capita, while Pennsylvania trails at $68,000.
 
-**Combined Regional Statistics (2024)**
+**Table 23.1: Combined Regional Statistics (2024)**
 
 | Metro Area | GDP | Population | Economic Identity |
 |------------|-----|------------|-------------------|
@@ -173,7 +173,7 @@ The corridor's success has created its greatest challenge: housing costs that in
 
 All four corridor metros rank among the nation's most expensive housing markets. Strict zoning, limited new construction, and intense demand from high-wage workers have pushed prices to levels that exclude middle-class families. The crisis is most acute in Boston and New York, where median rents exceed $3,400 per month---requiring an income of $140,000 just to meet standard affordability guidelines.
 
-**Housing Cost Comparison (2024)**
+**Table 23.2: Housing Cost Comparison (2024)**
 
 | Metro | Median Rent | Median Home Price |
 |-------|-------------|-------------------|
@@ -293,6 +293,16 @@ The 2008 financial crisis demonstrated the shock transmission mechanisms analyze
 4. **The region leads in knowledge intensity**: A disproportionate share of NIH funding, research universities, and professional services concentrates here, even as manufacturing long ago departed.
 
 5. **Affordability is the corridor's central challenge**: All four metros rank among the nation's most expensive housing markets; the "missing middle" of housing supply constrains the labor pools that density requires.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 3 (The Geography of Production)](../part1/ch03-geography.md) supplies the agglomeration framework this chapter applies.
+- [Chapter 8 (Finance and Insurance)](../part2/ch08-finance-insurance.md) and Chapter 19 explain the finance industry that anchors New York.
+- [Chapter 15 (Education)](../part2/ch15-education.md) covers the university and research complex that anchors Boston.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) explains the housing constraint that is now the corridor's binding limit.
+- [Chapter 24 (The Sunbelt)](ch24-sunbelt.md) is the region competing for the corridor's firms and residents.
 
 ## Data Sources and Further Reading
 

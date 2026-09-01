@@ -6,7 +6,7 @@ To conclude this survey of the American economy, we must move beyond the sectora
 
 ## The View from 2026
 
-The statistical portrait of the United States in the mid-2020s is, by historical standards, remarkable. With a Gross Domestic Product exceeding $30 trillion, the American economy has not just recovered from the COVID-19 shock; it has left other developed economies behind. While Europe struggled with energy shocks and China grappled with property deflation and demographic pressure, the United States powered forward, driven by its perennial engine: the American consumer.
+The statistical portrait of the United States in the mid-2020s is, by historical standards, remarkable. With a nominal Gross Domestic Product of $27.8 trillion in 2023 and $29.2 trillion in 2024, the American economy has not just recovered from the COVID-19 shock; it has left other developed economies behind. While Europe struggled with energy shocks and China grappled with property deflation and demographic pressure, the United States powered forward, driven by its perennial engine: the American consumer.
 
 Yet the view from Main Street differs from the view in macroeconomic data. The "vibecession" of 2023-2024 revealed a persistent gap between aggregate statistics and lived experience: households care less about the rate of change than the level of prices. That eggs no longer cost $5 a dozen is small comfort when the memory of $2 eggs remains fresh. The rapid increase in interest rates---from near-zero to over 5%---has created a bifurcated society. For the two-thirds of American households who own homes, many locked in at 3% mortgages, the new rate environment is an abstraction. For the young family trying to buy their first home, it is a crushing barrier that has effectively doubled the cost of shelter.
 
@@ -49,6 +49,8 @@ American economic institutions differ markedly from those of peer nations. Feder
 
 The institutional differences catalogued above are easier to grasp in comparative perspective. The table below sets the United States against two other major economic blocs---the European Union and the leading economies of East Asia (principally Japan and South Korea)---across eight structural dimensions. The comparison is necessarily stylized; each bloc contains internal variation. But the broad patterns are instructive.
 
+**Table 31.1: How the U.S. Compares: A Structural Overview**
+
 | Dimension | United States | European Union | East Asia (Japan/S. Korea) |
 |-----------|--------------|----------------|---------------------------|
 | **Role of government** | Limited direct intervention; regulation-light at the federal level; large fiscal footprint via defense, entitlements, and tax expenditures | Extensive regulatory state; active in consumer protection, environmental standards, and competition policy; fiscal policy constrained by Stability and Growth Pact | Developmental state tradition; government guides strategic sectors through planning agencies, directed credit, and public-private coordination |
@@ -59,6 +61,8 @@ The institutional differences catalogued above are easier to grasp in comparativ
 | **Social safety net** | Residualist model; means-tested programs; limited unemployment duration; no universal family policy; safety net expanded temporarily during COVID | Comprehensive welfare states; generous unemployment insurance; universal family benefits; pension systems facing demographic pressure | Firm-based welfare in Japan giving way to public programs; Korea rapidly expanding social spending from a low base; family as traditional safety net |
 | **Innovation model** | University-driven basic research; deep venture capital markets; high tolerance for failure; immigration of global talent; winner-take-all dynamics | Public research institutions; Horizon Europe framework; strong in incremental industrial innovation; weaker in disruptive startups; fragmented capital markets | Corporate R&D dominance; incremental manufacturing process innovation; strong patent activity; weaker in software and platform businesses; limited venture ecosystem |
 | **Corporate governance** | Shareholder primacy; quarterly earnings pressure; active market for corporate control; high executive compensation; deep equity culture | Stakeholder models; codetermination in Germany; weaker takeover markets; lower executive pay; greater emphasis on social license | Keiretsu and chaebol structures; cross-shareholding networks; relationship banking; long-term orientation but governance opacity; reform pressures mounting |
+
+*Source: Author's synthesis from OECD, World Bank, and national statistical agency indicators*
 
 Several patterns emerge from this comparison. The most fundamental is the American economy's distinctive bargain: it trades equality and security for dynamism and flexibility. The United States tolerates levels of income inequality, labor market churn, and social risk that European and East Asian societies have historically found unacceptable. In return, it generates rates of new firm formation, disruptive innovation, and aggregate growth that its peers struggle to match. This is not an unambiguous win. The American model produces both the world's most valuable technology companies and the highest poverty rate among advanced economies. It attracts the globe's most ambitious talent and leaves tens of millions of its own citizens without adequate healthcare. The trade-off is real, and reasonable people disagree about whether the terms are worth it.
 
@@ -153,6 +157,16 @@ That question cannot be answered by economic analysis alone. It depends on polit
 4. **Persistent tensions will define the coming decades**: Geographic divergence, cost disease in healthcare and housing, and fiscal sustainability are structural problems that growth alone does not solve.
 
 5. **The central question is distributional, not aggregative**: Whether the economy's gains are shared broadly across people and places---or concentrate further---is a political choice that economics can illuminate but not make.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 1 (The American Economy in Numbers)](../part1/ch01-economy-in-numbers.md) is the statistical portrait this chapter interprets.
+- [Chapter 32 (How Shocks Move Through the Economy)](ch32-shock-transmission.md) provides the analytical machinery for the vulnerabilities identified here.
+- [the Interlude on inequality](../part1/interlude-inequality.md) supplies the distributional evidence behind the 'vibecession' discussion.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) covers the AI transformation this chapter identifies as one of three simultaneous transitions.
+- [Chapter 14 (Energy)](../part2/ch14-energy.md) covers the energy transition, the second of the three.
 
 ## Data Sources and Further Reading
 

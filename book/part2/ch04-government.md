@@ -18,7 +18,7 @@ The result: a system that is simultaneously massive and fragmented, powerful and
 
 ### Revenue: Where the Money Comes From
 
-**Federal Revenue** (roughly $4.5 trillion, FY 2023):
+**Table 4.1: Federal Revenue by Source (FY 2023, $4.5 trillion)**
 
 | Source | Amount | Share |
 |--------|--------|-------|
@@ -32,7 +32,7 @@ The result: a system that is simultaneously massive and fragmented, powerful and
 
 The federal government runs persistent deficits---spending exceeding revenue by $1-2 trillion annually since 2020. The difference is financed by borrowing (Treasury bonds), adding to the $35+ trillion national debt.
 
-**State and Local Revenue** (roughly $4 trillion):
+**Table 4.2: State and Local Revenue by Source ($4.0 trillion)**
 
 | Source | Amount | Share |
 |--------|--------|-------|
@@ -49,7 +49,7 @@ State and local governments are generally required to balance their operating bu
 
 ### Spending: What Government Buys
 
-**Federal Spending by Function** (roughly $6.7 trillion, FY 2024):
+**Table 4.3: Federal Spending by Function (FY 2024, $6.7 trillion)**
 
 | Category | Amount | Share | Notes |
 |----------|--------|-------|-------|
@@ -71,7 +71,7 @@ State and local governments are generally required to balance their operating bu
 
 The critical distinction: **mandatory spending** (Social Security, Medicare, Medicaid, interest) happens automatically based on eligibility laws. **Discretionary spending** requires annual appropriations. Mandatory spending is roughly 70% of the budget and growing; discretionary is roughly 30% and squeezed.
 
-**State and Local Spending by Function** (roughly $3.5 trillion net):
+**Table 4.4: State and Local Spending by Function ($3.5 trillion net)**
 
 | Category | Share | Primary Level |
 |----------|-------|---------------|
@@ -90,7 +90,7 @@ Education is by far the largest state/local function, accounting for over a thir
 
 Government directly employs 23 million Americans---about 14% of total employment. The composition matters:
 
-**Federal Civilian Workforce** (2.2 million):
+**Table 4.5: Federal Civilian Employment by Department (2.2 million)**
 
 | Department/Agency | Employment | Notes |
 |-------------------|------------|-------|
@@ -108,7 +108,7 @@ Government directly employs 23 million Americans---about 14% of total employment
 
 The federal civilian workforce has been roughly flat for 50 years despite enormous growth in federal spending---a result of contracting out, automation, and grants to states rather than direct federal employment.
 
-**Military Personnel** (1.3 million active duty):
+**Table 4.6: Military Personnel by Branch (1.3 million active duty)**
 
 | Branch | Active Duty | Reserves/Guard |
 |--------|-------------|----------------|
@@ -123,7 +123,7 @@ The federal civilian workforce has been roughly flat for 50 years despite enormo
 
 Plus roughly 800,000 civilian DOD employees and millions of contractor employees.
 
-**State Government Employment** (5.2 million):
+**Table 4.7: State Government Employment by Function (5.2 million)**
 
 | Function | Share |
 |----------|-------|
@@ -138,7 +138,7 @@ Plus roughly 800,000 civilian DOD employees and millions of contractor employees
 
 State employment is dominated by higher education---public university faculty, staff, and administrators.
 
-**Local Government Employment** (14.5 million):
+**Table 4.8: Local Government Employment by Function (14.5 million)**
 
 | Function | Share |
 |----------|-------|
@@ -161,16 +161,18 @@ Local government employment is dominated by schools: teachers, administrators, a
 
 Beyond payroll, government purchases vast amounts of goods and services from the private sector:
 
-**Federal Procurement** (roughly $700 billion annually):
+**Table 4.9: Federal Procurement by Category ($700 billion annually)**
 
 | Category | Amount |
 |----------|--------|
 | Defense contracts | $450B |
 | Civilian agency contracts | $250B |
 
+*Source: USASpending.gov, federal contract awards, FY 2023*
+
 Federal procurement is governed by the Federal Acquisition Regulation (FAR), a dense set of rules covering everything from competitive bidding to small business set-asides to labor standards.
 
-**Major Federal Contractors** (by contract value):
+**Table 4.10: Largest Federal Contractors (FY 2023)**
 
 | Rank | Company | FY2023 Contracts | Primary Business |
 |------|---------|------------------|------------------|
@@ -215,7 +217,7 @@ Federal civilian employment is concentrated in several clusters:
 - Denver (land management agencies)
 - Baltimore (Social Security Administration, other agencies)
 
-**Federal Presence by State** (federal employment per capita):
+**Table 4.11: Federal Employment Intensity by State**
 
 | Highest | Per 1,000 | Lowest | Per 1,000 |
 |---------|-----------|--------|-----------|
@@ -224,6 +226,8 @@ Federal civilian employment is concentrated in several clusters:
 | Maryland | 22 | Ohio | 5.0 |
 | Hawaii | 18 | Minnesota | 5.0 |
 | Alaska | 17 | Oregon | 5.5 |
+
+*Source: Office of Personnel Management FedScope employment counts and Census Bureau population estimates, 2023*
 
 States with military bases, federal lands, or proximity to DC have high federal employment; Midwest manufacturing states have low federal presence.
 
@@ -289,6 +293,8 @@ Public education spending (roughly $900 billion K-12, roughly $500 billion highe
 Beyond spending and employment, government shapes the economy through regulation:
 
 ### Major Regulatory Agencies
+
+**Table 4.12: Major Federal Regulatory Agencies**
 
 | Agency | Domain | Budget | Employees |
 |--------|--------|--------|-----------|
@@ -466,6 +472,16 @@ Taken together, the nonprofit sector represents a distinctive feature of America
 4. **Independent institutions insulate some decisions from politics**: The Federal Reserve sets monetary policy, while statistical agencies (BEA, BLS, Census) produce the data that anchors public debate---both face recurring pressure on their independence.
 
 5. **The budget process has degraded**: Continuing resolutions, debt-ceiling brinkmanship, and the absence of regular appropriations have replaced orderly fiscal decision-making, even as scorekeepers (CBO, GAO, OMB) continue to track the numbers.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 28 (Federal Economic Governance)](../part6/ch28-federal-governance.md) looks inside the federal apparatus this chapter sizes, at how policy is actually made.
+- [Chapter 6 (Healthcare)](ch06-healthcare.md) is where the largest share of federal spending goes: Medicare and Medicaid dominate the budget tables here.
+- [Chapter 27 (Rural America)](../part5/ch27-rural.md) shows what federal transfers mean in places where they are the largest single income source.
+- [Chapter 29 (Trade Associations)](../part6/ch29-trade-associations.md) describes the organized interests that shape the spending and regulation catalogued here.
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) covers public-sector unions, which now account for the majority of remaining union membership.
 
 ## Data Sources and Further Reading
 

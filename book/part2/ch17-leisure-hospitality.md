@@ -25,6 +25,8 @@ The sector's employment footprint is enormous relative to its economic output. F
 
 ### Key Subsectors
 
+**Table 17.1: Leisure and Hospitality Subsectors**
+
 | Subsector | Employment | Establishments | Annual Revenue |
 |-----------|-----------|----------------|----------------|
 | Restaurants and food services | 12.4 million | 1,000,000+ | $1.1 trillion |
@@ -124,6 +126,8 @@ The leisure and hospitality sector is simultaneously one of the most concentrate
 
 **Fast food and fast casual**: The segment is dominated by a small number of enormous chains.
 
+**Table 17.2: Largest U.S. Restaurant Chains**
+
 | Company | US Locations | US System Sales | Headquarters |
 |---------|-------------|----------------|--------------|
 | McDonald's | 13,400 | $53 billion | Chicago, IL |
@@ -144,6 +148,8 @@ Chick-fil-A is the outlier. With fewer than 3,000 locations (compared to McDonal
 ### Hotels
 
 The global hotel industry is dominated by five companies that together control over 40% of US rooms:
+
+**Table 17.3: Largest U.S. Hotel Companies**
 
 | Company | US Hotels | US Rooms | Revenue | Model |
 |---------|-----------|----------|---------|-------|
@@ -202,6 +208,8 @@ These seasonal economies face acute labor challenges---they need workers for fou
 ### The Largest Low-Wage Employer
 
 Leisure and hospitality is the largest low-wage employer in the American economy. The median hourly wage across the sector is $16.60---the lowest of any major industry and 60% of the all-industry median. Nearly half of all workers earning at or below the federal minimum wage work in food service.
+
+**Table 17.4: Key Leisure and Hospitality Occupations**
 
 | Occupation | Employment | Median Hourly Wage |
 |------------|-----------|-------------------|
@@ -273,6 +281,8 @@ The FDA Food Code provides a model framework for food safety that most states ad
 Destination marketing organizations (DMOs), often funded through hotel occupancy taxes, promote tourism at the city, regional, and state level. The combined spending on tourism promotion by state and local governments exceeds $2 billion annually. Brand USA, the national tourism marketing entity created in 2010, promotes inbound international travel.
 
 ## Trade Associations and Lobbying
+
+**Table 17.5: Major Hospitality Trade Associations**
 
 | Association | Members/Focus | Key Issues |
 |-------------|---------------|------------|
@@ -398,6 +408,16 @@ Despite the controversy, Live Nation's financial performance has been extraordin
 6. **Geographic concentration is intense**: Las Vegas, Orlando, New York, and Honolulu capture a disproportionate share of hotel revenue and tourism employment, while seasonal destinations face boom-and-bust labor cycles.
 
 7. **Technology and delivery platforms are reshaping the sector**, from ghost kitchens and mobile ordering to dynamic pricing and automated service---though the fundamental labor intensity of hospitality limits the pace of transformation.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 30 (Labor Markets)](../part6/ch30-labor.md) analyzes the low-wage labor market this sector defines, including minimum wage and scheduling law.
+- [the Interlude on inequality](../part1/interlude-inequality.md) places hospitality wages in the broader distribution.
+- [Chapter 24 (The Sunbelt)](../part5/ch24-sunbelt.md) and Chapter 26 host the tourism economies where this sector dominates regional employment.
+- [Chapter 10 (Retail and Wholesale)](ch10-retail-wholesale.md) shares this sector's workforce and its exposure to consumer spending cycles.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) uses the April 2020 collapse described here as the clearest case of a demand shock.
 
 ## Data Sources and Further Reading
 

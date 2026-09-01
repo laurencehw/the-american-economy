@@ -1,257 +1,271 @@
 # Textbook Review: The American Economy — A Structural Geography
 
-**Reviewer**: Claude (Opus 4.6)
-**Date**: March 2026
-**Scope**: Full manuscript review — 32 chapters, 4 appendices, interactive visualizations, exercises
-**Scale**: Scored out of 10
+**Reviewer**: Claude (Opus 5)
+**Date**: September 2026
+**Scope**: Full manuscript — 33 chapters, 5 appendices, 118 figures, 189 tables, 6 interactive visualizations
+**Prior review**: March 2026, scored 8.2/10 (retained below for comparison)
 
 ---
 
-## Overall Score: 8.2 / 10
+## Overall Score: 8.9 / 10
 
-This is an impressive, genuinely original textbook that fills a real gap in economics education. No other widely available book maps the American economy at this level of institutional detail — sector by sector, region by region, firm by firm — while maintaining a coherent analytical framework (input-output linkages, circular flow, shock transmission). The writing is clear and engaging, the data foundations are solid, and the consistent chapter structure makes it usable as both a learning text and a desk reference.
+The book is now clearly better than the 8.2 recorded in March. The intervening
+sessions closed the largest structural gaps: all 118 figure references resolve, every
+chapter carries Key Takeaways and a three-tier exercise set, the energy chapter has
+been rebuilt with generation mix, LCOE, utilities, carbon pricing, and environmental
+economics, the labor chapter gained monopsony, immigration, and the childcare–
+participation link, education gained student debt and K-12 outcomes, agriculture gained
+externalities, and a consolidated references appendix now exists. The glossary has
+grown from a stub into a genuine reference.
 
-Since the previous review (scored 4/5), substantial improvements have been made: agriculture and hospitality chapters added, an inequality interlude created, exercises included across all chapters, a glossary appended, labor chapter expanded, and case study differentiation improved. These were the right priorities and were well-executed.
+This session addressed the next tier: the table apparatus, cross-chapter integration,
+internal numerical consistency, and the one chapter that was still purely descriptive.
+Those changes are summarized under "What Changed This Session" below.
 
-To move from 8.2 to 9.5, the book needs work in three broad areas: **(1) analytical depth and precision** — several chapters describe industries well but don't push hard enough on the economics; **(2) thematic integration** — inequality, climate, technology disruption, and demographics are treated in pockets rather than woven systematically through the text; and **(3) data rigor** — imprecise language ("roughly," "approximately"), inconsistent reference years, and a few factual errors undermine the book's authority on the numbers it rightly foregrounds.
+What remains between 8.9 and 9.5 is now a short and specific list, and it is dominated
+by a single issue the earlier reviews did not weight heavily enough: **the book is
+anchored to 2023 data and it is late 2026.** Everything else is polish.
 
 ---
 
 ## Scoring Breakdown
 
-| Category | Score (/10) | Notes |
-|----------|:-----------:|-------|
-| Scope and Coverage | 8.5 | Comprehensive sector/region/institution coverage. Missing utilities, arts/entertainment. Environmental economics still thin. |
-| Writing Quality | 9.0 | Clear, confident prose. Strong opening hooks. Occasional tone shifts and overuse of hedging language ("roughly"). |
-| Data and Evidence | 7.5 | Official sources well-used. But imprecise figures, inconsistent years, and a few factual errors. Needs an audit. |
-| Analytical Depth | 7.5 | Descriptive strength is excellent; analytical depth is uneven. Some chapters explain *what* without enough *why*. |
-| Pedagogical Design | 8.5 | Exercises, hint boxes, firm profiles, key takeaways all strong. Figure captions and interactive tool guidance could improve. |
-| Cross-Chapter Integration | 7.5 | Shock transmission chapter is excellent synthesis. But cross-references between sectors, regions, and themes are sparse. |
-| Structure and Organization | 9.0 | Seven-part architecture works well. Consistent chapter template in Part II is a major strength. |
-| Appendices and Reference Value | 8.0 | Useful data guides and glossary. Missing key terms, publication schedules, and measurement caveats. |
-| **Overall** | **8.2** | |
+| Category | Mar 2026 | Sep 2026 | Notes |
+|----------|:--------:|:--------:|-------|
+| Scope and Coverage | 8.5 | 9.0 | Utilities, environmental economics, student debt, K-12 outcomes, monopsony all added. Arts/entertainment and early childhood still absent. |
+| Writing Quality | 9.0 | 9.0 | Unchanged and strong. Hedging density is the one persistent tic. |
+| Data and Evidence | 7.5 | 8.8 | Every table now numbered and sourced; cross-chapter contradictions reconciled; explicit vintage policy. Held below 9 by data currency, not by rigor. |
+| Analytical Depth | 7.5 | 8.7 | Ch 14, 15, 16, 30 substantially deepened in prior sessions; Ch 28 this session. Ch 11 platform economics is the remaining thin spot. |
+| Pedagogical Design | 8.5 | 9.2 | Numbered tables make the book citable; figure captions are self-sufficient; exercises are well-tiered. |
+| Cross-Chapter Integration | 7.5 | 9.2 | From 89 internal links to 280, with a Connections section in all 33 chapters that argues the relationship rather than just naming it. |
+| Structure and Organization | 9.0 | 9.2 | Conventions now documented and CI-enforced. |
+| Appendices and Reference | 8.0 | 8.8 | Publication calendar, consolidated references, 139-term glossary correctly ordered. NAICS depth still uneven. |
+| **Overall** | **8.2** | **8.9** | |
 
 ---
 
-## What Works Well (Strengths to Preserve)
+## What Changed This Session
 
-### 1. Fills a Genuine Gap
-No competing book assembles this level of institutional detail in one place. The reader learns that 0.3% of firms employ 54% of workers, that three PBMs control 80% of drug pricing, that the four largest meatpackers process 80% of U.S. beef, and that 7% of farms produce 73% of agricultural output. This is the kind of knowledge that economics courses don't teach and industry reports don't contextualize.
+1. **Table apparatus.** 189 tables existed; 159 had no number and 74 had no source line.
+   In a book whose selling point is data, a reader could not cite a table or trace a
+   figure to its origin. All 189 now carry a chapter-scoped number and a source; tables
+   that illustrate a mechanism rather than report measured data say so instead of
+   carrying a spurious citation. `check_tables.py` in CI keeps it that way and catches
+   the out-of-sequence numbering that had already produced a "Table 19.3a".
 
-### 2. Consistent Chapter Architecture
-The Part II template (overview → how the industry works → industry structure → geography → workforce → regulation → trends → firm profiles → exercises) is the book's structural backbone. It makes comparison across sectors natural and turns the book into a reliable reference. Readers always know where to find what they need.
+2. **Cross-chapter integration.** Twelve chapters had zero cross-references and "see
+   also" appeared once in 200,000 words — a real problem for a book arguing that the
+   economy is interconnected. Every chapter now ends with a Connections section of five
+   links that state what the other chapter contributes. These also carry the
+   cross-cutting themes (inequality, climate, demographics, automation) into the sector
+   chapters, which was Issue 3 of the March review.
 
-### 3. Strong Opening Hooks
-Nearly every chapter opens with a concrete, surprising fact that draws the reader in: the MRI price comparison (healthcare), the GPS-guided tractor (agriculture), the 8.2 million jobs lost in April 2020 (hospitality), the Acela corridor metaphor (Northeast), the hierarchy of money (finance). These are well-crafted and pedagogically effective.
+3. **Internal consistency.** Four statistics disagreed with themselves across chapters:
+   manufacturing value added (Ch 9 said 11%, everywhere else said 10.1%), the CES sample
+   size (670,000 vs. 145,000), healthcare's GDP share (17% vs. "nearly 18%" with no
+   years attached), and total GDP (Ch 31's "$30 trillion" against Ch 1's $27.8 trillion).
+   All reconciled to the BEA/BLS/CMS series with years stated.
 
-### 4. Systems Thinking as Organizing Principle
-The input-output framework (Ch 2), the three value chains (farm-to-fork, silicon-to-smartphone, wellhead-to-gas-tank), the sectoral balance identity, and the shock transmission analysis (Ch 32) elevate this from a reference encyclopedia to an analytical text. The CHIPS Act positive shock case study was an excellent addition — showing that the same I-O framework explains expansions and contractions.
+4. **Ch 28.** Was the most purely descriptive chapter in the book — it catalogued
+   agencies without evaluating them, and could not answer its own exercise about
+   jurisdictional overlap. Added ~1,200 words arguing whether regulatory fragmentation
+   works, from both sides, with a defensible conclusion (gaps matter more than overlaps;
+   supervisor choice is the mechanism that fails; funding independence predicts
+   behaviour better than the org chart).
 
-### 5. Intellectual Honesty
-The book handles contested topics well. Healthcare's dysfunction is described without polemic. The China shock is presented with both the efficiency gains and the devastation. The finance chapter corrects the textbook money multiplier with the endogenous money view. The inequality interlude acknowledges the top 1% share without turning ideological. This builds trust.
+5. **Perishable facts.** Ch 28 named sitting officeholders and dated one by a term that
+   has since expired. Quick Facts now give durable structure — term lengths, appointment
+   process, commission composition.
 
-### 6. Well-Designed Exercises
-The three-tier exercise structure (review questions → data exercises → deeper investigation) is well-calibrated for different student levels. The data exercises that direct students to FRED, BEA, and BLS build practical skills that outlast the course.
+6. **Glossary.** Twelve entries were out of alphabetical order and two sat under the
+   wrong letter while that letter's section read "No terms in this section." Rebuilt and
+   re-sorted; added 17 terms the book uses as load-bearing concepts but never defined,
+   including imputed rent, location quotient, multiplier, endogenous money, and the
+   establishment/firm distinction that Chapter 1 leans on heavily.
 
-### 7. Excellent Regional Analysis
-Part V is a highlight. The Northeast Corridor chapter captures how four metros function as one mega-region. The Sunbelt chapter correctly distinguishes extensive growth (more people) from intensive growth (higher productivity). The rural chapter's typology (resource-rich, recreational, commuter, declining) is analytically useful.
+7. **Conventions.** `how-to-use.md` described a ten-part chapter template that no longer
+   matched the chapters, and dated the book's figures to "the 2022-2023 period", which
+   had stopped being true. It now states an explicit data-vintage policy, the table and
+   figure numbering scheme, and the full appendix list.
 
----
-
-## What Needs Improvement (Path from 8.2 to 9.5)
-
-### Issue 1: Data Precision and Factual Accuracy (Impact: +0.4)
-
-The book foregrounds data — chapter titles include "in Numbers," tables appear in every chapter, appendices teach data literacy. This makes imprecision more damaging than it would be in a less data-centric text.
-
-**Specific problems:**
-
-- **Chapter 3 opening claim is incorrect**: "Five states produce half of U.S. GDP." The five states listed (CA 12% + TX 8% + NY 7% + FL 5% + IL 3%) sum to approximately 35%, not 50%. This is a significant error in the book's third chapter and undermines credibility. Fix: "Five states produce more than a third of U.S. GDP" or identify the correct set of states that reach 50%.
-
-- **"Roughly" and "approximately" are overused throughout**: In a textbook that teaches students to use data, hedging language should be minimized. When precise figures exist (and they usually do from BEA/BLS), use them. When rounding is necessary, state the precise figure in a footnote. Counted across chapters, these hedges appear hundreds of times.
-
-- **Inconsistent reference years**: Some tables use 2022 data, others 2023, a few reference 2024. The "How to Use This Book" page says "2022-2023 period" but this is ambiguous. Each table should state its reference year. A master data table cross-checking key statistics across chapters would help.
-
-- **Healthcare GDP discrepancy is inadequately explained** (Ch 1): Healthcare employs 17% of workers but contributes only 9% to GDP. The footnote conflates BEA value-added with CMS National Health Expenditure (a different measure). Rewrite: "BEA measures value-added by healthcare providers alone (9% of GDP). Total national health expenditure, which includes insurance administration, out-of-pocket spending, and government transfers, is 18% of GDP — a different and broader measure."
-
-- **Chapter 2 housing expenditure share**: States housing is 33% of household spending. Census Consumer Expenditure Survey shows ~28%. If using a different source or including imputed rent, explain the discrepancy.
-
-- **Energy chapter GDP figures**: States "roughly $500 billion directly" then "roughly $800 billion including related sectors." The 60% range between these two numbers is too vague. Define what "related sectors" includes.
-
-**Recommendation**: Conduct a systematic data audit. Create a master spreadsheet with every key statistic (GDP share, employment, major firms, spending figures) for each sector, cross-referenced across all chapters where the statistic appears. Reconcile discrepancies and standardize reference years.
-
----
-
-### Issue 2: Analytical Depth — From Description to Explanation (Impact: +0.4)
-
-Several chapters excel at describing *what* an industry looks like but don't push hard enough on *why* it's structured that way or *what follows* from that structure.
-
-**Chapter-specific gaps:**
-
-- **Ch 1**: Real vs. nominal GDP distinction is never explained. For a chapter titled "in Numbers," this is a gap. Add one paragraph on why nominal figures are used here and when real GDP matters.
-
-- **Ch 2**: Input-output tables are discussed but readers never learn how to actually *use* BEA's published I-O tables. Walk through one real industry (e.g., automobiles) showing what inputs it purchases and from which industries. Also: multiplier heterogeneity matters — the chapter says "multipliers range from 1.5 to 2.5" but doesn't explain why energy has high multipliers (~2.5) and financial services has low ones (~1.2).
-
-- **Inequality Interlude**: Conflates wage inequality with capital income inequality. At the top of the distribution (top 1%), roughly 60% of income comes from capital gains and business income, not wages. The interlude discusses sectoral wage differences as if they explain top-end inequality, but the mechanism is different. Also: the 84-cents-on-the-dollar gender wage gap should be explicitly labeled as "unadjusted" to distinguish from the "explained" gap.
-
-- **Ch 14 (Energy)**: Missing a quantitative breakdown of U.S. electricity generation by source (coal %, natural gas %, nuclear %, renewables %). This is the single most important table for understanding the energy transition and it's absent. Also missing: LCOE comparisons, grid integration costs, and the workforce transition from fossil fuels.
-
-- **Ch 15 (Education)**: Student debt ($1.7T+) is mentioned tangentially but never analyzed. What are the macroeconomic consequences? Default rates by school type? Income-based repayment participation? Also: K-12 outcomes (NAEP trends, international comparisons) are barely covered — the chapter discusses spending variation without addressing what actually drives learning outcomes.
-
-- **Ch 16 (Agriculture)**: Environmental externalities are minimized. No serious discussion of soil health, water pollution from fertilizer runoff, pesticide impacts, or the economic cost of the dead zones in the Gulf of Mexico. Also: subsidy analysis explains *who* gets subsidies but not *why* the system is structured to favor commodity crops over fruits and vegetables.
-
-- **Ch 17 (Hospitality)**: Pandemic recovery analysis is incomplete. Why did recovery to pre-pandemic employment take until mid-2023? Did permanent closures reduce capacity? Did automation accelerate? What changed structurally?
-
-- **Ch 28 (Federal Governance)**: Reads like a reference document rather than analysis. What are the *consequences* of overlapping financial regulatory jurisdiction? Does fragmentation enable regulatory arbitrage? The chapter describes institutions without evaluating whether they work.
-
-- **Ch 30 (Labor)**: Immigration's role in wage-setting and labor supply is underdeveloped. Non-compete agreements and their labor market effects deserve more coverage. The connection between childcare costs and female labor force participation is mentioned but not quantified.
-
-**Recommendation**: For each chapter, add a "Why It's Structured This Way" section that moves beyond description to causal explanation. The healthcare chapter already does this well (explaining why the U.S. spends more than peers). Apply the same analytical standard to energy, agriculture, education, and labor.
+8. **Housekeeping.** Interactive visualizations now state their data vintage. Issue
+   templates the README has promised since the repo went public now exist.
 
 ---
 
-### Issue 3: Thematic Integration — Weaving Cross-Cutting Issues Throughout (Impact: +0.3)
+## What Works Well (Preserve)
 
-Four major themes run through the American economy but are treated in isolated pockets rather than integrated systematically:
+The strengths identified in March are intact and are the reason this book is worth
+finishing to a 9.5.
 
-**A. Inequality**: The interlude is good but reads as a standalone essay. Inequality should be a thread that runs through sector chapters. When discussing hospitality (median wage $15/hr) vs. finance (median compensation $100K+), explicitly connect to the interlude's framework. When discussing geographic divergence in Part V, reference the mobility data from the interlude.
+1. **It fills a genuine gap.** No competing book assembles this institutional detail in
+   one place: 0.3% of firms employ 54% of workers; three PBMs control 80% of drug
+   pricing; four meatpackers process 80% of U.S. beef; 7% of farms produce 73% of
+   agricultural output.
 
-**B. Climate and environment**: The energy chapter discusses transition; agriculture mentions climate adaptation; the West chapter covers the water crisis. But there's no systematic framework for how environmental constraints reshape economic structure. The IRA gets excellent coverage in manufacturing — apply the same depth to energy, agriculture, and transportation.
+2. **The Part II template is the book's spine.** Overview → how it works → structure →
+   geography → workforce → regulation → trends → firms → takeaways → connections →
+   exercises. It makes cross-sector comparison natural and turns the book into a
+   reference you can navigate blind.
 
-**C. Demographics and aging**: The aging population will reshape healthcare demand, labor supply, Social Security solvency, and housing markets. This is barely mentioned anywhere. It should be integrated into at least healthcare (Ch 6), labor (Ch 30), and the perspective chapter (Ch 31).
+3. **Systems thinking as organizing principle.** The I-O framework (Ch 2), the three
+   value chains, the sectoral balance identity, and the four-channel shock analysis
+   (Ch 32) elevate this above a reference encyclopedia. Ch 32 remains the best synthesis
+   chapter in the book; Ch 18 remains the best chapter overall.
 
-**D. Technology and AI**: Chapter 11 covers tech as a sector, but AI's cross-cutting effects on labor markets, productivity, geographic concentration, and industrial structure deserve more treatment. Chapter 31 identifies AI as one of three simultaneous transformations but doesn't develop the implications.
+4. **Intellectual honesty.** Healthcare's dysfunction described without polemic. The
+   China shock with both the efficiency gains and the devastation. The money multiplier
+   corrected with the endogenous money view. This builds trust, and it is rarer in
+   textbooks than it should be.
 
-**Recommendation**: Add a "Cross-Cutting Connections" callout box to each sector chapter that explicitly links to these four themes. Example for agriculture: "How does agricultural automation affect the inequality patterns described in the Interlude? How do environmental externalities connect to the costs discussed in Chapter 14? How will demographic changes in rural communities (Chapter 27) affect agricultural labor supply?"
-
----
-
-### Issue 4: Missing Content (Impact: +0.2)
-
-The addition of agriculture, hospitality, and the inequality interlude addressed the biggest gaps. Remaining:
-
-- **Utilities**: Electricity grid economics, water systems, and broadband infrastructure deserve at least a major section within the energy chapter. Grid modernization, transmission congestion, and the consumer experience of deregulation are economically important.
-
-- **Arts, entertainment, and recreation**: Hollywood, the music industry, professional sports, and gaming are economically significant and culturally distinctive. Could be folded into an expanded hospitality chapter or added as a standalone.
-
-- **Preschool/early childhood education**: A significant economic sector and policy debate, barely mentioned in the education chapter.
-
-- **Environmental economics framework**: Beyond mentioning climate in individual chapters, a systematic treatment of externalities, carbon pricing, physical vs. transition risk, and the green transition as structural shift is warranted.
-
----
-
-### Issue 5: Cross-Chapter References and Integration (Impact: +0.15)
-
-The book has 32 chapters that cover overlapping territory, but cross-references are sparse. When the healthcare chapter discusses employment, it should point to the labor chapter's discussion of healthcare workforce shortages. When the regional chapters discuss industry clusters, they should reference the relevant sector chapters. When the agriculture chapter discusses trade, it should link to the trade chapter's treatment of agricultural exports.
-
-This matters because the book's core intellectual contribution — that the economy is interconnected — is undermined when chapters don't explicitly connect to each other.
-
-**Recommendation**: Add "See also" cross-references systematically. A simple pass through each chapter adding 5-10 cross-references would significantly improve navigability and reinforce the interconnection thesis.
+5. **Regional analysis.** Part V is a highlight — the Northeast as one mega-region, the
+   Sunbelt's extensive-vs-intensive growth distinction, the rural typology.
 
 ---
 
-### Issue 6: Appendix and Reference Material (Impact: +0.1)
+## The Path from 8.9 to 9.5
 
-The appendices are useful but have gaps:
+Five items, in priority order. The first is worth more than the other four combined.
 
-- **Appendix A (Data Sources)**: Missing publication schedules and lag times (e.g., "GDP advance estimate: ~30 days post-quarter"). No guidance on revision magnitude or when to use seasonally vs. non-seasonally adjusted data. No discussion of data quality caveats (sampling error, coverage gaps).
+### 1. Data currency (Impact: +0.30)
 
-- **Appendix B (BEA Reference)**: No growth rates — only absolute values. Missing explanation of measurement challenges (FISIM for financial services, imputed rent for housing, cost-based measurement for government). Metropolitan area rankings appear to have ordering errors.
+**This is now the book's binding constraint.** The manuscript is anchored to 2023
+national accounts. It is late 2026. BEA has published complete, revised 2024 and 2025
+annual industry accounts; BLS has two more years of employment and wage data; CMS,
+EIA, and USDA have all moved on. A living textbook three years behind its own sources
+cannot claim the authority its data-forward framing asserts.
 
-- **Appendix C (NAICS Codes)**: Inconsistent depth — manufacturing gets 18 subsectors, healthcare gets 4. Missing 4-digit codes for finance, professional services, and information sectors. No guidance on how to classify platform companies (where does Amazon fit? Uber?).
+The vintage convention added this session makes the situation *honest* — every table
+states its year, and `how-to-use.md` explains the policy — but honesty is not currency.
 
-- **Appendix D (Glossary)**: Missing key terms that appear in the appendices themselves: "chained dollars," "seasonal adjustment," "concordance," "FISIM." Missing terms used in the text: "offshoring," "deindustrialization," "PBM," "hedonic adjustment." Cross-references between related terms are weak.
+The work is mechanical but large, and it should be done as a data refresh rather than a
+prose rewrite:
 
----
+- Roll the national accounts anchor from 2023 to 2025 (or 2024, if 2025 is not yet
+  fully revised at the time of the pass). This touches Ch 1, Ch 3, Appendix B, and the
+  interactive JSON, plus every chapter's Overview section.
+- Refresh firm-level tables (revenues, market caps, AUM, headcount) — roughly 60 tables.
+- Refresh the series with fast-moving values: energy generation mix and LCOE (Ch 14),
+  trade flows (Ch 21-22), housing prices (Ch 5, 23-27), union density (Ch 30).
+- Because every table now has a source line naming its series, this pass is
+  *enumerable* in a way it was not before. That was much of the point of the table work.
 
-### Issue 7: Writing and Presentation Polish (Impact: +0.05)
+**Recommendation**: build `_dev/refresh_data.py` that pulls the named series from the
+BEA, BLS, and FRED APIs and emits a reconciliation report against what the book
+currently says. Then the annual refresh becomes a review of a diff rather than a manual
+audit. This is the single highest-leverage investment available for this project.
 
-- **Figure captions are too thin**: Many figures have minimal captions that don't convey the key insight. A figure caption should be self-sufficient — a reader skimming figures alone should understand the main point. This is especially important for print/PDF readiness.
+### 2. In-text attribution for empirical claims (Impact: +0.10)
 
-- **Tone inconsistency**: Some chapters (especially education and agriculture) shift between clinical data presentation and implicit advocacy. The healthcare and manufacturing chapters handle this better — they present dysfunction honestly without becoming polemical.
+Appendix E is a good bibliography of roughly 120 works, and chapter-level Further
+Reading is solid. But specific empirical claims in the text are rarely tied to the
+source that established them. The book asserts China shock job losses, mobility
+estimates, LCOE trajectories, and concentration ratios without pointing the reader to
+Autor–Dorn–Hanson, Chetty, Lazard, or the relevant Census/USDA series.
 
-- **Terminology inconsistency**: "Nonfarm payroll employment" vs. "nonfarm workers" used interchangeably in Chapter 1. "Fossil fuels" and specific fuel names used without organizational logic in the energy chapter.
+This does not require converting the book to author-date citation throughout. It
+requires attaching a source to the roughly 50–80 claims that are *contested or
+research-derived* rather than definitional. A reader who wants to check the strongest
+claims should be able to.
 
-- **Missing COVID context in early chapters**: Chapters 1-2 present 2023 data without noting that 2020-2022 were extraordinary. A brief note acknowledging the pandemic disruption would help readers interpret the numbers.
+### 3. Hedging density (Impact: +0.05)
+
+"Roughly" appears 302 times, 61 in Chapter 14 alone. Many are legitimate — pipeline
+mileage and installed capacity genuinely are approximate. But in a book that teaches
+data literacy, the hedge should signal real uncertainty rather than serve as verbal
+filler. A pass that replaces the hedge with the precise figure wherever an official
+series exists, and keeps it where the estimate is genuinely approximate, would sharpen
+the prose and reinforce the book's own methodological standard.
+
+### 4. Remaining coverage gaps (Impact: +0.05)
+
+- **Arts, entertainment, and recreation.** Hollywood, music, professional sports, and
+  gaming are economically significant and analytically interesting (winner-take-all
+  dynamics, extreme geographic concentration in LA/Nashville/NYC). Best folded into an
+  expanded Ch 17 rather than added as a standalone chapter.
+- **Early childhood education and care.** Ch 15 runs K-12 through graduate school and
+  barely mentions pre-K. The economics — market failure, subsidy structure, wage
+  suppression in care work — connect directly to Ch 30's treatment of female labor force
+  participation, which already gestures at it.
+- **Ch 11 platform economics.** The chapter has a platform economics section now, but it
+  remains the thinnest analytical treatment among the large sector chapters relative to
+  the sector's importance. Two-sided market pricing, the attention economy's measurement
+  problems, and the antitrust theories actually being litigated deserve more.
+
+### 5. Appendix C depth (Impact: +0.03)
+
+NAICS coverage is uneven — manufacturing gets 17 subsectors, healthcare 4. Four-digit
+codes are missing for finance, professional services, and information. There is still no
+guidance on classifying platform companies, which is the question a student is most
+likely to actually have (where does Amazon sit? Uber?).
 
 ---
 
 ## Chapter-by-Chapter Assessment
 
-| Part | Chapters | Score (/10) | Key Strength | Priority Fix |
-|------|----------|:-----------:|-------------|-------------|
-| **I: Shape** | Ch 1 (Economy in Numbers) | 8.5 | Powerful opening, strong data tables | Clarify real vs. nominal, fix healthcare footnote |
-| | Ch 2 (How It Fits Together) | 9.0 | Best analytical chapter; I-O framework + CHIPS Act case study excellent | Add practical I-O table guidance, explain multiplier heterogeneity |
-| | Ch 3 (Geography) | 7.5 | Good agglomeration discussion, LQ explanation | **Fix "five states = half GDP" error**, expand rural section |
-| | Interlude (Inequality) | 8.0 | Comprehensive coverage, good Piketty/Saez data | Separate wage vs. capital income inequality, label gender gap as unadjusted |
-| **II: Sectors** | Ch 4 (Government) | 8.5 | Clear multi-level government framework | Add state/local fiscal stress analysis |
-| | Ch 5 (Real Estate) | 8.0 | Good housing market mechanics | Expand on zoning constraints and housing supply |
-| | Ch 6 (Healthcare) | 9.0 | Outstanding — system dysfunction honestly described | Minor: quantify administrative spending more precisely |
-| | Ch 7 (Professional Services) | 8.0 | Good industry breakdown | Add more on consulting/advisory sector dynamics |
-| | Ch 8 (Finance & Insurance) | 8.5 | Hierarchy of money is excellent | Expand on shadow banking and fintech |
-| | Ch 9 (Manufacturing) | 9.0 | China shock treatment is balanced and thorough | Minor polish only |
-| | Ch 10 (Retail & Wholesale) | 8.0 | Good e-commerce evolution coverage | Add more on warehouse/fulfillment economics |
-| | Ch 11 (Tech & Media) | 7.5 | Good sector overview | Needs deeper platform economics, AI treatment |
-| | Ch 12 (Transportation) | 8.5 | Comprehensive multimodal coverage | Minor: expand EV/autonomous vehicle implications |
-| | Ch 13 (Construction) | 8.0 | Good supercycle analysis | Add more on labor shortages and productivity puzzle |
-| | Ch 14 (Energy) | 7.5 | Good transformation narrative | **Add electricity generation breakdown table**, expand renewables economics |
-| | Ch 15 (Education) | 7.5 | Excellent structural clarity (13,000 districts) | Add student debt analysis, K-12 outcomes data |
-| | Ch 16 (Agriculture) | 8.0 | Outstanding concentration data, good firm profiles | Add environmental externalities, deepen subsidy analysis |
-| | Ch 17 (Hospitality) | 8.0 | Strong opening (April 2020), good restaurant economics | Expand pandemic recovery analysis, add labor rights coverage |
-| **III: Finance** | Ch 18 (How Finance Works) | 9.5 | Best chapter in the book — sophisticated yet accessible | Essentially complete |
-| | Ch 19 (Capital Markets) | 8.5 | Clear market structure explanation | Add more on private markets growth |
-| | Ch 20 (Corporate Finance) | 8.5 | Good practical emphasis | Add more on PE/VC's structural economic effects |
-| **IV: Trade** | Ch 21 (Trade) | 8.0 | Good policy evolution coverage | Expand services trade, add more on tariff economics |
-| | Ch 22 (Supply Chains) | 8.5 | Strong post-COVID analysis | Minor: expand reshoring evidence |
-| **V: Regional** | Ch 23 (Northeast) | 8.5 | Integrated mega-region concept excellent | Add competitive comparison with Sunbelt |
-| | Ch 24 (Sunbelt) | 8.0 | Good growth/limits framework | Distinguish extensive vs. intensive growth more clearly |
-| | Ch 25 (Midwest) | 8.0 | Honest about manufacturing paradox | Expand on whether Battery Belt jobs match old manufacturing wages |
-| | Ch 26 (West) | 8.5 | California analysis is excellent | Expand outmigration analysis, VC ecosystem |
-| | Ch 27 (Rural) | 8.0 | Good typology, honest about challenges | Expand solutions discussion, add wage/cost-of-living analysis |
-| **VI: Institutions** | Ch 28 (Federal Governance) | 7.5 | Clear institutional architecture | Move from description to analysis of institutional effectiveness |
-| | Ch 29 (Trade Associations) | 8.0 | Good K Street coverage | Add more on how association positions form |
-| | Ch 30 (Labor) | 7.5 | Good UAW opening, strong union data | Expand immigration, non-competes, childcare/labor supply link |
-| **VII: Conclusion** | Ch 31 (Perspective) | 8.5 | Vibecession concept effective, comparison table strong | Expand demographic analysis, AI implications |
-| | Ch 32 (Shock Transmission) | 9.0 | Masterful synthesis chapter, four-channel framework excellent | Add shock combinations, international shock transmission |
-| **Appendices** | A-D | 7.5 | Useful for data literacy | Add publication calendar, fix missing glossary terms, expand NAICS detail |
-
----
-
-## Top 10 Priorities to Reach 9.5
-
-Ordered by impact — completing these would raise the score by approximately 1.3 points:
-
-| # | Action | Impact | Effort |
-|---|--------|--------|--------|
-| 1 | **Data audit**: Fix the Ch 3 "five states = half GDP" error, reconcile all cross-chapter statistics, standardize reference years, reduce "roughly/approximately" hedging | +0.4 | High |
-| 2 | **Deepen analytical sections**: Add "why it's structured this way" analysis to energy, education, agriculture, federal governance, and labor chapters | +0.3 | High |
-| 3 | **Integrate cross-cutting themes**: Add inequality, climate, demographics, and AI connection boxes to each sector chapter | +0.2 | Medium |
-| 4 | **Energy chapter overhaul**: Add electricity generation mix table, LCOE comparisons, grid modernization section, workforce transition data | +0.15 | Medium |
-| 5 | **Inequality interlude upgrade**: Separate wage vs. capital income analysis, add absolute vs. relative mobility distinction, quantify Charlotte mobility precisely | +0.1 | Low |
-| 6 | **Cross-references**: Add 5-10 "See also" references per chapter systematically | +0.05 | Low |
-| 7 | **Glossary expansion**: Add ~20 missing terms (FISIM, seasonal adjustment, chained dollars, offshoring, PBM, hedonic adjustment, etc.) | +0.05 | Low |
-| 8 | **Figure caption upgrade**: Make all captions self-sufficient with key insight described | +0.03 | Medium |
-| 9 | **Appendix improvements**: Add data publication calendar (Appendix A), growth rates (Appendix B), 4-digit codes (Appendix C) | +0.05 | Medium |
-| 10 | **Add utilities section** to energy chapter and expand platform economics in Ch 11 | +0.05 | Medium |
+| Part | Chapter | Score | Note |
+|------|---------|:-----:|------|
+| **I** | 1. Economy in Numbers | 9.0 | Nominal/real now explained; healthcare footnote fixed; CES sample corrected. |
+| | 2. How It Fits Together | 9.0 | Best analytical chapter in Part I. CHIPS case study excellent. |
+| | 3. Geography | 8.5 | "Five states" error fixed and internally consistent at 41%. |
+| | Interlude. Inequality | 8.5 | Wage vs. capital income now distinguished. Best-connected chapter in the book. |
+| **II** | 4. Government | 8.5 | Twelve well-sourced tables. Could use state/local fiscal stress. |
+| | 5. Real Estate | 8.5 | Housing mechanics strong; 2006-12 crisis section is a good addition. |
+| | 6. Healthcare | 9.0 | Outstanding. Years now attached to every share figure. |
+| | 7. Professional Services | 8.0 | Solid; consulting dynamics still thin. |
+| | 8. Finance & Insurance | 8.5 | Hierarchy of money excellent. Twelve tables now sourced. |
+| | 9. Manufacturing | 9.0 | China shock treatment balanced and thorough. Figures reconciled. |
+| | 10. Retail & Wholesale | 8.0 | Warehouse/fulfillment economics could go deeper. |
+| | 11. Tech & Media | 8.0 | Largest chapter in the book; analytical depth still trails its length. |
+| | 12. Transportation | 8.5 | Comprehensive multimodal coverage, 11 figures. |
+| | 13. Construction | 8.0 | Productivity puzzle deserves more. |
+| | 14. Energy | 9.0 | Transformed since March. Generation mix, LCOE, utilities, carbon pricing, environmental economics all present. Hedging density is its remaining flaw. |
+| | 15. Education | 8.5 | Student debt and K-12 outcomes now analyzed. Pre-K absent. |
+| | 16. Agriculture | 8.5 | Externalities section added. Concentration data outstanding. |
+| | 17. Leisure & Hospitality | 8.0 | Strong opening; arts/entertainment would fit here. |
+| **III** | 18. How Finance Works | 9.5 | Best chapter in the book. Essentially complete. |
+| | 19. Capital Markets | 8.5 | Clear market structure; private markets well covered. |
+| | 20. Corporate Finance | 8.5 | Eighteen tables, now all sourced. |
+| **IV** | 21. Trade | 8.5 | Services trade and tariff economics both present. |
+| | 22. Supply Chains | 8.5 | Strong post-COVID analysis. |
+| **V** | 23. Northeast | 8.5 | Mega-region concept excellent. |
+| | 24. Sunbelt | 8.5 | Extensive vs. intensive growth well drawn. |
+| | 25. Midwest | 8.0 | Honest about the manufacturing paradox. |
+| | 26. West | 8.5 | California analysis excellent; water treated as binding constraint. |
+| | 27. Rural | 8.0 | Good typology. Solutions discussion still thin. |
+| **VI** | 28. Federal Governance | 8.5 | No longer a reference document. Fragmentation analysis added this session. |
+| | 29. Trade Associations | 8.0 | Good K Street coverage. |
+| | 30. Labor | 8.5 | Monopsony, immigration, childcare all now covered. |
+| **VII** | 31. Perspective | 8.5 | GDP figure reconciled. Demographics still underweighted. |
+| | 32. Shock Transmission | 9.0 | Masterful synthesis. Four-channel framework excellent. |
+| **App.** | A–E | 8.8 | Publication calendar, references, corrected glossary. NAICS depth uneven. |
 
 ---
 
 ## Final Assessment
 
-This is an 8.2/10 textbook — which is genuinely excellent. The book's core strengths (institutional detail, systems thinking, consistent structure, clear writing, intellectual honesty) are distinctive and hard to replicate. The weaknesses are mostly about depth and precision rather than fundamental structural problems.
+At 8.9 this is a very good textbook with a distinctive contribution that no competing
+book makes. The architecture is settled, the analytical framework is coherent, the
+apparatus is now professional, and the chapters that were weak in March are no longer
+weak.
 
-The path to 9.5 is clear: tighten the data, push the analysis deeper, weave the cross-cutting themes through more consistently, and bring the appendices up to the standard set by the best chapters. The architecture is sound. The content is strong. The improvements needed are about raising the floor to match the ceiling — making every chapter as analytically rigorous as the finance and manufacturing chapters already are.
+The gap to 9.5 is not a content gap. It is a **maintenance** gap. A book that stakes its
+authority on institutional and numerical detail has to stay current, and the honest
+statement of the book's present condition is that its numbers describe 2023.
 
-| Category | Current (/10) | After Priority Fixes (/10) |
-|----------|:-------------:|:--------------------------:|
-| Scope and Coverage | 8.5 | 8.8 |
+The good news is that this session's table work makes the refresh tractable: every table
+now names its own source and year, so the currency problem is enumerable rather than
+diffuse. Building the refresh script and running the first pass is the work that moves
+this book to 9.5, and it converts an annual crisis into an annual chore.
+
+| Category | Current | After the data refresh + items 2–5 |
+|----------|:-------:|:----------------------------------:|
+| Scope and Coverage | 9.0 | 9.3 |
 | Writing Quality | 9.0 | 9.3 |
-| Data and Evidence | 7.5 | 9.0 |
-| Analytical Depth | 7.5 | 8.8 |
-| Pedagogical Design | 8.5 | 8.8 |
-| Cross-Chapter Integration | 7.5 | 9.0 |
-| Structure and Organization | 9.0 | 9.2 |
-| Appendices and Reference | 8.0 | 8.8 |
-| **Overall** | **8.2** | **~9.0** |
-
-The remaining 0.5 to reach 9.5 would come from: adding environmental economics coverage, expanding the tech/platform chapter, including demographic analysis, and a final editorial polish pass.
+| Data and Evidence | 8.8 | 9.7 |
+| Analytical Depth | 8.7 | 9.2 |
+| Pedagogical Design | 9.2 | 9.4 |
+| Cross-Chapter Integration | 9.2 | 9.3 |
+| Structure and Organization | 9.2 | 9.4 |
+| Appendices and Reference | 8.8 | 9.2 |
+| **Overall** | **8.9** | **~9.5** |

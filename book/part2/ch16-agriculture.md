@@ -27,6 +27,8 @@ Farm cash receipts---the gross revenue farmers receive for crops and livestock--
 
 ### Key Subsectors
 
+**Table 16.1: Agricultural Cash Receipts by Subsector (2023)**
+
 | Subsector | Cash Receipts (2023) | Share | Key States |
 |-----------|---------------------|-------|------------|
 | Cattle and calves | $93 billion | 18% | TX, KS, NE |
@@ -81,6 +83,8 @@ Federal payments to farmers totaled roughly $15-20 billion annually in recent ye
 
 Farm production expenses totaled $430 billion in 2023. The major cost categories:
 
+**Table 16.2: Farm Production Expenses by Category**
+
 | Cost Category | Amount | Share |
 |---------------|--------|-------|
 | Feed | $75 billion | 17% |
@@ -121,6 +125,8 @@ Hog production has followed a similar path. Smithfield Foods (owned by China's W
 
 The USDA counts 2 million farms, but this number is misleading. The vast majority of farms are small, and most agricultural output comes from a small number of large operations.
 
+**Table 16.3: Farm Size Distribution and Share of Output**
+
 | Farm Size (Annual Sales) | Number of Farms | Share of Farms | Share of Output |
 |--------------------------|-----------------|----------------|-----------------|
 | Less than $10,000 | 1,100,000 | 55% | 1% |
@@ -142,7 +148,7 @@ The 1.1 million farms with sales under $10,000 are mostly rural residences with 
 
 Agriculture is flanked by highly concentrated industries on both sides---the firms that sell inputs to farmers and the firms that buy and process what farmers grow.
 
-**Grain Trading and Processing**
+**Table 16.4: Grain Trading and Processing**
 
 | Company | Revenue | Headquarters | Key Business |
 |---------|---------|--------------|-------------|
@@ -155,7 +161,7 @@ Agriculture is flanked by highly concentrated industries on both sides---the fir
 
 These four firms---known as the "ABCD" traders (ADM, Bunge, Cargill, Louis Dreyfus)---dominate global grain flows. They buy from millions of farmers, store grain in elevators spanning the Midwest, and sell to buyers worldwide.
 
-**Meat Processing**
+**Table 16.5: Meat Processing**
 
 | Company | Revenue | Headquarters | Key Business |
 |---------|---------|--------------|-------------|
@@ -173,7 +179,7 @@ These four firms---known as the "ABCD" traders (ADM, Bunge, Cargill, Louis Dreyf
 Four companies---Tyson, JBS, Cargill, and National Beef---control over 80% of U.S. beef slaughter. Similar concentration exists in pork (70% by top four) and poultry (54% by top four). This concentration gives packers outsized bargaining power over both the ranchers who sell them cattle and the consumers who buy the finished product. During the 2020-2021 period, meatpacker margins surged while cattle ranchers saw little benefit from rising retail prices.
 {% endhint %}
 
-**Farm Inputs**
+**Table 16.6: Farm Inputs**
 
 | Company | Revenue | Headquarters | Key Business |
 |---------|---------|--------------|-------------|
@@ -247,6 +253,8 @@ Meatpacking plants employ 500,000 workers in some of the most physically demandi
 
 ### Key Occupations
 
+**Table 16.7: Key Agricultural Occupations**
+
 | Occupation | Employment | Median Wage |
 |------------|------------|-------------|
 | Farmers, ranchers, farm managers | 970,000 | Varies widely |
@@ -284,6 +292,8 @@ Regulates food safety for all products except meat and poultry (which fall under
 
 The Farm Bill is less a single policy than a massive legislative package bundling disparate programs. Its major titles:
 
+**Table 16.8: Farm Bill Spending by Title**
+
 | Title | Spending (5-year est.) | Share |
 |-------|----------------------|-------|
 | Nutrition (SNAP) | $340 billion | 76% |
@@ -308,6 +318,8 @@ Federal agricultural subsidies---including commodity payments, crop insurance pr
 ## Trade Associations and Lobbying
 
 ### Major Trade Associations
+
+**Table 16.9: Major Agricultural Trade Associations**
 
 | Association | Members | Focus |
 |-------------|---------|-------|
@@ -468,6 +480,16 @@ Tyson has faced recurring controversies: antitrust investigations into price-fix
 6. **Technology is transforming farming faster than the public realizes.** Precision agriculture, GPS-guided equipment, data analytics, and genetic technology have made farming a high-tech industry---and have raised new questions about data ownership, equipment repair, and the relationship between farmers and technology companies.
 
 7. **The agricultural workforce depends heavily on immigrant labor.** From field crops to meatpacking, immigrant workers---both authorized and unauthorized---perform much of the physical labor in American food production. The H-2A visa program has grown dramatically but remains contentious.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 27 (Rural America)](../part5/ch27-rural.md) is where farming happens, and where consolidation has hollowed out the surrounding communities.
+- [Chapter 21 (Trade)](../part4/ch21-trade.md) covers agricultural exports, which absorb a large share of U.S. output and drive farm income.
+- [Chapter 14 (Energy)](ch14-energy.md) supplies the fertilizer and fuel that dominate the cost structure described here.
+- [Chapter 12 (Transportation)](ch12-transportation.md) moves the crop: grain moves by rail and barge, and basis prices track freight rates.
+- [Chapter 10 (Retail and Wholesale)](ch10-retail-wholesale.md) is the buyer, and concentration in food retail shapes what farmers receive.
 
 ## Data Sources and Further Reading
 

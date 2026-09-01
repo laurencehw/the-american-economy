@@ -73,3 +73,6 @@ tmpclaude-*
 book/_figures/**/*.py
 book/_figures/**/*.csv
 book/_figures/**/data/
+
+# Cached API responses from _dev/refresh_data.py
+_dev/.cache/

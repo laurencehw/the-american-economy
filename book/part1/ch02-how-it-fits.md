@@ -20,6 +20,8 @@ An input-output table is a matrix. Each row shows what an industry sells---to ot
 
 Consider a simplified example:
 
+**Table 2.1: A Simplified Input-Output Table**
+
 |  | Agriculture | Manufacturing | Services | Final Demand | Total Output |
 |---|------------|---------------|----------|--------------|--------------|
 | **Agriculture** | 10 | 30 | 5 | 55 | 100 |
@@ -27,6 +29,8 @@ Consider a simplified example:
 | **Services** | 15 | 40 | 30 | 215 | 300 |
 | **Value Added** | 55 | 180 | 225 | - | 460 |
 | **Total Input** | 100 | 300 | 300 | 460 | - |
+
+*Source: Illustrative, following the structure of the BEA Input-Output Accounts. Figures are stylized, not measured.*
 
 <figure>
 <img src="../_figures/ch02/ch02_io_simplified_flow.png" alt="Diagram showing how industries purchase inputs from each other through supply chains" style="width: 100%; max-width: 800px;">
@@ -158,12 +162,16 @@ The Federal Reserve adopted Copeland's framework, creating what are now called t
 
 At any moment, the Z.1 accounts show the accumulated stocks:
 
+**Table 2.2: Sectoral Balance Sheets (Financial Accounts)**
+
 | Sector | Assets | Liabilities | Net Worth |
 |--------|--------|-------------|-----------|
 | Households | roughly $175 trillion | roughly $20 trillion | roughly $155 trillion |
 | Nonfinancial Business | roughly $55 trillion | roughly $35 trillion | roughly $20 trillion |
 | Federal Government | roughly $5 trillion | roughly $35 trillion | -$30 trillion |
 | Financial Sector | roughly $130 trillion | roughly $125 trillion | roughly $5 trillion |
+
+*Source: Federal Reserve, Financial Accounts of the United States (Z.1), 2024*
 
 Household net worth---about $155 trillion---is the most important number for financial stability. When asset prices rise, households feel wealthier and spend more (the "wealth effect"). When prices crash, as in 2008, consumption collapses.
 
@@ -256,6 +264,8 @@ Input-output tables track industry-to-industry transactions. But ultimately, the
 
 American households spend about $18 trillion annually. The breakdown reveals priorities:
 
+**Table 2.3: Household Consumption by Category**
+
 | Category | Share | Annual Amount |
 |----------|-------|---------------|
 | Housing | 33% | $5.9 trillion |
@@ -265,6 +275,8 @@ American households spend about $18 trillion annually. The breakdown reveals pri
 | Healthcare | 8% | $1.4 trillion |
 | Entertainment | 5% | $0.9 trillion |
 | Other | 12% | $2.2 trillion |
+
+*Source: BLS, Consumer Expenditure Survey, 2023*
 
 <figure>
 <img src="../_figures/ch02/ch02_consumer_expenditure_treemap.png" alt="Treemap of U.S. consumer spending with housing, transportation, and food as largest categories" style="width: 100%; max-width: 800px;">
@@ -415,6 +427,16 @@ The oil shock (2014-2016) and the CHIPS boom (2022-2025) illustrate the same I-O
 6. **Households spend mostly on services.** Housing, transportation, food, and healthcare dominate budgets. The shift toward services has transformed the economy.
 
 7. **Critical infrastructure creates systemic risk.** Energy, finance, transportation, and telecommunications are nodes whose failure cascades through everything.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 1 (The American Economy in Numbers)](ch01-economy-in-numbers.md) supplies the sector sizes that the input-output framework here connects.
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) applies this chapter's propagation logic to real shocks, tracing the 2014-16 oil collapse through the same linkages.
+- [Chapter 18 (How American Finance Works)](../part3/ch18-how-finance-works.md) explains the financial plumbing behind the flow-of-funds accounts introduced here.
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) extends the value-chain analysis across borders, where the same logic produces very different vulnerabilities.
+- [Chapter 9 (Manufacturing)](../part2/ch09-manufacturing.md) is where the CHIPS Act case study's demand shock actually lands.
 
 ## Data Sources and Further Reading
 

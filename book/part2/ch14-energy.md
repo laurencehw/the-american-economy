@@ -24,7 +24,7 @@ The sector is also unusually capital-intensive. A single nuclear plant costs $20
 
 Electricity is unique among commodities: it cannot be economically stored at scale (yet), so supply must match demand instantaneously. This physical constraint shapes everything about how the industry operates.
 
-**Generation** (4,178 TWh in 2024):
+**Table 14.1: U.S. Electricity Generation by Source (2024, 4,178 TWh)**
 
 | Source | Share (2024) | Trend |
 |--------|--------------|-------|
@@ -64,13 +64,15 @@ Limited transmission between these interconnections constrains the ability to ba
 
 **Distribution** delivers power from substations to end users over lower-voltage lines. Distribution utilities---often the same companies that own transmission---maintain local networks and handle customer billing.
 
-**Retail Sales** ($450 billion):
+**Table 14.2: Retail Electricity Sales by Customer Class ($450 billion)**
 
 | Customer Class | Share of Sales | Share of Revenue |
 |----------------|----------------|------------------|
 | Residential | 38% | 44% |
 | Commercial | 36% | 35% |
 | Industrial | 26% | 21% |
+
+*Source: EIA, Electric Power Annual, 2023*
 
 Residential customers pay the highest rates (16.1 cents/kWh national average in 2024); industrial customers the lowest (8.4 cents/kWh) due to volume and load characteristics.
 
@@ -152,6 +154,8 @@ The Inflation Reduction Act (2022) provides 10-year tax credits for wind, solar,
 
 The economics of electricity generation have transformed in a single decade. Levelized cost of energy (LCOE)---the all-in cost per megawatt-hour over a plant's lifetime---tells the story:
 
+**Table 14.3: Levelized Cost of Energy by Source**
+
 | Source | LCOE (2024, $/MWh) | LCOE (2010, $/MWh) | Change |
 |--------|---------------------|---------------------|--------|
 | Utility-scale solar | $30-40 | $350+ | -90% |
@@ -202,7 +206,7 @@ The electric utility industry is fragmented but consolidating:
 - Formed in 1930s-40s to electrify rural America
 - National Rural Electric Cooperative Association represents the sector
 
-**Largest US Electric Utilities** (by retail sales):
+**Table 14.4: Largest U.S. Electric Utilities**
 
 | Rank | Utility | Customers | States | Type |
 |------|---------|-----------|--------|------|
@@ -220,6 +224,8 @@ The electric utility industry is fragmented but consolidating:
 
 In restructured markets, ISOs/RTOs operate wholesale markets and manage the grid:
 
+**Table 14.5: Independent System Operators and Regional Transmission Organizations**
+
 | ISO/RTO | Region | Load (TWh) | States |
 |---------|--------|------------|--------|
 | PJM | Mid-Atlantic | 800 | PA, NJ, MD, VA, OH, etc. |
@@ -230,18 +236,22 @@ In restructured markets, ISOs/RTOs operate wholesale markets and manage the grid
 | CAISO | California | 230 | CA |
 | SPP | Great Plains | 250 | KS, OK, NE, etc. |
 
+*Source: ISO/RTO annual reports and EIA electricity data, 2024*
+
 ISOs run day-ahead and real-time energy markets using **locational marginal pricing (LMP)**: prices vary by location based on generation costs and transmission constraints. They also run capacity markets (to ensure adequate generation) and ancillary service markets (for grid stability).
 
 ### Oil and Gas Companies
 
-**Integrated Majors** (upstream, midstream, and downstream):
+**Table 14.6: Integrated Oil and Gas Majors**
 
 | Company | Market Cap | US Production | Focus |
 |---------|------------|---------------|-------|
 | ExxonMobil | $450B | 3.8M boe/day | Global integrated |
 | Chevron | $280B | 3.0M boe/day | Global integrated |
 
-**Large Independents** (primarily upstream):
+*Source: Company annual reports (Form 10-K), 2024*
+
+**Table 14.7: Large Independent Oil and Gas Producers**
 
 | Company | Market Cap | US Production | Focus |
 |---------|------------|---------------|-------|
@@ -255,7 +265,7 @@ ISOs run day-ahead and real-time energy markets using **locational marginal pric
 
 The Permian Basin has driven consolidation: ExxonMobil acquired Pioneer ($60B, 2024); Chevron acquired PDC Energy and attempted Hess; Occidental acquired Anadarko (2019).
 
-**Oilfield Services** (equipment, drilling, completion):
+**Table 14.8: Largest Oilfield Services Firms**
 
 | Company | Revenue | Business |
 |---------|---------|----------|
@@ -263,9 +273,11 @@ The Permian Basin has driven consolidation: ExxonMobil acquired Pioneer ($60B, 2
 | Halliburton | $23B | Completion, production |
 | Baker Hughes | $27B | Equipment, digital |
 
+*Source: Company annual reports (Form 10-K), 2023*
+
 ### Renewable Developers
 
-**Leading US Renewable Developers**:
+**Table 14.9: Leading U.S. Renewable Developers**
 
 | Company | Capacity | Business Model |
 |---------|----------|----------------|
@@ -274,6 +286,8 @@ The Permian Basin has driven consolidation: ExxonMobil acquired Pioneer ($60B, 2
 | AES Clean Energy | 12 GW | Independent developer |
 | Invenergy | 10 GW | Private, wind/solar/storage |
 | Clearway Energy | 8 GW | Public yieldco |
+
+*Source: Company reports and American Clean Power Association project data, 2024*
 
 NextEra is the dominant player, having built more wind and solar than any other company. Its utility subsidiary (Florida Power & Light) provides stable cash flows to fund renewable development.
 
@@ -344,6 +358,8 @@ Transmission constraints limit the ability to move cheap renewable power (from w
 
 ### Employment by Segment
 
+**Table 14.10: Energy Employment by Segment**
+
 | Segment | Employment | Avg Wage | Trend |
 |---------|------------|----------|-------|
 | Oil and gas extraction | 150,000 | $100,000 | Cyclical |
@@ -354,6 +370,8 @@ Transmission constraints limit the ability to move cheap renewable power (from w
 | Pipeline transportation | 50,000 | $85,000 | Stable |
 | Solar installation | 250,000 | $50,000 | Growing rapidly |
 | Wind technicians | 15,000 | $60,000 | Growing |
+
+*Source: Department of Energy, U.S. Energy and Employment Report 2024; BLS Occupational Employment and Wage Statistics*
 
 **Total direct energy employment**: roughly 1.3 million
 **Including indirect/induced**: roughly 3 million
@@ -433,6 +451,8 @@ State PUCs have enormous power over utility decisions. A PUC that denies cost re
 
 ### Major Trade Associations
 
+**Table 14.11: Major Energy Trade Associations**
+
 | Association | Members | Focus |
 |-------------|---------|-------|
 | Edison Electric Institute (EEI) | Investor-owned utilities | Utility industry interests |
@@ -442,6 +462,8 @@ State PUCs have enormous power over utility decisions. A PUC that denies cost re
 | Solar Energy Industries Association | Solar companies | Solar policy |
 | Nuclear Energy Institute | Nuclear operators | Nuclear power |
 | National Rural Electric Cooperative Association | Electric co-ops | Rural electric interests |
+
+*Source: Association public disclosures (IRS Form 990) and OpenSecrets lobbying data*
 
 ### Lobbying Activity
 
@@ -612,6 +634,8 @@ Two mechanisms exist for pricing carbon:
 
 The contrast with peer economies is stark:
 
+**Table 14.12: Carbon Prices in Selected Jurisdictions (2024)**
+
 | Jurisdiction | Mechanism | Price/ton CO2 (2024) | Coverage |
 |-------------|-----------|---------------------|----------|
 | EU ETS | Cap-and-trade | $50-100 | Power, industry, aviation |
@@ -619,6 +643,8 @@ The contrast with peer economies is stark:
 | California | Cap-and-trade | $30-40 | ~80% of state emissions |
 | RGGI (Northeast) | Cap-and-trade | $10-15 | Power sector only |
 | US federal | None (tax credits via IRA) | N/A | N/A |
+
+*Source: World Bank, State and Trends of Carbon Pricing 2024*
 
 The **EU Emissions Trading System** prices carbon high enough to drive real changes in power generation and industrial processes. **Canada** has implemented a national carbon tax with a scheduled escalation to $135/ton by 2030---a price designed to make fossil fuels progressively uncompetitive. The US has instead opted for the **Inflation Reduction Act's** approach: tax credits and subsidies rather than explicit pricing. This is economically less efficient---subsidies cost the Treasury revenue while a carbon price raises it---but proved politically achievable where pricing could not. The IRA's production tax credit for wind (roughly $26/MWh) and investment tax credit for solar (30%) function as implicit subsidies for low-carbon generation rather than penalties on high-carbon generation.
 
@@ -832,6 +858,16 @@ Duke illustrates the tensions facing traditional utilities: pressure to decarbon
 4. **The sector is capital-intensive and geographically fixed**: Multi-billion-dollar plants, pipelines, and refineries create long asset lives and path dependence---and concentrate wealth and risk in specific regions (Gulf Coast, Permian, Appalachia).
 
 5. **Energy policy is climate policy**: Transportation (29% of U.S. greenhouse gas emissions) and electricity are the decarbonization frontiers; the IRA represents the largest deliberate energy investment shift in American history.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 32 (How Shocks Move Through the Economy)](../part7/ch32-shock-transmission.md) traces the 2014-16 oil shock analyzed here through the rest of the economy.
+- [Chapter 9 (Manufacturing)](ch09-manufacturing.md) is the largest industrial consumer, and the sector most exposed to electricity prices.
+- [Chapter 22 (Supply Chains)](../part4/ch22-supply-chains.md) covers the critical-minerals supply chains that the energy transition depends on.
+- [Chapter 16 (Agriculture)](ch16-agriculture.md) is both a large energy consumer (fertilizer, diesel) and an energy producer (ethanol, wind leases).
+- [Chapter 27 (Rural America)](../part5/ch27-rural.md) is where extraction, generation, and transmission physically sit, and where the transition's costs concentrate.
 
 ## Data Sources and Further Reading
 

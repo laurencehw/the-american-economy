@@ -8,6 +8,8 @@ This concentration determines policy, politics, and opportunity. Where you live 
 
 ### Economic Giants
 
+**Table 3.1: The Largest State Economies (2023)**
+
 | State | GDP (2023) | Share of U.S. | Population |
 |-------|-----------|---------------|------------|
 | California | $3.83 trillion | 13.8% | 39.0 million |
@@ -79,6 +81,8 @@ Economic activity concentrates in metropolitan areas---urban cores plus surround
 {% endhint %}
 
 At the top, concentration is extreme:
+
+**Table 3.2: The Largest Metropolitan Economies (2023)**
 
 | Metro Area | GDP (2023) | Notable Industries |
 |------------|-----------|-------------------|
@@ -289,6 +293,16 @@ Economic policy debates---over trade, immigration, climate, taxation---often pit
 5. **Housing costs constrain mobility.** Workers can't easily move to productive places when housing is unaffordable. This reduces national productivity and opportunity.
 
 6. **Geography shapes politics.** The divergence between prosperous metros and struggling hinterlands maps onto partisan divisions and policy debates.
+
+## Connections
+
+Where this chapter's material meets the rest of the book:
+
+- [Chapter 27 (Rural America)](../part5/ch27-rural.md) takes the rural end of the urban-rural gradient sketched here and gives it a typology.
+- [Chapter 23 (The Northeast Corridor)](../part5/ch23-northeast.md) through Chapter 27 work through each region the location quotients in this chapter identify.
+- [Chapter 5 (Real Estate)](../part2/ch05-real-estate.md) explains why housing costs---the main brake on migration to high-productivity metros---behave the way they do.
+- [the Interlude on inequality](interlude-inequality.md) connects geographic concentration to the mobility data: where you grow up shapes what you earn.
+- [Chapter 11 (Tech and Media)](../part2/ch11-tech-media.md) shows agglomeration at its most extreme, in an industry that could in principle locate anywhere.
 
 ## Data Sources and Further Reading
 
