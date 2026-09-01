@@ -96,7 +96,7 @@ The US legal services market ($370 billion) is the world's largest, reflecting b
 | 4 | Baker McKenzie | $3.4B | 4,700 | $1.6M |
 | 5 | Skadden | $3.3B | 1,700 | $5.2M |
 
-*PPP = Profits Per Partner. Source: American Lawyer*
+*Source: The American Lawyer, Am Law 100, 2023. PPP = profits per partner.*
 
 {% hint style="info" %}
 **Key Metric: Profits Per Partner (PPP)**

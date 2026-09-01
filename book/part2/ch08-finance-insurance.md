@@ -89,6 +89,8 @@ The US banking system is simultaneously concentrated and fragmented:
 | 3 | Citigroup | $2.4 trillion | $1.3T | 650 |
 | 4 | Wells Fargo | $1.9 trillion | $1.4T | 4,600 |
 
+*Source: FDIC, Statistics on Depository Institutions, 2024*
+
 <figure>
 <img src="../_figures/ch08/ch08_top_banks.png" alt="Big Four banks by total assets with JPMorgan Chase approaching $4 trillion" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 8.2: The Big Four banks by total assets. JPMorgan Chase dominates, with assets exceeding $4 trillion. Source: FDIC (2024)</figcaption>
@@ -156,6 +158,8 @@ The traditional "bulge bracket" (Goldman, Morgan Stanley, JPMorgan, Bank of Amer
 | 3 | CVS/Aetna | $130B | 35M |
 | 4 | Cigna | $120B | 20M |
 | 5 | Humana | $100B | 20M |
+
+*Source: National Association of Insurance Commissioners and company data, 2023*
 
 <figure>
 <img src="../_figures/ch08/ch08_insurance_premiums.png" alt="Insurance premiums by segment: health insurance dominates, followed by life and property/casualty" style="width: 100%; max-width: 800px;">

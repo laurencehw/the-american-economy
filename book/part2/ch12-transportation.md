@@ -67,6 +67,8 @@ The trucking industry divides into distinct segments:
 | 7 | Schneider | $5.5B | TL/Intermodal |
 | 8 | Werner | $3.0B | Truckload |
 
+*Source: Company annual reports (Form 10-K), 2023*
+
 <figure>
 <img src="../_figures/ch12/ch12_top_trucking.png" alt="Largest U.S. trucking companies by revenue: UPS, FedEx Freight, and XPO Logistics" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 12.3: Top trucking companies by revenue. UPS and FedEx dwarf traditional carriers because their integrated parcel networks capture e-commerce growth, while pure trucking firms compete in a fragmented, low-margin industry plagued by chronic driver shortages. Source: Company data (2023)</figcaption>
@@ -186,6 +188,8 @@ America's seaports are the gateways for international trade. Container ports han
 | Savannah | 5.9 million | Asia, Atlantic |
 | Houston | 4.0 million | Latin America, Gulf |
 
+*Source: American Association of Port Authorities, container traffic statistics, 2023*
+
 <figure>
 <img src="../_figures/ch12/ch12_top_ports.png" alt="Top U.S. container ports by TEU: Los Angeles, Long Beach, and New York-New Jersey" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 12.8: Top U.S. container ports by TEUs. Los Angeles-Long Beach dominates trans-Pacific trade; Savannah has gained share since the 2021 congestion crisis. Source: AAPA (2023)</figcaption>
@@ -295,6 +299,8 @@ The late 1970s and early 1980s brought revolutionary changes to transportation r
 | Airlines for America (A4A) | Major airlines | Aviation policy, slots, taxes |
 | American Association of Port Authorities | Seaports | Port development, dredging |
 | Transportation Intermediaries Association | Freight brokers | Broker regulation |
+
+*Source: Association public disclosures (IRS Form 990) and association websites*
 
 The trucking lobby is particularly influential in state legislatures, fighting fuel taxes and defending against rail competition. The railroad lobby focuses on federal policy, including preserving the Staggers Act framework and limiting re-regulation. Airlines lobby intensively on slot allocation, international routes, and consumer protection rules.
 

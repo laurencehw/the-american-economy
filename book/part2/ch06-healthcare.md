@@ -45,7 +45,7 @@ The healthcare sector divides into several distinct segments, each with its own 
 | Government administration | $65 billion | 1% |
 | Other | $1 trillion+ | 23% |
 
-Source: CMS National Health Expenditure Accounts
+*Source: CMS, National Health Expenditure Accounts, 2022*
 
 <figure>
 <img src="../_figures/ch06/ch06_spending_treemap.png" alt="Treemap of $4.5 trillion healthcare spending: hospitals, physicians, drugs, and administration" style="width: 100%; max-width: 800px;">

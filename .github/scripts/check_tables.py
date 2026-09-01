@@ -7,9 +7,11 @@ Conventions enforced:
   - A caption of the form ``**Table N.M: Title**`` sits above the table,
     separated from it by a blank line. N is the chapter number, the Interlude
     uses ``I``, and appendices use their letter (A, B, C, ...).
-  - A line beginning with ``*Source:`` follows within three lines of the table.
-    Illustrative tables satisfy this with "Author's schematic" or similar
-    wording; see book/how-to-use.md for the convention.
+  - An attribution line follows within three lines of the table: either
+    ``*Source: ...*`` or, for a table that illustrates a mechanism rather than
+    reporting measured data, ``*Author's schematic*`` or ``*Illustrative...*``.
+    It must be the whole line -- prose that merely mentions a source does not
+    count. See book/how-to-use.md for the convention.
 """
 import os
 import re
@@ -18,7 +20,14 @@ import sys
 BOOK_DIR = "book"
 SEPARATOR = re.compile(r'^\|[ :|-]+\|\s*$')
 CAPTION = re.compile(r'^\*\*Table ([0-9A-Z]+)\.(\d+):\s*.+\*\*\s*$')
-ATTRIBUTION = re.compile(r'(?i)source|illustrative|schematic|author')
+# An attribution must be a declaration line of its own, not any nearby prose
+# that happens to contain the word. Matching a bare substring let "Port
+# Authorities" satisfy the check, silently exempting several tables.
+ATTRIBUTION = re.compile(
+    r"^\*(?:Source|Sources|Note):\s*\S.*\*$"
+    r"|^\*(?:Illustrative|Author's (?:schematic|summary|compilation|synthesis))\b.*\*$",
+    re.IGNORECASE,
+)
 # Files whose numbering prefix cannot be inferred from the filename.
 PREFIX_OVERRIDES = {"interlude-inequality.md": "I"}
 
@@ -96,7 +105,7 @@ for root, dirs, files in os.walk(BOOK_DIR):
                         f"sequence, expected .{expected_number}"
                     )
 
-            if not ATTRIBUTION.search("\n".join(lines[end:end + 4])):
+            if not any(ATTRIBUTION.match(l.strip()) for l in lines[end:end + 4]):
                 errors.append(f"  {fpath}:{end} — table has no source line")
 
 print(f"Checked {checked} tables.")

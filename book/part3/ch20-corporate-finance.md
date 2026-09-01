@@ -140,6 +140,8 @@ Mergers and acquisitions represent the highest-profile activity in corporate fin
 | Financial sponsors (other) | 10% | Infrastructure, real assets |
 | SPAC/de-SPAC | 5% | Down from 20%+ in 2021 |
 
+*Source: LSEG (formerly Refinitiv) M&A league tables, 2024*
+
 <figure>
 <img src="../_figures/ch20/ch20_ma_activity.png" alt="M&A deal volume showing cyclical waves peaking in 2000, 2007, and 2021 during bull markets" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 20.2: U.S. M&A activity has been cyclical, with peaks in 2000, 2007, and 2021 corresponding to bull markets and cheap financing. Source: Refinitiv</figcaption>

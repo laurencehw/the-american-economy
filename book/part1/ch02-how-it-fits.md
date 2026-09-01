@@ -30,6 +30,8 @@ Consider a simplified example:
 | **Value Added** | 55 | 180 | 225 | - | 460 |
 | **Total Input** | 100 | 300 | 300 | 460 | - |
 
+*Source: Illustrative, following the structure of the BEA Input-Output Accounts. Figures are stylized, not measured.*
+
 <figure>
 <img src="../_figures/ch02/ch02_io_simplified_flow.png" alt="Diagram showing how industries purchase inputs from each other through supply chains" style="width: 100%; max-width: 800px;">
 <figcaption>Figure 2.1: A simplified representation of inter-industry flows. Every sector buys from and sells to other sectors; the economy is a network, not isolated silos. Source: BEA I-O Accounts</figcaption>
@@ -273,6 +275,8 @@ American households spend about $18 trillion annually. The breakdown reveals pri
 | Healthcare | 8% | $1.4 trillion |
 | Entertainment | 5% | $0.9 trillion |
 | Other | 12% | $2.2 trillion |
+
+*Source: BLS, Consumer Expenditure Survey, 2023*
 
 <figure>
 <img src="../_figures/ch02/ch02_consumer_expenditure_treemap.png" alt="Treemap of U.S. consumer spending with housing, transportation, and food as largest categories" style="width: 100%; max-width: 800px;">
